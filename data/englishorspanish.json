@@ -1,0 +1,24 @@
+{
+    "id": 107664933,
+    "name": "English Or Spanish",
+    "author": "Tonk",
+    "creators": ["Tonk"],
+    "verifier": "Tonk",
+    "verification": "https://youtu.be/IPlz9IN-oK8",
+    "percentToQualify": "100",
+    "password": "None",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
