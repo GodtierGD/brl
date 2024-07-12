@@ -1,0 +1,24 @@
+{
+    "id": 107659602,
+    "name": "Fanum Taxaclysm",
+    "author": "Pucky",
+    "creators": ["Pucky"],
+    "verifier": "Rednax",
+    "verification": "https://www.youtube.com/watch?v=sZnzAEU33M0",
+    "percentToQualify": "100",
+    "password": "None",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
