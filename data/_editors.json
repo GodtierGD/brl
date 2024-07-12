@@ -10,14 +10,19 @@
         "link": "https://www.youtube.com/@tonkorsmth"
     },
     {
+        "role": "admin",
+        "name": "Rednax",
+        "link": "https://www.youtube.com/@Real_Rednax"
+    },
+    {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": ""
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": ""
     },
     {
         "role": "dev",
