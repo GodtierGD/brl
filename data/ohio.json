@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "Rednax",
+            "link": "https://youtu.be/Dg4QZbCz1s8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
