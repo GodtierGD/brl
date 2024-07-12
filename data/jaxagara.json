@@ -9,10 +9,16 @@
     "password": "None",
     "records": [
         {
+            "user": "Rednax",
+            "link": "https://youtu.be/76iMwJKElM8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Godtier",
             "link": "https://www.youtube.com/watch?v=et3pkKU3yGQ",
             "percent": 100,
-            "hz": 60
+            "hz": 360
         },
         {
             "user": "Tonk",
