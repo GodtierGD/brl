@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "Pucky",
+            "link": "https://www.youtube.com/watch?v=LG7UROp6T4A",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
