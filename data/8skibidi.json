@@ -1,0 +1,18 @@
+{
+    "id": 107985959,
+    "name": "8 Jumps Of Skibidi",
+    "author": "ChatGPT",
+    "creators": ["ChatGPT"],
+    "verifier": "ChatGPT",
+    "verification": "https://youtu.be/oO86ypTaehs?si=b70VwJJL9McTY4Co",
+    "percentToQualify": "100",
+    "password": "None",
+    "records": [
+        {
+            "user": "Rednax",
+            "link": "https://www.youtube.com/watch?v=vOGhhq7tbBk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
