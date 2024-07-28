@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "Nameless1s",
+            "link": "https://www.youtube.com/watch?v=pNjBthogTy0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Rednax",
+            "link": "https://www.youtube.com/watch?v=vbEdja3wJ08",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "FirstChromosome",
+            "link": "https://youtu.be/2a7hibisnVQ",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
