@@ -1,0 +1,24 @@
+{
+    "id": 108336553,
+    "name": "Skibidi Kwail",
+    "author": "Nebermind",
+    "creators": ["Nebermind"],
+    "verifier": "FirstChromosome",
+    "verification": "https://youtu.be/CdIFYJ3Sy3k",
+    "percentToQualify": "100",
+    "password": "None",
+    "records": [
+        {
+            "user": "Rednax",
+            "link": "https://www.youtube.com/watch?v=1ZUEWDQOmds",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kwail",
+            "link": "https://www.youtube.com/watch?v=ZxpOeiQvUAI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
