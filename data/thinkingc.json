@@ -31,6 +31,18 @@
             "link": "https://www.youtube.com/watch?v=-_pzISRessE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "alekszzz",
+            "link": "https://www.youtube.com/watch?v=nEs5t71YNmM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Dihoverdude",
+            "link": "https://youtu.be/os0eLRsfZqc",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

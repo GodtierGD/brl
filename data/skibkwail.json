@@ -61,6 +61,24 @@
             "link": "https://www.youtube.com/watch?v=mcORyJxm5O8",
             "percent": 100,
             "hz": 999
+        },
+        {
+            "user": "Konderx",
+            "link": "https://youtu.be/p4ESDcfUZCY",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "zGytixss",
+            "link": "https://youtu.be/_hKMJ_-V3tc",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Classy",
+            "link": "https://www.youtube.com/watch?v=EPTYqV_hoa4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
