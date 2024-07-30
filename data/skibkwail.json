@@ -103,6 +103,12 @@
             "link": "https://youtu.be/T_EnuqZXzD8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Donkey Kong",
+            "link": "https://youtu.be/2JkGGEYxzAM?t=39s",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "KSol",
+            "link": "https://youtu.be/rN22SUbuN4E",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

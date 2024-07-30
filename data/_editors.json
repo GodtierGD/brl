@@ -30,14 +30,19 @@
         "link": "https://www.youtube.com/@xirai7348"
     },
     {
+        "role": "admin",
+        "name": "Bean",
+        "link": "https://www.youtube.com/channel/UCljH92yWvLaIdZJLuLJXE7A"
+    },
+    {
         "role": "helper",
-        "name": "None",
-        "link": ""
+        "name": "Kwail",
+        "link": "https://www.youtube.com/@KwailGD/videos"
     },
     {
         "role": "trial",
-        "name": "Kwail",
-        "link": "https://www.youtube.com/@KwailGD/videos"
+        "name": "None",
+        "link": ""
     },
     {
         "role": "dev",
