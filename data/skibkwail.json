@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=EPTYqV_hoa4",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "meowpanel.cc",
+            "link": "https://youtu.be/yY9Wr2n23VM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
