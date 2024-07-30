@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=tkG7waYHQBg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "MRedstone",
+            "link": "https://youtu.be/i5fAcw_wQrQ",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
