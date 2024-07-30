@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=iYlHOFrhSZk",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Lartum",
+            "link": "https://www.youtube.com/watch?v=6mVhr5_DUhQ",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
