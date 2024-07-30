@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "KrisYA",
+            "link": "https://youtu.be/FWwGJMRiAss",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
