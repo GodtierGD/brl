@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=QZbauxl4xd4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Whyrings",
+            "link": "https://www.youtube.com/watch?v=y0WDVeKYpV4",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

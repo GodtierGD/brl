@@ -1,0 +1,18 @@
+{
+    "id": 108429566,
+    "name": "The Brainrot Drink",
+    "author": "therealfive",
+    "creators": ["therealfive"],
+    "verifier": "K1TTYP",
+    "verification": "https://youtu.be/vvDVt71YBL0",
+    "percentToQualify": "100",
+    "password": "None",
+    "records": [
+        {
+            "user": "Tonk",
+            "link": "https://youtu.be/W2uWGLGclC0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
