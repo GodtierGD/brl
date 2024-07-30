@@ -8,11 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
-            {
+         {
             "user": "czila",
             "link": "https://youtu.be/6XwnyvUQyHM",
             "percent": 100,
             "hz": 240
-            }
+         }
     ]
 }
