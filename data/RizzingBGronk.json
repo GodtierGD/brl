@@ -13,6 +13,30 @@
             "link": "https://www.youtube.com/watch?v=EpAzUNqPSMI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "zGytixss",
+            "link": "https://youtu.be/imNhprEbbzo",
+            "percent": 100,
+            "hz": 0.3
+        },
+        {
+            "user": "MrRauLo",
+            "link": "https://www.youtube.com/watch?v=bE5RK5LT5iw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sippiecupgd",
+            "link": "https://www.youtube.com/watch?v=pcuu2liQ_Og",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Spoopy",
+            "link": "https://www.youtube.com/watch?v=iYlHOFrhSZk",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
