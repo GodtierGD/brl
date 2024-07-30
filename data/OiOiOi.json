@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "ozika",
+            "link": "https://www.youtube.com/watch?v=T25ZX-VAp1s",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
