@@ -229,6 +229,12 @@
             "link": "https://www.youtube.com/watch?v=kPmWmIa4HC8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Spoopy",
+            "link": "https://youtu.be/zcvDHJDHKSw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
