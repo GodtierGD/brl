@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "Rednax",
+            "link": "https://www.youtube.com/watch?v=pMy38QG9vcw&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Whyrings",
+            "link": "https://www.youtube.com/watch?v=eh1KYJoe8VI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "heolo",
+            "link": "https://youtu.be/IfkNpN8axcE",
+            "percent": 100,
+            "hz": 481
+        }
     ]
 }
