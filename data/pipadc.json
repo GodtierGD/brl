@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "Donkey Kong",
+            "link": "https://youtu.be/E6_LwqUuxo8",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
