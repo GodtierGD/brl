@@ -109,6 +109,18 @@
             "link": "https://youtu.be/2JkGGEYxzAM?t=39s",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Latrum",
+            "link": "https://www.youtube.com/watch?v=2t6BM_Q9dqc",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "czila",
+            "link": "https://youtu.be/miODPU2uy3Y",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
