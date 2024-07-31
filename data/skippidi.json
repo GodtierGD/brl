@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=gWO3XQxBOU4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "coffee cup",
+            "link": "https://youtu.be/LtwsUJ4R97c",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
