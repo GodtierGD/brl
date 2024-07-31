@@ -19,6 +19,18 @@
             "link": "https://youtu.be/FTgbUC2X654",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "coffee cup",
+            "link": "https://youtu.be/eC-i5LnIIRE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wakke",
+            "link": "https://youtu.be/16WXpWgDF3Q",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
