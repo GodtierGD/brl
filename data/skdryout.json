@@ -25,6 +25,18 @@
             "link": "https://www.youtube.com/watch?v=dqDPZ57N0Xo",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ThaAwesome",
+            "link": "https://youtu.be/rydcbxX4NlQ",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "coffee cup",
+            "link": "https://youtu.be/47CMK-KFRps",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
