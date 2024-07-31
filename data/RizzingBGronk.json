@@ -43,6 +43,18 @@
             "link": "https://www.youtube.com/watch?v=6mVhr5_DUhQ",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "minekosalami",
+            "link": "https://youtu.be/KqsdjzWqhMU?si=8mVC-Fn7huzIxyje",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Montrix",
+            "link": "https://youtu.be/C7K8JxuiU0I",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
