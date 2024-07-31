@@ -25,6 +25,24 @@
             "link": "https://youtu.be/XroQtGZtVxw?t=7s",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "heolo",
+            "link": "https://youtu.be/aLlMvd6OI6c",
+            "percent": 100,
+            "hz": 481
+        },
+        {
+            "user": "NojusGamingg",
+            "link": "https://www.youtube.com/watch?v=LVdWsRT5eIo&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DanilXGames",
+            "link": "https://youtu.be/GGoVJRGFj5Q",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
