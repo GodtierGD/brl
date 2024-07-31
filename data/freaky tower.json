@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "heolo",
+            "link": "https://youtu.be/T8tSqfJrGcs",
+            "percent": 100,
+            "hz": 481
+         },
+         {
+            "user": "czila",
+            "link": "https://youtu.be/YUhvZ466T2c",
+            "percent": 100,
+            "hz": 481
+         },
+         {
+            "user": "Nojusgamingg",
+            "link": "https://www.youtube.com/watch?v=kfXWJuvnhCU",
+            "percent": 100,
+            "hz": 144
+         }
     ]
 }

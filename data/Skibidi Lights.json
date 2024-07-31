@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=6Q6QQs6eJUA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Montrix",
+            "link": "https://youtu.be/mUu7_xXa1BI",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
