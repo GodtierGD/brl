@@ -151,6 +151,12 @@
             "link": "https://www.youtube.com/watch?v=L3c_S0KrqVc",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "wakke",
+            "link": "https://youtu.be/X1iIPbhJGdY",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
