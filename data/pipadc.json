@@ -13,6 +13,18 @@
             "link": "https://youtu.be/E6_LwqUuxo8",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Skyline0",
+            "link": "https://www.youtube.com/watch?v=MMKBEFsMOSE",
+            "percent": 100,
+            "hz": 0.01
+        },
+        {
+            "user": "czila",
+            "link": "https://youtu.be/moxlkqi5MOY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
