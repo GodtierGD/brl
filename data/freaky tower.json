@@ -1,36 +1,44 @@
 {
-    "id": 108453237,
-    "name": "freaky tower",
-    "author": "Bean",
-    "creators": ["Bean"],
-    "verifier": "Bean",
-    "verification": "https://youtu.be/sIpzl4zPdhI",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "heolo",
-            "link": "https://youtu.be/T8tSqfJrGcs",
-            "percent": 100,
-            "hz": 481
-         },
-         {
-            "user": "czila",
-            "link": "https://youtu.be/YUhvZ466T2c",
-            "percent": 100,
-            "hz": 481
-         },
-         {
-            "user": "Nojusgamingg",
-            "link": "https://www.youtube.com/watch?v=kfXWJuvnhCU",
-            "percent": 100,
-            "hz": 144
-         },
-         {
-            "user": "imhector66craftgd",
-            "link": "https://youtu.be/uNFO85Ad9QM",
-            "percent": 100,
-            "hz": 480
-        }
-    ]
+	"id": 108453237,
+	"name": "freaky tower",
+	"author": "Bean",
+	"creators": [
+		"Bean"
+	],
+	"verifier": "Bean",
+	"verification": "https://youtu.be/sIpzl4zPdhI",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/T8tSqfJrGcs",
+			"percent": 100,
+			"hz": 481
+		},
+		{
+			"user": "czila",
+			"link": "https://youtu.be/YUhvZ466T2c",
+			"percent": 100,
+			"hz": 481
+		},
+		{
+			"user": "Nojusgamingg",
+			"link": "https://www.youtube.com/watch?v=kfXWJuvnhCU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "imhector66craftgd",
+			"link": "https://youtu.be/uNFO85Ad9QM",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "DoYou",
+			"link": "https://youtu.be/JzorwNe0FVE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
