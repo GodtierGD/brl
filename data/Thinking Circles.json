@@ -67,6 +67,24 @@
             "link": "https://youtu.be/tbhFxlap_TY",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Gdyakob",
+            "link": "https://youtu.be/f2igYewaiXw?si=3h400j_jUS5eolUm",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NojusGamingg",
+            "link": "https://www.youtube.com/watch?v=eFZOg5Q5h-A",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "EminemProGamer",
+            "link": "https://www.youtube.com/watch?v=DlYISkgwC5E",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

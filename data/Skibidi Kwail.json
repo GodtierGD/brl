@@ -151,6 +151,12 @@
             "link": "https://www.youtube.com/watch?v=tgVJONlTIK0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "chimp",
+            "link": "https://www.youtube.com/watch?v=dKjGhshWD_k",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

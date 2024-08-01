@@ -175,6 +175,12 @@
             "link": "https://www.youtube.com/watch?v=wIRoxQPQh8Q",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Gdyakob",
+            "link": "https://youtu.be/2r-JRiV0YxU?si=XxzPOumtkwcHNSKX",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
