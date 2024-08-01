@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "None",
     "records": [
+        {
+            "user": "NojusGamingg",
+            "link": "https://www.youtube.com/watch?v=19n-CuuoErM",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
