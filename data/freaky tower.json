@@ -52,6 +52,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "alekszzz",
+			"link": "https://www.youtube.com/watch?v=Cug9SvAF_cs",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
