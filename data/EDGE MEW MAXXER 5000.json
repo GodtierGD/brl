@@ -1,12 +1,20 @@
 {
-    "id": 108448965,
-    "name": "EDGE MEW MAXXER 5000",
-    "author": "LuuksterZ",
-    "creators": ["LuuksterZ"],
-    "verifier": "imhector66craftgd",
-    "verification": "https://www.youtube.com/watch?v=_5M_IEU-p0U",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108448965,
+	"name": "EDGE MEW MAXXER 5000",
+	"author": "LuuksterZ",
+	"creators": [
+		"LuuksterZ"
+	],
+	"verifier": "imhector66craftgd",
+	"verification": "https://www.youtube.com/watch?v=_5M_IEU-p0U",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Nojusgamingg",
+			"link": "https://www.youtube.com/watch?v=J33ifxAdsnc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

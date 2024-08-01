@@ -1,30 +1,38 @@
 {
-    "id": 108454527,
-    "name": "i am not a furry",
-    "author": "joschi64xdgamin",
-    "creators": ["joschi64xdgamin"],
-    "verifier": "ofrqsh",
-    "verification": "https://www.youtube.com/watch?v=aZrLWB2Vy9M",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "classy",
-            "link": "https://youtu.be/LoOmUJLpxLQ",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "heolo",
-            "link": "https://youtu.be/LoOmUJLpxLQ",
-            "percent": 100,
-            "hz": 481
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=5w-EwPHZmuw",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+	"id": 108454527,
+	"name": "i am not a furry",
+	"author": "joschi64xdgamin",
+	"creators": [
+		"joschi64xdgamin"
+	],
+	"verifier": "ofrqsh",
+	"verification": "https://www.youtube.com/watch?v=aZrLWB2Vy9M",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "classy",
+			"link": "https://youtu.be/LoOmUJLpxLQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/LoOmUJLpxLQ",
+			"percent": 100,
+			"hz": 481
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=5w-EwPHZmuw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "zGytixss",
+			"link": "https://www.youtube.com/watch?v=jANmIbwRZpo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

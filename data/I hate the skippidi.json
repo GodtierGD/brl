@@ -1,24 +1,32 @@
 {
-    "id": 108363696,
-    "name": "I hate the skippidi",
-    "author": "noobking007",
-    "creators": ["noobking007"],
-    "verifier": "noobking007",
-    "verification": "https://youtu.be/ZfdDypY79Co?si=qsxT0ybpOzdNBq9n",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://www.youtube.com/watch?v=gWO3XQxBOU4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "coffee cup",
-            "link": "https://youtu.be/LtwsUJ4R97c",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 108363696,
+	"name": "I hate the skippidi",
+	"author": "noobking007",
+	"creators": [
+		"noobking007"
+	],
+	"verifier": "noobking007",
+	"verification": "https://youtu.be/ZfdDypY79Co?si=qsxT0ybpOzdNBq9n",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://www.youtube.com/watch?v=gWO3XQxBOU4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "coffee cup",
+			"link": "https://youtu.be/LtwsUJ4R97c",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nojusgamingg",
+			"link": "https://www.youtube.com/watch?v=tNecRS-oGeM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

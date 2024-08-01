@@ -1,90 +1,98 @@
 {
-    "id": 108337756,
-    "name": "Thinking Circles",
-    "author": "Ortho",
-    "creators": ["Ortho"],
-    "verifier": "Kwail",
-    "verification": "https://www.youtube.com/watch?v=tuT-pXwxMgA",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://www.youtube.com/watch?v=oVELoQSgF38",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "lemunzzzz",
-            "link": "https://youtu.be/fErfhVilahs",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Asobe",
-            "link": "https://youtu.be/Fbio7qGepP0",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Whyrings",
-            "link": "https://www.youtube.com/watch?v=-_pzISRessE",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "alekszzz",
-            "link": "https://www.youtube.com/watch?v=nEs5t71YNmM",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Dihoverdude",
-            "link": "https://youtu.be/os0eLRsfZqc",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "meowpanel.cc",
-            "link": "https://youtu.be/rQFiuyVflXM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "oFrqsh",
-            "link": "https://youtu.be/wF7N96o_zV8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "wakke",
-            "link": "https://youtu.be/2E5_qtc__dc",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "8trna",
-            "link": "https://youtu.be/tbhFxlap_TY",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Gdyakob",
-            "link": "https://youtu.be/f2igYewaiXw?si=3h400j_jUS5eolUm",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=eFZOg5Q5h-A",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "EminemProGamer",
-            "link": "https://www.youtube.com/watch?v=DlYISkgwC5E",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 108337756,
+	"name": "Thinking Circles",
+	"author": "Ortho",
+	"creators": [
+		"Ortho"
+	],
+	"verifier": "Kwail",
+	"verification": "https://www.youtube.com/watch?v=tuT-pXwxMgA",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://www.youtube.com/watch?v=oVELoQSgF38",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lemunzzzz",
+			"link": "https://youtu.be/fErfhVilahs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Asobe",
+			"link": "https://youtu.be/Fbio7qGepP0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=-_pzISRessE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "alekszzz",
+			"link": "https://www.youtube.com/watch?v=nEs5t71YNmM",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Dihoverdude",
+			"link": "https://youtu.be/os0eLRsfZqc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "meowpanel.cc",
+			"link": "https://youtu.be/rQFiuyVflXM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "oFrqsh",
+			"link": "https://youtu.be/wF7N96o_zV8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "wakke",
+			"link": "https://youtu.be/2E5_qtc__dc",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "8trna",
+			"link": "https://youtu.be/tbhFxlap_TY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Gdyakob",
+			"link": "https://youtu.be/f2igYewaiXw?si=3h400j_jUS5eolUm",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=eFZOg5Q5h-A",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "EminemProGamer",
+			"link": "https://www.youtube.com/watch?v=DlYISkgwC5E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "imhector66craftgd",
+			"link": "https://youtu.be/zGLuNnP8xFQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

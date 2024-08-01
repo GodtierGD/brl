@@ -1,126 +1,134 @@
 {
-    "id": 108452036,
-    "name": "Rizzing Baby Gronk",
-    "author": "tTonk",
-    "creators": ["tTonk"],
-    "verifier": "Tonk",
-    "verification": "https://youtu.be/XqSpyVdsR5o",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "czila",
-            "link": "https://www.youtube.com/watch?v=EpAzUNqPSMI",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "zGytixss",
-            "link": "https://youtu.be/imNhprEbbzo",
-            "percent": 100,
-            "hz": 0.3
-        },
-        {
-            "user": "MrRauLo",
-            "link": "https://www.youtube.com/watch?v=bE5RK5LT5iw",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Sippiecupgd",
-            "link": "https://www.youtube.com/watch?v=pcuu2liQ_Og",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Spoopy",
-            "link": "https://www.youtube.com/watch?v=iYlHOFrhSZk",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Lartum",
-            "link": "https://www.youtube.com/watch?v=6mVhr5_DUhQ",
-            "percent": 100,
-            "hz": 75
-        },
-        {
-            "user": "minekosalami",
-            "link": "https://youtu.be/KqsdjzWqhMU?si=8mVC-Fn7huzIxyje",
-            "percent": 100,
-            "hz": 90
-        },
-        {
-            "user": "Montrix",
-            "link": "https://youtu.be/C7K8JxuiU0I",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "heolo",
-            "link": "https://youtu.be/66tpwdBGKyg",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Henolis",
-            "link": "https://youtu.be/F9Nl3mUr0lQ",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Luukster123",
-            "link": "https://www.youtube.com/watch?v=t5KlAgrAS1g",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=tYYk0qDWReA",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Ozone",
-            "link": "https://youtu.be/dQkXHRK8Gbg?si=C00MvtQ2t41xXTIJ",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "ClayFuzzy",
-            "link": "https://youtu.be/x4l4acqwAp4?si=bu-KyIQgp5lc3eTo",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Gdyakob",
-            "link": "https://youtu.be/P7VFufDcDPI?si=LH6I6MefFmiS6cgb",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "skibid1gd",
-            "link": "https://www.youtube.com/watch?v=VrRTwEA51Aw",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Hamptonix",
-            "link": "https://www.youtube.com/watch?v=ztryqgXdS0Q",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "zFurious",
-            "link": "https://youtu.be/gqc2eMzBh1I?si=2e5K6sp2R7wwQl8j",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Specie",
-            "link": "https://youtube.com/watch?v=lZqrCgBZed8",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 108452036,
+	"name": "Rizzing Baby Gronk",
+	"author": "tTonk",
+	"creators": [
+		"tTonk"
+	],
+	"verifier": "Tonk",
+	"verification": "https://youtu.be/XqSpyVdsR5o",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "czila",
+			"link": "https://www.youtube.com/watch?v=EpAzUNqPSMI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "zGytixss",
+			"link": "https://youtu.be/imNhprEbbzo",
+			"percent": 100,
+			"hz": 0.3
+		},
+		{
+			"user": "MrRauLo",
+			"link": "https://www.youtube.com/watch?v=bE5RK5LT5iw",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Sippiecupgd",
+			"link": "https://www.youtube.com/watch?v=pcuu2liQ_Og",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Spoopy",
+			"link": "https://www.youtube.com/watch?v=iYlHOFrhSZk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lartum",
+			"link": "https://www.youtube.com/watch?v=6mVhr5_DUhQ",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "minekosalami",
+			"link": "https://youtu.be/KqsdjzWqhMU?si=8mVC-Fn7huzIxyje",
+			"percent": 100,
+			"hz": 90
+		},
+		{
+			"user": "Montrix",
+			"link": "https://youtu.be/C7K8JxuiU0I",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/66tpwdBGKyg",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Henolis",
+			"link": "https://youtu.be/F9Nl3mUr0lQ",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Luukster123",
+			"link": "https://www.youtube.com/watch?v=t5KlAgrAS1g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=tYYk0qDWReA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Ozone",
+			"link": "https://youtu.be/dQkXHRK8Gbg?si=C00MvtQ2t41xXTIJ",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "ClayFuzzy",
+			"link": "https://youtu.be/x4l4acqwAp4?si=bu-KyIQgp5lc3eTo",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Gdyakob",
+			"link": "https://youtu.be/P7VFufDcDPI?si=LH6I6MefFmiS6cgb",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "skibid1gd",
+			"link": "https://www.youtube.com/watch?v=VrRTwEA51Aw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Hamptonix",
+			"link": "https://www.youtube.com/watch?v=ztryqgXdS0Q",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "zFurious",
+			"link": "https://youtu.be/gqc2eMzBh1I?si=2e5K6sp2R7wwQl8j",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Specie",
+			"link": "https://youtube.com/watch?v=lZqrCgBZed8",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "MetroZ",
+			"link": "https://www.youtube.com/watch?v=7Il4zaYY3vI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
