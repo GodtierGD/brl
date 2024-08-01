@@ -1,36 +1,44 @@
 {
-    "id": 107660175,
-    "name": "Forbidden Pomni",
-    "author": "Godtier",
-    "creators": ["Godtier"],
-    "verifier": "Bean",
-    "verification": "https://youtu.be/rKxCO-TMlBQ?si=X_aTt8WaUEORgvue",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://youtu.be/tPOhQeav04k",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Asobe",
-            "link": "https://youtu.be/GMue6JZCqv4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Zacklack",
-            "link": "https://www.youtube.com/watch?v=o6HiZtIMYjg",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "SatnavGD",
-            "link": "https://youtu.be/rIbqIOfwB38",
-            "percent": 100,
-            "hz": 165
-        }
-    ]
+	"id": 107660175,
+	"name": "Forbidden Pomni",
+	"author": "Godtier",
+	"creators": [
+		"Godtier"
+	],
+	"verifier": "Bean",
+	"verification": "https://youtu.be/rKxCO-TMlBQ?si=X_aTt8WaUEORgvue",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://youtu.be/tPOhQeav04k",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Asobe",
+			"link": "https://youtu.be/GMue6JZCqv4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zacklack",
+			"link": "https://www.youtube.com/watch?v=o6HiZtIMYjg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "SatnavGD",
+			"link": "https://youtu.be/rIbqIOfwB38",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=tMWSP92TeK0&t=1s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -1,18 +1,26 @@
 {
-    "id": 107984846,
-    "name": "The Busten Reborn",
-    "author": "Rednax",
-    "creators": ["Rednax"],
-    "verifier": "Rednax",
-    "verification": "https://www.youtube.com/watch?v=c1qaUUKntgY",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Kwail",
-            "link": "https://www.youtube.com/watch?v=Qp3IvShmGI4",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 107984846,
+	"name": "The Busten Reborn",
+	"author": "Rednax",
+	"creators": [
+		"Rednax"
+	],
+	"verifier": "Rednax",
+	"verification": "https://www.youtube.com/watch?v=c1qaUUKntgY",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Kwail",
+			"link": "https://www.youtube.com/watch?v=Qp3IvShmGI4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=f0BRcY-OdA4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

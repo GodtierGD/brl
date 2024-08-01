@@ -1,12 +1,20 @@
 {
-    "id": 108296524,
-    "name": "Jaxagarasu Rebirth",
-    "author": "Peenic",
-    "creators": ["Peenic"],
-    "verifier": "Rednax",
-    "verification": "https://www.youtube.com/watch?v=BnqS7Mxy8J4",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108296524,
+	"name": "Jaxagarasu Rebirth",
+	"author": "Peenic",
+	"creators": [
+		"Peenic"
+	],
+	"verifier": "Rednax",
+	"verification": "https://www.youtube.com/watch?v=BnqS7Mxy8J4",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=I7gF_rF8tWM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

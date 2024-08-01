@@ -1,24 +1,32 @@
 {
-    "id": 108429757,
-    "name": "Skibidi Lights",
-    "author": "FrqshGMD",
-    "creators": ["FrqshGMD"],
-    "verifier": "oFrqsh",
-    "verification": "https://www.youtube.com/watch?v=oLmGbJbkqWg",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "nneax",
-            "link": "https://www.youtube.com/watch?v=6Q6QQs6eJUA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Montrix",
-            "link": "https://youtu.be/mUu7_xXa1BI",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 108429757,
+	"name": "Skibidi Lights",
+	"author": "FrqshGMD",
+	"creators": [
+		"FrqshGMD"
+	],
+	"verifier": "oFrqsh",
+	"verification": "https://www.youtube.com/watch?v=oLmGbJbkqWg",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "nneax",
+			"link": "https://www.youtube.com/watch?v=6Q6QQs6eJUA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Montrix",
+			"link": "https://youtu.be/mUu7_xXa1BI",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=evuZTs5SgLU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

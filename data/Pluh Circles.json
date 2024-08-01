@@ -1,30 +1,38 @@
 {
-    "id": 107687896,
-    "name": "Pluh Circles",
-    "author": "Rednax",
-    "creators": ["Rednax"],
-    "verifier": "Rednax",
-    "verification": "https://youtu.be/SHwyhzuQ77g",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Kwail",
-            "link": "https://www.youtube.com/watch?v=0hJrnkyShpA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Zacklack",
-            "link": "https://www.youtube.com/watch?v=dv7uuxGa6_0",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "imhector66craftgd",
-            "link": "https://youtu.be/AyFbj1l6jbY",
-            "percent": 100,
-            "hz": 480
-        }
-    ]
+	"id": 107687896,
+	"name": "Pluh Circles",
+	"author": "Rednax",
+	"creators": [
+		"Rednax"
+	],
+	"verifier": "Rednax",
+	"verification": "https://youtu.be/SHwyhzuQ77g",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Kwail",
+			"link": "https://www.youtube.com/watch?v=0hJrnkyShpA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zacklack",
+			"link": "https://www.youtube.com/watch?v=dv7uuxGa6_0",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "imhector66craftgd",
+			"link": "https://youtu.be/AyFbj1l6jbY",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=I4j7tJCKIIA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

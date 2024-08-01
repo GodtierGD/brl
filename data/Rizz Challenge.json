@@ -1,24 +1,32 @@
 {
-    "id": 108445795,
-    "name": "The RIZZ Challenge",
-    "author": "K1sfuakdnk",
-    "creators": ["K1sfuakdnk"],
-    "verifier": "K1sfuakdnk",
-    "verification": "https://youtu.be/5ng6QjDt50w?si=ABGqvzNrOlk9X92-",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-         {
-            "user": "czila",
-            "link": "https://youtu.be/6XwnyvUQyHM",
-            "percent": 100,
-            "hz": 240
-         },
-         {
-            "user": "SatnavGD",
-            "link": "https://youtu.be/SvWY9T7RoU8",
-            "percent": 100,
-            "hz": 165
-         }
-    ]
+	"id": 108445795,
+	"name": "The RIZZ Challenge",
+	"author": "K1sfuakdnk",
+	"creators": [
+		"K1sfuakdnk"
+	],
+	"verifier": "K1sfuakdnk",
+	"verification": "https://youtu.be/5ng6QjDt50w?si=ABGqvzNrOlk9X92-",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "czila",
+			"link": "https://youtu.be/6XwnyvUQyHM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "SatnavGD",
+			"link": "https://youtu.be/SvWY9T7RoU8",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=Wre1sA6Gmj8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
