@@ -162,6 +162,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "EminemProGamer",
+			"link": "https://www.youtube.com/watch?v=uXGDs88vefs",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

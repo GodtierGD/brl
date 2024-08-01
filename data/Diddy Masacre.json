@@ -1,18 +1,34 @@
 {
-    "id": 108430223,
-    "name": "Diddy Masacre",
-    "author": "Frag",
-    "creators": ["Konderx","Frag"],
-    "verifier": "Frag",
-    "verification": "https://www.youtube.com/watch?v=lJgc-rgQpac",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "coffee cup",
-            "link": "https://youtu.be/YQsMbztxj5Q",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 108430223,
+	"name": "Diddy Masacre",
+	"author": "Frag",
+	"creators": [
+		"Konderx",
+		"Frag"
+	],
+	"verifier": "Frag",
+	"verification": "https://www.youtube.com/watch?v=lJgc-rgQpac",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "coffee cup",
+			"link": "https://youtu.be/YQsMbztxj5Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "gdyakob",
+			"link": "https://youtu.be/Ff5WUWTPvlw?si=wDbrMGVTyRNifcaJ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=IhvsyEDYhuc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

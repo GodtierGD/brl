@@ -345,6 +345,12 @@
 			"link": "https://www.youtube.com/watch?v=X3_yQiza2eA",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "DoYou",
+			"link": "https://youtu.be/craZfWrSjPY",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

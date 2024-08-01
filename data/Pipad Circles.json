@@ -70,6 +70,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "DoYou",
+			"link": "https://youtu.be/34X9FkDFu3k",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
