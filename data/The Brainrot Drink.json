@@ -183,6 +183,13 @@
 			"link": "https://www.youtube.com/watch?v=rpqfZfUdUk0",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Vultrix",
+			"link": "https://youtu.be/PGeMA2cLk4U?si=-0R0-OszZjDtZUWb",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
