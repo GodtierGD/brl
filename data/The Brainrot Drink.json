@@ -147,6 +147,24 @@
 			"link": "https://www.youtube.com/watch?v=PgDaJu_GlCQ",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/AVWruk6eWcE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "adongus",
+			"link": "https://youtu.be/GzaB9ZxD68I",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "TRIMIANEK",
+			"link": "https://youtu.be/OzHj3eOTM-M?si=vRLUPMmhLTG_1fLO",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

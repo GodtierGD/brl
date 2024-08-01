@@ -168,6 +168,19 @@
 			"link": "https://www.youtube.com/watch?v=uXGDs88vefs",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "adongus",
+			"link": "https://youtu.be/7lZ5o7J6aOQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "BAnjmainishuma",
+			"link": "https://youtu.be/dTBk6s_8jBo?si=DROhpmjlxxcDiZ4Y",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

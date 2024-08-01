@@ -82,6 +82,18 @@
 			"link": "https://www.youtube.com/watch?v=eK7VrUx8DC0",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Specie",
+			"link": "https://www.youtube.com/watch?v=xQp84QReFlI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "adongus",
+			"link": "https://youtu.be/L0igHW30NvU",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
