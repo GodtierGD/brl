@@ -1,42 +1,57 @@
 {
-    "id": 107672549,
-    "name": "Old Pomni Circles",
-    "author": "Tonk",
-    "creators": ["Godtier","Tonk"],
-    "verifier": "Tonk",
-    "verification": "https://www.youtube.com/watch?v=X-GKcsLSEiY",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://youtu.be/cPzEw5OJosY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "K1TTYP",
-            "link": "https://youtu.be/FTgbUC2X654",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "coffee cup",
-            "link": "https://youtu.be/eC-i5LnIIRE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "wakke",
-            "link": "https://youtu.be/16WXpWgDF3Q",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Whyrings",
-            "link": "https://www.youtube.com/watch?v=NG2p1nUZbwI",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 107672549,
+	"name": "Old Pomni Circles",
+	"author": "Tonk",
+	"creators": [
+		"Godtier",
+		"Tonk"
+	],
+	"verifier": "Tonk",
+	"verification": "https://www.youtube.com/watch?v=X-GKcsLSEiY",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://youtu.be/cPzEw5OJosY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "K1TTYP",
+			"link": "https://youtu.be/FTgbUC2X654",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "coffee cup",
+			"link": "https://youtu.be/eC-i5LnIIRE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "wakke",
+			"link": "https://youtu.be/16WXpWgDF3Q",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=NG2p1nUZbwI",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Zacklack",
+			"link": "https://www.youtube.com/watch?v=suftGZ-f5IY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "swordk",
+			"link": "https://youtu.be/tznxOJejTK8?si=KrAV2-34SwHCCcTq",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

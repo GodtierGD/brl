@@ -1,48 +1,62 @@
 {
-    "id": 108439655,
-    "name": "Turkey Brainrot",
-    "author": "pdophilegaming",
-    "creators": ["pdophilegaming"],
-    "verifier": "Reqx 1v99",
-    "verification": "https://youtu.be/hmnpFJERzSQ?si=j5sq7sDyPKx6mYdA",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "zGytixss",
-            "link": "https://youtu.be/GHN8axMUd4c",
-            "percent": 100,
-            "hz": 2
-        },
-        {
-            "user": "GubsEnthusiast",
-            "link": "https://youtu.be/r6HAjK3HErA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Donkey Kong",
-            "link": "https://youtu.be/XroQtGZtVxw?t=7s",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "heolo",
-            "link": "https://youtu.be/aLlMvd6OI6c",
-            "percent": 100,
-            "hz": 481
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=LVdWsRT5eIo&t=7s",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "DanilXGames",
-            "link": "https://youtu.be/GGoVJRGFj5Q",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 108439655,
+	"name": "Turkey Brainrot",
+	"author": "pdophilegaming",
+	"creators": [
+		"pdophilegaming"
+	],
+	"verifier": "Reqx 1v99",
+	"verification": "https://youtu.be/hmnpFJERzSQ?si=j5sq7sDyPKx6mYdA",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "zGytixss",
+			"link": "https://youtu.be/GHN8axMUd4c",
+			"percent": 100,
+			"hz": 2
+		},
+		{
+			"user": "GubsEnthusiast",
+			"link": "https://youtu.be/r6HAjK3HErA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Donkey Kong",
+			"link": "https://youtu.be/XroQtGZtVxw?t=7s",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/aLlMvd6OI6c",
+			"percent": 100,
+			"hz": 481
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=LVdWsRT5eIo&t=7s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "DanilXGames",
+			"link": "https://youtu.be/GGoVJRGFj5Q",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "zFurious",
+			"link": "https://youtu.be/Otl2IhGMEX8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "swordk",
+			"link": "https://youtu.be/zIw1zRarEP8?si=EMIEcV36a0hJzHG6",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

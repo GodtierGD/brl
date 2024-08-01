@@ -33,6 +33,18 @@
 			"link": "https://www.youtube.com/watch?v=jANmIbwRZpo",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=N-cySqo3-2E",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Spoopy",
+			"link": "https://www.youtube.com/watch?v=uiDnFdvwr3w",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

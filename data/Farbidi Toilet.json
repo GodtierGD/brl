@@ -1,66 +1,86 @@
 {
-    "id": 108428633,
-    "name": "Farbidi Toilet",
-    "author": "squeeggd",
-    "creators": ["squeeggd"],
-    "verifier": "squeeggd",
-    "verification": "https://www.youtube.com/watch?v=g3VoYliQoBU",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "zGytixss",
-            "link": "https://youtu.be/f7guk-MQukA",
-            "percent": 100,
-            "hz": 0.23
-        },
-        {
-            "user": "CorgiAKANoxy",
-            "link": "https://www.youtube.com/watch?v=8RCNfAo8Yh4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Sippiecupgd",
-            "link": "https://www.youtube.com/watch?v=fGaGpVbbKm8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "SatnavGD",
-            "link": "https://youtu.be/piuw5LHomOQ",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "heolo",
-            "link": "https://youtu.be/_QjDMptB_VA",
-            "percent": 100,
-            "hz": 481
-        },
-        {
-            "user": "czila",
-            "link": "https://youtu.be/-KpLif9n_Go",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Gdyakob",
-            "link": "https://youtu.be/ThMLJRJUXWg?si=sUapulO9CVXi7fmB",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Reqx 1v99",
-            "link": "https://youtu.be/1j37xWm0Bn4?si=Iy36y2XTHs1cW9HN",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=1oJUFg_wEdM",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+	"id": 108428633,
+	"name": "Farbidi Toilet",
+	"author": "squeeggd",
+	"creators": [
+		"squeeggd"
+	],
+	"verifier": "squeeggd",
+	"verification": "https://www.youtube.com/watch?v=g3VoYliQoBU",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "zGytixss",
+			"link": "https://youtu.be/f7guk-MQukA",
+			"percent": 100,
+			"hz": 0.23
+		},
+		{
+			"user": "CorgiAKANoxy",
+			"link": "https://www.youtube.com/watch?v=8RCNfAo8Yh4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Sippiecupgd",
+			"link": "https://www.youtube.com/watch?v=fGaGpVbbKm8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SatnavGD",
+			"link": "https://youtu.be/piuw5LHomOQ",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/_QjDMptB_VA",
+			"percent": 100,
+			"hz": 481
+		},
+		{
+			"user": "czila",
+			"link": "https://youtu.be/-KpLif9n_Go",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Gdyakob",
+			"link": "https://youtu.be/ThMLJRJUXWg?si=sUapulO9CVXi7fmB",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Reqx 1v99",
+			"link": "https://youtu.be/1j37xWm0Bn4?si=Iy36y2XTHs1cW9HN",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=1oJUFg_wEdM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=3NScEDpZFV4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Spoopy",
+			"link": "https://www.youtube.com/watch?v=o-KTmOYYhZc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "8trna",
+			"link": "https://youtu.be/RVtBGIrH1E0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

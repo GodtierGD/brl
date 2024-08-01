@@ -1,30 +1,38 @@
 {
-    "id": 108432692,
-    "name": "IRizzWithMyGyatt",
-    "author": "PuckGMD",
-    "creators": ["PuckGMD"],
-    "verifier": "Pucky",
-    "verification": "https://www.youtube.com/watch?v=FNQ6KgVI8y8",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "nneax",
-            "link": "https://www.youtube.com/watch?v=cOSVcqh_bWM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Ultraclaw",
-            "link": "https://www.youtube.com/watch?v=Wj2UFgWmY0g",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "gdyakob",
-            "link": "https://youtu.be/qOPHREUjjZI?si=oqlzzRLMb9eHlST4",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 108432692,
+	"name": "IRizzWithMyGyatt",
+	"author": "PuckGMD",
+	"creators": [
+		"PuckGMD"
+	],
+	"verifier": "Pucky",
+	"verification": "https://www.youtube.com/watch?v=FNQ6KgVI8y8",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "nneax",
+			"link": "https://www.youtube.com/watch?v=cOSVcqh_bWM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Ultraclaw",
+			"link": "https://www.youtube.com/watch?v=Wj2UFgWmY0g",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "gdyakob",
+			"link": "https://youtu.be/qOPHREUjjZI?si=oqlzzRLMb9eHlST4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "TheRealBrodie",
+			"link": "https://youtu.be/AWIkPY3l5Z4?si=vwjRFSIdlRUzCcC-",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

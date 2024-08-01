@@ -1,60 +1,68 @@
 {
-    "id": 108380630,
-    "name": "Rednax is a femboy",
-    "author": "Dysonans",
-    "creators": ["Dysonans"],
-    "verifier": "Dysonans",
-    "verification": "https://youtu.be/oMVu6Gv-lvI?si=fYvmE2VI1eIRdBfW",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://www.youtube.com/watch?v=pMy38QG9vcw&feature=youtu.be",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Whyrings",
-            "link": "https://www.youtube.com/watch?v=eh1KYJoe8VI",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "heolo",
-            "link": "https://youtu.be/IfkNpN8axcE",
-            "percent": 100,
-            "hz": 481
-        },
-        {
-            "user": "meowpanel.cc",
-            "link": "https://youtu.be/noNGCe69hKA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Skeepye",
-            "link": "https://youtu.be/m2Fq61BKM5Y",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "wakke",
-            "link": "https://youtu.be/dvnXB0HfAm8",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=_QpBhJJqnS4",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Lartum",
-            "link": "https://www.youtube.com/watch?v=GV8VDjHHaMg",
-            "percent": 100,
-            "hz": 75
-        }
-    ]
+	"id": 108380630,
+	"name": "Rednax is a femboy",
+	"author": "Dysonans",
+	"creators": [
+		"Dysonans"
+	],
+	"verifier": "Dysonans",
+	"verification": "https://youtu.be/oMVu6Gv-lvI?si=fYvmE2VI1eIRdBfW",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://www.youtube.com/watch?v=pMy38QG9vcw&feature=youtu.be",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=eh1KYJoe8VI",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/IfkNpN8axcE",
+			"percent": 100,
+			"hz": 481
+		},
+		{
+			"user": "meowpanel.cc",
+			"link": "https://youtu.be/noNGCe69hKA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Skeepye",
+			"link": "https://youtu.be/m2Fq61BKM5Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "wakke",
+			"link": "https://youtu.be/dvnXB0HfAm8",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=_QpBhJJqnS4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lartum",
+			"link": "https://www.youtube.com/watch?v=GV8VDjHHaMg",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "oFrqsh",
+			"link": "https://www.youtube.com/watch?v=YA3yearZ9K4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

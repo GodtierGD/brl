@@ -1,48 +1,56 @@
 {
-    "id": 107659085,
-    "name": "Skibidi Slicers",
-    "author": "Tonk",
-    "creators": ["Tonk"],
-    "verifier": "Tonk",
-    "verification": "https://youtu.be/OZOCxejRgQU",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://youtu.be/y8i6CpPs24g",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Bean",
-            "link": "https://youtu.be/PZT9Ra14hqk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Kwail",
-            "link": "https://www.youtube.com/watch?v=tkG7waYHQBg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "MRedstone",
-            "link": "https://youtu.be/i5fAcw_wQrQ",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "coffee cup",
-            "link": "https://youtu.be/JKYvyLD9LEg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "imhector66craftgd",
-            "link": "https://youtu.be/6db_sfSDsYw",
-            "percent": 100,
-            "hz": 480
-        }
-    ]
+	"id": 107659085,
+	"name": "Skibidi Slicers",
+	"author": "Tonk",
+	"creators": [
+		"Tonk"
+	],
+	"verifier": "Tonk",
+	"verification": "https://youtu.be/OZOCxejRgQU",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://youtu.be/y8i6CpPs24g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bean",
+			"link": "https://youtu.be/PZT9Ra14hqk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Kwail",
+			"link": "https://www.youtube.com/watch?v=tkG7waYHQBg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "MRedstone",
+			"link": "https://youtu.be/i5fAcw_wQrQ",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "coffee cup",
+			"link": "https://youtu.be/JKYvyLD9LEg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "imhector66craftgd",
+			"link": "https://youtu.be/6db_sfSDsYw",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=M-9ytwYlkt4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

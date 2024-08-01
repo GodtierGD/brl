@@ -1,24 +1,32 @@
 {
-    "id": 107676312,
-    "name": "Ragatharok",
-    "author": "Pori",
-    "creators": ["Pori"],
-    "verifier": "Pori",
-    "verification": "https://www.youtube.com/watch?v=NYv0s09vNiE",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://youtu.be/J2V0scU5m0Y",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Whyrings",
-            "link": "https://www.youtube.com/watch?v=IIcLfiTqWi4",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 107676312,
+	"name": "Ragatharok",
+	"author": "Pori",
+	"creators": [
+		"Pori"
+	],
+	"verifier": "Pori",
+	"verification": "https://www.youtube.com/watch?v=NYv0s09vNiE",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://youtu.be/J2V0scU5m0Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=IIcLfiTqWi4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Zacklack",
+			"link": "https://www.youtube.com/watch?v=vQRFIBvzw7Y",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

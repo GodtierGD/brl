@@ -1,24 +1,32 @@
 {
-    "id": 108428637,
-    "name": "Ean Skibidi Circles",
-    "author": "capitt",
-    "creators": ["capitt"],
-    "verifier": "capitt",
-    "verification": "https://www.youtube.com/watch?v=jQWsC9NAEb0",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Asobe",
-            "link": "https://youtu.be/VLdDyPqvPWg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "imhector66craftgd",
-            "link": "https://youtu.be/mb85LnI08L8",
-            "percent": 100,
-            "hz": 480
-        }
-    ]
+	"id": 108428637,
+	"name": "Ean Skibidi Circles",
+	"author": "capitt",
+	"creators": [
+		"capitt"
+	],
+	"verifier": "capitt",
+	"verification": "https://www.youtube.com/watch?v=jQWsC9NAEb0",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Asobe",
+			"link": "https://youtu.be/VLdDyPqvPWg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "imhector66craftgd",
+			"link": "https://youtu.be/mb85LnI08L8",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "nojusGamingg",
+			"link": "https://www.youtube.com/watch?v=q7g7VhqBbm4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

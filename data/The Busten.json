@@ -1,48 +1,68 @@
 {
-    "id": 107698376,
-    "name": "The Busten",
-    "author": "iRhedd",
-    "creators": ["iRhedd"],
-    "verifier": "iRhedd",
-    "verification": "https://youtu.be/yZYlUC2ZXTM?si=MUu1ZlHTvU6s2L-R",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://youtu.be/bcdxecH8iqE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Pucky",
-            "link": "https://youtu.be/jWgtHT2bIIo",
-            "percent": 100,
-            "hz": 180
-        },
-        {
-            "user": "Godtier",
-            "link": "https://www.youtube.com/watch?v=EeU3WQWkm0s&t=25s",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Nameless1s",
-            "link": "https://www.youtube.com/watch?v=z8NAx5srEZY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Kwail",
-            "link": "https://www.youtube.com/watch?v=QZbauxl4xd4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Whyrings",
-            "link": "https://www.youtube.com/watch?v=y0WDVeKYpV4",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 107698376,
+	"name": "The Busten",
+	"author": "iRhedd",
+	"creators": [
+		"iRhedd"
+	],
+	"verifier": "iRhedd",
+	"verification": "https://youtu.be/yZYlUC2ZXTM?si=MUu1ZlHTvU6s2L-R",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://youtu.be/bcdxecH8iqE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Pucky",
+			"link": "https://youtu.be/jWgtHT2bIIo",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "Godtier",
+			"link": "https://www.youtube.com/watch?v=EeU3WQWkm0s&t=25s",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Nameless1s",
+			"link": "https://www.youtube.com/watch?v=z8NAx5srEZY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Kwail",
+			"link": "https://www.youtube.com/watch?v=QZbauxl4xd4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=y0WDVeKYpV4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "chimp",
+			"link": "https://www.youtube.com/watch?v=7uULVwiz414",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "SatnavGD",
+			"link": "https://youtu.be/ACmoxWqVb1w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "swordk",
+			"link": "https://youtu.be/b8rCfDQ46xU?si=C_25ZuEIQcWUDPl2",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

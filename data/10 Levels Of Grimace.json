@@ -1,24 +1,44 @@
 {
-    "id": 108450530,
-    "name": "10 Levels Of Grimace",
-    "author": "Whyrings",
-    "creators": ["Whyrings"],
-    "verifier": "Whyrings",
-    "verification": "https://www.youtube.com/watch?v=lhVDL3PMGw0",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "SatNavGD",
-            "link": "https://youtu.be/rIINvwvdbUc",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=_QpBhJJqnS4",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+	"id": 108450530,
+	"name": "10 Levels Of Grimace",
+	"author": "Whyrings",
+	"creators": [
+		"Whyrings"
+	],
+	"verifier": "Whyrings",
+	"verification": "https://www.youtube.com/watch?v=lhVDL3PMGw0",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "SatNavGD",
+			"link": "https://youtu.be/rIINvwvdbUc",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=_QpBhJJqnS4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/psJx-G3UBg4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "zFurious",
+			"link": "https://youtu.be/Qbb3tMCDMwg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Spoopy",
+			"link": "https://www.youtube.com/watch?v=63wt6OFR4fY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

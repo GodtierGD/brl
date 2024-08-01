@@ -1,48 +1,75 @@
 {
-    "id": 108440994,
-    "name": "PIPad Cycles",
-    "author": "Nixso69",
-    "creators": ["Nixso69"],
-    "verifier": "Tonk",
-    "verification": "https://youtu.be/wUmag-r9C4k",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Donkey Kong",
-            "link": "https://youtu.be/E6_LwqUuxo8",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Skyline0",
-            "link": "https://www.youtube.com/watch?v=MMKBEFsMOSE",
-            "percent": 100,
-            "hz": 0.01
-        },
-        {
-            "user": "czila",
-            "link": "https://youtu.be/moxlkqi5MOY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "SatnavGD",
-            "link": "https://youtu.be/1W4p2PqBwMA",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=wPd9ClzWCBY",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Ultraclaw",
-            "link": "https://www.youtube.com/watch?v=tFHXvtgONLU",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 108440994,
+	"name": "PIPad Cycles",
+	"author": "Nixso69",
+	"creators": [
+		"Nixso69"
+	],
+	"verifier": "Tonk",
+	"verification": "https://youtu.be/wUmag-r9C4k",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Donkey Kong",
+			"link": "https://youtu.be/E6_LwqUuxo8",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Skyline0",
+			"link": "https://www.youtube.com/watch?v=MMKBEFsMOSE",
+			"percent": 100,
+			"hz": 0.01
+		},
+		{
+			"user": "czila",
+			"link": "https://youtu.be/moxlkqi5MOY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "SatnavGD",
+			"link": "https://youtu.be/1W4p2PqBwMA",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=wPd9ClzWCBY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Ultraclaw",
+			"link": "https://www.youtube.com/watch?v=tFHXvtgONLU",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/HhC9WXxF5pQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "zFurious",
+			"link": "https://youtu.be/xGDQ12tIxO8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "swordk",
+			"link": "https://youtu.be/f2Ku72GFQyM?si=SShDxtyPscCKZbGn",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Reqx 1v99",
+			"link": "https://youtu.be/AzhxzY5w_Ac?si=Ht8IzTdQZQTFD7yT",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

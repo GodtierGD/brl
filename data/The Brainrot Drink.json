@@ -1,114 +1,128 @@
 {
-    "id": 108429566,
-    "name": "The Brainrot Drink",
-    "author": "therealfive",
-    "creators": ["therealfive"],
-    "verifier": "K1TTYP",
-    "verification": "https://youtu.be/vvDVt71YBL0",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Tonk",
-            "link": "https://youtu.be/W2uWGLGclC0",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Reqx 1v99",
-            "link": "https://youtu.be/Un3Sme1fl5g?si=_nzpQGwpnubITWeY",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "czila",
-            "link": "https://www.youtube.com/watch?v=uR8yl5pbm8M",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "N0tP3dr1nh0",
-            "link": "https://youtu.be/ANxaNf9ZVZg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Therealfive",
-            "link": "https://youtu.be/gtNDjdnS5yo?si=6QrwHIqADTMVMvqH",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "freddyjenej",
-            "link": "https://youtu.be/kTlUMU369xM",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "heolo",
-            "link": "https://youtu.be/M0tlyYpmeH4",
-            "percent": 100,
-            "hz": 481
-        },
-        {
-            "user": "Montrix",
-            "link": "https://youtu.be/dk2ZpPR162Q",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "KingClockerYT1",
-            "link": "https://youtu.be/nS5q0G4OOpU?si=KJ6E9zSftcYlC6HF",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "zGytixss",
-            "link": "https://youtu.be/iTkmodZSsWQ",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "LUDUCS",
-            "link": "https://youtu.be/FAZyorPm1Xs",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=UBjaEh87ERI",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Lertunis",
-            "link": "https://youtu.be/_OEGA_uGOeA?si=EfO2I4JdK9n1YgYq",
-            "percent": 100,
-            "hz": 90
-        },
-        {
-            "user": "ClayFuzzy",
-            "link": "https://youtu.be/x4l4acqwAp4?si=bu-KyIQgp5lc3eTo",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "K1sfuakdnk",
-            "link": "https://youtu.be/V93InnR4JTs?si=t28cOJ0ZorQq3AAd",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Specie",
-            "link": "https://youtube.com/watch?v=pnPysO7A2i8",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "zFurious",
-            "link": "https://youtu.be/NaIAwNLkTsM?si=fmpxNdzQMaIrVTeO",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 108429566,
+	"name": "The Brainrot Drink",
+	"author": "therealfive",
+	"creators": [
+		"therealfive"
+	],
+	"verifier": "K1TTYP",
+	"verification": "https://youtu.be/vvDVt71YBL0",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Tonk",
+			"link": "https://youtu.be/W2uWGLGclC0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Reqx 1v99",
+			"link": "https://youtu.be/Un3Sme1fl5g?si=_nzpQGwpnubITWeY",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "czila",
+			"link": "https://www.youtube.com/watch?v=uR8yl5pbm8M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "N0tP3dr1nh0",
+			"link": "https://youtu.be/ANxaNf9ZVZg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Therealfive",
+			"link": "https://youtu.be/gtNDjdnS5yo?si=6QrwHIqADTMVMvqH",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "freddyjenej",
+			"link": "https://youtu.be/kTlUMU369xM",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/M0tlyYpmeH4",
+			"percent": 100,
+			"hz": 481
+		},
+		{
+			"user": "Montrix",
+			"link": "https://youtu.be/dk2ZpPR162Q",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "KingClockerYT1",
+			"link": "https://youtu.be/nS5q0G4OOpU?si=KJ6E9zSftcYlC6HF",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "zGytixss",
+			"link": "https://youtu.be/iTkmodZSsWQ",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "LUDUCS",
+			"link": "https://youtu.be/FAZyorPm1Xs",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=UBjaEh87ERI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Lertunis",
+			"link": "https://youtu.be/_OEGA_uGOeA?si=EfO2I4JdK9n1YgYq",
+			"percent": 100,
+			"hz": 90
+		},
+		{
+			"user": "ClayFuzzy",
+			"link": "https://youtu.be/x4l4acqwAp4?si=bu-KyIQgp5lc3eTo",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "K1sfuakdnk",
+			"link": "https://youtu.be/V93InnR4JTs?si=t28cOJ0ZorQq3AAd",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Specie",
+			"link": "https://youtube.com/watch?v=pnPysO7A2i8",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "zFurious",
+			"link": "https://youtu.be/NaIAwNLkTsM?si=fmpxNdzQMaIrVTeO",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Spoopy",
+			"link": "https://www.youtube.com/watch?v=qAY77iUt2Qk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "swordk",
+			"link": "https://youtu.be/-t_M6XwaA9I?si=qp5BzOKjfLurVNUj",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

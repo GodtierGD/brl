@@ -1,12 +1,20 @@
 {
-    "id": 108457916,
-    "name": "DIDDY STICKY BALLS",
-    "author": "diexx",
-    "creators": ["diexx"],
-    "verifier": "diexx",
-    "verification": "https://www.youtube.com/watch?v=wvqAdlLZdpI",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108457916,
+	"name": "DIDDY STICKY BALLS",
+	"author": "diexx",
+	"creators": [
+		"diexx"
+	],
+	"verifier": "diexx",
+	"verification": "https://www.youtube.com/watch?v=wvqAdlLZdpI",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "SatnavGD",
+			"link": "https://youtu.be/Qyaok8SCufk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

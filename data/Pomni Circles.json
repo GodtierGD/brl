@@ -1,42 +1,50 @@
 {
-    "id": 107624489,
-    "name": "Pomni Circles",
-    "author": "Godtier",
-    "creators": ["Godtier"],
-    "verifier": "Bean",
-    "verification": "https://youtu.be/ZUsRVreHOQ0?si=k3WBosY2qKeEo6jd",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://youtu.be/ZwHdM1qkP8o",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Pucky",
-            "link": "https://youtu.be/TXhpKi2J0hM",
-            "percent": 100,
-            "hz": 180
-        },
-        {
-            "user": "Oipty",
-            "link": "https://youtu.be/qKNa9eHI-6w",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Kryze.12",
-            "link": "https://youtu.be/G4TJNRg8Ozo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Montrix",
-            "link": "https://youtu.be/K2rYtJImdi0",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 107624489,
+	"name": "Pomni Circles",
+	"author": "Godtier",
+	"creators": [
+		"Godtier"
+	],
+	"verifier": "Bean",
+	"verification": "https://youtu.be/ZUsRVreHOQ0?si=k3WBosY2qKeEo6jd",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://youtu.be/ZwHdM1qkP8o",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Pucky",
+			"link": "https://youtu.be/TXhpKi2J0hM",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": "Oipty",
+			"link": "https://youtu.be/qKNa9eHI-6w",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Kryze.12",
+			"link": "https://youtu.be/G4TJNRg8Ozo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Montrix",
+			"link": "https://youtu.be/K2rYtJImdi0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Nojusgamingg",
+			"link": "https://www.youtube.com/watch?v=VqUaNTk5qlk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
