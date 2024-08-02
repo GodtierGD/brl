@@ -1,12 +1,20 @@
 {
-    "id": 108563461,
-    "name": "Grimace is shaking",
-    "author": "fiZZabus3r",
-    "creators": ["fiZZabus3r"],
-    "verifier": "fiZZabus3r",
-    "verification": "https://youtu.be/ndrp35LVZM8?si=h4q5feVLI4eWmvHn",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108563461,
+	"name": "Grimace is shaking",
+	"author": "fiZZabus3r",
+	"creators": [
+		"fiZZabus3r"
+	],
+	"verifier": "fiZZabus3r",
+	"verification": "https://youtu.be/ndrp35LVZM8?si=h4q5feVLI4eWmvHn",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/pIORYS1PLzg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

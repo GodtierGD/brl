@@ -1,12 +1,27 @@
 {
-    "id": 108556490,
-    "name": "nojus Paradise",
-    "author": "zGytixss",
-    "creators": ["zGytixss","Nojusgamingg"],
-    "verifier": "zGytixss",
-    "verification": "https://youtu.be/71E7qZH5xZ8",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108556490,
+	"name": "nojus Paradise",
+	"author": "zGytixss",
+	"creators": [
+		"zGytixss",
+		"Nojusgamingg"
+	],
+	"verifier": "zGytixss",
+	"verification": "https://youtu.be/71E7qZH5xZ8",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Spoopy",
+			"link": "https://youtu.be/mZ9BGGTqx7A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "mnob",
+			"link": "https://youtu.be/1moj0yljD2c",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

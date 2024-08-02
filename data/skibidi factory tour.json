@@ -1,12 +1,20 @@
 {
-    "id": 108465216,
-    "name": "skibidi factory tour",
-    "author": "zFl3meYT",
-    "creators": ["zFl3meYT"],
-    "verifier": "zFl3meYT",
-    "verification": "https://m.youtube.com/watch?v=VXMA7SHQTjc",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108465216,
+	"name": "skibidi factory tour",
+	"author": "zFl3meYT",
+	"creators": [
+		"zFl3meYT"
+	],
+	"verifier": "zFl3meYT",
+	"verification": "https://m.youtube.com/watch?v=VXMA7SHQTjc",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "MONKEFUNI",
+			"link": "https://youtu.be/ZIxH-_Gwq2I",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
