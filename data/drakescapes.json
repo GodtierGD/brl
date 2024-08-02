@@ -82,6 +82,13 @@
 			"link": "https://youtu.be/xheg74B5E9U?si=hk_lWlXEosUZ3lK9",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Vultrix",
+			"link": "https://youtu.be/OGutXj9hOXg?si=aD5UdqsySzM_LWwZ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
