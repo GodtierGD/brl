@@ -148,6 +148,12 @@
 			"link": "https://www.youtube.com/watch?v=a-rB0XmPGc0&ab_channel=DYLAN",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Montrix",
+			"link": "https://youtu.be/QgYPXsI4TbA",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
