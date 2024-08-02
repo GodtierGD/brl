@@ -1,12 +1,20 @@
 {
-    "id": 108554474,
-    "name": "Skibidi Circles",
-    "author": "IcedTyler",
-    "creators": ["IcedTyler"],
-    "verifier": "IcedTyler",
-    "verification": "https://youtu.be/e9ipUgIk3LA",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108554474,
+	"name": "Skibidi Circles",
+	"author": "IcedTyler",
+	"creators": [
+		"IcedTyler"
+	],
+	"verifier": "IcedTyler",
+	"verification": "https://youtu.be/e9ipUgIk3LA",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=IV8hrCvuprE&feature=youtu.be",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
