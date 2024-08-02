@@ -2,7 +2,10 @@
 	"id": 108454064,
 	"name": "69 never clier",
 	"author": "PdophileGaming",
-	"creators": ["PdophileGaming","CroatianDude"],
+	"creators": [
+		"PdophileGaming",
+		"CroatianDude"
+	],
 	"verifier": "Reqx 1v99",
 	"verification": "https://youtu.be/k4zxrSwFYSg?si=x6CdzWuAIVNC6woF",
 	"percentToQualify": "100",
@@ -119,6 +122,12 @@
 		{
 			"user": "TRIMIANEK",
 			"link": "https://youtu.be/ZdN1KuVkdFI?si=AQ1iudcggQEQS-Fk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "EminemProGamer",
+			"link": "https://youtu.be/rYxkAt7S-fk",
 			"percent": 100,
 			"hz": 360
 		}
