@@ -1,12 +1,20 @@
 {
-    "id": 108486685,
-    "name": "drakescapes",
-    "author": "squeeggd",
-    "creators": ["squeeggd"],
-    "verifier": "squeeggd",
-    "verification": "https://www.youtube.com/watch?v=U689Bdqi4MM",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108486685,
+	"name": "drakescapes",
+	"author": "squeeggd",
+	"creators": [
+		"squeeggd"
+	],
+	"verifier": "squeeggd",
+	"verification": "https://www.youtube.com/watch?v=U689Bdqi4MM",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "zGytixss",
+			"link": "https://youtu.be/nGB-2ZWcTNY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
