@@ -1,12 +1,20 @@
 {
-    "id": 108461458,
-    "name": "Kai Rizz",
-    "author": "Ajmcgaw",
-    "creators": ["Ajmcgaw"],
-    "verifier": "Ajmcgaw",
-    "verification": "https://youtu.be/xd4uw_bzWUA?si=aIAwj6x_5NKNWzh-",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108461458,
+	"name": "Kai Rizz",
+	"author": "Ajmcgaw",
+	"creators": [
+		"Ajmcgaw"
+	],
+	"verifier": "Ajmcgaw",
+	"verification": "https://youtu.be/xd4uw_bzWUA?si=aIAwj6x_5NKNWzh-",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "fiZZabus3r",
+			"link": "https://youtu.be/5iwq2eNbDAs?si=hfVrOZLBQpylJCWw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
