@@ -2,10 +2,19 @@
 	"id": 108573354,
 	"name": "irish party",
 	"author": "squeeggd",
-	"creators": ["squeeggd"],
+	"creators": [
+		"squeeggd"
+	],
 	"verifier": "squeeggd",
 	"verification": "https://www.youtube.com/watch?v=vfvBkpIATYY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "kinetix",
+			"link": "https://www.youtube.com/watch?v=iD3kJ8ntqU4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
