@@ -57,6 +57,18 @@
 			"link": "https://www.youtube.com/watch?v=eSExaCDOfOQ&t=337s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "MetroZ",
+			"link": "https://www.youtube.com/watch?v=EK1NC17OkJ0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NotVarious",
+			"link": "https://youtu.be/tbrUweIdDrA",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
