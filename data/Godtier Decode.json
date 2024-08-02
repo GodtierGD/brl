@@ -15,6 +15,13 @@
 			"link": "https://www.youtube.com/watch?v=5MhC-C--oCM",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Vultrix",
+			"link": "https://youtu.be/Tte9lGNWmAA?si=VMlThpynbSGxlo0R",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
