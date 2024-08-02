@@ -1,12 +1,20 @@
 {
-    "id": 108505589,
-    "name": "KAIGREGATION CENAT",
-    "author": "Montrix",
-    "creators": ["Montrix"],
-    "verifier": "Montrix",
-    "verification": "https://youtu.be/xqfXCiQnpnM",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108505589,
+	"name": "KAIGREGATION CENAT",
+	"author": "Montrix",
+	"creators": [
+		"Montrix"
+	],
+	"verifier": "Montrix",
+	"verification": "https://youtu.be/xqfXCiQnpnM",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=BWvap1l5-JM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
