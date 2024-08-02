@@ -75,6 +75,13 @@
 			"link": "https://www.youtube.com/watch?v=eSExaCDOfOQ&t=1468s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Reqx 1v99",
+			"link": "https://youtu.be/EcflCs-54oE?si=rru4J0ZO3_6OYdqJ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
