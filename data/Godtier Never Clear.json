@@ -1,12 +1,20 @@
 {
-    "id": 108484719,
-    "name": "Godtier Never Clear",
-    "author": "PdophileGaming",
-    "creators": ["PdophileGaming"],
-    "verifier": "MRedstone",
-    "verification": "https://youtu.be/WZniFf9SPHA",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108484719,
+	"name": "Godtier Never Clear",
+	"author": "PdophileGaming",
+	"creators": [
+		"PdophileGaming"
+	],
+	"verifier": "MRedstone",
+	"verification": "https://youtu.be/WZniFf9SPHA",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "adongus",
+			"link": "https://youtu.be/dTiqOHqUxrw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
