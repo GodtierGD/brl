@@ -1,12 +1,20 @@
 {
-    "id": 108551063,
-    "name": "genzimibra",
-    "author": "filipcupcake",
-    "creators": ["filipcupcake"],
-    "verifier": "filipcupcake",
-    "verification": "https://youtu.be/-sUR0dKSpVw",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108551063,
+	"name": "genzimibra",
+	"author": "filipcupcake",
+	"creators": [
+		"filipcupcake"
+	],
+	"verifier": "filipcupcake",
+	"verification": "https://youtu.be/-sUR0dKSpVw",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Spoopy",
+			"link": "https://youtu.be/o9P0PMdMr-I",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
