@@ -1,10 +1,11 @@
 [
     {
-        "name": "Test Pack",
+        "name": "Pomni Pack",
         "levels": [
-            "10 Levels Of Grimace",
-            "69 never clier",
-            "Ballshack"
+            "pomni",
+            "Pomni Circles",
+            "Forbidden Pomni",
+            "Skibidi Pomni X"
         ],
         "colour": "linear-gradient(63deg, rgba(124,178,255,1) 0%, rgba(0,70,113,1) 50%, rgba(124,178,255,1) 100%)"
     }
