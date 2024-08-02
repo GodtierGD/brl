@@ -43,5 +43,14 @@
 		"from_rank": 49,
 		"above": "Jaxagarasu",
 		"below": "Kai Rizz"
+	},
+	{
+		"date": 1722639994,
+		"action": "lowered",
+		"name": "Kai Rizz",
+		"to_rank": 49,
+		"from_rank": 47,
+		"above": "genzimibra",
+		"below": "Jaxagarasu"
 	}
 ]
