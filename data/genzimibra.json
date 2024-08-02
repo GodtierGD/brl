@@ -11,6 +11,12 @@
 	"password": "None",
 	"records": [
 		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=cvQhRNrVXjA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
 			"user": "Spoopy",
 			"link": "https://youtu.be/o9P0PMdMr-I",
 			"percent": 100,
