@@ -26,13 +26,13 @@
     },
     {
         "role": "admin",
-        "name": "Xirai",
-        "link": "https://www.youtube.com/@xirai7348"
-    },
-    {
-        "role": "admin",
         "name": "Bean",
         "link": "https://www.youtube.com/channel/UCljH92yWvLaIdZJLuLJXE7A"
+    },
+    {
+        "role": "helper",
+        "name": "Xirai",
+        "link": "https://www.youtube.com/@xirai7348"
     },
     {
         "role": "helper",
