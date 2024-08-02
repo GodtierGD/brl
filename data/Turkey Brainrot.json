@@ -93,6 +93,19 @@
 			"link": "https://www.youtube.com/watch?v=ZDsttzyt_mw",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "sharktoothT1000",
+			"link": "https://youtu.be/5XdsOvyHudg?si=8Rz1rU-gsFVoTSDx",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=jImr_4wQtzo",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

@@ -190,6 +190,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Whyrings",
+			"link": "https://www.youtube.com/watch?v=hCCHa1DAkZ0",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
