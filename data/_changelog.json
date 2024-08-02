@@ -25,5 +25,14 @@
 		"from_rank": null,
 		"above": "Skibidi Pomni X",
 		"below": "Dr Godtierspect"
+	},
+	{
+		"date": 1722639822,
+		"action": "lowered",
+		"name": "nojus Paradise",
+		"to_rank": 51,
+		"from_rank": 49,
+		"above": "skibidi factory tour",
+		"below": "genzimibra"
 	}
 ]
