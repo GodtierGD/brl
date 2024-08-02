@@ -22,6 +22,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=woqsJYXgr6s&t=233s",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

@@ -10,5 +10,11 @@
 	"percentToQualify": "100",
 	"password": "None",
 	"records": [
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=woqsJYXgr6s&t=354s",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
