@@ -1,12 +1,26 @@
 {
-    "id": 108474891,
-    "name": "OhioRizzSigma X",
-    "author": "ThePotato500",
-    "creators": ["ThePotato500"],
-    "verifier": "ThePotato500",
-    "verification": "https://www.youtube.com/watch?v=9cQUt3zXFHY",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108474891,
+	"name": "OhioRizzSigma X",
+	"author": "ThePotato500",
+	"creators": [
+		"ThePotato500"
+	],
+	"verifier": "ThePotato500",
+	"verification": "https://www.youtube.com/watch?v=9cQUt3zXFHY",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "gdyakob",
+			"link": "https://youtu.be/krHyKzxhpYI?si=ODrgD7y064qA0COF",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "8trna",
+			"link": "https://youtu.be/JRPSeflA9es",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

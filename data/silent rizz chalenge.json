@@ -1,12 +1,20 @@
 {
-    "id": 108460296,
-    "name": "silent rizz chalenge",
-    "author": "marotkiw",
-    "creators": ["marotkiw"],
-    "verifier": "marotkiw",
-    "verification": "https://youtu.be/W9TwbtenvEI?si=rDaEIy-Jf7TWmKht",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108460296,
+	"name": "silent rizz chalenge",
+	"author": "marotkiw",
+	"creators": [
+		"marotkiw"
+	],
+	"verifier": "marotkiw",
+	"verification": "https://youtu.be/W9TwbtenvEI?si=rDaEIy-Jf7TWmKht",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "gdyakob",
+			"link": "https://youtu.be/ZRMg5m1-6SY?si=AGE6xr_x7tix0PmK",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
