@@ -61,5 +61,14 @@
 		"from_rank": 46,
 		"above": "nojus Paradise",
 		"below": "genzimibra"
+	},
+	{
+		"date": 1722642500,
+		"action": "placed",
+		"name": "narcton_diablo_ean",
+		"to_rank": 2,
+		"from_rank": null,
+		"above": "pov you jelq too hard",
+		"below": "fanum rizzer"
 	}
 ]
