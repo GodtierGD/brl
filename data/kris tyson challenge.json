@@ -1,12 +1,20 @@
 {
-    "id": 108463564,
-    "name": "kris tyson challenge",
-    "author": "zFurious",
-    "creators": ["zFurious"],
-    "verifier": "zFurious",
-    "verification": "https://www.youtube.com/watch?v=Y5oIAQTmq4A",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108463564,
+	"name": "kris tyson challenge",
+	"author": "zFurious",
+	"creators": [
+		"zFurious"
+	],
+	"verifier": "zFurious",
+	"verification": "https://www.youtube.com/watch?v=Y5oIAQTmq4A",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "oFrqsh",
+			"link": "https://www.youtube.com/watch?v=d5jTEGnUUzE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
