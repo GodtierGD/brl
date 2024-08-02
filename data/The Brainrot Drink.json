@@ -214,6 +214,13 @@
 			"link": "https://youtu.be/lLCqz8m7a1A",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "jForcGD",
+			"link": "https://youtu.be/fw31bAj_3xk?si=aPNXuGPRaaB1i1hB",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
