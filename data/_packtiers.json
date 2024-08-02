@@ -9,13 +9,13 @@
         "name": "Tier 2",
         "color": "linear-gradient(31deg, rgba(177, 139, 255 ,1) 0%, rgba(159, 192, 253 ,1) 50%, rgba(77, 139, 255 ,1) 100%)",
         "packs": [
-            "Pomni Pack"
         ]
     },
     {
         "name": "Tier 3",
         "color": "linear-gradient(90deg, rgba(120,0,255,1) 0%, rgba(71,9,121,1) 49%, rgba(210,0,255,1) 100%)",
         "packs": [
+            "Pomni Pack"
         ]
     }
 ]
