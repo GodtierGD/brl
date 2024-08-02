@@ -1,12 +1,20 @@
 {
-    "id": 108516907,
-    "name": "Godtier Decode",
-    "author": "PdophileGaming",
-    "creators": ["PdophileGaming"],
-    "verifier": "skyline0",
-    "verification": "https://youtu.be/ABYEcoikFYI?si=XLC9teyBqdOjRyl2",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108516907,
+	"name": "Godtier Decode",
+	"author": "PdophileGaming",
+	"creators": [
+		"PdophileGaming"
+	],
+	"verifier": "skyline0",
+	"verification": "https://youtu.be/ABYEcoikFYI?si=XLC9teyBqdOjRyl2",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=5MhC-C--oCM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
