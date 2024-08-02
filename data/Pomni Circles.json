@@ -2,7 +2,9 @@
 	"id": 107624489,
 	"name": "Pomni Circles",
 	"author": "Godtier",
-	"creators": ["Godtier"],
+	"creators": [
+		"Godtier"
+	],
 	"verifier": "Bean",
 	"verification": "https://youtu.be/ZUsRVreHOQ0?si=k3WBosY2qKeEo6jd",
 	"percentToQualify": "100",
@@ -59,6 +61,12 @@
 		{
 			"user": "coffee cup",
 			"link": "https://youtu.be/-Od4ocUT7I0?si=2e4ZhcwOXd7ffvCO&t=209",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MetroZ",
+			"link": "https://www.youtube.com/watch?v=4cX3dlada-E",
 			"percent": 100,
 			"hz": 360
 		}
