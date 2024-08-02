@@ -52,5 +52,14 @@
 		"from_rank": 47,
 		"above": "genzimibra",
 		"below": "Jaxagarasu"
+	},
+	{
+		"date": 1722641132,
+		"action": "lowered",
+		"name": "The Brainrot Drink",
+		"to_rank": 50,
+		"from_rank": 46,
+		"above": "nojus Paradise",
+		"below": "genzimibra"
 	}
 ]
