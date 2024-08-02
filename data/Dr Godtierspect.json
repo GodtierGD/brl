@@ -1,18 +1,26 @@
 {
-    "id": 108449853,
-    "name": "Dr Godtierspect",
-    "author": "Skeepye",
-    "creators": ["Skeepye"],
-    "verifier": "Skeepye",
-    "verification": "https://youtu.be/XSsCOUVfBvc",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "NojusGamingg",
-            "link": "https://www.youtube.com/watch?v=-K118tsqODs",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+	"id": 108449853,
+	"name": "Dr Godtierspect",
+	"author": "Skeepye",
+	"creators": [
+		"Skeepye"
+	],
+	"verifier": "Skeepye",
+	"verification": "https://youtu.be/XSsCOUVfBvc",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "NojusGamingg",
+			"link": "https://www.youtube.com/watch?v=-K118tsqODs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=eSExaCDOfOQ&t=661s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

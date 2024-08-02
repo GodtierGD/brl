@@ -1,24 +1,32 @@
 {
-    "id": 107668163,
-    "name": "English Or Spanish",
-    "author": "Tonk",
-    "creators": ["Tonk"],
-    "verifier": "Tonk",
-    "verification": "https://youtu.be/IPlz9IN-oK8",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "Rednax",
-            "link": "https://youtu.be/myfQFssgNSs",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Kwail",
-            "link": "https://www.youtube.com/watch?v=oSkgxq2v2_g",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 107668163,
+	"name": "English Or Spanish",
+	"author": "Tonk",
+	"creators": [
+		"Tonk"
+	],
+	"verifier": "Tonk",
+	"verification": "https://youtu.be/IPlz9IN-oK8",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://youtu.be/myfQFssgNSs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Kwail",
+			"link": "https://www.youtube.com/watch?v=oSkgxq2v2_g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=eSExaCDOfOQ&t=113s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

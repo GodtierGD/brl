@@ -1,24 +1,32 @@
 {
-    "id": 107684033,
-    "name": "Ballshack",
-    "author": "Rednax",
-    "creators": ["Rednax"],
-    "verifier": "Rednax",
-    "verification": "https://www.youtube.com/watch?v=jiXWApPGm_U",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-        {
-            "user": "KSol",
-            "link": "https://youtu.be/rN22SUbuN4E",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "imhector66craftgd",
-            "link": "https://youtu.be/GRQ2M7_6SUU",
-            "percent": 100,
-            "hz": 480
-        }
-    ]
+	"id": 107684033,
+	"name": "Ballshack",
+	"author": "Rednax",
+	"creators": [
+		"Rednax"
+	],
+	"verifier": "Rednax",
+	"verification": "https://www.youtube.com/watch?v=jiXWApPGm_U",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "KSol",
+			"link": "https://youtu.be/rN22SUbuN4E",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "imhector66craftgd",
+			"link": "https://youtu.be/GRQ2M7_6SUU",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=eSExaCDOfOQ&t=52s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
