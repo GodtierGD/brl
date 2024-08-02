@@ -64,6 +64,12 @@
 			"link": "https://youtu.be/8Ym48kygOTA",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=eSExaCDOfOQ&t=1102s",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
