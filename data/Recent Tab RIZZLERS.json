@@ -63,6 +63,13 @@
 			"link": "https://youtu.be/5XcEK3SdfHI",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Reqx 1v99",
+			"link": "https://youtu.be/oygDFGe8Xp0?si=wcMLibCdxl2VDSSd",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
