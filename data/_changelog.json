@@ -160,5 +160,14 @@
 		"from_rank": 56,
 		"above": "Trollface SuperHero",
 		"below": "genzimibra"
+	},
+	{
+		"date": 1722649246,
+		"action": "lowered",
+		"name": "IRizzWithMyGyatt",
+		"to_rank": 23,
+		"from_rank": 17,
+		"above": "Forbidden Pomni",
+		"below": "Skibidi Lights"
 	}
 ]
