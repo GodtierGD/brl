@@ -131,6 +131,13 @@
 			"link": "https://youtu.be/jARL1oeqPdo",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "EpicSparkZ",
+			"link": "https://youtu.be/-DnmPtVx7iU?si=Bau7NmsHqYfvvjT0",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
