@@ -2,10 +2,19 @@
 	"id": 108548570,
 	"name": "diddy poop brick",
 	"author": "FrqshGMD",
-	"creators": ["FrqshGMD"],
+	"creators": [
+		"FrqshGMD"
+	],
 	"verifier": "oFrqsh",
 	"verification": "https://youtu.be/eQT39-i4e-4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "mac",
+			"link": "https://www.youtube.com/watch?v=Wb49vRwtZ8A&t=79s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
