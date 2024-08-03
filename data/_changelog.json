@@ -268,5 +268,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "Rizzing Baby Gronk"
+	},
+	{
+		"date": 1722727259,
+		"action": "placed",
+		"name": "diddy_scream_chamber",
+		"to_rank": 46,
+		"from_rank": null,
+		"above": "Turkey Brainrot",
+		"below": "Im Not A Furry"
 	}
 ]
