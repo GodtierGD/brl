@@ -295,5 +295,14 @@
 		"from_rank": null,
 		"above": "Dr Godtierspect",
 		"below": "OhioRizzSigma X"
+	},
+	{
+		"date": 1722728281,
+		"action": "placed",
+		"name": "ballin_from_detroit",
+		"to_rank": 57,
+		"from_rank": null,
+		"above": "Godtier Decode",
+		"below": "skibidi factory tour"
 	}
 ]
