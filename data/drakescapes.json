@@ -192,6 +192,18 @@
 			"link": "https://www.youtube.com/watch?v=p_V0p9VgbWs&t=1s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "kinetix",
+			"link": "https://www.youtube.com/watch?v=1OzlQ-S68DM&t=1s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/HArW3e6Hln4",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
