@@ -88,5 +88,14 @@
 		"from_rank": 40,
 		"above": "Skibidi Cenat",
 		"below": "Forbidden Pomni"
+	},
+	{
+		"date": 1722647969,
+		"action": "placed",
+		"name": "diddy_poop_brick",
+		"to_rank": 21,
+		"from_rank": null,
+		"above": "Rizz Challenge",
+		"below": "Grimace is shaking"
 	}
 ]
