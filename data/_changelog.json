@@ -106,5 +106,14 @@
 		"from_rank": 3,
 		"above": "Caine Circles",
 		"below": "BRAINPOWERRRRRR"
+	},
+	{
+		"date": 1722648260,
+		"action": "raised",
+		"name": "genzimibra",
+		"to_rank": 47,
+		"from_rank": 51,
+		"above": "Trollface SuperHero",
+		"below": "10 Levels Of Grimace"
 	}
 ]
