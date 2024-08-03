@@ -2,10 +2,19 @@
 	"id": 108537686,
 	"name": "bR",
 	"author": "mnob",
-	"creators": ["mnob"],
+	"creators": [
+		"mnob"
+	],
 	"verifier": "mnob",
 	"verification": "https://youtu.be/n_VDwuxw8YA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "kinetix",
+			"link": "https://www.youtube.com/watch?v=yOFm0xcKv78",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
