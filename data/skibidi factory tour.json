@@ -69,6 +69,18 @@
 			"link": "https://www.youtube.com/watch?v=bku8WVHqDyk",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "kinetix",
+			"link": "https://www.youtube.com/watch?v=v2gAScQwD8s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "meowpanel.cc",
+			"link": "https://youtu.be/r6HdNtVB3gw",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

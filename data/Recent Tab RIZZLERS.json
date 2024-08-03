@@ -70,6 +70,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "meowpanel.cc",
+			"link": "https://youtu.be/I6zpTBysmO0",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
