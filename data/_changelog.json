@@ -115,5 +115,14 @@
 		"from_rank": 51,
 		"above": "Trollface SuperHero",
 		"below": "10 Levels Of Grimace"
+	},
+	{
+		"date": 1722648316,
+		"action": "lowered",
+		"name": "freaky tower",
+		"to_rank": 44,
+		"from_rank": 34,
+		"above": "KAIGREGATION CENAT",
+		"below": "Pipad Circles"
 	}
 ]
