@@ -313,5 +313,14 @@
 		"from_rank": null,
 		"above": "fent_friday",
 		"below": "skibidi_sigma_pomni"
+	},
+	{
+		"date": 1722729380,
+		"action": "placed",
+		"name": "sleepmaxxing",
+		"to_rank": 28,
+		"from_rank": null,
+		"above": "fent_friday",
+		"below": "limbo_by_rizzcap"
 	}
 ]
