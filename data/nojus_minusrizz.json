@@ -2,10 +2,25 @@
 	"id": 108618262,
 	"name": "Nojus MINUSrizz",
 	"author": "NojusGamingg",
-	"creators": ["NojusGamingg"],
+	"creators": [
+		"NojusGamingg"
+	],
 	"verifier": "NojusGamingg",
 	"verification": "https://youtu.be/0L-GICHu3cU",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "kinetix",
+			"link": "https://www.youtube.com/watch?v=0GFBMgWshnk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MetroZ",
+			"link": "https://www.youtube.com/watch?v=7uTUcKZtcT8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
