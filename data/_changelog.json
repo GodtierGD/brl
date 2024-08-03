@@ -232,5 +232,14 @@
 		"from_rank": 33,
 		"above": "Grimace is shaking",
 		"below": "DIDDY STICKY B"
+	},
+	{
+		"date": 1722721224,
+		"action": "placed",
+		"name": "xirai_bossfight",
+		"to_rank": 8,
+		"from_rank": null,
+		"above": "brain_rot_dungein_edg",
+		"below": "I gooned on this"
 	}
 ]
