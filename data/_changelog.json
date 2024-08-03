@@ -169,5 +169,14 @@
 		"from_rank": 17,
 		"above": "Forbidden Pomni",
 		"below": "Skibidi Lights"
+	},
+	{
+		"date": 1722649617,
+		"action": "placed",
+		"name": "brain_rot_dungein_edg",
+		"to_rank": 7,
+		"from_rank": null,
+		"above": "Mr beast does fent",
+		"below": "I gooned on this"
 	}
 ]
