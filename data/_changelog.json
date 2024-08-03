@@ -250,5 +250,14 @@
 		"from_rank": null,
 		"above": "Skibidi Lights",
 		"below": "Rizz Challenge"
+	},
+	{
+		"date": 1722724779,
+		"action": "placed",
+		"name": "fent_friday",
+		"to_rank": 26,
+		"from_rank": null,
+		"above": "Skibidi Lights",
+		"below": "skibidi_sigma_pomni"
 	}
 ]
