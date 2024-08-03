@@ -205,5 +205,14 @@
 		"from_rank": null,
 		"above": "fanum rizzer",
 		"below": null
+	},
+	{
+		"date": 1722652435,
+		"action": "lowered",
+		"name": "low_taper_fade",
+		"to_rank": 3,
+		"from_rank": 1,
+		"above": "BRAINPOWERRRRRR",
+		"below": "pov you jelq too hard"
 	}
 ]
