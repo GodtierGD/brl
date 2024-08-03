@@ -97,5 +97,14 @@
 		"from_rank": null,
 		"above": "Rizz Challenge",
 		"below": "Grimace is shaking"
+	},
+	{
+		"date": 1722648213,
+		"action": "lowered",
+		"name": "narcton_diablo_ean",
+		"to_rank": 4,
+		"from_rank": 3,
+		"above": "Caine Circles",
+		"below": "BRAINPOWERRRRRR"
 	}
 ]
