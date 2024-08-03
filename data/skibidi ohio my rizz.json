@@ -15,6 +15,12 @@
 			"link": "https://www.youtube.com/watch?v=Y_7bY3CuuQo&feature=youtu.be",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/FiNyhQ7gyCM",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

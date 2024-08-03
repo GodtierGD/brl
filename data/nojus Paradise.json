@@ -76,6 +76,19 @@
 			"link": "https://www.youtube.com/watch?v=5crsS1RLlxE",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "EpicSparkZ",
+			"link": "https://youtu.be/JxqYv1ijWxc?si=wn-8tE_G9PG6jLI0",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/wSmTeYkbz3E",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
