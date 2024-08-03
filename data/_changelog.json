@@ -259,5 +259,14 @@
 		"from_rank": null,
 		"above": "Skibidi Lights",
 		"below": "skibidi_sigma_pomni"
+	},
+	{
+		"date": 1722725442,
+		"action": "placed",
+		"name": "nojus_minusrizz",
+		"to_rank": 61,
+		"from_rank": null,
+		"above": null,
+		"below": "Rizzing Baby Gronk"
 	}
 ]
