@@ -277,5 +277,14 @@
 		"from_rank": null,
 		"above": "Turkey Brainrot",
 		"below": "Im Not A Furry"
+	},
+	{
+		"date": 1722727664,
+		"action": "placed",
+		"name": "skibidiest_level",
+		"to_rank": 16,
+		"from_rank": null,
+		"above": "EDGE MEW MAXXER 5000",
+		"below": "Diddy Masacre"
 	}
 ]
