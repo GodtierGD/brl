@@ -285,6 +285,12 @@
 			"link": "https://www.youtube.com/watch?v=S8bx6PcNC_k&ab_channel=Slashguy",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "kinetix",
+			"link": "https://www.youtube.com/watch?v=GIj1XsRWoDE",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
