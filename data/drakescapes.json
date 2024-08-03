@@ -138,6 +138,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "skibid1gd",
+			"link": "https://www.youtube.com/watch?v=2_3a6YCzVko",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

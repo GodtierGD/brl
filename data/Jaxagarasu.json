@@ -279,6 +279,12 @@
 			"link": "https://youtu.be/ZejVJPW0k5o",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Slashguy",
+			"link": "https://www.youtube.com/watch?v=S8bx6PcNC_k&ab_channel=Slashguy",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
