@@ -2,10 +2,19 @@
 	"id": 108570821,
 	"name": "Gyatstep",
 	"author": "Therealfive",
-	"creators": ["Therealfive"],
+	"creators": [
+		"Therealfive"
+	],
 	"verifier": "Therealfive",
 	"verification": "https://youtu.be/Odb68WbS_KE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "zFurious",
+			"link": "https://youtu.be/TBvcaVeg3mA?si=UFN05Dxd3IrW5SWN",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
