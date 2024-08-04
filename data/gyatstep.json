@@ -27,6 +27,13 @@
 			"link": "https://youtu.be/G72Ivy1KO8E?t=7",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "tonnes",
+			"link": "https://youtu.be/JefMQbKBp4s?si=b38Fz2dnO-g3ERok",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
