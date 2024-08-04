@@ -16,7 +16,8 @@
         "name": "Tier 3",
         "color": "linear-gradient(90deg, rgba(120,0,255,1) 0%, rgba(71,9,121,1) 49%, rgba(210,0,255,1) 100%)",
         "packs": [
-            "Pomni Pack"
+            "Pomni Pack",
+            "OG Pack"
         ]
     }
 ]

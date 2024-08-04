@@ -17,5 +17,16 @@
             "Dr Godtierspect"
         ],
         "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,255,0) 50%, rgba(255,245,0,1) 100%)"
+    },
+    {
+        "name": "OG Pack",
+        "levels": [
+            "Caine Circles",
+            "Pomni Circles",
+            "Jaxagarasu",
+            "Jaxagarasu Rebirth",
+            "Forbidden Pomni"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,255,0) 50%, rgba(255,245,0,1) 100%)"
     }
 ]
