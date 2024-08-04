@@ -367,5 +367,14 @@
 		"from_rank": null,
 		"above": "congregation 34 real",
 		"below": "pomni"
+	},
+	{
+		"date": 1722731640,
+		"action": "placed",
+		"name": "krisscapes",
+		"to_rank": 53,
+		"from_rank": null,
+		"above": "diddy_scream_chamber",
+		"below": "Im Not A Furry"
 	}
 ]
