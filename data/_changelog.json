@@ -583,5 +583,14 @@
 		"from_rank": 49,
 		"above": "The Brainrot Drink",
 		"below": "Kai Rizz"
+	},
+	{
+		"date": 1722792543,
+		"action": "placed",
+		"name": "nojus_never_clear",
+		"to_rank": 86,
+		"from_rank": null,
+		"above": "drakescapes",
+		"below": "xirai"
 	}
 ]
