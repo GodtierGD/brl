@@ -466,5 +466,14 @@
 		"from_rank": 19,
 		"above": "fanum_toilet",
 		"below": "Ean Skibidi Circles"
+	},
+	{
+		"date": 1722735532,
+		"action": "placed",
+		"name": "rizzstep",
+		"to_rank": 71,
+		"from_rank": null,
+		"above": "Godtier Decode",
+		"below": "ballin_from_detroit"
 	}
 ]
