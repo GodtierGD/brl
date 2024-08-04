@@ -385,5 +385,14 @@
 		"from_rank": null,
 		"above": "xirai_bossfight",
 		"below": "I gooned on this"
+	},
+	{
+		"date": 1722732423,
+		"action": "placed",
+		"name": "skibidi_hell",
+		"to_rank": 55,
+		"from_rank": null,
+		"above": "diddy_scream_chamber",
+		"below": "krisscapes"
 	}
 ]
