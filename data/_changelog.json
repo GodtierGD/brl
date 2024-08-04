@@ -376,5 +376,14 @@
 		"from_rank": null,
 		"above": "diddy_scream_chamber",
 		"below": "Im Not A Furry"
+	},
+	{
+		"date": 1722731841,
+		"action": "placed",
+		"name": "rizzler_road_deluxe",
+		"to_rank": 8,
+		"from_rank": null,
+		"above": "xirai_bossfight",
+		"below": "I gooned on this"
 	}
 ]
