@@ -56,5 +56,21 @@
             "Gambling On Track"
         ],
         "colour": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
+    },
+    {
+        "name": "Circles Pack",
+        "levels": [
+            "PIPad CIrcles X",
+            "Pipad Circles",
+            "Pomni Circles",
+            "Caine Circles",
+            "Thinking Circles",
+            "Skibidi Circles",
+            "Skibidi Lights",
+            "skibidi_lights_redux",
+            "Ean Skibidi Circles",
+            "bbl_circles"
+        ],
+        "colour": "linear-gradient(90deg, rgba(77,255,0,1) 0%, rgba(236,0,255,1) 20%, rgba(77,255,0,1) 39%, rgba(236,0,255,1) 60%, rgba(236,0,255,0) 68%)"
     }
 ]
