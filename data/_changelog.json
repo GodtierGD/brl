@@ -484,5 +484,14 @@
 		"from_rank": null,
 		"above": "fent_friday",
 		"below": "sleepmaxxing"
+	},
+	{
+		"date": 1722736433,
+		"action": "placed",
+		"name": "gyatstep",
+		"to_rank": 78,
+		"from_rank": null,
+		"above": "Rizzing Baby Gronk",
+		"below": "nojus Paradise"
 	}
 ]
