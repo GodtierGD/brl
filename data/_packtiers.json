@@ -3,7 +3,8 @@
         "name": "Tier 1",
         "color": "linear-gradient(31deg, rgba(17, 255, 255 ,1) 0%, rgba(214, 255, 255,1) 50%, rgba(17, 255, 255 ,1) 100%)",
         "packs": [
-            "nojus Pack"
+            "nojus Pack",
+            "xirai Pack"
         ]
     },
     {

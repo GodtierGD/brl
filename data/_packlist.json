@@ -37,5 +37,14 @@
             "nojus Paradise"
         ],
         "colour": "linear-gradient(90deg, rgba(0,210,255,1) 0%, rgba(24,255,79,1) 8%, rgba(145,39,255,1) 30%, rgba(156,132,89,1) 60%, rgba(3,255,3,1) 96%, rgba(82,0,255,1) 100%)"
+    },
+    {
+        "name": "xirai Pack",
+        "levels": [
+            "xirai_bossfight",
+            "xirai",
+            "Im Not A Furry"
+        ],
+        "colour": "linear-gradient(90deg, rgba(108,36,5,1) 68%, rgba(0,0,0,1) 80%, rgba(0,255,26,1) 100%)"
     }
 ]
