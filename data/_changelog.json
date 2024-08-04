@@ -439,5 +439,14 @@
 		"from_rank": 17,
 		"above": "I hate the skippidi",
 		"below": "kris tyson challenge"
+	},
+	{
+		"date": 1722734398,
+		"action": "lowered",
+		"name": "drakescapes",
+		"to_rank": 76,
+		"from_rank": 75,
+		"above": null,
+		"below": "Rizzing Baby Gronk"
 	}
 ]
