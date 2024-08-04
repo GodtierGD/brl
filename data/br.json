@@ -82,6 +82,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "GD_Noob",
+			"link": "https://www.youtube.com/watch?v=QkbOAfMJIOE",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
