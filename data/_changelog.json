@@ -601,5 +601,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_deluxe",
 		"below": "skibidi_showdown"
+	},
+	{
+		"date": 1722793372,
+		"action": "placed",
+		"name": "nojushouse",
+		"to_rank": 80,
+		"from_rank": null,
+		"above": "The Brainrot Drink",
+		"below": "br"
 	}
 ]
