@@ -682,5 +682,14 @@
 		"from_rank": null,
 		"above": "skibidi_limbo_circle",
 		"below": "skibidi_showdown"
+	},
+	{
+		"date": 1722812956,
+		"action": "placed",
+		"name": "caseoh_never_clear",
+		"to_rank": 31,
+		"from_rank": null,
+		"above": "DIDDY STICKY B",
+		"below": "silent rizz chalenge"
 	}
 ]
