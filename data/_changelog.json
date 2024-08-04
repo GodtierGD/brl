@@ -394,5 +394,14 @@
 		"from_rank": null,
 		"above": "diddy_scream_chamber",
 		"below": "krisscapes"
+	},
+	{
+		"date": 1722732746,
+		"action": "placed",
+		"name": "can_i_get_a_mc_brain",
+		"to_rank": 66,
+		"from_rank": null,
+		"above": "ballin_from_detroit",
+		"below": "skibidi factory tour"
 	}
 ]
