@@ -565,5 +565,14 @@
 		"from_rank": null,
 		"above": "drakescapes",
 		"below": "Rizzing Baby Gronk"
+	},
+	{
+		"date": 1722785236,
+		"action": "placed",
+		"name": "skibidi_choose_way",
+		"to_rank": 84,
+		"from_rank": null,
+		"above": "xirai",
+		"below": "Rizzing Baby Gronk"
 	}
 ]
