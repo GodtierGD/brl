@@ -2,10 +2,19 @@
 	"id": 108480658,
 	"name": "InterestedValde",
 	"author": "Skeepye",
-	"creators": ["Skeepye"],
+	"creators": [
+		"Skeepye"
+	],
 	"verifier": "Skeepye",
 	"verification": "https://www.youtube.com/watch?v=KOOLXf23Otk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/G72Ivy1KO8E?t=333",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
