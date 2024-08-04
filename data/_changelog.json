@@ -556,5 +556,14 @@
 		"from_rank": null,
 		"above": "diddy_poop_brick",
 		"below": "Forbidden Pomni"
+	},
+	{
+		"date": 1722781167,
+		"action": "placed",
+		"name": "xirai",
+		"to_rank": 84,
+		"from_rank": null,
+		"above": "drakescapes",
+		"below": "Rizzing Baby Gronk"
 	}
 ]
