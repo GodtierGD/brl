@@ -421,5 +421,14 @@
 		"from_rank": null,
 		"above": "congregation 34 real",
 		"below": "skibidi_lights_redux"
+	},
+	{
+		"date": 1722733563,
+		"action": "lowered",
+		"name": "congregation 34 real",
+		"to_rank": 19,
+		"from_rank": 15,
+		"above": "skibidiest_level",
+		"below": "fanum_toilet"
 	}
 ]
