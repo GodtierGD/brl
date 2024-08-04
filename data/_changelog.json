@@ -628,5 +628,14 @@
 		"from_rank": null,
 		"above": "silent_freddy",
 		"below": "Godtier Never Clear"
+	},
+	{
+		"date": 1722798699,
+		"action": "lowered",
+		"name": "br",
+		"to_rank": 91,
+		"from_rank": 81,
+		"above": null,
+		"below": "drakescapes"
 	}
 ]
