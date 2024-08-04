@@ -655,5 +655,14 @@
 		"from_rank": null,
 		"above": "rizzstep",
 		"below": "ballin_from_detroit"
+	},
+	{
+		"date": 1722806291,
+		"action": "lowered",
+		"name": "skibidi factory tour",
+		"to_rank": 84,
+		"from_rank": 75,
+		"above": "nojus Paradise",
+		"below": "The Brainrot Drink"
 	}
 ]
