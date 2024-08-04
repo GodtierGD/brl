@@ -547,5 +547,14 @@
 		"from_rank": null,
 		"above": "br",
 		"below": "IRizzWithMyGyatt"
+	},
+	{
+		"date": 1722780613,
+		"action": "placed",
+		"name": "skibidi_fire_redux",
+		"to_rank": 41,
+		"from_rank": null,
+		"above": "diddy_poop_brick",
+		"below": "Forbidden Pomni"
 	}
 ]
