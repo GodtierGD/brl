@@ -646,5 +646,14 @@
 		"from_rank": null,
 		"above": "skibidi_sigma_pomni",
 		"below": "Rizz Challenge"
+	},
+	{
+		"date": 1722804576,
+		"action": "placed",
+		"name": "edpness",
+		"to_rank": 78,
+		"from_rank": null,
+		"above": "rizzstep",
+		"below": "ballin_from_detroit"
 	}
 ]
