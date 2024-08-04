@@ -2,10 +2,19 @@
 	"id": 108630445,
 	"name": "BBL Circles",
 	"author": "IcedTyler",
-	"creators": ["IcedTyler"],
+	"creators": [
+		"IcedTyler"
+	],
 	"verifier": "IcedTyler",
 	"verification": "https://youtu.be/XdKB9AWC96o",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Heyitsmepier",
+			"link": "https://www.youtube.com/watch?v=I9gBShStQ_A&t=17s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
