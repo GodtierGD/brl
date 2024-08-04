@@ -403,5 +403,14 @@
 		"from_rank": null,
 		"above": "ballin_from_detroit",
 		"below": "skibidi factory tour"
+	},
+	{
+		"date": 1722733085,
+		"action": "placed",
+		"name": "skibby_tower",
+		"to_rank": 30,
+		"from_rank": null,
+		"above": "limbo_by_rizzcap",
+		"below": "skibidi_sigma_pomni"
 	}
 ]
