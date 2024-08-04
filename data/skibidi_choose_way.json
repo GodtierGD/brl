@@ -2,10 +2,19 @@
 	"id": 108642987,
 	"name": "Skibidi Choose Way",
 	"author": "filipcupcake",
-	"creators": ["filipcupcake"],
+	"creators": [
+		"filipcupcake"
+	],
 	"verifier": "filipcupcake",
 	"verification": "https://youtu.be/nWCehWtw_Gc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Peron925",
+			"link": "https://youtu.be/4jLpE2TSh4c?si=c_u0MAqlvXq-vpOG",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

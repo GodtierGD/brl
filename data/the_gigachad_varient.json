@@ -2,10 +2,25 @@
 	"id": 108627706,
 	"name": "The Gigachad Varient",
 	"author": "Whyrings",
-	"creators": ["Whyrings"],
+	"creators": [
+		"Whyrings"
+	],
 	"verifier": "Whyrings",
 	"verification": "https://www.youtube.com/watch?v=ZGk3jINkzqU",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Heyitsmepier",
+			"link": "https://www.youtube.com/watch?v=0fmTjwjXqZo&t=123s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/_rHZ8fnWmo4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
