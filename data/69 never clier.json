@@ -160,6 +160,13 @@
 			"link": "https://www.youtube.com/watch?v=RRoNos7Dtc4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "tonnes",
+			"link": "https://youtu.be/XgcJg4hUeSI?si=Ny5YTydUmDKGysHN",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
