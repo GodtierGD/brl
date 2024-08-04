@@ -430,5 +430,14 @@
 		"from_rank": 15,
 		"above": "skibidiest_level",
 		"below": "fanum_toilet"
+	},
+	{
+		"date": 1722733645,
+		"action": "lowered",
+		"name": "Diddy Masacre",
+		"to_rank": 22,
+		"from_rank": 17,
+		"above": "I hate the skippidi",
+		"below": "kris tyson challenge"
 	}
 ]
