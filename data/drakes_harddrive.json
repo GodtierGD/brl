@@ -2,10 +2,19 @@
 	"id": 108602500,
 	"name": "Drake's harddrive",
 	"author": "Tonnes",
-	"creators": ["Tonnes"],
+	"creators": [
+		"Tonnes"
+	],
 	"verifier": "Tonnes",
 	"verification": "https://youtu.be/e2ncNmQBEbc?si=e9o5jXQ_VpG6yf1f",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "mnob",
+			"link": "https://youtu.be/hT1Rys_R1hM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

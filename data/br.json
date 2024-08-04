@@ -69,6 +69,19 @@
 			"link": "https://youtu.be/Mr4i4GSJqU0?si=iOLuBq3gQhX_5h0M",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "carson_r_09",
+			"link": "https://youtu.be/tXBZVIsb89Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Exwhy",
+			"link": "https://youtu.be/ZOVn_ChIF1I?si=UjQU0SGzdK17-h7B",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
