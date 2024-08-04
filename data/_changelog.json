@@ -475,5 +475,14 @@
 		"from_rank": null,
 		"above": "Godtier Decode",
 		"below": "ballin_from_detroit"
+	},
+	{
+		"date": 1722736074,
+		"action": "placed",
+		"name": "the_gigachad_varient",
+		"to_rank": 35,
+		"from_rank": null,
+		"above": "fent_friday",
+		"below": "sleepmaxxing"
 	}
 ]
