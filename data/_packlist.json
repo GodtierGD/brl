@@ -46,5 +46,15 @@
             "Im Not A Furry"
         ],
         "colour": "linear-gradient(90deg, rgba(108,36,5,1) 68%, rgba(0,0,0,1) 80%, rgba(0,255,26,1) 100%)"
+    },
+    {
+        "name": "illeGAL Pack",
+        "levels": [
+            "drakes_harddrive",
+            "Skibidi Dry Out",
+            "ONEMillion",
+            "Gambling On Track"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
     }
 ]
