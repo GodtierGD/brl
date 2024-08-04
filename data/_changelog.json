@@ -457,5 +457,14 @@
 		"from_rank": null,
 		"above": "silent rizz chalenge",
 		"below": "Rizzler Road"
+	},
+	{
+		"date": 1722735234,
+		"action": "raised",
+		"name": "skibidiest_level",
+		"to_rank": 17,
+		"from_rank": 19,
+		"above": "fanum_toilet",
+		"below": "Ean Skibidi Circles"
 	}
 ]
