@@ -529,5 +529,14 @@
 		"from_rank": 62,
 		"above": "nojus Paradise",
 		"below": "The Brainrot Drink"
+	},
+	{
+		"date": 1722779220,
+		"action": "placed",
+		"name": "skibidi_showdown",
+		"to_rank": 9,
+		"from_rank": null,
+		"above": "rizzler_road_deluxe",
+		"below": "I gooned on this"
 	}
 ]
