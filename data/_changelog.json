@@ -493,5 +493,14 @@
 		"from_rank": null,
 		"above": "Rizzing Baby Gronk",
 		"below": "nojus Paradise"
+	},
+	{
+		"date": 1722736518,
+		"action": "lowered",
+		"name": "Godtier Decode",
+		"to_rank": 74,
+		"from_rank": 73,
+		"above": "Kai Rizz",
+		"below": "Jaxagarasu"
 	}
 ]
