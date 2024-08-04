@@ -673,5 +673,14 @@
 		"from_rank": null,
 		"above": "skibidi_sigma_pomni",
 		"below": "freedumbohgyat"
+	},
+	{
+		"date": 1722810384,
+		"action": "placed",
+		"name": "501_cigarettes",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "skibidi_limbo_circle",
+		"below": "skibidi_showdown"
 	}
 ]
