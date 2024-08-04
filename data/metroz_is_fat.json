@@ -2,10 +2,19 @@
 	"id": 108627629,
 	"name": "metroz is fat",
 	"author": "standinghorse",
-	"creators": ["standinghorse"],
+	"creators": [
+		"standinghorse"
+	],
 	"verifier": "standinghorse",
 	"verification": "https://www.youtube.com/watch?v=Ef3h4NwkLew",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "kinetix",
+			"link": "https://www.youtube.com/watch?v=7-0mb2W8WNI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
