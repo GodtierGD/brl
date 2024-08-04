@@ -520,5 +520,14 @@
 		"from_rank": 1,
 		"above": "fanum rizzer",
 		"below": "pov you jelq too hard"
+	},
+	{
+		"date": 1722774973,
+		"action": "lowered",
+		"name": "drakes_harddrive",
+		"to_rank": 77,
+		"from_rank": 62,
+		"above": "nojus Paradise",
+		"below": "The Brainrot Drink"
 	}
 ]
