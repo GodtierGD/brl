@@ -448,5 +448,14 @@
 		"from_rank": 75,
 		"above": null,
 		"below": "Rizzing Baby Gronk"
+	},
+	{
+		"date": 1722735070,
+		"action": "placed",
+		"name": "metroz_is_fat",
+		"to_rank": 25,
+		"from_rank": null,
+		"above": "silent rizz chalenge",
+		"below": "Rizzler Road"
 	}
 ]
