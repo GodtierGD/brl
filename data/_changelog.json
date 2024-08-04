@@ -610,5 +610,14 @@
 		"from_rank": null,
 		"above": "The Brainrot Drink",
 		"below": "br"
+	},
+	{
+		"date": 1722796861,
+		"action": "lowered",
+		"name": "skibidi_hell",
+		"to_rank": 72,
+		"from_rank": 64,
+		"above": "skibidi factory tour",
+		"below": "genzimibra"
 	}
 ]
