@@ -340,5 +340,14 @@
 		"from_rank": 2,
 		"above": "fanum rizzer",
 		"below": null
+	},
+	{
+		"date": 1722729998,
+		"action": "placed",
+		"name": "fanum_toilet",
+		"to_rank": 16,
+		"from_rank": null,
+		"above": "skibidiest_level",
+		"below": "Diddy Masacre"
 	}
 ]
