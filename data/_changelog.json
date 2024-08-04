@@ -592,5 +592,14 @@
 		"from_rank": null,
 		"above": "drakescapes",
 		"below": "xirai"
+	},
+	{
+		"date": 1722792852,
+		"action": "placed",
+		"name": "skibidi_limbo_circle",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "rizzler_road_deluxe",
+		"below": "skibidi_showdown"
 	}
 ]
