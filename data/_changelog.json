@@ -412,5 +412,14 @@
 		"from_rank": null,
 		"above": "limbo_by_rizzcap",
 		"below": "skibidi_sigma_pomni"
+	},
+	{
+		"date": 1722733507,
+		"action": "placed",
+		"name": "i_miss_the_skibidi",
+		"to_rank": 14,
+		"from_rank": null,
+		"above": "congregation 34 real",
+		"below": "skibidi_lights_redux"
 	}
 ]
