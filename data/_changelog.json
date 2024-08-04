@@ -322,5 +322,14 @@
 		"from_rank": null,
 		"above": "fent_friday",
 		"below": "limbo_by_rizzcap"
+	},
+	{
+		"date": 1722729680,
+		"action": "placed",
+		"name": "drakes_harddrive",
+		"to_rank": 51,
+		"from_rank": null,
+		"above": "Turkey Brainrot",
+		"below": "diddy_scream_chamber"
 	}
 ]
