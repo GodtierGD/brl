@@ -8,5 +8,14 @@
             "Skibidi Pomni X"
         ],
         "colour": "linear-gradient(63deg, rgba(50, 255, 0,1) 0%, rgba(180, 255, 162,1) 50%, rgba(50, 255, 0,1) 100%)"
+    },
+    {
+        "name": "Godtier Pack",
+        "levels": [
+            "Godtier Decode",
+            "Godtier Never Clear",
+            "Dr Godtierspect"
+        ],
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,255,255,0) 50%, rgba(255,245,0,1) 100%)"
     }
 ]
