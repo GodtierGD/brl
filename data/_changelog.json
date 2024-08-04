@@ -574,5 +574,14 @@
 		"from_rank": null,
 		"above": "xirai",
 		"below": "Rizzing Baby Gronk"
+	},
+	{
+		"date": 1722790964,
+		"action": "lowered",
+		"name": "br",
+		"to_rank": 78,
+		"from_rank": 49,
+		"above": "The Brainrot Drink",
+		"below": "Kai Rizz"
 	}
 ]
