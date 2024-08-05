@@ -727,5 +727,14 @@
 		"from_rank": 39,
 		"above": "br",
 		"below": "drakescapes"
+	},
+	{
+		"date": 1722817378,
+		"action": "lowered",
+		"name": "tidal_tonk",
+		"to_rank": 98,
+		"from_rank": 97,
+		"above": null,
+		"below": "br"
 	}
 ]
