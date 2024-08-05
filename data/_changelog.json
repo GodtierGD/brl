@@ -736,5 +736,14 @@
 		"from_rank": 97,
 		"above": null,
 		"below": "br"
+	},
+	{
+		"date": 1722817659,
+		"action": "raised",
+		"name": "sleepmaxxing",
+		"to_rank": 22,
+		"from_rank": 43,
+		"above": "brainrot_fantasy",
+		"below": "Ean Skibidi Circles"
 	}
 ]
