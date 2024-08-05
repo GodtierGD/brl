@@ -988,5 +988,14 @@
 		"from_rank": null,
 		"above": "skibby_tower",
 		"below": "skibidi_sigma_pomni"
+	},
+	{
+		"date": 1722898043,
+		"action": "lowered",
+		"name": "metroz_is_furry",
+		"to_rank": 54,
+		"from_rank": 37,
+		"above": "metroz_is_sigma",
+		"below": "skibby_tower"
 	}
 ]
