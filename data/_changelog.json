@@ -925,5 +925,14 @@
 		"from_rank": null,
 		"above": "brain_eating_amoeba",
 		"below": "Diddy Masacre"
+	},
+	{
+		"date": 1722889967,
+		"action": "placed",
+		"name": "skibidi_rizz",
+		"to_rank": 15,
+		"from_rank": null,
+		"above": "pomni",
+		"below": "eatdatskibidi445"
 	}
 ]
