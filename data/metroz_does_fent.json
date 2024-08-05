@@ -2,10 +2,19 @@
 	"id": 108673105,
 	"name": "MetroZ does fent",
 	"author": "MetroZ21",
-	"creators": ["JET"],
+	"creators": [
+		"JET"
+	],
 	"verifier": "MetroZ",
 	"verification": "https://www.youtube.com/watch?v=oXhP6XZdGM0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "ItzMaxiz",
+			"link": "https://youtu.be/58X7OP_0gDg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
