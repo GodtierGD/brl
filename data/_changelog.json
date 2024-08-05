@@ -979,5 +979,14 @@
 		"from_rank": null,
 		"above": "gyatstep",
 		"below": "nojus Paradise"
+	},
+	{
+		"date": 1722892397,
+		"action": "placed",
+		"name": "da_rat_coin",
+		"to_rank": 53,
+		"from_rank": null,
+		"above": "skibby_tower",
+		"below": "skibidi_sigma_pomni"
 	}
 ]
