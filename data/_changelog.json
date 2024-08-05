@@ -889,5 +889,14 @@
 		"from_rank": null,
 		"above": "Forbidden Pomni",
 		"below": "Skibidi Lights"
+	},
+	{
+		"date": 1722865979,
+		"action": "placed",
+		"name": "skill_issue",
+		"to_rank": 63,
+		"from_rank": null,
+		"above": "silent_freddy",
+		"below": "supersigma"
 	}
 ]
