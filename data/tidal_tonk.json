@@ -69,6 +69,13 @@
 			"link": "https://www.youtube.com/watch?v=ZRAZcg7jWHk&t=444s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "pmba2",
+			"link": "https://youtu.be/xRI0t_sJwfI?si=TJkSaGTL3BMBaH3l",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

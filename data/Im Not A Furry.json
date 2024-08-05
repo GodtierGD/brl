@@ -195,6 +195,13 @@
 			"link": "https://youtu.be/LfNI8A5MpiA",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "jForcGD",
+			"link": "https://youtu.be/-ISgHwPucbE?si=Bhsh6ujRym-8Yhgh",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
