@@ -2,10 +2,19 @@
 	"id": 108667422,
 	"name": "Brainrot Fantasy",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/kWO8vPnCNGc?si=eng9P4Xhp7n33IGl",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "DapperDucko",
+			"link": "https://youtu.be/d5KeNFD-RB4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

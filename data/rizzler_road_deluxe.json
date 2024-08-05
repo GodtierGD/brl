@@ -2,10 +2,19 @@
 	"id": 108613137,
 	"name": "Rizzler Road Deluxe",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/LHJs3Qc-0gU?si=Q_VEgczsEGBqY0pP",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "WannaBeGMD",
+			"link": "https://www.youtube.com/watch?v=FxHwMHPzLyI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
