@@ -51,6 +51,13 @@
 			"link": "https://www.youtube.com/watch?v=0fmTjwjXqZo&t=123s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Exwhy",
+			"link": "https://youtu.be/P9NAianwomU?si=DLn9oDzKKI2U-Fd0",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
