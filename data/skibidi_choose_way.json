@@ -52,6 +52,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/5M7SSL_5zB8?t=66",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

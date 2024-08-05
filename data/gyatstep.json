@@ -46,6 +46,18 @@
 			"link": "https://www.youtube.com/watch?v=Hv90yza027g",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "LetsKaki",
+			"link": "https://www.youtube.com/watch?v=EnxAM88WjJU&ab_channel=LetsKaki",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "clearestbrick56",
+			"link": "https://youtu.be/Vo-bD3Zv5gE",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
