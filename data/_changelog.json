@@ -718,5 +718,14 @@
 		"from_rank": null,
 		"above": "limbo_by_rizzcap",
 		"below": "skibby_tower"
+	},
+	{
+		"date": 1722817299,
+		"action": "lowered",
+		"name": "tidal_tonk",
+		"to_rank": 97,
+		"from_rank": 39,
+		"above": "br",
+		"below": "drakescapes"
 	}
 ]
