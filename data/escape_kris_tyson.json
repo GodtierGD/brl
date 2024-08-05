@@ -2,10 +2,21 @@
 	"id": 108475728,
 	"name": "escape kris tyson",
 	"author": "thebluestinky",
-	"creators": ["thebluestinky"," twitch chat"],
+	"creators": [
+		"thebluestinky",
+		" twitch chat"
+	],
 	"verifier": "Skeepye",
 	"verification": "https://www.youtube.com/watch?v=1NWgDe2AX00",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "gdyakob",
+			"link": "https://youtu.be/4h9XoN20KZU?si=5JyYHd0rYy2fzRdI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

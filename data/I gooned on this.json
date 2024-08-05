@@ -1,12 +1,20 @@
 {
-    "id": 108444614,
-    "name": "I gooned on this lev",
-    "author": "phonebook",
-    "creators": ["phonebook"],
-    "verifier": "oipty",
-    "verification": "https://youtu.be/uivgBbGWQDk?si=z9nZhFgS-l9hWFDU",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108444614,
+	"name": "I gooned on this lev",
+	"author": "phonebook",
+	"creators": [
+		"phonebook"
+	],
+	"verifier": "oipty",
+	"verification": "https://youtu.be/uivgBbGWQDk?si=z9nZhFgS-l9hWFDU",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "WannaBeGMD",
+			"link": "https://www.youtube.com/watch?v=vO9dQcobrCU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
