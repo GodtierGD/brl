@@ -2,10 +2,19 @@
 	"id": 108662633,
 	"name": "501 Cigarettes",
 	"author": "schitt",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://www.youtube.com/watch?v=8aO5F6JAgZs",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Heyitsmepier",
+			"link": "https://www.youtube.com/watch?v=G36FPZoXLfg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
