@@ -1,12 +1,20 @@
 {
-    "id": 108536692,
-    "name": "pov you jelq too hard",
-    "author": "zFurious",
-    "creators": ["zFurious"],
-    "verifier": "zFurious",
-    "verification": "https://www.youtube.com/watch?v=R6KthF1WOSU",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108536692,
+	"name": "pov you jelq too hard",
+	"author": "zFurious",
+	"creators": [
+		"zFurious"
+	],
+	"verifier": "zFurious",
+	"verification": "https://www.youtube.com/watch?v=R6KthF1WOSU",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "Robotic",
+			"link": "https://youtu.be/phDTvj4aKJY?si=8f2xry6kw3jUY3V1",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
