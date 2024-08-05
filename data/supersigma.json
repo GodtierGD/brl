@@ -2,10 +2,19 @@
 	"id": 108653345,
 	"name": "Supersigma",
 	"author": "HocoDev",
-	"creators": ["108653345"],
+	"creators": [
+		"108653345"
+	],
 	"verifier": "Whyrings",
 	"verification": "https://www.youtube.com/watch?v=JpZNEcL5Xsg",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "heolo",
+			"link": "https://youtu.be/5M7SSL_5zB8?t=462",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
