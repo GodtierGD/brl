@@ -961,5 +961,14 @@
 		"from_rank": null,
 		"above": "unskibidi",
 		"below": "Diddy Masacre"
+	},
+	{
+		"date": 1722891872,
+		"action": "raised",
+		"name": "metroz_does_fent",
+		"to_rank": 9,
+		"from_rank": 57,
+		"above": "Caine Circles",
+		"below": "narcton_diablo_ean"
 	}
 ]
