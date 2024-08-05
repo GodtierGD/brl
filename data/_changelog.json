@@ -745,5 +745,14 @@
 		"from_rank": 43,
 		"above": "brainrot_fantasy",
 		"below": "Ean Skibidi Circles"
+	},
+	{
+		"date": 1722818188,
+		"action": "raised",
+		"name": "nojus_never_clear",
+		"to_rank": 76,
+		"from_rank": 95,
+		"above": "freaky tower",
+		"below": "Pipad Circles"
 	}
 ]
