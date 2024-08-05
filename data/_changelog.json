@@ -880,5 +880,14 @@
 		"from_rank": null,
 		"above": "Pomni Circles",
 		"below": "i_miss_the_skibidi"
+	},
+	{
+		"date": 1722865549,
+		"action": "placed",
+		"name": "escape_kris_tyson",
+		"to_rank": 55,
+		"from_rank": null,
+		"above": "Forbidden Pomni",
+		"below": "Skibidi Lights"
 	}
 ]
