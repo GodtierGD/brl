@@ -2,10 +2,19 @@
 	"id": 108539853,
 	"name": "me when skibdi gang",
 	"author": "RanOutOfUsers",
-	"creators": ["RanOutOfUsers"],
+	"creators": [
+		"RanOutOfUsers"
+	],
 	"verifier": "RanOutOfUsers",
 	"verification": "https://youtu.be/S_Un3SwQcp4?si=M1kajZIFfaHuCeFs",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "ptyw",
+			"link": "https://youtu.be/1mn0hV-97B0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
