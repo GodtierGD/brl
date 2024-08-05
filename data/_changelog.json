@@ -898,5 +898,14 @@
 		"from_rank": null,
 		"above": "silent_freddy",
 		"below": "supersigma"
+	},
+	{
+		"date": 1722877582,
+		"action": "lowered",
+		"name": "metroz_does_fent",
+		"to_rank": 62,
+		"from_rank": 9,
+		"above": "skill_issue",
+		"below": "supersigma"
 	}
 ]
