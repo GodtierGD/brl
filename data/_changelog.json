@@ -907,5 +907,14 @@
 		"from_rank": 9,
 		"above": "skill_issue",
 		"below": "supersigma"
+	},
+	{
+		"date": 1722877776,
+		"action": "raised",
+		"name": "metroz_does_fent",
+		"to_rank": 53,
+		"from_rank": 62,
+		"above": "Skibidi Lights",
+		"below": "fent_friday"
 	}
 ]
