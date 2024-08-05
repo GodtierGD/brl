@@ -772,5 +772,14 @@
 		"from_rank": null,
 		"above": "diddy_poop_brick",
 		"below": "skibidi_fire_redux"
+	},
+	{
+		"date": 1722824335,
+		"action": "placed",
+		"name": "criztal_gusher",
+		"to_rank": 1,
+		"from_rank": null,
+		"above": "pov you jelq too hard",
+		"below": null
 	}
 ]
