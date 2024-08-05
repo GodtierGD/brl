@@ -285,6 +285,13 @@
 			"link": "https://youtu.be/o2iRYLVCn5A",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "therealfive",
+			"link": "https://youtu.be/ZDyycwXbGiI?si=iYJLiRaNCIp0GB8G",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
