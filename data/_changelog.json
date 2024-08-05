@@ -916,5 +916,14 @@
 		"from_rank": 62,
 		"above": "Skibidi Lights",
 		"below": "fent_friday"
+	},
+	{
+		"date": 1722889750,
+		"action": "placed",
+		"name": "mrbeastchallnge_omg",
+		"to_rank": 35,
+		"from_rank": null,
+		"above": "brain_eating_amoeba",
+		"below": "Diddy Masacre"
 	}
 ]
