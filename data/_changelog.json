@@ -790,5 +790,14 @@
 		"from_rank": null,
 		"above": "xirai_bossfight",
 		"below": "rizzler_road_deluxe"
+	},
+	{
+		"date": 1722824624,
+		"action": "placed",
+		"name": "me_when_skibdi_gang",
+		"to_rank": 2,
+		"from_rank": null,
+		"above": "pov you jelq too hard",
+		"below": "criztal_gusher"
 	}
 ]
