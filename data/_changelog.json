@@ -997,5 +997,14 @@
 		"from_rank": 37,
 		"above": "metroz_is_sigma",
 		"below": "skibby_tower"
+	},
+	{
+		"date": 1722901974,
+		"action": "placed",
+		"name": "jax_circles",
+		"to_rank": 35,
+		"from_rank": null,
+		"above": "kris tyson challenge",
+		"below": "EDGE MEW MAXXER 5000"
 	}
 ]
