@@ -1114,5 +1114,14 @@
 		"from_rank": null,
 		"above": "irish_party",
 		"below": "Dr Godtierspect"
+	},
+	{
+		"date": 1722978818,
+		"action": "lowered",
+		"name": "skibidi_house",
+		"to_rank": 90,
+		"from_rank": 54,
+		"above": "Jaxagarasu Rebirth",
+		"below": "krisscapes"
 	}
 ]
