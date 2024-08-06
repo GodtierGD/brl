@@ -8,16 +8,10 @@
 		" fl0ppGD",
 		" metroz"
 	],
-	"verifier": "metroz",
-	"verification": "https://www.youtube.com/watch?v=G6DW4mZvf7w",
+	"verifier": "ItzMaxiz",
+	"verification": "https://youtu.be/321730fSb2A",
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
-		{
-			"user": "ItzMaxiz",
-			"link": "https://youtu.be/321730fSb2A",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

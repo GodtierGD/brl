@@ -5,16 +5,10 @@
 	"creators": [
 		"JET"
 	],
-	"verifier": "MetroZ",
-	"verification": "https://www.youtube.com/watch?v=oXhP6XZdGM0",
+	"verifier": "ItzMaxiz",
+	"verification": "https://youtu.be/58X7OP_0gDg",
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
-		{
-			"user": "ItzMaxiz",
-			"link": "https://youtu.be/58X7OP_0gDg",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }
