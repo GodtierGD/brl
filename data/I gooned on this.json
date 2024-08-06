@@ -10,11 +10,5 @@
 	"percentToQualify": "100",
 	"password": "None",
 	"records": [
-		{
-			"user": "WannaBeGMD",
-			"link": "https://www.youtube.com/watch?v=vO9dQcobrCU",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }
