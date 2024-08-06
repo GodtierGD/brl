@@ -1042,5 +1042,14 @@
 		"from_rank": 9,
 		"above": "brain_eating_amoeba",
 		"below": "mrbeastchallnge_omg"
+	},
+	{
+		"date": 1722914609,
+		"action": "placed",
+		"name": "maxizscapes_baba_boy",
+		"to_rank": 55,
+		"from_rank": null,
+		"above": "metroz_is_furry",
+		"below": "skibby_tower"
 	}
 ]
