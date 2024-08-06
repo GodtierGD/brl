@@ -1051,5 +1051,14 @@
 		"from_rank": null,
 		"above": "metroz_is_furry",
 		"below": "skibby_tower"
+	},
+	{
+		"date": 1722915760,
+		"action": "placed",
+		"name": "dont_rizz_the_rizzle",
+		"to_rank": 30,
+		"from_rank": null,
+		"above": "skibidiest_level",
+		"below": "brainrot_fantasy"
 	}
 ]
