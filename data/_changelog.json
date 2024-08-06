@@ -1087,5 +1087,14 @@
 		"from_rank": null,
 		"above": "predator_circles",
 		"below": "rizzler_road_deluxe"
+	},
+	{
+		"date": 1722968457,
+		"action": "raised",
+		"name": "rizz_me_like_ba_ba",
+		"to_rank": 7,
+		"from_rank": 10,
+		"above": "BRAINPOWERRRRRR",
+		"below": "low_taper_fade"
 	}
 ]
