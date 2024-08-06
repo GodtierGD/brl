@@ -1033,5 +1033,14 @@
 		"from_rank": null,
 		"above": "supersigma",
 		"below": "Godtier Never Clear"
+	},
+	{
+		"date": 1722904733,
+		"action": "lowered",
+		"name": "metroz_does_fent",
+		"to_rank": 39,
+		"from_rank": 9,
+		"above": "brain_eating_amoeba",
+		"below": "mrbeastchallnge_omg"
 	}
 ]
