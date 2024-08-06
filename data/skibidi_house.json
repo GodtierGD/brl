@@ -2,10 +2,19 @@
 	"id": 108707598,
 	"name": "Skibidi House",
 	"author": "HarleyHexl",
-	"creators": ["HarleyHexl"],
+	"creators": [
+		"HarleyHexl"
+	],
 	"verifier": "HarleyHexl",
 	"verification": "https://www.youtube.com/watch?v=485E5BiCueY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "ItzMaxiz",
+			"link": "https://youtu.be/ZwtVmp8iEyI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
