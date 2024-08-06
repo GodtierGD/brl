@@ -1141,5 +1141,14 @@
 		"from_rank": 53,
 		"above": "can_i_get_a_mc_brain",
 		"below": "skibidi_hell"
+	},
+	{
+		"date": 1722981408,
+		"action": "raised",
+		"name": "Skibidi Lights",
+		"to_rank": 45,
+		"from_rank": 59,
+		"above": "metroz_is_fat",
+		"below": "Rizzler Road"
 	}
 ]
