@@ -2,10 +2,19 @@
 	"id": 108630313,
 	"name": "Skibidi Fire Redux",
 	"author": "SouperMediocre",
-	"creators": ["SouperMediocre"],
+	"creators": [
+		"SouperMediocre"
+	],
 	"verifier": "SouperMediocre",
 	"verification": "https://www.youtube.com/watch?v=F9Ks2ZecbYI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "gdyakob",
+			"link": "https://youtu.be/Na9TzI8Z2vY?si=zZytXt0IuIQjyfpX",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
