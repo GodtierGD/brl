@@ -1060,5 +1060,14 @@
 		"from_rank": null,
 		"above": "skibidiest_level",
 		"below": "brainrot_fantasy"
+	},
+	{
+		"date": 1722916383,
+		"action": "placed",
+		"name": "rizz_me_like_ba_ba",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "balio_challskibidi_v",
+		"below": "Caine Circles"
 	}
 ]
