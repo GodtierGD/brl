@@ -76,6 +76,12 @@
 			"link": "https://www.youtube.com/watch?v=WJi32pBDrt4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "adongus",
+			"link": "https://youtu.be/BVtAMNJKOSU",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

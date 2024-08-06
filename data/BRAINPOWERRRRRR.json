@@ -1,12 +1,20 @@
 {
-    "id": 108537167,
-    "name": "BRAINPOWERRRRRR",
-    "author": "EpicSparkZ",
-    "creators": ["EpicSparkZ"],
-    "verifier": "EpicSparkZ",
-    "verification": "https://youtu.be/QSzHxZA0sNQ?si=AHq7vfufLRxzK3uT",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108537167,
+	"name": "BRAINPOWERRRRRR",
+	"author": "EpicSparkZ",
+	"creators": [
+		"EpicSparkZ"
+	],
+	"verifier": "EpicSparkZ",
+	"verification": "https://youtu.be/QSzHxZA0sNQ?si=AHq7vfufLRxzK3uT",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "WannaBeGMD",
+			"link": "https://www.youtube.com/watch?v=Kd3hLDk1yY8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
