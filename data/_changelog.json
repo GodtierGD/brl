@@ -1015,5 +1015,14 @@
 		"from_rank": null,
 		"above": "xirai",
 		"below": "skibidi_choose_way"
+	},
+	{
+		"date": 1722902795,
+		"action": "placed",
+		"name": "dorabe_memore",
+		"to_rank": 63,
+		"from_rank": null,
+		"above": "skibidi_fire_redux",
+		"below": "Forbidden Pomni"
 	}
 ]
