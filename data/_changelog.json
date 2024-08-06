@@ -1132,5 +1132,14 @@
 		"from_rank": 23,
 		"above": "skibidi_hell",
 		"below": "genzimibra"
+	},
+	{
+		"date": 1722980095,
+		"action": "lowered",
+		"name": "skibidi_sigma_pomni",
+		"to_rank": 102,
+		"from_rank": 53,
+		"above": "can_i_get_a_mc_brain",
+		"below": "skibidi_hell"
 	}
 ]
