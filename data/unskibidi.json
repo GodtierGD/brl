@@ -2,10 +2,19 @@
 	"id": 108612682,
 	"name": "unskibidi",
 	"author": "chimp",
-	"creators": ["chimp"],
+	"creators": [
+		"chimp"
+	],
 	"verifier": "chimp",
 	"verification": "https://www.youtube.com/watch?v=0jBxlN4eEI4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/Q2oG1JluL8I?si=4bgE1_s45AWjH75o",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
