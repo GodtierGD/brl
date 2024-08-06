@@ -1105,5 +1105,14 @@
 		"from_rank": null,
 		"above": "unskibidi",
 		"below": "Diddy Masacre"
+	},
+	{
+		"date": 1722974587,
+		"action": "placed",
+		"name": "turkish_circles",
+		"to_rank": 85,
+		"from_rank": null,
+		"above": "irish_party",
+		"below": "Dr Godtierspect"
 	}
 ]
