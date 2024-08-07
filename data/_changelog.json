@@ -1177,5 +1177,14 @@
 		"from_rank": null,
 		"above": "fent_friday",
 		"below": "the_gigachad_varient"
+	},
+	{
+		"date": 1723064327,
+		"action": "placed",
+		"name": "maxiz_troll_face",
+		"to_rank": 14,
+		"from_rank": null,
+		"above": "skibidi_showdown",
+		"below": "I gooned on this"
 	}
 ]
