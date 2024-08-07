@@ -10,5 +10,11 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
+		{
+			"user": "MrPenguin",
+			"link": "https://www.youtube.com/watch?v=Mo8lXzomFm8",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
