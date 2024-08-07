@@ -2,10 +2,19 @@
 	"id": 108672383,
 	"name": "BRAINgoober",
 	"author": "EpicSparkZ",
-	"creators": ["EpicSparkZ"],
+	"creators": [
+		"EpicSparkZ"
+	],
 	"verifier": "WannaBeGMD",
 	"verification": "https://www.youtube.com/watch?v=dm8bRPv2cl4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/4P_SeCLoskM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
