@@ -52,6 +52,18 @@
 			"link": "https://www.youtube.com/watch?v=yKe9Dy5Jamk&ab_channel=LetsKaki",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "sary",
+			"link": "https://youtu.be/DuhxNfPA1BA?si=g2Tfw6IjNe1w_owA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Runke",
+			"link": "https://youtu.be/SHOjAwdWxvg?si=wXe1nsvQH9sVUJmE",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
