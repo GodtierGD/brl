@@ -1168,5 +1168,14 @@
 		"from_rank": null,
 		"above": "fanum rizzer",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1723064262,
+		"action": "placed",
+		"name": "skibidi_not_top_1_fr",
+		"to_rank": 60,
+		"from_rank": null,
+		"above": "fent_friday",
+		"below": "the_gigachad_varient"
 	}
 ]
