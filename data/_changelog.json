@@ -1186,5 +1186,14 @@
 		"from_rank": null,
 		"above": "skibidi_showdown",
 		"below": "I gooned on this"
+	},
+	{
+		"date": 1723064461,
+		"action": "placed",
+		"name": "she_was_turkish",
+		"to_rank": 21,
+		"from_rank": null,
+		"above": "rizzler_road_deluxe",
+		"below": "skibidi_limbo_circle"
 	}
 ]
