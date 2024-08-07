@@ -64,6 +64,13 @@
 			"link": "https://youtu.be/krR2Xf2pHJo",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "TacosGmd",
+			"link": "https://youtu.be/pf2lGcHZF2g?si=Krn4oIKPn3OVYNZJ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
