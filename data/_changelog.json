@@ -1195,5 +1195,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_deluxe",
 		"below": "skibidi_limbo_circle"
+	},
+	{
+		"date": 1723066470,
+		"action": "raised",
+		"name": "OiOiOi",
+		"to_rank": 70,
+		"from_rank": 82,
+		"above": "skibidi ohio my rizz",
+		"below": "evil_skibidibi"
 	}
 ]
