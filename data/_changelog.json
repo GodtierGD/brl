@@ -1429,5 +1429,14 @@
 		"from_rank": null,
 		"above": "rizzmemory",
 		"below": "skibidi_fire_redux"
+	},
+	{
+		"date": 1723155952,
+		"action": "placed",
+		"name": "creator_point_tycoon",
+		"to_rank": 70,
+		"from_rank": null,
+		"above": "skibidi_not_top_1_fr",
+		"below": "miami_gyattline"
 	}
 ]
