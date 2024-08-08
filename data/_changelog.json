@@ -1375,5 +1375,14 @@
 		"from_rank": 101,
 		"above": "Thinking Circles",
 		"below": "Jaxagarasu Rebirth"
+	},
+	{
+		"date": 1723154239,
+		"action": "placed",
+		"name": "miami_gyattline",
+		"to_rank": 66,
+		"from_rank": null,
+		"above": "skibidi_not_top_1_fr",
+		"below": "the_gigachad_varient"
 	}
 ]
