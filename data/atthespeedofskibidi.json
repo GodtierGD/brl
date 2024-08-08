@@ -2,10 +2,19 @@
 	"id": 108671232,
 	"name": "atthespeedofSKIBIDI",
 	"author": "pmba2",
-	"creators": ["pmba2"],
+	"creators": [
+		"pmba2"
+	],
 	"verifier": "pmba2",
 	"verification": "https://youtu.be/x99nDIXqnKc?si=bB3nLlkAre1Spjy4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "ItzMaxiz",
+			"link": "https://youtu.be/XcPorpGi7yY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
