@@ -1267,5 +1267,14 @@
 		"from_rank": null,
 		"above": "she_was_turkish",
 		"below": "rizz_me_like_ba_ba"
+	},
+	{
+		"date": 1723151786,
+		"action": "placed",
+		"name": "jack_of_all_trades",
+		"to_rank": 70,
+		"from_rank": null,
+		"above": "skibidi_fire_redux",
+		"below": "dorabe_memore"
 	}
 ]
