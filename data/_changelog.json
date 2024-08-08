@@ -1231,5 +1231,14 @@
 		"from_rank": 18,
 		"above": "Rizzing Baby Gronk",
 		"below": "gyatstep"
+	},
+	{
+		"date": 1723151028,
+		"action": "placed",
+		"name": "travis_gyatt",
+		"to_rank": 45,
+		"from_rank": null,
+		"above": "atthespeedofskibidi",
+		"below": "I hate the skippidi"
 	}
 ]
