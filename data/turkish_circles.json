@@ -7,5 +7,13 @@
 	"verification": "https://youtu.be/YkT0j0KsvMg",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "TacosGmd",
+			"link": "https://youtu.be/XZ_rAC117xc?si=F05U56p21HAm5Y3G",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
