@@ -1222,5 +1222,14 @@
 		"from_rank": 23,
 		"above": "BRAINPOWERRRRRR",
 		"below": "low_taper_fade"
+	},
+	{
+		"date": 1723109563,
+		"action": "lowered",
+		"name": "skibidi_rizz",
+		"to_rank": 120,
+		"from_rank": 18,
+		"above": "Rizzing Baby Gronk",
+		"below": "gyatstep"
 	}
 ]
