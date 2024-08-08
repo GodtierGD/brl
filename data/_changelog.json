@@ -1294,5 +1294,14 @@
 		"from_rank": null,
 		"above": "narcton_diablo_ean",
 		"below": "BRAINPOWERRRRRR"
+	},
+	{
+		"date": 1723152406,
+		"action": "lowered",
+		"name": "she_was_turkish",
+		"to_rank": 35,
+		"from_rank": 23,
+		"above": "skibidiest_level",
+		"below": "skibidi_journey"
 	}
 ]
