@@ -1339,5 +1339,14 @@
 		"from_rank": null,
 		"above": "diddy_poop_brick",
 		"below": "skibidi_fire_redux"
+	},
+	{
+		"date": 1723153317,
+		"action": "placed",
+		"name": "brain_nourishment",
+		"to_rank": 83,
+		"from_rank": null,
+		"above": "skill_issue",
+		"below": "supersigma"
 	}
 ]
