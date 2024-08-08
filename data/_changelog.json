@@ -1312,5 +1312,14 @@
 		"from_rank": null,
 		"above": "BRAINPOWERRRRRR",
 		"below": "maxiz_never_sigma"
+	},
+	{
+		"date": 1723152570,
+		"action": "raised",
+		"name": "Jaxagarasu Rebirth",
+		"to_rank": 87,
+		"from_rank": 101,
+		"above": "Thinking Circles",
+		"below": "shreks beefy toes"
 	}
 ]
