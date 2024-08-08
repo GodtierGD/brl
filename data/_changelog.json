@@ -1393,5 +1393,14 @@
 		"from_rank": null,
 		"above": "sleepmaxxing",
 		"below": "Ean Skibidi Circles"
+	},
+	{
+		"date": 1723154514,
+		"action": "placed",
+		"name": "21core",
+		"to_rank": 87,
+		"from_rank": null,
+		"above": "dawn_dish_soap",
+		"below": "skill_issue"
 	}
 ]
