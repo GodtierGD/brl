@@ -1348,5 +1348,14 @@
 		"from_rank": null,
 		"above": "skill_issue",
 		"below": "supersigma"
+	},
+	{
+		"date": 1723153623,
+		"action": "placed",
+		"name": "free_robux",
+		"to_rank": 98,
+		"from_rank": null,
+		"above": "irish_party",
+		"below": "turkish_circles"
 	}
 ]
