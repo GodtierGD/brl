@@ -1411,5 +1411,14 @@
 		"from_rank": null,
 		"above": "she_was_turkish",
 		"below": "skibidi_journey"
+	},
+	{
+		"date": 1723154982,
+		"action": "placed",
+		"name": "super_skibidi_toilet",
+		"to_rank": 34,
+		"from_rank": null,
+		"above": "brainrot_fantasy",
+		"below": "sleepmaxxing"
 	}
 ]
