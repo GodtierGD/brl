@@ -196,6 +196,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "pmba2",
+			"link": "https://youtu.be/VUfAK_pYqq0?si=eCzh6DfRoH23GjVT",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

@@ -2,10 +2,19 @@
 	"id": 108762522,
 	"name": "Brain Nourishment",
 	"author": "ElytraBlox",
-	"creators": ["ElytraBlox"],
+	"creators": [
+		"ElytraBlox"
+	],
 	"verifier": "ElytraBlox",
 	"verification": "https://www.youtube.com/watch?v=DYkj4KQkpRE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "ElytraBlox",
+			"link": "https://youtu.be/DYkj4KQkpRE?si=IA4iuvkMHjzO4u2_",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
