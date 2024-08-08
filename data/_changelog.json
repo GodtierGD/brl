@@ -1384,5 +1384,14 @@
 		"from_rank": null,
 		"above": "skibidi_not_top_1_fr",
 		"below": "the_gigachad_varient"
+	},
+	{
+		"date": 1723154352,
+		"action": "placed",
+		"name": "dr_disrescapes",
+		"to_rank": 32,
+		"from_rank": null,
+		"above": "sleepmaxxing",
+		"below": "Ean Skibidi Circles"
 	}
 ]
