@@ -1465,5 +1465,14 @@
 		"from_rank": 98,
 		"above": "idksterling_cahll",
 		"below": "skibidi_fire_redux"
+	},
+	{
+		"date": 1723161071,
+		"action": "raised",
+		"name": "skibidi_never_clear",
+		"to_rank": 18,
+		"from_rank": 74,
+		"above": "501_cigarettes",
+		"below": "skibidi_showdown"
 	}
 ]
