@@ -1321,5 +1321,14 @@
 		"from_rank": 101,
 		"above": "Thinking Circles",
 		"below": "shreks beefy toes"
+	},
+	{
+		"date": 1723152897,
+		"action": "placed",
+		"name": "dawn_dish_soap",
+		"to_rank": 83,
+		"from_rank": null,
+		"above": "silent_freddy",
+		"below": "skill_issue"
 	}
 ]
