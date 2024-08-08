@@ -1456,5 +1456,14 @@
 		"from_rank": null,
 		"above": "skibidi_house",
 		"below": "krisscapes"
+	},
+	{
+		"date": 1723160001,
+		"action": "raised",
+		"name": "Skibidi Pomni X",
+		"to_rank": 79,
+		"from_rank": 98,
+		"above": "idksterling_cahll",
+		"below": "skibidi_fire_redux"
 	}
 ]
