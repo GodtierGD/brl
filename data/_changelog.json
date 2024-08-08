@@ -1240,5 +1240,14 @@
 		"from_rank": null,
 		"above": "atthespeedofskibidi",
 		"below": "I hate the skippidi"
+	},
+	{
+		"date": 1723151252,
+		"action": "placed",
+		"name": "skibidi_never_clear",
+		"to_rank": 65,
+		"from_rank": null,
+		"above": "Forbidden Pomni",
+		"below": "escape_kris_tyson"
 	}
 ]
