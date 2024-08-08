@@ -1303,5 +1303,14 @@
 		"from_rank": 23,
 		"above": "skibidiest_level",
 		"below": "skibidi_journey"
+	},
+	{
+		"date": 1723152497,
+		"action": "placed",
+		"name": "kid_named_finger",
+		"to_rank": 9,
+		"from_rank": null,
+		"above": "BRAINPOWERRRRRR",
+		"below": "maxiz_never_sigma"
 	}
 ]
