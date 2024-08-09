@@ -2,10 +2,19 @@
 	"id": 108649153,
 	"name": "Skibidi Limbo Circle",
 	"author": "Ikaruni",
-	"creators": ["Ikaruni"],
+	"creators": [
+		"Ikaruni"
+	],
 	"verifier": "Ikaruni",
 	"verification": "https://www.youtube.com/watch?v=3pCd6OJ1YxQ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Montrix",
+			"link": "https://youtu.be/De-18ZALkHI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
