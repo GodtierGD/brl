@@ -1501,5 +1501,14 @@
 		"from_rank": null,
 		"above": "skibidi_showdown",
 		"below": "maxiz_troll_face"
+	},
+	{
+		"date": 1723209680,
+		"action": "placed",
+		"name": "skibid_chal_s02_e3w",
+		"to_rank": 100,
+		"from_rank": null,
+		"above": "Dr Godtierspect",
+		"below": "Thinking Circles"
 	}
 ]
