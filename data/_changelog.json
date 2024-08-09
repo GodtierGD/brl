@@ -1492,5 +1492,14 @@
 		"from_rank": 38,
 		"above": "interestedvalde",
 		"below": "OhioRizzSigma X"
+	},
+	{
+		"date": 1723209407,
+		"action": "placed",
+		"name": "british_circles",
+		"to_rank": 17,
+		"from_rank": null,
+		"above": "skibidi_showdown",
+		"below": "maxiz_troll_face"
 	}
 ]
