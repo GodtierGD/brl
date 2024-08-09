@@ -1537,5 +1537,14 @@
 		"from_rank": null,
 		"above": "Thinking Circles",
 		"below": "Jaxagarasu Rebirth"
+	},
+	{
+		"date": 1723211517,
+		"action": "placed",
+		"name": "diddy_sticky_balls_x",
+		"to_rank": 28,
+		"from_rank": null,
+		"above": "xirai_bossfight",
+		"below": "rizzler_road_deluxe"
 	}
 ]
