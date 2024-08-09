@@ -2,10 +2,19 @@
 	"id": 108721094,
 	"name": "famil guyt funny",
 	"author": "schitt",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/EFMzeap9hL0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "ItzMaxiz",
+			"link": "https://youtu.be/t5zMNAd979k",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
