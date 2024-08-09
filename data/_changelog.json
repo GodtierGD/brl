@@ -1474,5 +1474,14 @@
 		"from_rank": 74,
 		"above": "501_cigarettes",
 		"below": "skibidi_showdown"
+	},
+	{
+		"date": 1723200953,
+		"action": "raised",
+		"name": "jack_of_all_trades",
+		"to_rank": 68,
+		"from_rank": 77,
+		"above": "limbo_by_rizzcap",
+		"below": "maxizscapes_baba_boy"
 	}
 ]
