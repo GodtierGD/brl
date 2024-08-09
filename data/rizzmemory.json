@@ -2,10 +2,19 @@
 	"id": 108749385,
 	"name": "RIZZMEMORY",
 	"author": "CVison",
-	"creators": ["CVison"],
+	"creators": [
+		"CVison"
+	],
 	"verifier": "CVison",
 	"verification": "https://www.youtube.com/watch?v=04D_0K68V4Y",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/S2CAxqoR1cE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
