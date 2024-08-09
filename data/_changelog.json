@@ -1510,5 +1510,14 @@
 		"from_rank": null,
 		"above": "Dr Godtierspect",
 		"below": "Thinking Circles"
+	},
+	{
+		"date": 1723210081,
+		"action": "placed",
+		"name": "mogger_facility",
+		"to_rank": 100,
+		"from_rank": null,
+		"above": "skibid_chal_s02_e3w",
+		"below": "Thinking Circles"
 	}
 ]
