@@ -1564,5 +1564,14 @@
 		"from_rank": 27,
 		"above": "narcton_diablo_ean",
 		"below": "quient_raibow"
+	},
+	{
+		"date": 1723230905,
+		"action": "placed",
+		"name": "brain_rot_final_boss",
+		"to_rank": 15,
+		"from_rank": null,
+		"above": "balio_challskibidi_v",
+		"below": "Caine Circles"
 	}
 ]
