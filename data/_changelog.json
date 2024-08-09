@@ -1546,5 +1546,14 @@
 		"from_rank": null,
 		"above": "xirai_bossfight",
 		"below": "rizzler_road_deluxe"
+	},
+	{
+		"date": 1723211537,
+		"action": "raised",
+		"name": "maxizscapes_baba_boy",
+		"to_rank": 37,
+		"from_rank": 69,
+		"above": "sleepmaxxing",
+		"below": "dr_disrescapes"
 	}
 ]
