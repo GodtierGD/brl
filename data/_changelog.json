@@ -1573,5 +1573,14 @@
 		"from_rank": null,
 		"above": "balio_challskibidi_v",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1723236727,
+		"action": "placed",
+		"name": "the_brainrot_collab",
+		"to_rank": 53,
+		"from_rank": null,
+		"above": "unskibidi",
+		"below": "what_the_ba_ba_sigma"
 	}
 ]
