@@ -1555,5 +1555,14 @@
 		"from_rank": 69,
 		"above": "sleepmaxxing",
 		"below": "dr_disrescapes"
+	},
+	{
+		"date": 1723221930,
+		"action": "raised",
+		"name": "rizzler_road_deluxe",
+		"to_rank": 12,
+		"from_rank": 27,
+		"above": "narcton_diablo_ean",
+		"below": "quient_raibow"
 	}
 ]
