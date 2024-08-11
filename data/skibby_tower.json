@@ -2,10 +2,19 @@
 	"id": 108624849,
 	"name": "skibby tower",
 	"author": "CyanZX",
-	"creators": ["CyanZX"],
+	"creators": [
+		"CyanZX"
+	],
 	"verifier": "CyanGD",
 	"verification": "https://youtu.be/heBHa0ajOUw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/iWjhgVcleTE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
