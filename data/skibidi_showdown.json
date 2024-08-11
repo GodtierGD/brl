@@ -2,10 +2,19 @@
 	"id": 108629577,
 	"name": "Skibidi Showdown",
 	"author": "littlecarson",
-	"creators": ["wushady"],
+	"creators": [
+		"wushady"
+	],
 	"verifier": "carson_r_09",
 	"verification": "https://youtu.be/PNjVYzdTW7M",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/RXVEjf2muTk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
