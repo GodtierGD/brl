@@ -1627,5 +1627,14 @@
 		"from_rank": null,
 		"above": "low_taper_fade",
 		"below": "fanum rizzer"
+	},
+	{
+		"date": 1723345594,
+		"action": "placed",
+		"name": "maxiz_gambling_addic",
+		"to_rank": 23,
+		"from_rank": null,
+		"above": "eatdatskibidi445",
+		"below": "501_cigarettes"
 	}
 ]
