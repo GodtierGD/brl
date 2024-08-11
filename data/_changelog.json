@@ -1618,5 +1618,14 @@
 		"from_rank": null,
 		"above": "brain_rot_final_boss",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1723345267,
+		"action": "placed",
+		"name": "make_wushady_mod",
+		"to_rank": 5,
+		"from_rank": null,
+		"above": "low_taper_fade",
+		"below": "fanum rizzer"
 	}
 ]
