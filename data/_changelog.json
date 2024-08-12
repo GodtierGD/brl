@@ -1663,5 +1663,14 @@
 		"from_rank": null,
 		"above": "maxizscapes_baba_boy",
 		"below": "dr_disrescapes"
+	},
+	{
+		"date": 1723500267,
+		"action": "placed",
+		"name": "roblox_rizz_tycoon",
+		"to_rank": 96,
+		"from_rank": null,
+		"above": "supersigma",
+		"below": "silent_membrane"
 	}
 ]
