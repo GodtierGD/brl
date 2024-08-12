@@ -1726,5 +1726,14 @@
 		"from_rank": null,
 		"above": "maxiz_never_sigma",
 		"below": "low_taper_fade"
+	},
+	{
+		"date": 1723502565,
+		"action": "raised",
+		"name": "skibidi_fire_redux",
+		"to_rank": 76,
+		"from_rank": 90,
+		"above": "Rizz Challenge",
+		"below": "Grimace is shaking"
 	}
 ]
