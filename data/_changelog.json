@@ -1654,5 +1654,14 @@
 		"from_rank": null,
 		"above": "pomni",
 		"below": "eatdatskibidi445"
+	},
+	{
+		"date": 1723500057,
+		"action": "placed",
+		"name": "rainbow_rot",
+		"to_rank": 40,
+		"from_rank": null,
+		"above": "maxizscapes_baba_boy",
+		"below": "dr_disrescapes"
 	}
 ]
