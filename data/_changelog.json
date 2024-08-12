@@ -1690,5 +1690,14 @@
 		"from_rank": null,
 		"above": "splurge_chalace",
 		"below": "famil_guyt_funny"
+	},
+	{
+		"date": 1723500621,
+		"action": "placed",
+		"name": "carson_never_clear",
+		"to_rank": 15,
+		"from_rank": null,
+		"above": "maxiz_baby_gronk_rizz",
+		"below": "Caine Circles"
 	}
 ]
