@@ -1717,5 +1717,14 @@
 		"from_rank": null,
 		"above": "pomni",
 		"below": "alpha_arc"
+	},
+	{
+		"date": 1723501113,
+		"action": "placed",
+		"name": "jax_o_bot",
+		"to_rank": 7,
+		"from_rank": null,
+		"above": "maxiz_never_sigma",
+		"below": "low_taper_fade"
 	}
 ]
