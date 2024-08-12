@@ -1753,5 +1753,14 @@
 		"from_rank": null,
 		"above": "kid_named_finger",
 		"below": "maxiz_never_sigma"
+	},
+	{
+		"date": 1723504815,
+		"action": "raised",
+		"name": "unskibidi",
+		"to_rank": 46,
+		"from_rank": 64,
+		"above": "dr_disrescapes",
+		"below": "Ean Skibidi Circles"
 	}
 ]
