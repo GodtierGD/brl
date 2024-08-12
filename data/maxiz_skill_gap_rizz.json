@@ -2,10 +2,19 @@
 	"id": 108924659,
 	"name": "Maxiz Skill Gap Rizz",
 	"author": "ItzMaxiz",
-	"creators": ["ItzMaxiz"],
+	"creators": [
+		"ItzMaxiz"
+	],
 	"verifier": "ItzMaxiz",
 	"verification": "https://youtu.be/laZtXsjyICA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/7N5xXAeSog8?si=HZCD0kRMut0c4YMN",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
