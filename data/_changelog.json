@@ -1708,5 +1708,14 @@
 		"from_rank": null,
 		"above": "diddy_poop_brick",
 		"below": "rizzmemory"
+	},
+	{
+		"date": 1723500919,
+		"action": "placed",
+		"name": "maxiz_skill_gap_rizz",
+		"to_rank": 28,
+		"from_rank": null,
+		"above": "pomni",
+		"below": "alpha_arc"
 	}
 ]
