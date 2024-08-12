@@ -1744,5 +1744,14 @@
 		"from_rank": null,
 		"above": "BRAINPOWERRRRRR",
 		"below": "splurge_chalace_z"
+	},
+	{
+		"date": 1723503950,
+		"action": "placed",
+		"name": "maxiz_mewing_streak",
+		"to_rank": 9,
+		"from_rank": null,
+		"above": "kid_named_finger",
+		"below": "maxiz_never_sigma"
 	}
 ]
