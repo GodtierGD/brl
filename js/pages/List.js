@@ -130,6 +130,7 @@ export default {
                     </p>
                     <h3>Level Requirements<h3>
                     <p>
+                        Test
                     </p>
                 </div>
             </div>
