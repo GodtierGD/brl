@@ -1789,5 +1789,14 @@
 		"from_rank": 23,
 		"above": "carson_never_clear",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1723524063,
+		"action": "placed",
+		"name": "gavin_eat_bossfight",
+		"to_rank": 40,
+		"from_rank": null,
+		"above": "xirai_bossfight",
+		"below": "diddy_sticky_balls_x"
 	}
 ]
