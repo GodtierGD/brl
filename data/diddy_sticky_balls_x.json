@@ -2,10 +2,19 @@
 	"id": 108837516,
 	"name": "DIDDY STICKY BALLS X",
 	"author": "diexx",
-	"creators": ["diexx"],
+	"creators": [
+		"diexx"
+	],
 	"verifier": "diexx",
 	"verification": "https://www.youtube.com/watch?v=ZyE8Ei3dsq0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "TimmyTheThirddd",
+			"link": "https://www.youtube.com/watch?v=B1uzDw2CWWc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
