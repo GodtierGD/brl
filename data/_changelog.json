@@ -1762,5 +1762,14 @@
 		"from_rank": 64,
 		"above": "dr_disrescapes",
 		"below": "Ean Skibidi Circles"
+	},
+	{
+		"date": 1723512063,
+		"action": "lowered",
+		"name": "escape_kris_tyson",
+		"to_rank": 95,
+		"from_rank": 89,
+		"above": "diddy_poop_brick",
+		"below": "ilovedashspiderpart2"
 	}
 ]
