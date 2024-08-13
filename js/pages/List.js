@@ -105,25 +105,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Completion MUST have clicks, with should be audible throughout the whole Completion/ Verification.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Completion MUST have at least one death before the completion attempt. If it is on the first attempt and obviously shown that apon entering the level then it is exempt from this rule.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Completions or Verifications MUST be uploaded in the format of a youtube video. If it is a top 10 it must have a raw version of the completion attempt attached to the video.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        If on mobile, you MUST show taps on screen alongside audible clicks that are consistent enough in volume.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Cheat indicator is REQUIRED if a modmenu with the feature is being used, otherwise it is YOUR responsibility to mention the modmenu used within your completion or the hacks used.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        NO Noclip Accuracy. NO Physics Bypass. CBF is allowed on the circumstance that it is mentioned in the video or description of the video of the completion or verification.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Please show the attempt count in the level stats menu before ending recording.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
