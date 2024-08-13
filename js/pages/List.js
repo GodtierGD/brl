@@ -128,12 +128,47 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
-                    <h3>Level Requirements<h3>
-                    </p>
+                    <h3>Level Rules</h3>
+                    <p>
+                        JOIN THE DISCORD TO SUBMIT LEVELS TO THE LIST (VERIFICATIONS)
                     </p>
                     <p>
-                        Test
+                        For a level to place it must be harder than the level placed at #100. We will not be accepting any levels that are easier than the top 100.
                     </p>
+                    <p>
+                        Level MUST be at least 31 seconds long. No shorter. If It is shorter than 31 seconds or "Medium" length it will not be accepted on the list.
+                    </p>
+                    <p>
+                        Copying levels outside the list is NOT permitted, we wish for originality. You may however remake already existing levels BUT AGAIN do not directly copy an already existing level.
+                    </p>
+                    <p>
+                        Layouts will NOT be accepted onto the list. Please put some effort into the decoration. It doesn't have to be amazing or anything just fill in the blocks and make structures please.
+                    </p>
+                    <p>
+                        Secret ways or altered routes will NOT be allowed on the list. Please complete the level in the intended route and patch every secret way.
+                    </p>
+                    <p>
+                        If you're using an LDM/ULDM of a level it must be approved by a moderator first. Please be sure that the copy is OK by making sure with our staff.
+                    </p>
+                    <p>
+                        To AVOID making this a spam challenge the MAX CPS ALLOWED ON A BRL LEVEL IS 10 CPS. Please abide by this rule.
+                    </p>
+                    <p>
+                        If the level has a non-newgrounds song (nong), then the youtube video MUST include a download link for the nong song.
+                    </p>
+                    <p>
+                        No extremely chokepoint based levels like sf challenges or completely spam for extremely long periods of time.
+                    </p>
+                    <p>
+                        Levels have to be LISTED to be placed. UNLISTED levels will NOT be placed on the brl.
+                    </p>
+                    <p>
+                        Maximum level length: 10 minutes. No auto levels.
+                    </p>
+                    <p>
+                        No 2player levels are allowed on the list. STRICTLY NO NSFW.
+                    </p>
+                    <p>
                 </div>
             </div>
         </main>
