@@ -114,7 +114,7 @@ export default {
                         Completions or Verifications MUST be uploaded in the format of a youtube video. If it is a top 10 it must have a raw version of the completion attempt attached to the video.
                     </p>
                     <p>
-                        If on mobile, you MUST show taps on screen alongside audible clicks that are consistent enough in volume.
+                        If on mobile, you MUST show taps on screen alongside audible clicks that are consistent enough in volume. No clickbots allowed.
                     </p>
                     <p>
                         Cheat indicator is REQUIRED if a modmenu with the feature is being used, otherwise it is YOUR responsibility to mention the modmenu used within your completion or the hacks used.
@@ -127,6 +127,9 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                    <h3>Level Requirements<h3>
+                    <p>
                     </p>
                 </div>
             </div>
