@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/7dyynykQawA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Exwhy",
+			"link": "https://youtu.be/JwU86oSNXFk?si=kp_B4A_9Ps_oWzYo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
