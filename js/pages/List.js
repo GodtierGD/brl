@@ -160,6 +160,9 @@ export default {
                         No extremely chokepoint based levels like sf challenges or completely spam for extremely long periods of time.
                     </p>
                     <p>
+                        Avoid making images with over 500 objects in the geometrize mod, it causes levels to get removed off of the servers and breaks ids.
+                    </p>
+                    <p>
                         Levels have to be LISTED to be placed. UNLISTED levels will NOT be placed on the brl.
                     </p>
                     <p>
