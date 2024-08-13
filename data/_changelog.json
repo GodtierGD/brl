@@ -1816,5 +1816,14 @@
 		"from_rank": 33,
 		"above": "maxiz_troll_face",
 		"below": "groommaxxing"
+	},
+	{
+		"date": 1723526226,
+		"action": "raised",
+		"name": "alpha_arc",
+		"to_rank": 21,
+		"from_rank": 31,
+		"above": "brain_rot_final_boss",
+		"below": "maxiz_baby_gronk_rizz"
 	}
 ]
