@@ -1798,5 +1798,14 @@
 		"from_rank": null,
 		"above": "xirai_bossfight",
 		"below": "diddy_sticky_balls_x"
+	},
+	{
+		"date": 1723525151,
+		"action": "raised",
+		"name": "what_the_ba_ba_sigma",
+		"to_rank": 32,
+		"from_rank": 64,
+		"above": "pomni",
+		"below": "maxiz_skill_gap_rizz"
 	}
 ]
