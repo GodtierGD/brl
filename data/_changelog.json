@@ -1807,5 +1807,14 @@
 		"from_rank": 64,
 		"above": "pomni",
 		"below": "maxiz_skill_gap_rizz"
+	},
+	{
+		"date": 1723525335,
+		"action": "raised",
+		"name": "pomni",
+		"to_rank": 24,
+		"from_rank": 33,
+		"above": "maxiz_troll_face",
+		"below": "groommaxxing"
 	}
 ]
