@@ -166,7 +166,7 @@ export default {
                         Levels have to be LISTED to be placed. UNLISTED levels will NOT be placed on the brl.
                     </p>
                     <p>
-                        Maximum level length: 10 minutes. No auto levels.
+                        Maximum level length: 15 minutes. No auto levels.
                     </p>
                     <p>
                         No 2player levels are allowed on the list. STRICTLY NO NSFW.
