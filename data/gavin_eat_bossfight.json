@@ -2,10 +2,19 @@
 	"id": 108981276,
 	"name": "gavin eat bossfight",
 	"author": "m3nt411",
-	"creators": ["soapswasher"],
+	"creators": [
+		"soapswasher"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/nsWrSF7jN-A?si=olLadhtISId-89JC",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tgof",
+			"link": "https://youtu.be/wwop91EAuZQ?si=wACMmvMbKjzmn95Q",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
