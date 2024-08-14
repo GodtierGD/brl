@@ -1825,5 +1825,14 @@
 		"from_rank": 31,
 		"above": "brain_rot_final_boss",
 		"below": "maxiz_baby_gronk_rizz"
+	},
+	{
+		"date": 1723596338,
+		"action": "placed",
+		"name": "chickens_for_schitt",
+		"to_rank": 32,
+		"from_rank": null,
+		"above": "maxiz_skill_gap_rizz",
+		"below": "eatdatskibidi445"
 	}
 ]
