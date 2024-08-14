@@ -1843,5 +1843,14 @@
 		"from_rank": null,
 		"above": "skibidi_showdown",
 		"below": "maxiz_troll_face"
+	},
+	{
+		"date": 1723596903,
+		"action": "placed",
+		"name": "rizz_circles",
+		"to_rank": 18,
+		"from_rank": null,
+		"above": "I gooned on this",
+		"below": "Caine Circles"
 	}
 ]
