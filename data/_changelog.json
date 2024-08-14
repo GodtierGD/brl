@@ -1852,5 +1852,14 @@
 		"from_rank": null,
 		"above": "I gooned on this",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1723597541,
+		"action": "placed",
+		"name": "maxiz_vs_rednax",
+		"to_rank": 16,
+		"from_rank": null,
+		"above": "narcton_diablo_ean",
+		"below": "rizzler_road_deluxe"
 	}
 ]
