@@ -2,10 +2,19 @@
 	"id": 109010381,
 	"name": "chickens for schitt",
 	"author": "pdophilegaming",
-	"creators": ["pdophilegaming"],
+	"creators": [
+		"pdophilegaming"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/QMj_O3_w6Fc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/oBEtHtkCKqA?si=0zPozKnr6GcQo4TA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
