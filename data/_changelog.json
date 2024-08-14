@@ -1834,5 +1834,14 @@
 		"from_rank": null,
 		"above": "maxiz_skill_gap_rizz",
 		"below": "eatdatskibidi445"
+	},
+	{
+		"date": 1723596546,
+		"action": "placed",
+		"name": "i_love_double_clicks",
+		"to_rank": 27,
+		"from_rank": null,
+		"above": "skibidi_showdown",
+		"below": "maxiz_troll_face"
 	}
 ]
