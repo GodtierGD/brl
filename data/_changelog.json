@@ -1870,5 +1870,14 @@
 		"from_rank": 19,
 		"above": "quient_raibow",
 		"below": "BRAINPOWERRRRRR"
+	},
+	{
+		"date": 1723679845,
+		"action": "placed",
+		"name": "gooftier_never_clear",
+		"to_rank": 17,
+		"from_rank": null,
+		"above": "maxiz_vs_rednax",
+		"below": "rizzler_road_deluxe"
 	}
 ]
