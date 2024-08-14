@@ -2,10 +2,19 @@
 	"id": 108948010,
 	"name": "carson never clear",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/1dUU4pCdp_Q?si=OEnQi9grYcgpPFaY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/QKXoj5cQiNk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

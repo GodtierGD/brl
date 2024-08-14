@@ -2,10 +2,19 @@
 	"id": 108730479,
 	"name": "quient raibow",
 	"author": "schitt",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/2bhbaq3xst8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/QKXoj5cQiNk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

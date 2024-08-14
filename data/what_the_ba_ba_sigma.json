@@ -2,7 +2,9 @@
 	"id": 108984986,
 	"name": "What The Ba ba Sigma",
 	"author": "m3nt411",
-	"creators": ["ItzMaxiz"],
+	"creators": [
+		"ItzMaxiz"
+	],
 	"verifier": "ItzMaxiz",
 	"verification": "https://youtu.be/FADKXoRlLZ8",
 	"percentToQualify": 100,
@@ -11,6 +13,12 @@
 		{
 			"user": "m3nt411",
 			"link": "https://youtu.be/PkgusBoPo0o?si=l71gj3Da57-GEdEr",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "sary",
+			"link": "https://youtu.be/QKXoj5cQiNk",
 			"percent": 100,
 			"hz": 360
 		}
