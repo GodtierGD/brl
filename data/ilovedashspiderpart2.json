@@ -2,10 +2,20 @@
 	"id": 108922463,
 	"name": "ILOVEDASHSPIDERPART2",
 	"author": "AshleyDiesAlone",
-	"creators": ["AshleyDiesAlone"," GDMartitoma"],
+	"creators": [
+		"AshleyDiesAlone",
+		" GDMartitoma"
+	],
 	"verifier": "AshleyDiesAlone",
 	"verification": "https://youtu.be/oZvjvvlOQek",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "corneilius",
+			"link": "https://www.youtube.com/watch?v=4s38zHpRlNI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
