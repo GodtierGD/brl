@@ -1888,5 +1888,14 @@
 		"from_rank": null,
 		"above": "skibidi_never_clear",
 		"below": "skibidi_showdown"
+	},
+	{
+		"date": 1723681735,
+		"action": "placed",
+		"name": "brainrot_circles_x",
+		"to_rank": 1,
+		"from_rank": null,
+		"above": "pov you jelq too hard",
+		"below": null
 	}
 ]
