@@ -1879,5 +1879,14 @@
 		"from_rank": null,
 		"above": "maxiz_vs_rednax",
 		"below": "rizzler_road_deluxe"
+	},
+	{
+		"date": 1723680002,
+		"action": "placed",
+		"name": "godtier_circles",
+		"to_rank": 31,
+		"from_rank": null,
+		"above": "skibidi_never_clear",
+		"below": "skibidi_showdown"
 	}
 ]
