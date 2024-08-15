@@ -189,6 +189,13 @@
 			"link": "https://youtu.be/zd0ol-Maqls",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "MintFT",
+			"link": "https://youtu.be/kiIOqQazp4I?si=TO8ANJ_cOIuFISkc",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
