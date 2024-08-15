@@ -1897,5 +1897,14 @@
 		"from_rank": null,
 		"above": "pov you jelq too hard",
 		"below": null
+	},
+	{
+		"date": 1723681923,
+		"action": "placed",
+		"name": "xtinct_thug_shake",
+		"to_rank": 54,
+		"from_rank": null,
+		"above": "dr_disrescapes",
+		"below": "unskibidi"
 	}
 ]
