@@ -151,7 +151,7 @@ export default {
                         If you're using an LDM/ULDM of a level it must be approved by a moderator first. Please be sure that the copy is OK by making sure with our staff.
                     </p>
                     <p>
-                        To AVOID making this a spam challenge the MAX CPS ALLOWED ON A BRL LEVEL IS 10 CPS. Please abide by this rule.
+                        CANNOT BE FULLY SPAM BASED, we do not want this to be a spam challenge. Please abide by this rule.
                     </p>
                     <p>
                         If the level has a non-newgrounds song (nong), then the youtube video MUST include a download link for the nong song.
