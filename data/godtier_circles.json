@@ -2,10 +2,19 @@
 	"id": 109033865,
 	"name": "Godtier Circles",
 	"author": "ItzMaxiz",
-	"creators": ["ItzMaxiz"],
+	"creators": [
+		"ItzMaxiz"
+	],
 	"verifier": "ItzMaxiz",
 	"verification": "https://youtu.be/0o77uSvCfnE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/AACEoQSyZ3U?si=bcALhpccAgSA6yVz",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

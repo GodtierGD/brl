@@ -2,10 +2,19 @@
 	"id": 108995447,
 	"name": "Xtinct Thug Shake",
 	"author": "TheBlueStinky",
-	"creators": ["TheBlueStinky"],
+	"creators": [
+		"TheBlueStinky"
+	],
 	"verifier": "ItzMaxiz",
 	"verification": "https://youtu.be/S8I0YZV5agg",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/8B7d3RmUzb4?si=1pfnWm2hG_MUMRmI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

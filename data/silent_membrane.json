@@ -2,10 +2,19 @@
 	"id": 109086006,
 	"name": "Silent Membrane",
 	"author": "m3nt411",
-	"creators": ["chimp"],
+	"creators": [
+		"chimp"
+	],
 	"verifier": "chimp",
 	"verification": "https://www.youtube.com/watch?v=D-mmobc1dy0YouTube",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/sFk_WSETyl4?si=brwxExAKq49-T2bU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
