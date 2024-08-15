@@ -1906,5 +1906,14 @@
 		"from_rank": null,
 		"above": "dr_disrescapes",
 		"below": "unskibidi"
+	},
+	{
+		"date": 1723682081,
+		"action": "placed",
+		"name": "make_reqx_admin",
+		"to_rank": 18,
+		"from_rank": null,
+		"above": "gooftier_never_clear",
+		"below": "rizzler_road_deluxe"
 	}
 ]
