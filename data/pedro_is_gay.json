@@ -2,10 +2,19 @@
 	"id": 108768446,
 	"name": "pedro is gay",
 	"author": "K1TTYP",
-	"creators": ["Therealfive"],
+	"creators": [
+		"Therealfive"
+	],
 	"verifier": "K1TTYP",
 	"verification": "https://www.youtube.com/watch?v=WDZ9tCBSLBQ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/QZ-H8S7OU58?si=tGJAVJD2YeNV9LfI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
