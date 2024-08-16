@@ -139,7 +139,7 @@ export default {
                         Level MUST be at least 31 seconds long. No shorter. If It is shorter than 31 seconds or "Medium" length it will not be accepted on the list.
                     </p>
                     <p>
-                        Copying levels outside the list is NOT permitted, we wish for originality. You may however remake already existing levels BUT AGAIN do not directly copy an already existing level.
+                        Copying levels outside the list is NOT permitted, we wish for originality. You may however remake already existing levels BUT AGAIN do not directly copy an already existing level. Only copy other levels UNDER THE PERMISSION of it's creator(s), make sure to CREDIT them aswell.
                     </p>
                     <p>
                         Layouts will NOT be accepted onto the list. Please put some effort into the decoration. It doesn't have to be amazing or anything just fill in the blocks and make structures please.
