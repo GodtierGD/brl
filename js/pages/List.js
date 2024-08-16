@@ -139,9 +139,6 @@ export default {
                         Level MUST be at least 31 seconds long. No shorter. If It is shorter than 31 seconds or "Medium" length it will not be accepted on the list.
                     </p>
                     <p>
-                        Up to 1 random trigger can be used in a level for gameplay, and the lowest chance allowed is 50%
-                    </p>
-                    <p>
                         Copying levels outside the list is NOT permitted, we wish for originality. You may however remake already existing levels BUT AGAIN do not directly copy an already existing level.
                     </p>
                     <p>
@@ -173,6 +170,9 @@ export default {
                     </p>
                     <p>
                         Maximum level length: 15 minutes. No auto levels.
+                    </p>
+                    <p>
+                        STRICTLY NO RANDOM TRIGGERS.
                     </p>
                     <p>
                         No 2player levels are allowed on the list. STRICTLY NO NSFW.
