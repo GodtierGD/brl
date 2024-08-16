@@ -2,10 +2,19 @@
 	"id": 108830644,
 	"name": "Skibid Chal s02 e3w",
 	"author": "PdophileGaming",
-	"creators": ["PdophileGaming"],
+	"creators": [
+		"PdophileGaming"
+	],
 	"verifier": "zoonk",
 	"verification": "https://youtu.be/z5oqDuRVPWc?si=6JOsgHA1dP9o4MVw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/cE-9THT5lnI?si=5wQZsEsF4XiG4P9e",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
