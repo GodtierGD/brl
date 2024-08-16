@@ -1942,5 +1942,14 @@
 		"from_rank": 5,
 		"above": "zbrainrot",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1723848476,
+		"action": "lowered",
+		"name": "rainbow_rot",
+		"to_rank": 87,
+		"from_rank": 57,
+		"above": "freedumbohgyat",
+		"below": "Rizz Challenge"
 	}
 ]
