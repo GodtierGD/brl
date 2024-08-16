@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/QvM_kFX2K8k",
 	"percentToQualify": 100,
 	"password": "definetly didnt steal the verificatioN!!! sorry maxiz xd",
-	"records" : []
+	"records": [
+		{
+			"user": "ItzMaxiz",
+			"link": "https://youtu.be/X8JbBPuHBV0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
