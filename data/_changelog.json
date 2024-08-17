@@ -2005,5 +2005,14 @@
 		"from_rank": 6,
 		"above": "maxiz_never_sigma",
 		"below": "jax_o_bot"
+	},
+	{
+		"date": 1723912696,
+		"action": "raised",
+		"name": "brainrot_circles_x",
+		"to_rank": 8,
+		"from_rank": 9,
+		"above": "jax_o_bot",
+		"below": "fanum rizzer"
 	}
 ]
