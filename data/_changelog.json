@@ -1960,5 +1960,14 @@
 		"from_rank": 7,
 		"above": "brainrot_circles_x",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1723859948,
+		"action": "raised",
+		"name": "Rizzler Road",
+		"to_rank": 61,
+		"from_rank": 77,
+		"above": "dont_rizz_the_rizzle",
+		"below": "brainrot_fantasy"
 	}
 ]
