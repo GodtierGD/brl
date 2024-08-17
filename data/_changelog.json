@@ -1987,5 +1987,14 @@
 		"from_rank": 28,
 		"above": "rizzler_road_deluxe",
 		"below": "quient_raibow"
+	},
+	{
+		"date": 1723909483,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 3,
+		"from_rank": 8,
+		"above": "femboyrotted",
+		"below": "pov you jelq too hard"
 	}
 ]
