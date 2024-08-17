@@ -2041,5 +2041,14 @@
 		"from_rank": null,
 		"above": "maxiz_skill_gap_rizz",
 		"below": "chickens_for_schitt"
+	},
+	{
+		"date": 1723919297,
+		"action": "placed",
+		"name": "maxiz_like_godtiers",
+		"to_rank": 12,
+		"from_rank": null,
+		"above": "maxiz_mewing_streak",
+		"below": "maxiz_never_sigma"
 	}
 ]
