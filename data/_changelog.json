@@ -1978,5 +1978,14 @@
 		"from_rank": 31,
 		"above": "I gooned on this",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1723860286,
+		"action": "raised",
+		"name": "alpha_arc",
+		"to_rank": 18,
+		"from_rank": 28,
+		"above": "rizzler_road_deluxe",
+		"below": "quient_raibow"
 	}
 ]
