@@ -2059,5 +2059,14 @@
 		"from_rank": 138,
 		"above": "dawn_dish_soap",
 		"below": "21core"
+	},
+	{
+		"date": 1724000810,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 2,
+		"from_rank": 3,
+		"above": "pov you jelq too hard",
+		"below": "maxiz_never_sleeps"
 	}
 ]
