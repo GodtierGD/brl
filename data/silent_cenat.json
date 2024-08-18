@@ -2,10 +2,20 @@
 	"id": 108834636,
 	"name": "Silent Cenat",
 	"author": "KyuiCuiii",
-	"creators": ["KyuiCuiii"," Thaddeus Smith"],
+	"creators": [
+		"KyuiCuiii",
+		" Thaddeus Smith"
+	],
 	"verifier": "zoonk",
 	"verification": "https://youtu.be/JBkCBDLq2o4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/QGygiqxsIdE?si=xo8VY5pZwxJDHXNK",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

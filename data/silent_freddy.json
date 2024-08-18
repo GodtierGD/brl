@@ -2,10 +2,19 @@
 	"id": 108605494,
 	"name": "Silent Freddy",
 	"author": "Meloneater1",
-	"creators": ["Meloneater1"],
+	"creators": [
+		"Meloneater1"
+	],
 	"verifier": "Meloneater1",
 	"verification": "https://youtu.be/T2DxRpHAkWI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/95w29Z36Ng0?si=zvni5N3Hc8F_UvCB",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
