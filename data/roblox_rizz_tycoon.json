@@ -2,10 +2,19 @@
 	"id": 108936779,
 	"name": "Roblox Rizz Tycoon",
 	"author": "ARandomBall",
-	"creators": ["ARandomBall"],
+	"creators": [
+		"ARandomBall"
+	],
 	"verifier": "ARandomBall",
 	"verification": "https://youtu.be/ElqNw2L7qQs?si=vjBU_6C-JxweoqbS",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "diexx",
+			"link": "https://youtu.be/mY_z3LmcfY0?si=7WGvGhs1pYDj5iPI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
