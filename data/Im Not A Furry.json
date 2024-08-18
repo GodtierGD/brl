@@ -220,6 +220,13 @@
 			"link": "https://www.youtube.com/watch?v=eppVJiYMl8Q",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Mint the Sigma",
+			"link": "https://youtu.be/jsfmJzqTgoI?si=IoF6GQzgXEaT3fKR",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
