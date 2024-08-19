@@ -2095,5 +2095,14 @@
 		"from_rank": 94,
 		"above": "freaky tower",
 		"below": "Pipad Circles"
+	},
+	{
+		"date": 1724029786,
+		"action": "raised",
+		"name": "xirai_bossfight",
+		"to_rank": 52,
+		"from_rank": 53,
+		"above": "gavin_eat_bossfight",
+		"below": "diddy_sticky_balls_x"
 	}
 ]
