@@ -172,7 +172,7 @@ export default {
                         Maximum level length: 15 minutes. No auto levels.
                     </p>
                     <p>
-                        STRICTLY NO RANDOM TRIGGERS.
+                        STRICTLY NO RANDOM TRIGGERS. No Triple or Quad Clicks allowed, and obviously NOTHING HIGHER.
                     </p>
                     <p>
                         No 2player levels are allowed on the list. STRICTLY NO NSFW.
