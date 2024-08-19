@@ -2086,5 +2086,14 @@
 		"from_rank": 120,
 		"above": "eminem_is_a_m_n_m",
 		"below": "irish_party"
+	},
+	{
+		"date": 1724029226,
+		"action": "lowered",
+		"name": "jack_of_all_trades",
+		"to_rank": 150,
+		"from_rank": 94,
+		"above": "freaky tower",
+		"below": "Pipad Circles"
 	}
 ]
