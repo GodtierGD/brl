@@ -2,10 +2,19 @@
 	"id": 108799762,
 	"name": "21core",
 	"author": "KyuiCuiii",
-	"creators": ["KyuiCuiii"],
+	"creators": [
+		"KyuiCuiii"
+	],
 	"verifier": "zoonk",
 	"verification": "https://youtu.be/I1WcRAwh8uk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/4_wKnQEHSWU?si=-RBI4IID9SsCHwtn",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
