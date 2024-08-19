@@ -2104,5 +2104,14 @@
 		"from_rank": 53,
 		"above": "gavin_eat_bossfight",
 		"below": "diddy_sticky_balls_x"
+	},
+	{
+		"date": 1724029917,
+		"action": "lowered",
+		"name": "i_love_double_clicks",
+		"to_rank": 46,
+		"from_rank": 34,
+		"above": "famil_guyt_funny",
+		"below": "rizz_me_like_ba_ba"
 	}
 ]
