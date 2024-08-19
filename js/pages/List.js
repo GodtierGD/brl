@@ -133,6 +133,9 @@ export default {
                         JOIN THE DISCORD TO SUBMIT LEVELS TO THE LIST (VERIFICATIONS)
                     </p>
                     <p>
+                        MUST contain brainrot or have something in it that links with the theme of brainrot. Fire In The Hole, Normal Faces, etc.
+                    </p>
+                    <p>
                         For a level to place it must be harder than the level placed at #100. We will not be accepting any levels that are easier than the top 100.
                     </p>
                     <p>
