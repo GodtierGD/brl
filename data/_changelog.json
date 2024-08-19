@@ -2113,5 +2113,14 @@
 		"from_rank": 34,
 		"above": "famil_guyt_funny",
 		"below": "rizz_me_like_ba_ba"
+	},
+	{
+		"date": 1724030192,
+		"action": "raised",
+		"name": "quicksis_limit",
+		"to_rank": 35,
+		"from_rank": 41,
+		"above": "godtier_circles",
+		"below": "skibidi_showdown"
 	}
 ]
