@@ -2122,5 +2122,14 @@
 		"from_rank": 41,
 		"above": "godtier_circles",
 		"below": "skibidi_showdown"
+	},
+	{
+		"date": 1724182067,
+		"action": "placed",
+		"name": "escape_ethiopia_real",
+		"to_rank": 13,
+		"from_rank": null,
+		"above": "maxiz_mewing_streak",
+		"below": "maxiz_like_godtiers"
 	}
 ]
