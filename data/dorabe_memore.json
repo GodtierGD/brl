@@ -2,10 +2,19 @@
 	"id": 108695572,
 	"name": "Dorabe Memore",
 	"author": "FoxFish",
-	"creators": ["FoxFish"],
+	"creators": [
+		"FoxFish"
+	],
 	"verifier": "FoxFish",
 	"verification": "https://www.youtube.com/watch?v=0G7x9mj14mU",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/5fOGPee8NlY?si=oOdWgExvjF4QCY0r",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

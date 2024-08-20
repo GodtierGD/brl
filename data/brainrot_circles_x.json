@@ -2,10 +2,20 @@
 	"id": 108984153,
 	"name": "Brainrot Circles X",
 	"author": "zFurious",
-	"creators": ["MaXiflOYy"," zFurious"],
+	"creators": [
+		"MaXiflOYy",
+		" zFurious"
+	],
 	"verifier": "zFurious",
 	"verification": "https://www.youtube.com/watch?v=0f_djP8jEkk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/UQ0McRZdrDs?si=FCu14lM9Qe-gmV2P",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
