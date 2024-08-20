@@ -2158,5 +2158,14 @@
 		"from_rank": null,
 		"above": "BRAINPOWERRRRRR",
 		"below": "sigma_level"
+	},
+	{
+		"date": 1724182225,
+		"action": "placed",
+		"name": "rizzler_voyage",
+		"to_rank": 74,
+		"from_rank": null,
+		"above": "fanum_toilet",
+		"below": "skibidiest_level"
 	}
 ]
