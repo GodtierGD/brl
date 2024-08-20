@@ -2167,5 +2167,14 @@
 		"from_rank": null,
 		"above": "fanum_toilet",
 		"below": "skibidiest_level"
+	},
+	{
+		"date": 1724182385,
+		"action": "placed",
+		"name": "unnerfed_jax_circles",
+		"to_rank": 33,
+		"from_rank": null,
+		"above": "carson_never_clear",
+		"below": "I gooned on this"
 	}
 ]
