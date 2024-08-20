@@ -2176,5 +2176,14 @@
 		"from_rank": null,
 		"above": "carson_never_clear",
 		"below": "I gooned on this"
+	},
+	{
+		"date": 1724183043,
+		"action": "lowered",
+		"name": "zbrainrot",
+		"to_rank": 8,
+		"from_rank": 7,
+		"above": "brainrot_circles_x",
+		"below": "fanum rizzer"
 	}
 ]
