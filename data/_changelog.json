@@ -2131,5 +2131,14 @@
 		"from_rank": null,
 		"above": "maxiz_mewing_streak",
 		"below": "maxiz_like_godtiers"
+	},
+	{
+		"date": 1724182069,
+		"action": "placed",
+		"name": "grimace_circles",
+		"to_rank": 23,
+		"from_rank": null,
+		"above": "make_reqx_admin",
+		"below": "rizzler_road_deluxe"
 	}
 ]
