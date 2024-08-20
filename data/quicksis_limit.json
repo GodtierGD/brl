@@ -2,10 +2,19 @@
 	"id": 108974934,
 	"name": "Quicksi's limit",
 	"author": "AshleyDiesAlone",
-	"creators": ["AshleyDiesAlone"],
+	"creators": [
+		"AshleyDiesAlone"
+	],
 	"verifier": "AhmedGMD7",
 	"verification": "https://youtu.be/CckT556sE7M?si=LnX9PPMPtd3A8RzK",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "aitross",
+			"link": "https://youtu.be/mqXxGlScfK4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
