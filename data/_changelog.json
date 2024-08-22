@@ -2230,5 +2230,14 @@
 		"from_rank": null,
 		"above": "splurge_chalace_z",
 		"below": "kid_named_finger"
+	},
+	{
+		"date": 1724347081,
+		"action": "placed",
+		"name": "rotten_skibidi",
+		"to_rank": 71,
+		"from_rank": null,
+		"above": "the_grimace",
+		"below": "brainrot_fantasy"
 	}
 ]
