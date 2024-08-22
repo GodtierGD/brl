@@ -2194,5 +2194,14 @@
 		"from_rank": null,
 		"above": "creator_point_tycoon",
 		"below": "miami_gyattline"
+	},
+	{
+		"date": 1724346431,
+		"action": "placed",
+		"name": "diddy_creamy_balls",
+		"to_rank": 85,
+		"from_rank": null,
+		"above": "travis_gyatt",
+		"below": "I hate the skippidi"
 	}
 ]
