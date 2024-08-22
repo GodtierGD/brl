@@ -2203,5 +2203,14 @@
 		"from_rank": null,
 		"above": "travis_gyatt",
 		"below": "I hate the skippidi"
+	},
+	{
+		"date": 1724346569,
+		"action": "placed",
+		"name": "the_grimace",
+		"to_rank": 69,
+		"from_rank": null,
+		"above": "Rizzler Road",
+		"below": "brainrot_fantasy"
 	}
 ]
