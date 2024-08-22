@@ -2,10 +2,19 @@
 	"id": 108997330,
 	"name": "Maxiz Vs Rednax",
 	"author": "ItzMaxiz",
-	"creators": ["ItzMaxiz"],
+	"creators": [
+		"ItzMaxiz"
+	],
 	"verifier": "ItzMaxiz",
 	"verification": "https://youtu.be/c9T5xxNpxfI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/Goo0_3nmEGg?si=qFMz9tLSThomjub6",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
