@@ -2185,5 +2185,14 @@
 		"from_rank": 7,
 		"above": "brainrot_circles_x",
 		"below": "fanum rizzer"
+	},
+	{
+		"date": 1724346267,
+		"action": "placed",
+		"name": "gorlock_destroyer",
+		"to_rank": 102,
+		"from_rank": null,
+		"above": "creator_point_tycoon",
+		"below": "miami_gyattline"
 	}
 ]
