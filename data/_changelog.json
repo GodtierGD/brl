@@ -2248,5 +2248,14 @@
 		"from_rank": null,
 		"above": "narcton_diablo_ean",
 		"below": "maxiz_vs_rednax"
+	},
+	{
+		"date": 1724447350,
+		"action": "placed",
+		"name": "rotmoc",
+		"to_rank": 47,
+		"from_rank": null,
+		"above": "chickens_for_schitt",
+		"below": "maxiz_pee_fart_butt"
 	}
 ]
