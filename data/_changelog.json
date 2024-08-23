@@ -2275,5 +2275,14 @@
 		"from_rank": null,
 		"above": "jax_o_bot",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1724447761,
+		"action": "raised",
+		"name": "ha_ha_so_funny",
+		"to_rank": 16,
+		"from_rank": 33,
+		"above": "ball_circles",
+		"below": "kid_named_finger"
 	}
 ]
