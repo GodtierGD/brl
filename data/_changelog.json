@@ -2239,5 +2239,14 @@
 		"from_rank": null,
 		"above": "the_grimace",
 		"below": "brainrot_fantasy"
+	},
+	{
+		"date": 1724447226,
+		"action": "placed",
+		"name": "jelqing_simulator",
+		"to_rank": 28,
+		"from_rank": null,
+		"above": "narcton_diablo_ean",
+		"below": "maxiz_vs_rednax"
 	}
 ]
