@@ -2,10 +2,19 @@
 	"id": 109323016,
 	"name": "sakupen sigma",
 	"author": "dogboi320",
-	"creators": ["duckGMD"],
+	"creators": [
+		"duckGMD"
+	],
 	"verifier": "dogboi320",
 	"verification": "https://youtu.be/qdoJ2OPJl60?si=aDsTPjUPX4WQ67TK",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "TimmyTheThirddd",
+			"link": "https://youtu.be/L50eCj_Pz0M",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
