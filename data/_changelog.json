@@ -2356,5 +2356,14 @@
 		"from_rank": 63,
 		"above": "congregation 34 real",
 		"below": "fanum_toilet"
+	},
+	{
+		"date": 1724639934,
+		"action": "raised",
+		"name": "rizzler_voyage",
+		"to_rank": 67,
+		"from_rank": 82,
+		"above": "unskibidi",
+		"below": "Pomni Circles"
 	}
 ]
