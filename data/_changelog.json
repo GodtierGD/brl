@@ -2284,5 +2284,14 @@
 		"from_rank": 33,
 		"above": "ball_circles",
 		"below": "kid_named_finger"
+	},
+	{
+		"date": 1724638986,
+		"action": "placed",
+		"name": "rainbow_rot_v2",
+		"to_rank": 49,
+		"from_rank": null,
+		"above": "chickens_for_schitt",
+		"below": "rotmoc"
 	}
 ]
