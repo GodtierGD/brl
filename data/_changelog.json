@@ -2347,5 +2347,14 @@
 		"from_rank": 31,
 		"above": "grimace_circles",
 		"below": "quicksis_limit"
+	},
+	{
+		"date": 1724639886,
+		"action": "lowered",
+		"name": "gavin_eat_bossfight",
+		"to_rank": 84,
+		"from_rank": 63,
+		"above": "congregation 34 real",
+		"below": "fanum_toilet"
 	}
 ]
