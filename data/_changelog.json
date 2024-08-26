@@ -2392,5 +2392,14 @@
 		"from_rank": 75,
 		"above": "maxizscapes_baba_boy",
 		"below": "sakupen_sigma"
+	},
+	{
+		"date": 1724640160,
+		"action": "raised",
+		"name": "the_grimace",
+		"to_rank": 75,
+		"from_rank": 78,
+		"above": "maxizscapes_baba_boy",
+		"below": "sleepmaxxing"
 	}
 ]
