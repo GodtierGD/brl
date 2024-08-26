@@ -2365,5 +2365,14 @@
 		"from_rank": 82,
 		"above": "unskibidi",
 		"below": "Pomni Circles"
+	},
+	{
+		"date": 1724639989,
+		"action": "raised",
+		"name": "the_brainrot_collab",
+		"to_rank": 67,
+		"from_rank": 90,
+		"above": "rizzler_voyage",
+		"below": "Pomni Circles"
 	}
 ]
