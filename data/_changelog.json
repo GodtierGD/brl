@@ -2410,5 +2410,14 @@
 		"from_rank": 79,
 		"above": "sleepmaxxing",
 		"below": "sakupen_sigma"
+	},
+	{
+		"date": 1724640300,
+		"action": "lowered",
+		"name": "xtinct_thug_shake",
+		"to_rank": 81,
+		"from_rank": 70,
+		"above": "she_was_turkish",
+		"below": "sakupen_grimace"
 	}
 ]
