@@ -2293,5 +2293,14 @@
 		"from_rank": null,
 		"above": "chickens_for_schitt",
 		"below": "rotmoc"
+	},
+	{
+		"date": 1724639070,
+		"action": "raised",
+		"name": "xirai_bossfight",
+		"to_rank": 36,
+		"from_rank": 62,
+		"above": "carson_never_clear",
+		"below": "unnerfed_jax_circles"
 	}
 ]
