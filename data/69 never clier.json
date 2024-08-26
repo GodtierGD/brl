@@ -228,6 +228,13 @@
 			"link": "https://www.youtube.com/watch?v=vVMa4fOIH4A",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "BiVangGD",
+			"link": "https://youtu.be/q5OnuXoxjeM?si=Xd8bUom_OQHDYxkg",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
