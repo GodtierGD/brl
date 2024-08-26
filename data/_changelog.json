@@ -2401,5 +2401,14 @@
 		"from_rank": 78,
 		"above": "maxizscapes_baba_boy",
 		"below": "sleepmaxxing"
+	},
+	{
+		"date": 1724640231,
+		"action": "raised",
+		"name": "Rizzler Road",
+		"to_rank": 74,
+		"from_rank": 79,
+		"above": "sleepmaxxing",
+		"below": "sakupen_sigma"
 	}
 ]
