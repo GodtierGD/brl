@@ -2320,5 +2320,14 @@
 		"from_rank": 55,
 		"above": "skibidi_showdown",
 		"below": "groommaxxing"
+	},
+	{
+		"date": 1724639510,
+		"action": "raised",
+		"name": "kid_named_finger",
+		"to_rank": 7,
+		"from_rank": 15,
+		"above": "zbrainrot",
+		"below": "fanum rizzer"
 	}
 ]
