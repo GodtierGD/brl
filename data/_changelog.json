@@ -2374,5 +2374,14 @@
 		"from_rank": 90,
 		"above": "rizzler_voyage",
 		"below": "Pomni Circles"
+	},
+	{
+		"date": 1724640046,
+		"action": "raised",
+		"name": "rotten_skibidi",
+		"to_rank": 72,
+		"from_rank": 77,
+		"above": "sakupen_sigma",
+		"below": "dr_disrescapes"
 	}
 ]
