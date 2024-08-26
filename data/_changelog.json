@@ -2302,5 +2302,14 @@
 		"from_rank": 62,
 		"above": "carson_never_clear",
 		"below": "unnerfed_jax_circles"
+	},
+	{
+		"date": 1724639132,
+		"action": "raised",
+		"name": "quicksis_limit",
+		"to_rank": 26,
+		"from_rank": 43,
+		"above": "grimace_circles",
+		"below": "rizzler_road_deluxe"
 	}
 ]
