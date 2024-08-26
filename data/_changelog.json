@@ -2311,5 +2311,14 @@
 		"from_rank": 43,
 		"above": "grimace_circles",
 		"below": "rizzler_road_deluxe"
+	},
+	{
+		"date": 1724639185,
+		"action": "raised",
+		"name": "rizz_me_like_ba_ba",
+		"to_rank": 43,
+		"from_rank": 55,
+		"above": "skibidi_showdown",
+		"below": "groommaxxing"
 	}
 ]
