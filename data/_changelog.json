@@ -2383,5 +2383,14 @@
 		"from_rank": 77,
 		"above": "sakupen_sigma",
 		"below": "dr_disrescapes"
+	},
+	{
+		"date": 1724640116,
+		"action": "raised",
+		"name": "sleepmaxxing",
+		"to_rank": 74,
+		"from_rank": 75,
+		"above": "maxizscapes_baba_boy",
+		"below": "sakupen_sigma"
 	}
 ]
