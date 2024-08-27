@@ -2,10 +2,19 @@
 	"id": 109520784,
 	"name": "ohiorizzsigmaXYZ",
 	"author": "wushady",
-	"creators": ["wushady"],
+	"creators": [
+		"wushady"
+	],
 	"verifier": "wushady",
 	"verification": "https://youtu.be/SDSA9Du5Hss?si=9ctrypvaTWzn9ZOF",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/Q6ACWsrfdsY?si=i42rGCUuf-bZ2fbY",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

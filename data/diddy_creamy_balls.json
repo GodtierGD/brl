@@ -2,10 +2,19 @@
 	"id": 109237590,
 	"name": "DIDDY CREAMY BALLS",
 	"author": "diexx",
-	"creators": ["diexx"],
+	"creators": [
+		"diexx"
+	],
 	"verifier": "diexx",
 	"verification": "https://youtu.be/u41IVvYGzgA?si=aZrP77c_4nZSkFza",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/SkkRyyBaNK0?si=ws6eF8WKE_o1z5eX",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

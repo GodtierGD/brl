@@ -2,10 +2,19 @@
 	"id": 109153581,
 	"name": "Rizzler Voyage",
 	"author": "Frickous",
-	"creators": ["Frickous"],
+	"creators": [
+		"Frickous"
+	],
 	"verifier": "Frickous",
 	"verification": "https://youtu.be/6APdaXUxb6U?si=OUVnQxQudcHdV7-R",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/VOcXKtBMKT8?si=3zX0_yI8w5YS7KHW",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
