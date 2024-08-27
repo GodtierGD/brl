@@ -2,10 +2,19 @@
 	"id": 109515807,
 	"name": "RizzGyatt",
 	"author": "Ljmoods",
-	"creators": ["TTYB"],
+	"creators": [
+		"TTYB"
+	],
 	"verifier": "Ljmoods",
 	"verification": "https://youtu.be/IHD1Hb8SmVE?si=PwiH2ja_wWOZHjEm",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/4fOIFPzSYdw?si=qlBcAhxs8o9MAbbt",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
