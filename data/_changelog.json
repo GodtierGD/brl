@@ -2491,5 +2491,14 @@
 		"from_rank": null,
 		"above": "jelqing_simulator",
 		"below": "narcton_diablo_ean"
+	},
+	{
+		"date": 1724769549,
+		"action": "placed",
+		"name": "shrigma_male",
+		"to_rank": 32,
+		"from_rank": null,
+		"above": "make_reqx_admin",
+		"below": "grimace_circles"
 	}
 ]
