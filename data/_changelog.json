@@ -2590,5 +2590,14 @@
 		"from_rank": null,
 		"above": "ball_circles",
 		"below": "invisible_rizzler_road"
+	},
+	{
+		"date": 1724798393,
+		"action": "placed",
+		"name": "one_million_beets",
+		"to_rank": 18,
+		"from_rank": null,
+		"above": "ball_circles",
+		"below": "one_million_beers"
 	}
 ]
