@@ -2536,5 +2536,14 @@
 		"from_rank": 22,
 		"above": "narcton_diablo_ean",
 		"below": "quicksis_limit"
+	},
+	{
+		"date": 1724793166,
+		"action": "lowered",
+		"name": "i_love_double_clicks",
+		"to_rank": 94,
+		"from_rank": 64,
+		"above": "jax_circles",
+		"below": "EDGE MEW MAXXER 5000"
 	}
 ]
