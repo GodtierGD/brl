@@ -2455,5 +2455,14 @@
 		"from_rank": null,
 		"above": "OhioRizzSigma X",
 		"below": "Skibidi Circles"
+	},
+	{
+		"date": 1724768921,
+		"action": "placed",
+		"name": "sigma_and_skibidi_m",
+		"to_rank": 49,
+		"from_rank": null,
+		"above": "501_cigarettes",
+		"below": "skibidi_never_clear"
 	}
 ]
