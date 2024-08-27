@@ -2518,5 +2518,14 @@
 		"from_rank": null,
 		"above": "brainrot_circles_x",
 		"below": "zbrainrot"
+	},
+	{
+		"date": 1724777402,
+		"action": "raised",
+		"name": "shrigma_male",
+		"to_rank": 25,
+		"from_rank": 34,
+		"above": "rizz_circles",
+		"below": "BRAINPOWERRRRRR"
 	}
 ]
