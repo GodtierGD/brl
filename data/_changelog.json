@@ -2509,5 +2509,14 @@
 		"from_rank": null,
 		"above": "make_wushady_mod",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1724769706,
+		"action": "placed",
+		"name": "invisible_drakes_harddrive",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "brainrot_circles_x",
+		"below": "zbrainrot"
 	}
 ]
