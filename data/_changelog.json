@@ -2545,5 +2545,14 @@
 		"from_rank": 64,
 		"above": "jax_circles",
 		"below": "EDGE MEW MAXXER 5000"
+	},
+	{
+		"date": 1724793610,
+		"action": "lowered",
+		"name": "invisible_rizzler_road",
+		"to_rank": 18,
+		"from_rank": 12,
+		"above": "ball_circles",
+		"below": "ha_ha_so_funny"
 	}
 ]
