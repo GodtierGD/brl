@@ -2608,5 +2608,14 @@
 		"from_rank": 24,
 		"above": "make_reqx_admin",
 		"below": "grimace_circles"
+	},
+	{
+		"date": 1724799466,
+		"action": "lowered",
+		"name": "alpha_maze",
+		"to_rank": 17,
+		"from_rank": 6,
+		"above": "ball_circles",
+		"below": "one_million_beets"
 	}
 ]
