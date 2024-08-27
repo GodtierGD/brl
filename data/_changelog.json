@@ -2446,5 +2446,14 @@
 		"from_rank": 64,
 		"above": "diddy_sticky_balls_x",
 		"below": "groommaxxing"
+	},
+	{
+		"date": 1724768778,
+		"action": "placed",
+		"name": "ohiorizzsigmaxyz",
+		"to_rank": 150,
+		"from_rank": null,
+		"above": "OhioRizzSigma X",
+		"below": "Skibidi Circles"
 	}
 ]
