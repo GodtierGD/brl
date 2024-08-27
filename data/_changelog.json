@@ -2599,5 +2599,14 @@
 		"from_rank": null,
 		"above": "ball_circles",
 		"below": "one_million_beers"
+	},
+	{
+		"date": 1724799262,
+		"action": "lowered",
+		"name": "sigma_level",
+		"to_rank": 27,
+		"from_rank": 24,
+		"above": "make_reqx_admin",
+		"below": "grimace_circles"
 	}
 ]
