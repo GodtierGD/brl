@@ -2563,5 +2563,14 @@
 		"from_rank": 10,
 		"above": "invisible_rizzler_road",
 		"below": "ha_ha_so_funny"
+	},
+	{
+		"date": 1724794263,
+		"action": "lowered",
+		"name": "alpha_maze",
+		"to_rank": 15,
+		"from_rank": 5,
+		"above": "ha_ha_so_funny",
+		"below": "maxiz_mewing_streak"
 	}
 ]
