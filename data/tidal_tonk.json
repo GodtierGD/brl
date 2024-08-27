@@ -118,6 +118,13 @@
 			"link": "https://www.youtube.com/watch?v=Jqb0V3uftAU",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "gdyakob",
+			"link": "https://youtu.be/vFVQvHP7oRE?si=TU9_quYATaLQv9eI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
