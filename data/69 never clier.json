@@ -235,6 +235,18 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "felmixxxxx",
+			"link": "https://www.youtube.com/watch?v=Zuc4e43_i4A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "CVison [PKM]",
+			"link": "https://m.youtube.com/watch?v=1AQHtnG2BQg",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
