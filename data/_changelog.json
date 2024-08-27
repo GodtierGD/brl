@@ -2464,5 +2464,14 @@
 		"from_rank": null,
 		"above": "501_cigarettes",
 		"below": "skibidi_never_clear"
+	},
+	{
+		"date": 1724769044,
+		"action": "placed",
+		"name": "normal_face_chall",
+		"to_rank": 18,
+		"from_rank": null,
+		"above": "splurge_chalace_z",
+		"below": "ball_circles"
 	}
 ]
