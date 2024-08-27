@@ -2527,5 +2527,14 @@
 		"from_rank": 34,
 		"above": "rizz_circles",
 		"below": "BRAINPOWERRRRRR"
+	},
+	{
+		"date": 1724793039,
+		"action": "lowered",
+		"name": "sigma_level",
+		"to_rank": 30,
+		"from_rank": 22,
+		"above": "narcton_diablo_ean",
+		"below": "quicksis_limit"
 	}
 ]
