@@ -2644,5 +2644,14 @@
 		"from_rank": null,
 		"above": "mogger_facility",
 		"below": "Thinking Circles"
+	},
+	{
+		"date": 1724883621,
+		"action": "placed",
+		"name": "igyattwithmyrizz",
+		"to_rank": 27,
+		"from_rank": null,
+		"above": "sigma_level",
+		"below": "grimace_circles"
 	}
 ]
