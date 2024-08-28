@@ -2617,5 +2617,14 @@
 		"from_rank": 6,
 		"above": "ball_circles",
 		"below": "one_million_beets"
+	},
+	{
+		"date": 1724882886,
+		"action": "lowered",
+		"name": "ha_ha_so_funny",
+		"to_rank": 22,
+		"from_rank": 14,
+		"above": "quicksis_limit",
+		"below": "rizzler_road_deluxe"
 	}
 ]
