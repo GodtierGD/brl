@@ -2671,5 +2671,14 @@
 		"from_rank": 51,
 		"above": "carson_never_clear",
 		"below": "xirai_bossfight"
+	},
+	{
+		"date": 1724884214,
+		"action": "lowered",
+		"name": "escape_ethiopia_real",
+		"to_rank": 11,
+		"from_rank": 4,
+		"above": "maxiz_never_sigma",
+		"below": "jax_o_bot"
 	}
 ]
