@@ -2662,5 +2662,14 @@
 		"from_rank": 62,
 		"above": "british_circles",
 		"below": "brain_rot_final_boss"
+	},
+	{
+		"date": 1724883872,
+		"action": "raised",
+		"name": "eatdatskibidi445",
+		"to_rank": 36,
+		"from_rank": 51,
+		"above": "carson_never_clear",
+		"below": "xirai_bossfight"
 	}
 ]
