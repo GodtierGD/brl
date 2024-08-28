@@ -2653,5 +2653,14 @@
 		"from_rank": null,
 		"above": "sigma_level",
 		"below": "grimace_circles"
+	},
+	{
+		"date": 1724883781,
+		"action": "raised",
+		"name": "brain_rot_dungein_edg",
+		"to_rank": 39,
+		"from_rank": 62,
+		"above": "british_circles",
+		"below": "brain_rot_final_boss"
 	}
 ]
