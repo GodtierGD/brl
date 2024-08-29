@@ -145,6 +145,9 @@ export default {
                         Copying levels outside the list is NOT permitted, we wish for originality. You may however remake already existing levels BUT AGAIN do not directly copy an already existing level. Only copy other levels UNDER THE PERMISSION of it's creator(s), make sure to CREDIT them aswell.
                     </p>
                     <p>
+                        The level cannot be FULLY invisible meaning there must be some sort of indication on how to play the level - The layout cannot be fully invisible.
+                    </p>
+                    <p>
                         Layouts will NOT be accepted onto the list. Please put some effort into the decoration. It doesn't have to be amazing or anything just fill in the blocks and make structures please.
                     </p>
                     <p>
