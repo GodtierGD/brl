@@ -2,10 +2,19 @@
 	"id": 109519335,
 	"name": "Skibidi Blizzard",
 	"author": "TimmyTheThirddd",
-	"creators": ["TimmyTheThirddd"],
+	"creators": [
+		"TimmyTheThirddd"
+	],
 	"verifier": "TimmyTheThirddd",
 	"verification": "https://youtu.be/MvxzDox1Gc4?si=n9iszGXKot9sbENB",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "dogboi320",
+			"link": "https://youtu.be/JTG_ZWb3R3A",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
