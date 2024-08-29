@@ -2734,5 +2734,14 @@
 		"from_rank": 102,
 		"above": "caseoh_never_clear",
 		"below": "metroz_is_fat"
+	},
+	{
+		"date": 1724897370,
+		"action": "raised",
+		"name": "brain_rot_dungein_edg",
+		"to_rank": 28,
+		"from_rank": 40,
+		"above": "sigma_level",
+		"below": "igyattwithmyrizz"
 	}
 ]
