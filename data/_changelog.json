@@ -2716,5 +2716,14 @@
 		"from_rank": 135,
 		"above": "silent_cenat",
 		"below": "Jaxagarasu Rebirth"
+	},
+	{
+		"date": 1724890564,
+		"action": "raised",
+		"name": "Jaxagarasu Rebirth",
+		"to_rank": 124,
+		"from_rank": 132,
+		"above": "21core",
+		"below": "brain_nourishment"
 	}
 ]
