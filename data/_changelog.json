@@ -2707,5 +2707,14 @@
 		"from_rank": 140,
 		"above": "mogger_facility",
 		"below": "rizzy_circles"
+	},
+	{
+		"date": 1724890510,
+		"action": "raised",
+		"name": "rizzy_circles",
+		"to_rank": 133,
+		"from_rank": 135,
+		"above": "silent_cenat",
+		"below": "Jaxagarasu Rebirth"
 	}
 ]
