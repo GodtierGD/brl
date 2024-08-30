@@ -2878,5 +2878,14 @@
 		"from_rank": null,
 		"above": "rizzler_voyage",
 		"below": "the_brainrot_collab"
+	},
+	{
+		"date": 1724995639,
+		"action": "placed",
+		"name": "grains_of_brainrot",
+		"to_rank": 56,
+		"from_rank": null,
+		"above": "rizzgyatt",
+		"below": "splurge_chalace"
 	}
 ]
