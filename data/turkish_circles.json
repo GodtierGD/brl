@@ -88,6 +88,13 @@
 			"link": "https://www.youtube.com/watch?v=UuHCO9RV__s&t=16s",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "dontchoke",
+			"link": "https://youtu.be/_kC_pdu288E?si=yfqAdaYDvnlbFVEw",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

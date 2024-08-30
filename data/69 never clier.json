@@ -247,6 +247,13 @@
 			"link": "https://m.youtube.com/watch?v=1AQHtnG2BQg",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "dontchoke",
+			"link": "https://youtu.be/9UooTgYBHRA?si=M5UbQUcdzIiKMMGv",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
