@@ -2860,5 +2860,14 @@
 		"from_rank": null,
 		"above": "Skibidi Lights",
 		"below": "atthespeedofskibidi"
+	},
+	{
+		"date": 1724995338,
+		"action": "raised",
+		"name": "rizzy_circles",
+		"to_rank": 106,
+		"from_rank": 125,
+		"above": "Forbidden Pomni",
+		"below": "fent_friday"
 	}
 ]
