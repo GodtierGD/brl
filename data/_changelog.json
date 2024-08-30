@@ -2887,5 +2887,14 @@
 		"from_rank": null,
 		"above": "rizzgyatt",
 		"below": "splurge_chalace"
+	},
+	{
+		"date": 1724995702,
+		"action": "lowered",
+		"name": "godtier_circles",
+		"to_rank": 55,
+		"from_rank": 43,
+		"above": "grains_of_brainrot",
+		"below": "splurge_chalace"
 	}
 ]
