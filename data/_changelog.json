@@ -2905,5 +2905,14 @@
 		"from_rank": 108,
 		"above": "creator_point_tycoon",
 		"below": "gorlock_destroyer"
+	},
+	{
+		"date": 1725051758,
+		"action": "placed",
+		"name": "skibidi_crackhead",
+		"to_rank": 41,
+		"from_rank": null,
+		"above": "rizz_me_like_ba_ba",
+		"below": "brain_rot_dungein_edg"
 	}
 ]
