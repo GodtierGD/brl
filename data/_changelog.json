@@ -2815,5 +2815,14 @@
 		"from_rank": 21,
 		"above": "jax_o_bot",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1724992022,
+		"action": "raised",
+		"name": "freedumbohgyat",
+		"to_rank": 83,
+		"from_rank": 92,
+		"above": "kris tyson challenge",
+		"below": "jax_circles"
 	}
 ]
