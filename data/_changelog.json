@@ -2851,5 +2851,14 @@
 		"from_rank": null,
 		"above": "skibidi_fire_redux",
 		"below": "Grimace is shaking"
+	},
+	{
+		"date": 1724995143,
+		"action": "placed",
+		"name": "skibidihouse",
+		"to_rank": 90,
+		"from_rank": null,
+		"above": "Skibidi Lights",
+		"below": "atthespeedofskibidi"
 	}
 ]
