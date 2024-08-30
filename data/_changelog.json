@@ -2806,5 +2806,14 @@
 		"from_rank": 128,
 		"above": "IRizzWithMyGyatt",
 		"below": "silent_freddy"
+	},
+	{
+		"date": 1724982581,
+		"action": "raised",
+		"name": "igyattwithmyrizz",
+		"to_rank": 8,
+		"from_rank": 21,
+		"above": "jax_o_bot",
+		"below": "escape_ethiopia_real"
 	}
 ]
