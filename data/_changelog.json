@@ -2896,5 +2896,14 @@
 		"from_rank": 43,
 		"above": "grains_of_brainrot",
 		"below": "splurge_chalace"
+	},
+	{
+		"date": 1724996116,
+		"action": "raised",
+		"name": "rizzy_circles",
+		"to_rank": 106,
+		"from_rank": 108,
+		"above": "creator_point_tycoon",
+		"below": "gorlock_destroyer"
 	}
 ]
