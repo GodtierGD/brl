@@ -241,6 +241,18 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "malibob",
+			"link": "https://www.youtube.com/watch?v=5Ujm0Az9QVk&t=11s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "ILickBalls69",
+			"link": "https://youtu.be/-hNNqx8SMCk",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
