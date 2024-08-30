@@ -69,6 +69,19 @@
 			"link": "https://youtu.be/r2MKaxIhIVw",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "ensilked",
+			"link": "https://www.youtube.com/watch?v=FDjq7EHsZBk&t=2s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "tonnes",
+			"link": "https://youtu.be/iNI0jiyedZ0?si=0mWG-tmfCkXKvB6i",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
