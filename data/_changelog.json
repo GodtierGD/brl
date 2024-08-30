@@ -2824,5 +2824,14 @@
 		"from_rank": 92,
 		"above": "kris tyson challenge",
 		"below": "jax_circles"
+	},
+	{
+		"date": 1724992080,
+		"action": "lowered",
+		"name": "she_was_turkish",
+		"to_rank": 98,
+		"from_rank": 76,
+		"above": "the_gigachad_varient",
+		"below": "limbo_by_rizzcap"
 	}
 ]
