@@ -2869,5 +2869,14 @@
 		"from_rank": 125,
 		"above": "Forbidden Pomni",
 		"below": "fent_friday"
+	},
+	{
+		"date": 1724995478,
+		"action": "placed",
+		"name": "drakemaxxing",
+		"to_rank": 60,
+		"from_rank": null,
+		"above": "rizzler_voyage",
+		"below": "the_brainrot_collab"
 	}
 ]
