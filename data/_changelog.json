@@ -3022,5 +3022,14 @@
 		"from_rank": 87,
 		"above": "rainbow_rot_v2",
 		"below": "rotmoc"
+	},
+	{
+		"date": 1725151214,
+		"action": "raised",
+		"name": "jax_vs_skibidi",
+		"to_rank": 85,
+		"from_rank": 129,
+		"above": "i_love_double_clicks",
+		"below": "EDGE MEW MAXXER 5000"
 	}
 ]
