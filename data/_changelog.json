@@ -3067,5 +3067,14 @@
 		"from_rank": null,
 		"above": "brainrot_circles_x",
 		"below": "igyattwithmyrizz"
+	},
+	{
+		"date": 1725158761,
+		"action": "lowered",
+		"name": "turkish_circles",
+		"to_rank": 151,
+		"from_rank": 148,
+		"above": "69 never clier",
+		"below": "eminem_is_a_m_n_m"
 	}
 ]
