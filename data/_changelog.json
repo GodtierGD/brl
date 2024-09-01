@@ -3049,5 +3049,14 @@
 		"from_rank": null,
 		"above": "Dr Godtierspect",
 		"below": "skibid_chal_s02_e3w"
+	},
+	{
+		"date": 1725152220,
+		"action": "lowered",
+		"name": "69 never clier",
+		"to_rank": 151,
+		"from_rank": 145,
+		"above": "KAIGREGATION CENAT",
+		"below": "eminem_is_a_m_n_m"
 	}
 ]
