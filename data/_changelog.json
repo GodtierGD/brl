@@ -3031,5 +3031,14 @@
 		"from_rank": 129,
 		"above": "i_love_double_clicks",
 		"below": "EDGE MEW MAXXER 5000"
+	},
+	{
+		"date": 1725151922,
+		"action": "placed",
+		"name": "skibidi_rizzler",
+		"to_rank": 132,
+		"from_rank": null,
+		"above": "IRizzWithMyGyatt",
+		"below": "silent_freddy"
 	}
 ]
