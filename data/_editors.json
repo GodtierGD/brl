@@ -40,6 +40,11 @@
         "link": "https://www.youtube.com/@Jayxofc"
     },
     {
+        "role": "admin",
+        "name": "Wushady",
+        "link": "https://www.youtube.com/channel/UCtvkqj6Vo6-zzc2VIGa-nVg"
+    },
+    {
         "role": "helper",
         "name": "Kwail",
         "link": "https://www.youtube.com/@KwailGD/videos"
@@ -53,11 +58,6 @@
         "role": "helper",
         "name": "[GD] Syth",
         "link": "https://www.youtube.com/@gdsyth1262"
-    },
-    {
-        "role": "helper",
-        "name": "Wushady",
-        "link": "https://www.youtube.com/channel/UCtvkqj6Vo6-zzc2VIGa-nVg"
     },
     {
         "role": "helper",
