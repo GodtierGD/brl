@@ -2,10 +2,20 @@
 	"id": 109587098,
 	"name": "Diddy Touched Me 2",
 	"author": "ARandomBall",
-	"creators": ["ARandomBall"," RealRedandBlue"],
+	"creators": [
+		"ARandomBall",
+		" RealRedandBlue"
+	],
 	"verifier": "ARandomBall",
 	"verification": "https://youtu.be/o3CTW6mXQkc?si=YR9240Ya8MoYjZRm",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/jk2zby8CDHY?si=pxg7_5Bo0xI35JM4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
