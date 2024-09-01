@@ -3004,5 +3004,14 @@
 		"from_rank": 32,
 		"above": "maxiz_troll_face",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1725150960,
+		"action": "lowered",
+		"name": "brainrot_circles_x",
+		"to_rank": 8,
+		"from_rank": 6,
+		"above": "zbrainrot",
+		"below": "igyattwithmyrizz"
 	}
 ]
