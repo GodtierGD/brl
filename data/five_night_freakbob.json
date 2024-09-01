@@ -2,10 +2,19 @@
 	"id": 109687509,
 	"name": "five night freakbob",
 	"author": "Mxsery2x",
-	"creators": ["Mxsery2x"],
+	"creators": [
+		"Mxsery2x"
+	],
 	"verifier": "Mxsery2x",
 	"verification": "https://youtu.be/qq3sperR7gw?si=HRO8QDyyco0uA8uZ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/3b_udpeszms?si=8bzRr0sFnhCX2yNR",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
