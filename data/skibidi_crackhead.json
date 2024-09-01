@@ -2,10 +2,19 @@
 	"id": 109643852,
 	"name": "skibidi crackhead",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/wdVoUKrLizs?si=po6yD2E99jaxfMix",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/hDgcRBFpn8g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -2,10 +2,20 @@
 	"id": 108612637,
 	"name": "Skibidi lights redux",
 	"author": "MontrixTV",
-	"creators": ["Montrix"," frqsh"],
+	"creators": [
+		"Montrix",
+		" frqsh"
+	],
 	"verifier": "Montrix",
 	"verification": "https://youtu.be/y9RbrueIqq0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/hDgcRBFpn8g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

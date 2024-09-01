@@ -2,10 +2,19 @@
 	"id": 109046423,
 	"name": "make reqx admin",
 	"author": "zoonk",
-	"creators": ["PdophileGaming"],
+	"creators": [
+		"PdophileGaming"
+	],
 	"verifier": "zoonk",
 	"verification": "https://youtu.be/lPyp5ykrU4I",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/hDgcRBFpn8g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
