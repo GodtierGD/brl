@@ -254,6 +254,18 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "ARandomBall",
+			"link": "https://youtu.be/ub7138lPnyQ?si=IK-hY3DJ1jshuDvI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "templewatcheye",
+			"link": "https://www.youtube.com/watch?v=iT0DctFBpak",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
