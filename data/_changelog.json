@@ -2986,5 +2986,14 @@
 		"from_rank": 7,
 		"above": "brainrot_circles_x",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1725150119,
+		"action": "raised",
+		"name": "brain_rot_final_boss",
+		"to_rank": 22,
+		"from_rank": 35,
+		"above": "jelqing_simulator",
+		"below": "skibidi_blizzard"
 	}
 ]
