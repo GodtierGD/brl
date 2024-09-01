@@ -2995,5 +2995,14 @@
 		"from_rank": 35,
 		"above": "jelqing_simulator",
 		"below": "skibidi_blizzard"
+	},
+	{
+		"date": 1725150150,
+		"action": "raised",
+		"name": "xirai_bossfight",
+		"to_rank": 30,
+		"from_rank": 32,
+		"above": "maxiz_troll_face",
+		"below": "Caine Circles"
 	}
 ]
