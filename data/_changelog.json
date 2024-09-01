@@ -3040,5 +3040,14 @@
 		"from_rank": null,
 		"above": "IRizzWithMyGyatt",
 		"below": "silent_freddy"
+	},
+	{
+		"date": 1725152141,
+		"action": "placed",
+		"name": "five_night_freakbob",
+		"to_rank": 143,
+		"from_rank": null,
+		"above": "Dr Godtierspect",
+		"below": "skibid_chal_s02_e3w"
 	}
 ]
