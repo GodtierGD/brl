@@ -2950,5 +2950,14 @@
 		"from_rank": null,
 		"above": "femboyrotted",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1725149513,
+		"action": "placed",
+		"name": "jax_vs_skibidi",
+		"to_rank": 128,
+		"from_rank": null,
+		"above": "interestedvalde",
+		"below": "dawn_dish_soap"
 	}
 ]
