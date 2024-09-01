@@ -2,10 +2,19 @@
 	"id": 109605150,
 	"name": "Skibidihouse",
 	"author": "LCDasher",
-	"creators": ["LCDasher"],
+	"creators": [
+		"LCDasher"
+	],
 	"verifier": "Cramer09",
 	"verification": "https://youtu.be/0gw4bhZuknE?si=qFU7PWZNiDXDRh7I",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "corkk0",
+			"link": "https://youtu.be/ivwPI3IiV7c?si=X9LL84OY8jNGmTIN",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
