@@ -3103,5 +3103,14 @@
 		"from_rank": null,
 		"above": "idksterling_cahll",
 		"below": "Skibidi Pomni X"
+	},
+	{
+		"date": 1725312457,
+		"action": "placed",
+		"name": "livvey_dunne_vortex",
+		"to_rank": 77,
+		"from_rank": null,
+		"above": "kris tyson challenge",
+		"below": "jax_circles"
 	}
 ]
