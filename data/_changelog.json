@@ -3148,5 +3148,14 @@
 		"from_rank": 19,
 		"above": "alpha_maze",
 		"below": "one_million_beets"
+	},
+	{
+		"date": 1725313410,
+		"action": "lowered",
+		"name": "xirai_bossfight",
+		"to_rank": 30,
+		"from_rank": 28,
+		"above": "carson_never_clear",
+		"below": "eatdatskibidi445"
 	}
 ]
