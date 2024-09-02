@@ -3166,5 +3166,14 @@
 		"from_rank": 79,
 		"above": "Skibidi Pomni X",
 		"below": "dorabe_memore"
+	},
+	{
+		"date": 1725313608,
+		"action": "raised",
+		"name": "i_love_double_clicks",
+		"to_rank": 63,
+		"from_rank": 75,
+		"above": "Rizzler Road",
+		"below": "i_may_have_dementia"
 	}
 ]
