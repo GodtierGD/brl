@@ -10,5 +10,11 @@
 	"percentToQualify": "100",
 	"password": "None",
 	"records": [
+		{
+			"user": "foxplush",
+			"link": "https://youtu.be/ba0i1ZMpftU?si=xvuscfjycWdG2Bbj",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
