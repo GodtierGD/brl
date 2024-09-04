@@ -2,10 +2,19 @@
 	"id": 108447765,
 	"name": "ONE MILLION BEETS",
 	"author": "zFurious",
-	"creators": ["zFurious"],
+	"creators": [
+		"zFurious"
+	],
 	"verifier": "zFurious",
 	"verification": "https://youtu.be/Gb_V-8LlRJ4?si=uQb9HmHQZswYc7W0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/4CVGMTpwzBQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
