@@ -3211,5 +3211,14 @@
 		"from_rank": null,
 		"above": "thanatonkaphobia",
 		"below": "sigma_and_skibidi_m"
+	},
+	{
+		"date": 1725433309,
+		"action": "lowered",
+		"name": "turkish_circles",
+		"to_rank": 151,
+		"from_rank": 148,
+		"above": "krisscapes",
+		"below": "Im Not A Furry"
 	}
 ]
