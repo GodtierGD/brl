@@ -2,10 +2,19 @@
 	"id": 109682977,
 	"name": "Itchy ballsak XYZ 4",
 	"author": "Cinasek",
-	"creators": ["Cinasek"],
+	"creators": [
+		"Cinasek"
+	],
 	"verifier": "Cinasek",
 	"verification": "https://www.youtube.com/watch?v=_B9zgXjey4A",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/dAL-sFQBVPg?si=yTY5jA6NsOAQUZ8L",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

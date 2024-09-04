@@ -2,10 +2,19 @@
 	"id": 109305477,
 	"name": "Gorlock destroyer",
 	"author": "Cinasek",
-	"creators": ["Cinasek"],
+	"creators": [
+		"Cinasek"
+	],
 	"verifier": "Cinasek",
 	"verification": "https://youtu.be/pr1dYd20A5k?si=wnnAlHqAEhXUYbsM",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/8XhS0xH59zQ?si=a2jXS_aiLgM-4QV1",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

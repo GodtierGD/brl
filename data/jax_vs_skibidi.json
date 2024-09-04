@@ -2,10 +2,19 @@
 	"id": 109648700,
 	"name": "Jax vs skibidi",
 	"author": "SpappyGD",
-	"creators": ["SpappyGD"],
+	"creators": [
+		"SpappyGD"
+	],
 	"verifier": "SpappyGD",
 	"verification": "https://www.youtube.com/watch?v=8lHZpwlZ4rI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/152tmi3tdZI?si=Tmq8-nCzyK5HZHtl",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
