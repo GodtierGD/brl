@@ -3310,5 +3310,14 @@
 		"from_rank": null,
 		"above": "Forbidden Pomni",
 		"below": "fent_friday"
+	},
+	{
+		"date": 1725661440,
+		"action": "raised",
+		"name": "alpha_maze",
+		"to_rank": 13,
+		"from_rank": 16,
+		"above": "jax_o_bot",
+		"below": "brainrot_circles_x"
 	}
 ]
