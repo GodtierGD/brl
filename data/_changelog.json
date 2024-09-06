@@ -3220,5 +3220,14 @@
 		"from_rank": 148,
 		"above": "krisscapes",
 		"below": "Im Not A Furry"
+	},
+	{
+		"date": 1725659003,
+		"action": "placed",
+		"name": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"to_rank": 5,
+		"from_rank": null,
+		"above": "unnerfed_rizzler_road_deluxe",
+		"below": "escape_ethiopia_real"
 	}
 ]
