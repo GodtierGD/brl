@@ -3346,5 +3346,14 @@
 		"from_rank": 7,
 		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1725662481,
+		"action": "raised",
+		"name": "skibidibath",
+		"to_rank": 66,
+		"from_rank": 96,
+		"above": "Rizzler Road",
+		"below": "the_brainrot_collab"
 	}
 ]
