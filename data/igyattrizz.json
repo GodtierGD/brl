@@ -2,10 +2,20 @@
 	"id": 109738693,
 	"name": "igyattrizz",
 	"author": "m3nt411",
-	"creators": ["m3nt411"," wavelog"],
+	"creators": [
+		"m3nt411",
+		" wavelog"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/hkwTFUG78xU?si=Bfmbc9nCCriTEJHv",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Kendrick West",
+			"link": "https://youtu.be/6B_hWafOiTg?si=Cyx5WAjLH7IP9Qpo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
