@@ -3328,5 +3328,14 @@
 		"from_rank": 18,
 		"above": "brain_rot_final_boss",
 		"below": "skibidi_blizzard"
+	},
+	{
+		"date": 1725662245,
+		"action": "raised",
+		"name": "Rizzler Road",
+		"to_rank": 66,
+		"from_rank": 75,
+		"above": "drakemaxxing",
+		"below": "the_brainrot_collab"
 	}
 ]
