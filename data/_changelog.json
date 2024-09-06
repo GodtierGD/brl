@@ -3292,5 +3292,14 @@
 		"from_rank": null,
 		"above": "xirai_bossfight",
 		"below": "eatdatskibidi445"
+	},
+	{
+		"date": 1725661140,
+		"action": "placed",
+		"name": "mrbeast_is_a_sigma",
+		"to_rank": 136,
+		"from_rank": null,
+		"above": "skibidi_rizzler",
+		"below": "silent_freddy"
 	}
 ]
