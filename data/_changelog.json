@@ -3301,5 +3301,14 @@
 		"from_rank": null,
 		"above": "skibidi_rizzler",
 		"below": "silent_freddy"
+	},
+	{
+		"date": 1725661331,
+		"action": "placed",
+		"name": "1mil_turkishayrans",
+		"to_rank": 115,
+		"from_rank": null,
+		"above": "Forbidden Pomni",
+		"below": "fent_friday"
 	}
 ]
