@@ -3283,5 +3283,14 @@
 		"from_rank": null,
 		"above": "rotmoc",
 		"below": "501_cigarettes"
+	},
+	{
+		"date": 1725660988,
+		"action": "placed",
+		"name": "limbo_redux",
+		"to_rank": 31,
+		"from_rank": null,
+		"above": "xirai_bossfight",
+		"below": "eatdatskibidi445"
 	}
 ]
