@@ -3274,5 +3274,14 @@
 		"from_rank": null,
 		"above": "rizztic",
 		"below": "extrafreakybob"
+	},
+	{
+		"date": 1725660828,
+		"action": "placed",
+		"name": "death_corridaura",
+		"to_rank": 50,
+		"from_rank": null,
+		"above": "rotmoc",
+		"below": "501_cigarettes"
 	}
 ]
