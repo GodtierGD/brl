@@ -3229,5 +3229,14 @@
 		"from_rank": null,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1725659509,
+		"action": "placed",
+		"name": "scoobert_rebirth",
+		"to_rank": 39,
+		"from_rank": null,
+		"above": "brain_rot_dungein_edg",
+		"below": "caseohs_demise"
 	}
 ]
