@@ -3463,5 +3463,14 @@
 		"from_rank": null,
 		"above": "kris tyson challenge",
 		"below": "dorabe_memore"
+	},
+	{
+		"date": 1725740106,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 1,
+		"from_rank": 2,
+		"above": "pov you jelq too hard",
+		"below": null
 	}
 ]
