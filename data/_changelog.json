@@ -3382,5 +3382,14 @@
 		"from_rank": 9,
 		"above": "igyattrizz",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1725690027,
+		"action": "lowered",
+		"name": "igyattrizz",
+		"to_rank": 11,
+		"from_rank": 9,
+		"above": "brainrot_circles_x",
+		"below": "irizzmygyatt"
 	}
 ]
