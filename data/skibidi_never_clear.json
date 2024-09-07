@@ -45,6 +45,12 @@
 			"link": "https://www.youtube.com/watch?v=XhVlnYd3oSA&ab_channel=WuShady",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/bCPQPx80D6Q",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
