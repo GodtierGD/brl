@@ -2,10 +2,19 @@
 	"id": 108628666,
 	"name": "Femboyrotted",
 	"author": "Pucky",
-	"creators": ["Pucky"],
+	"creators": [
+		"Pucky"
+	],
 	"verifier": "heavy petal",
 	"verification": "https://youtu.be/tOY8vTrHiT0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/LmHAt92pvq4?si=Dk9BCJrT0QV2KBQa",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
