@@ -2,10 +2,19 @@
 	"id": 109661607,
 	"name": "1MIL TURKISHAYRANS",
 	"author": "PdophileGaming",
-	"creators": ["PdophileGaming"],
+	"creators": [
+		"PdophileGaming"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/OQh9doyjurY?si=gm78FSTlWo6k6w4U",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/31C3Q7J7mpU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -2,10 +2,19 @@
 	"id": 109877358,
 	"name": "MrBeast is a sigma",
 	"author": "Hyperbeat",
-	"creators": ["Hyperbeat"],
+	"creators": [
+		"Hyperbeat"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/Le0ISpgGtKk?si=K18gs_7u8brST4zm",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/31C3Q7J7mpU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
