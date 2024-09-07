@@ -2,10 +2,19 @@
 	"id": 109908285,
 	"name": "pencil level",
 	"author": "xXfinngdXx",
-	"creators": ["adikurza"],
+	"creators": [
+		"adikurza"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/KZZL8xE60_s?si=_X_qdOeu-PtefDR7",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/uKwvFYjJy-U?si=D5MqbztaFTPKNxqk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
