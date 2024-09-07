@@ -3454,5 +3454,14 @@
 		"from_rank": null,
 		"above": "501_cigarettes",
 		"below": "thanatonkaphobia"
+	},
+	{
+		"date": 1725738184,
+		"action": "placed",
+		"name": "pencil_level",
+		"to_rank": 123,
+		"from_rank": null,
+		"above": "kris tyson challenge",
+		"below": "dorabe_memore"
 	}
 ]
