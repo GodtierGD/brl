@@ -2,10 +2,20 @@
 	"id": 109784824,
 	"name": "Lobotomy Sandwhich",
 	"author": "KnubGMD",
-	"creators": ["Epros123"," KnubGMD"],
+	"creators": [
+		"Epros123",
+		" KnubGMD"
+	],
 	"verifier": "KnubGMD",
 	"verification": "https://youtu.be/eFSLh53_zjg?si=FU7C0Pt2v7nuq-tR",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://www.youtube.com/watch?v=c0trxlfXinA&ab_channel=emberkz",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
