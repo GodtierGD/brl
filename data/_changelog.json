@@ -3355,5 +3355,14 @@
 		"from_rank": 96,
 		"above": "Rizzler Road",
 		"below": "the_brainrot_collab"
+	},
+	{
+		"date": 1725671653,
+		"action": "placed",
+		"name": "milk_lover_worms",
+		"to_rank": 106,
+		"from_rank": null,
+		"above": "rainbow_rot",
+		"below": "skibidi_fire_redux"
 	}
 ]
