@@ -3391,5 +3391,14 @@
 		"from_rank": 9,
 		"above": "brainrot_circles_x",
 		"below": "irizzmygyatt"
+	},
+	{
+		"date": 1725690188,
+		"action": "raised",
+		"name": "brainrot_circles_x",
+		"to_rank": 6,
+		"from_rank": 12,
+		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"below": "femboyrotted"
 	}
 ]
