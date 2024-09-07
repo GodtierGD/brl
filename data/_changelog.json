@@ -3445,5 +3445,14 @@
 		"from_rank": 7,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1725737792,
+		"action": "placed",
+		"name": "mental_freakpants",
+		"to_rank": 52,
+		"from_rank": null,
+		"above": "501_cigarettes",
+		"below": "thanatonkaphobia"
 	}
 ]
