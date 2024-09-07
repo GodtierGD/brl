@@ -3400,5 +3400,14 @@
 		"from_rank": 12,
 		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1725690229,
+		"action": "lowered",
+		"name": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"to_rank": 8,
+		"from_rank": 7,
+		"above": "igyattmyrizz",
+		"below": "unnerfed_rizzler_road_deluxe"
 	}
 ]
