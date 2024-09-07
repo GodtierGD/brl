@@ -3409,5 +3409,14 @@
 		"from_rank": 7,
 		"above": "igyattmyrizz",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1725690602,
+		"action": "placed",
+		"name": "edging_in_destiny",
+		"to_rank": 42,
+		"from_rank": null,
+		"above": "skibidi_crackhead",
+		"below": "brain_rot_dungein_edg"
 	}
 ]
