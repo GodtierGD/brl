@@ -2,10 +2,19 @@
 	"id": 109882266,
 	"name": "milk lover worms",
 	"author": "XRatoGD",
-	"creators": ["XRatoGD"],
+	"creators": [
+		"XRatoGD"
+	],
 	"verifier": "XRatoGD",
 	"verification": "https://youtu.be/Pfko4sLWTKQ?si=IswfPFnP-MYS1kjL",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/IW16hqZJpVM?si=yPegXj6hUhC65MCi",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
