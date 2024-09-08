@@ -3490,5 +3490,14 @@
 		"from_rank": null,
 		"above": "IRizzWithMyGyatt",
 		"below": "skibidi_rizzler"
+	},
+	{
+		"date": 1725755082,
+		"action": "placed",
+		"name": "fartarus",
+		"to_rank": 1,
+		"from_rank": null,
+		"above": "low_taper_fade",
+		"below": null
 	}
 ]
