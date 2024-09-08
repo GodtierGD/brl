@@ -1,27 +1,11 @@
 {
-	"id": 109738693,
+	"id": 109936707,
 	"name": "igyattrizz",
 	"author": "m3nt411",
-	"creators": [
-		"m3nt411",
-		" wavelog"
-	],
+	"creators": ["m3nt411"," wavelog"],
 	"verifier": "m3nt411",
-	"verification": "https://youtu.be/hkwTFUG78xU?si=Bfmbc9nCCriTEJHv",
+	"verification": "https://youtu.be/vl9e-VIuQBk?si=2oc7MXpkjs5MwL0x",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records": [
-		{
-			"user": "Kendrick West",
-			"link": "https://youtu.be/6B_hWafOiTg?si=Cyx5WAjLH7IP9Qpo",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "vompedda",
-			"link": "https://www.youtube.com/watch?v=-rAMbIQKUU0&t=5s",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records" : []
 }
