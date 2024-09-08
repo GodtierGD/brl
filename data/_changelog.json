@@ -3526,5 +3526,14 @@
 		"from_rank": 146,
 		"above": "Thinking Circles",
 		"below": "silent_cenat"
+	},
+	{
+		"date": 1725779613,
+		"action": "raised",
+		"name": "utz_variety_pack",
+		"to_rank": 145,
+		"from_rank": 153,
+		"above": "skibidi_rizzler",
+		"below": "mrbeast_is_a_sigma"
 	}
 ]
