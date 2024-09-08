@@ -3535,5 +3535,14 @@
 		"from_rank": 153,
 		"above": "skibidi_rizzler",
 		"below": "mrbeast_is_a_sigma"
+	},
+	{
+		"date": 1725785784,
+		"action": "placed",
+		"name": "pencil_level",
+		"to_rank": 108,
+		"from_rank": null,
+		"above": "Grimace is shaking",
+		"below": "DIDDY STICKY B"
 	}
 ]

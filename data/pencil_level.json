@@ -1,26 +1,11 @@
 {
-	"id": 109908285,
+	"id": 109793717,
 	"name": "pencil level",
-	"author": "xXfinngdXx",
-	"creators": [
-		"adikurza"
-	],
-	"verifier": "xXfinngdXx",
-	"verification": "https://youtu.be/KZZL8xE60_s?si=_X_qdOeu-PtefDR7",
+	"author": "Adikurza",
+	"creators": ["Adikurza"],
+	"verifier": "Adikurza",
+	"verification": "https://youtu.be/fSTINlcEI-E?si=enDYclz4N8TNjZyc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records": [
-		{
-			"user": "m3nt411",
-			"link": "https://youtu.be/uKwvFYjJy-U?si=D5MqbztaFTPKNxqk",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Reqx 1v99",
-			"link": "https://youtu.be/MLLEQxAKIkY?si=Agr2rxUSD9vWLA5t",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records" : []
 }
