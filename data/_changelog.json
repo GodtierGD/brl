@@ -3517,5 +3517,14 @@
 		"from_rank": null,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1725774033,
+		"action": "lowered",
+		"name": "utz_variety_pack",
+		"to_rank": 153,
+		"from_rank": 146,
+		"above": "Thinking Circles",
+		"below": "silent_cenat"
 	}
 ]
