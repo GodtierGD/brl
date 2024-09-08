@@ -2,10 +2,20 @@
 	"id": 109928809,
 	"name": "FARTARUS",
 	"author": "maxler",
-	"creators": ["TarryTar"," maxler"],
+	"creators": [
+		"TarryTar",
+		" maxler"
+	],
 	"verifier": "maxler",
 	"verification": "https://www.youtube.com/watch?v=k0JiilUxLOM&ab_channel=maxler",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "RealDes",
+			"link": "https://youtu.be/TW5sNU-tw-o?si=KF8_v9J816l4mje6",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
