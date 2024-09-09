@@ -2,10 +2,26 @@
 	"id": 109888842,
 	"name": "Edging in Destiny",
 	"author": "IcedTyler",
-	"creators": ["IcedTyler"," SouperMediocre"],
+	"creators": [
+		"IcedTyler",
+		" SouperMediocre"
+	],
 	"verifier": "IcedTyler",
 	"verification": "https://youtu.be/NpduMvP8dDM?si=civmjuMiI-vk7G9U",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Exwhy",
+			"link": "https://youtu.be/teH_w2CromE?si=oOsnZYa4h8zHd0Z3",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "foxplush",
+			"link": "https://youtu.be/oS3iMMLYu6A?si=7cRrburZTOv0HxvC",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
