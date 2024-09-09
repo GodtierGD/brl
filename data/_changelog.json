@@ -3562,5 +3562,14 @@
 		"from_rank": null,
 		"above": "skibisodii",
 		"below": "edging_in_destiny"
+	},
+	{
+		"date": 1725921526,
+		"action": "placed",
+		"name": "igyattamongus",
+		"to_rank": 13,
+		"from_rank": null,
+		"above": "igyattwithmyrizz",
+		"below": "free_list_points"
 	}
 ]
