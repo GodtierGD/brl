@@ -3571,5 +3571,14 @@
 		"from_rank": null,
 		"above": "igyattwithmyrizz",
 		"below": "free_list_points"
+	},
+	{
+		"date": 1725921628,
+		"action": "lowered",
+		"name": "igyattrizz",
+		"to_rank": 19,
+		"from_rank": 8,
+		"above": "vropirates_havezaza",
+		"below": "ball_circles"
 	}
 ]
