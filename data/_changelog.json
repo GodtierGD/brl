@@ -3580,5 +3580,14 @@
 		"from_rank": 8,
 		"above": "vropirates_havezaza",
 		"below": "ball_circles"
+	},
+	{
+		"date": 1725922629,
+		"action": "raised",
+		"name": "igyattwithmyrizz",
+		"to_rank": 9,
+		"from_rank": 13,
+		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"below": "unnerfed_rizzler_road_deluxe"
 	}
 ]
