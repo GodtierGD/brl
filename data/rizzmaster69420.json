@@ -2,10 +2,19 @@
 	"id": 109932232,
 	"name": "rizzmaster69420",
 	"author": "xXfinngdXx",
-	"creators": ["xXfinngdXx"],
+	"creators": [
+		"xXfinngdXx"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/HqUTJ5kjuQs?si=3xRsvRKLbudQUy5y",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/jgKo56Ok4rI?si=d76fNNGiFxz1uuWa",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
