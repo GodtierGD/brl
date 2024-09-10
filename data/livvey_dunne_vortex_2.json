@@ -2,10 +2,19 @@
 	"id": 109932866,
 	"name": "livvey dunne vortex 2",
 	"author": "shouko652",
-	"creators": ["shouko652"],
+	"creators": [
+		"shouko652"
+	],
 	"verifier": "shouko652",
 	"verification": "https://youtu.be/4v5TqjJBx-E?si=JwOg1JDRp-MLfqXA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "bionik",
+			"link": "https://m.youtube.com/watch?v=1bOX2E2m9wc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
