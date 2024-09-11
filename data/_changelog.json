@@ -3679,5 +3679,14 @@
 		"from_rank": 6,
 		"above": "escape_ethiopia_real",
 		"below": "fanum rizzer"
+	},
+	{
+		"date": 1726023739,
+		"action": "raised",
+		"name": "caseohs_demise",
+		"to_rank": 15,
+		"from_rank": 41,
+		"above": "jax_o_bot",
+		"below": "vropirates_havezaza"
 	}
 ]
