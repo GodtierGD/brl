@@ -3706,5 +3706,14 @@
 		"from_rank": 15,
 		"above": "quicksis_limit",
 		"below": "rizzler_road_deluxe"
+	},
+	{
+		"date": 1726054308,
+		"action": "lowered",
+		"name": "alpha_maze",
+		"to_rank": 18,
+		"from_rank": 13,
+		"above": "the_unknown_rizzler",
+		"below": "ha_ha_so_funny"
 	}
 ]
