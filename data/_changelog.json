@@ -3643,5 +3643,14 @@
 		"from_rank": 120,
 		"above": "metroz_is_fat",
 		"below": "Skibidi Lights"
+	},
+	{
+		"date": 1726023148,
+		"action": "placed",
+		"name": "hawk_tuah_sim_v5",
+		"to_rank": 55,
+		"from_rank": null,
+		"above": "501_cigarettes",
+		"below": "mental_freakpants"
 	}
 ]
