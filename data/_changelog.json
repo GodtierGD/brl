@@ -3697,5 +3697,14 @@
 		"from_rank": 45,
 		"above": "brain_rot_dungein_edg",
 		"below": "scoobert_rebirth"
+	},
+	{
+		"date": 1726024181,
+		"action": "lowered",
+		"name": "caseohs_demise",
+		"to_rank": 21,
+		"from_rank": 15,
+		"above": "quicksis_limit",
+		"below": "rizzler_road_deluxe"
 	}
 ]
