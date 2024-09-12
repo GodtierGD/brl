@@ -2,10 +2,20 @@
 	"id": 109842238,
 	"name": "sakupenrizzinsigma",
 	"author": "KITTYP",
-	"creators": ["KITTYP"," Wubtastic"],
+	"creators": [
+		"KITTYP",
+		" Wubtastic"
+	],
 	"verifier": "K1TTYP",
 	"verification": "https://youtu.be/YR2_qrp5b9U?si=_Hyzy-X_ZgfoyZIw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/llli_kKddms?si=Y6sMLRD4anojuX41",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
