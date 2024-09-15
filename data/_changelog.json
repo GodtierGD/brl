@@ -3760,5 +3760,14 @@
 		"from_rank": 55,
 		"above": "skibidi_crackhead",
 		"below": "skibisodii"
+	},
+	{
+		"date": 1726439104,
+		"action": "placed",
+		"name": "night_farty",
+		"to_rank": 52,
+		"from_rank": null,
+		"above": "skibidi_showdown",
+		"below": "skibidi_crackhead"
 	}
 ]
