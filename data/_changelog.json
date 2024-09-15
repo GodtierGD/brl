@@ -3778,5 +3778,14 @@
 		"from_rank": null,
 		"above": "Skibidi Cenat",
 		"below": "skibidi ohio my rizz"
+	},
+	{
+		"date": 1726440025,
+		"action": "lowered",
+		"name": "brain_rot_dungein_edg",
+		"to_rank": 53,
+		"from_rank": 46,
+		"above": "skibidi_never_clear",
+		"below": "skibidi_showdown"
 	}
 ]
