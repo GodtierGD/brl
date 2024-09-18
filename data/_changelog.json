@@ -3868,5 +3868,14 @@
 		"from_rank": null,
 		"above": "creator_point_tycoon",
 		"below": "rizzy_circles"
+	},
+	{
+		"date": 1726626834,
+		"action": "lowered",
+		"name": "she_was_turkish",
+		"to_rank": 141,
+		"from_rank": 129,
+		"above": "martinluthersigmaiii",
+		"below": "idksterling_cahll"
 	}
 ]
