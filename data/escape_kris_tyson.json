@@ -89,6 +89,13 @@
 			"link": "https://www.youtube.com/watch?v=_0Q0PnIS75E",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "xXfinngdXx",
+			"link": "https://youtu.be/ByKUYHQTDCI?si=PQ9h3e_oaVGgR8x7",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
