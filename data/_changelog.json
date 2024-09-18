@@ -3814,5 +3814,14 @@
 		"from_rank": 145,
 		"above": "rizzmemory",
 		"below": "idksterling_cahll"
+	},
+	{
+		"date": 1726618585,
+		"action": "placed",
+		"name": "scoobert_og",
+		"to_rank": 18,
+		"from_rank": null,
+		"above": "alpha_maze",
+		"below": "ha_ha_so_funny"
 	}
 ]
