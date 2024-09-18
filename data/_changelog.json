@@ -3850,5 +3850,14 @@
 		"from_rank": 63,
 		"above": "skibidi_never_clear",
 		"below": "brain_rot_dungein_edg"
+	},
+	{
+		"date": 1726620143,
+		"action": "raised",
+		"name": "death_corridaura",
+		"to_rank": 48,
+		"from_rank": 66,
+		"above": "rizzler_road_circles",
+		"below": "edging_in_destiny"
 	}
 ]
