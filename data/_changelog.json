@@ -3895,5 +3895,14 @@
 		"from_rank": 132,
 		"above": "livvey_dunne_vortex_2",
 		"below": "sigma_triangles"
+	},
+	{
+		"date": 1726703896,
+		"action": "placed",
+		"name": "high_taper_fap",
+		"to_rank": 19,
+		"from_rank": null,
+		"above": "alpha_maze",
+		"below": "scoobert_og"
 	}
 ]
