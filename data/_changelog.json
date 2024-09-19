@@ -3913,5 +3913,14 @@
 		"from_rank": null,
 		"above": "wushady_is_dead",
 		"below": "skibidi_limbo_circle"
+	},
+	{
+		"date": 1726704173,
+		"action": "placed",
+		"name": "dr_oi_for_president",
+		"to_rank": 22,
+		"from_rank": null,
+		"above": "rizzler_road_redux",
+		"below": "the_unknown_rizzler"
 	}
 ]
