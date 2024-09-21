@@ -96,6 +96,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "hamptr",
+			"link": "https://youtu.be/YzfAdEdE77o?si=k7aSstL72mwcrXCh",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
