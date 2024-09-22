@@ -2,10 +2,19 @@
 	"id": 108795297,
 	"name": "Miami Gyattline",
 	"author": "PuffyGlucose",
-	"creators": ["PuffyGlucose"],
+	"creators": [
+		"PuffyGlucose"
+	],
 	"verifier": "PuffyGlucose",
 	"verification": "https://www.youtube.com/watch?v=0CyKw847PkE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "goldenretrever",
+			"link": "https://youtu.be/u5paFbRrdkc?si=pI7jOuDGUG2qhgAE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
