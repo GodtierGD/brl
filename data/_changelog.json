@@ -3940,5 +3940,14 @@
 		"from_rank": null,
 		"above": "metroz_is_fat",
 		"below": "miami_gyattline"
+	},
+	{
+		"date": 1727029212,
+		"action": "placed",
+		"name": "unnerfed_rotten_skibidi_deluxe",
+		"to_rank": 40,
+		"from_rank": null,
+		"above": "carson_never_clear",
+		"below": "xirai_bossfight"
 	}
 ]
