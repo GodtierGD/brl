@@ -3949,5 +3949,14 @@
 		"from_rank": null,
 		"above": "carson_never_clear",
 		"below": "xirai_bossfight"
+	},
+	{
+		"date": 1727029443,
+		"action": "placed",
+		"name": "glc",
+		"to_rank": 33,
+		"from_rank": null,
+		"above": "sigma_level",
+		"below": "grimace_circles"
 	}
 ]
