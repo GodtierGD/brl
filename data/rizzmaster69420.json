@@ -28,6 +28,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/kia3_hwgwI0",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
