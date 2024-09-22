@@ -2,10 +2,21 @@
 	"id": 110409210,
 	"name": "edp cupcake theft",
 	"author": "xXfinngdXx",
-	"creators": ["KnubGMD"," xXfinngdXx"],
+	"creators": [
+		"KnubGMD",
+		" xXfinngdXx"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/Nn4R7Gt0M5Q?si=eeGCD8hhCr-KD5Ou",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "OneShot786",
+			"link": "https://youtu.be/dVnxItPxIRU?si=_XkdzdJ6cEn0sugT",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
