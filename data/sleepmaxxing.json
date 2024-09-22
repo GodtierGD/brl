@@ -45,6 +45,13 @@
 			"link": "https://www.youtube.com/watch?v=pB7TVcBNdcU",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "xXfinngdXx",
+			"link": "https://youtu.be/4VeYOuP-dlU?si=HquHihyZZ7XFHbUY",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
