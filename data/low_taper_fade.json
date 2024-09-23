@@ -2,10 +2,20 @@
 	"id": 108567752,
 	"name": "low taper fade",
 	"author": "yyyoshigd",
-	"creators": ["ninjadan"," yyyoshigd"],
+	"creators": [
+		"ninjadan",
+		" yyyoshigd"
+	],
 	"verifier": "blackyoshi",
 	"verification": "https://youtu.be/MnAvylEvdnE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "xaura2k",
+			"link": "https://www.youtube.com/watch?v=7ussrOKESUc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
