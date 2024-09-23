@@ -4003,5 +4003,14 @@
 		"from_rank": 77,
 		"above": "splurge_chalace_z",
 		"below": "sigma_triangles"
+	},
+	{
+		"date": 1727059316,
+		"action": "raised",
+		"name": "the_grimace",
+		"to_rank": 103,
+		"from_rank": 104,
+		"above": "sleepmaxxing",
+		"below": "i_love_double_clicks"
 	}
 ]
