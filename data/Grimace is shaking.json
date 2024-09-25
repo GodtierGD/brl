@@ -159,6 +159,13 @@
 			"link": "https://youtu.be/c6HDny84nPM?si=qpHMzCmKvu8hvdvr",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "OneShot786",
+			"link": "https://youtu.be/GAOwsq24tTk?si=HT7AwPu2dOmkoGZJ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
