@@ -2,10 +2,19 @@
 	"id": 109851938,
 	"name": "limbo redux",
 	"author": "Waterbound",
-	"creators": ["Waterbound"],
+	"creators": [
+		"Waterbound"
+	],
 	"verifier": "Water",
 	"verification": "https://youtu.be/Z8Gwn1TX3ew?si=-tsLLRBAzQGD00Jc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/gMqYtZd3yd8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
