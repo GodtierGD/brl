@@ -2,10 +2,19 @@
 	"id": 110153636,
 	"name": "splurge chalace z",
 	"author": "s3nk0",
-	"creators": ["Conversation"],
+	"creators": [
+		"Conversation"
+	],
 	"verifier": "Conversation",
 	"verification": "https://youtu.be/1ub1YllqyBo?si=A2LQ_gTMOXTPmjSz",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/8lYd4wSjaYg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

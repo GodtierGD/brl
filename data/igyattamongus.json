@@ -2,10 +2,20 @@
 	"id": 109969078,
 	"name": "igyattamongus",
 	"author": "m3nt411",
-	"creators": ["m3nt411"," wavelog"],
+	"creators": [
+		"m3nt411",
+		" wavelog"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/wh1WorreXN8?si=pr30B-NNbGBHVtwE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/8lYd4wSjaYg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

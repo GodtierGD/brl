@@ -2,10 +2,27 @@
 	"id": 110260110,
 	"name": "m3nt411s tv",
 	"author": "wushady",
-	"creators": ["wushady"," m3nt411"," sary"," notcat"," peichy"," waterbound"," chimp"," ttonk"," bean"],
+	"creators": [
+		"wushady",
+		" m3nt411",
+		" sary",
+		" notcat",
+		" peichy",
+		" waterbound",
+		" chimp",
+		" ttonk",
+		" bean"
+	],
 	"verifier": "wushady",
 	"verification": "https://youtu.be/OCykNCYqkFA?si=Qzl1movBfbcR6HQm",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/8lYd4wSjaYg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
