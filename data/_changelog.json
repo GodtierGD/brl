@@ -4093,5 +4093,14 @@
 		"from_rank": null,
 		"above": "liebscapes",
 		"below": "sigma_triangles"
+	},
+	{
+		"date": 1727307711,
+		"action": "lowered",
+		"name": "recent_tab_trash",
+		"to_rank": 17,
+		"from_rank": 11,
+		"above": "ball_circles",
+		"below": "diddys_coloringbook"
 	}
 ]
