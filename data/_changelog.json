@@ -4039,5 +4039,14 @@
 		"from_rank": null,
 		"above": "rizztic",
 		"below": "extrafreakybob"
+	},
+	{
+		"date": 1727248601,
+		"action": "placed",
+		"name": "forgotten_rizz",
+		"to_rank": 77,
+		"from_rank": null,
+		"above": "501_cigarettes",
+		"below": "mental_freakpants"
 	}
 ]
