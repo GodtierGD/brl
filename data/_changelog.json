@@ -4120,5 +4120,14 @@
 		"from_rank": 2,
 		"above": "escape_ethiopia_real",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1727308366,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 4,
+		"from_rank": 5,
+		"above": "femboyrotted",
+		"below": "pov you jelq too hard"
 	}
 ]
