@@ -4111,5 +4111,14 @@
 		"from_rank": 82,
 		"above": "limbo_by_rizzcap",
 		"below": "rainbow_rot"
+	},
+	{
+		"date": 1727308310,
+		"action": "lowered",
+		"name": "low_taper_fade",
+		"to_rank": 5,
+		"from_rank": 2,
+		"above": "escape_ethiopia_real",
+		"below": "femboyrotted"
 	}
 ]
