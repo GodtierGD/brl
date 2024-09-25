@@ -4102,5 +4102,14 @@
 		"from_rank": 11,
 		"above": "ball_circles",
 		"below": "diddys_coloringbook"
+	},
+	{
+		"date": 1727307898,
+		"action": "lowered",
+		"name": "forgotten_rizz",
+		"to_rank": 145,
+		"from_rank": 82,
+		"above": "limbo_by_rizzcap",
+		"below": "rainbow_rot"
 	}
 ]
