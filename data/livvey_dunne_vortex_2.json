@@ -15,6 +15,12 @@
 			"link": "https://m.youtube.com/watch?v=1bOX2E2m9wc",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/AbtPugIQfDM",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
