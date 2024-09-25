@@ -4048,5 +4048,14 @@
 		"from_rank": null,
 		"above": "501_cigarettes",
 		"below": "mental_freakpants"
+	},
+	{
+		"date": 1727306495,
+		"action": "placed",
+		"name": "escape_diddy_party",
+		"to_rank": 30,
+		"from_rank": null,
+		"above": "normal_face_chall",
+		"below": "skibidi_blizzard"
 	}
 ]
