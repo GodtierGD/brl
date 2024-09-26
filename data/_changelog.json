@@ -4138,5 +4138,14 @@
 		"from_rank": 111,
 		"above": "i_love_double_clicks",
 		"below": "i_may_have_dementia"
+	},
+	{
+		"date": 1727309743,
+		"action": "lowered",
+		"name": "brainrot_circles_x",
+		"to_rank": 8,
+		"from_rank": 7,
+		"above": "igyattwithmyrizz",
+		"below": "unnerfed_rizzler_road_deluxe"
 	}
 ]
