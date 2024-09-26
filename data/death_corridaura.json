@@ -2,10 +2,19 @@
 	"id": 109841094,
 	"name": "Death Corridaura",
 	"author": "Tibeb",
-	"creators": ["109841094"],
+	"creators": [
+		"109841094"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/tBUWosTObC0?si=zMxHwgLW-Qp20VDK",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://www.youtube.com/watch?v=7UE-58RT8Cc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -2,10 +2,20 @@
 	"id": 110069947,
 	"name": "scoobert og",
 	"author": "jinxologyy",
-	"creators": ["jinxologyy"," crit"],
+	"creators": [
+		"jinxologyy",
+		" crit"
+	],
 	"verifier": "jinxologyy",
 	"verification": "https://youtu.be/e9DZfFmlviE?si=Y-y7909l4cnmd44y",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://www.youtube.com/watch?v=7UE-58RT8Cc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
