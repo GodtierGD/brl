@@ -4147,5 +4147,14 @@
 		"from_rank": 7,
 		"above": "igyattwithmyrizz",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1727310614,
+		"action": "raised",
+		"name": "glc",
+		"to_rank": 21,
+		"from_rank": 35,
+		"above": "high_taper_fap",
+		"below": "scoobert_og"
 	}
 ]
