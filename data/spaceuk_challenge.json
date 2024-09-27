@@ -2,10 +2,19 @@
 	"id": 110557061,
 	"name": "SPACEUK CHALLENGE",
 	"author": "majafortnite",
-	"creators": ["majafortnite"],
+	"creators": [
+		"majafortnite"
+	],
 	"verifier": "majafortnite",
 	"verification": "https://youtu.be/gWG5P5zOwoc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/ihXBIrptnI0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
