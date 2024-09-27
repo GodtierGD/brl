@@ -2,10 +2,19 @@
 	"id": 110434330,
 	"name": "SIGMAHOUSE",
 	"author": "anundefineduser",
-	"creators": ["anundefineduser"],
+	"creators": [
+		"anundefineduser"
+	],
 	"verifier": "anundefineduser",
 	"verification": "https://youtu.be/teIAei1opgc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/tfYLCwvclOA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
