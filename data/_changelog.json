@@ -4219,5 +4219,14 @@
 		"from_rank": 25,
 		"above": "skibidi_blizzard",
 		"below": "quicksis_limit"
+	},
+	{
+		"date": 1727541197,
+		"action": "lowered",
+		"name": "fanum rizzer",
+		"to_rank": 6,
+		"from_rank": 3,
+		"above": "escape_ethiopia_real",
+		"below": "femboyrotted"
 	}
 ]
