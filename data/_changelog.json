@@ -4201,5 +4201,14 @@
 		"from_rank": null,
 		"above": "lil_nas_x_never_clear",
 		"below": "501_cigarettes"
+	},
+	{
+		"date": 1727482042,
+		"action": "raised",
+		"name": "alpha_maze",
+		"to_rank": 23,
+		"from_rank": 24,
+		"above": "high_taper_fap",
+		"below": "glc"
 	}
 ]
