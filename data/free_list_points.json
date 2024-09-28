@@ -2,10 +2,19 @@
 	"id": 109926277,
 	"name": "FREE LIST POINTS",
 	"author": "zFurious",
-	"creators": ["zFurious"],
+	"creators": [
+		"zFurious"
+	],
 	"verifier": "zFurious",
 	"verification": "https://youtu.be/cGiOVfIREKg?si=zE4-zVpGY45OjhwC",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "bunkyrunky",
+			"link": "https://youtu.be/P7oGCwoDHhE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
