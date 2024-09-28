@@ -4210,5 +4210,14 @@
 		"from_rank": 24,
 		"above": "high_taper_fap",
 		"below": "glc"
+	},
+	{
+		"date": 1727540959,
+		"action": "lowered",
+		"name": "the_unknown_rizzler",
+		"to_rank": 30,
+		"from_rank": 25,
+		"above": "skibidi_blizzard",
+		"below": "quicksis_limit"
 	}
 ]
