@@ -4237,5 +4237,14 @@
 		"from_rank": null,
 		"above": "Rizzler Road",
 		"below": "skibidibath"
+	},
+	{
+		"date": 1727627294,
+		"action": "placed",
+		"name": "dexter_morgan_chall",
+		"to_rank": 77,
+		"from_rank": null,
+		"above": "skibidi_never_clear",
+		"below": "hawk_tuah_sim_v5"
 	}
 ]
