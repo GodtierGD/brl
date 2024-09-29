@@ -4228,5 +4228,14 @@
 		"from_rank": 3,
 		"above": "escape_ethiopia_real",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1727626676,
+		"action": "placed",
+		"name": "diddy_sticky_rot",
+		"to_rank": 105,
+		"from_rank": null,
+		"above": "Rizzler Road",
+		"below": "skibidibath"
 	}
 ]
