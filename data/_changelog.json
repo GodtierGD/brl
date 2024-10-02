@@ -4255,5 +4255,14 @@
 		"from_rank": null,
 		"above": "Grimace is shaking",
 		"below": "rizzmaster69420"
+	},
+	{
+		"date": 1727909038,
+		"action": "placed",
+		"name": "gooned",
+		"to_rank": 22,
+		"from_rank": null,
+		"above": "glc",
+		"below": "scoobert_og"
 	}
 ]
