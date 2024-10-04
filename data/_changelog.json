@@ -4291,5 +4291,14 @@
 		"from_rank": null,
 		"above": "escape_ethiopia_real",
 		"below": "fanum rizzer"
+	},
+	{
+		"date": 1728010522,
+		"action": "placed",
+		"name": "rizzmoc",
+		"to_rank": 150,
+		"from_rank": null,
+		"above": "turkish_circles_inf3",
+		"below": "Grimace is shaking"
 	}
 ]
