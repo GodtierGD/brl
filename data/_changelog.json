@@ -4318,5 +4318,14 @@
 		"from_rank": 59,
 		"above": "utz_party_mix",
 		"below": "sigma_triangles"
+	},
+	{
+		"date": 1728075246,
+		"action": "raised",
+		"name": "skibidiohiomoonbake",
+		"to_rank": 61,
+		"from_rank": 94,
+		"above": "just_poop_in_the_bag",
+		"below": "spongebob_fent_cart"
 	}
 ]
