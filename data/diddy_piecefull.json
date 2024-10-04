@@ -2,10 +2,20 @@
 	"id": 110684592,
 	"name": "Diddy Piecefull",
 	"author": "Edgars25",
-	"creators": ["Konderx"," Fragelistic"],
+	"creators": [
+		"Konderx",
+		" Fragelistic"
+	],
 	"verifier": "Fragelistic_",
 	"verification": "https://youtu.be/Fem89CJZK1Q",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "cColdness",
+			"link": "https://youtu.be/0GF-G6PK2g4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
