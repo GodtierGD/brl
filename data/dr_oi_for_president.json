@@ -2,10 +2,19 @@
 	"id": 110256277,
 	"name": "Dr Oi For President",
 	"author": "ToyTinySeal",
-	"creators": ["ToyTinySeal"],
+	"creators": [
+		"ToyTinySeal"
+	],
 	"verifier": "ToyTinySeal",
 	"verification": "https://youtu.be/hKyXCRXSjGg?si=zhMh57dY_0MhxcVy",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/VpUYBhb29bo?si=oLoipZh4jB8WuQnZ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

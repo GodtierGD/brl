@@ -2,10 +2,19 @@
 	"id": 110526839,
 	"name": "skibidiohiomoonbake",
 	"author": "Alixenn",
-	"creators": ["Alixenn"],
+	"creators": [
+		"Alixenn"
+	],
 	"verifier": "Alixenn",
 	"verification": "https://www.youtube.com/watch?v=sn1rVE513iY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/x9MxVNAJu4c?si=J0LhyMaBUGuR4LwU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

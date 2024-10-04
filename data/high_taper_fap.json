@@ -2,10 +2,19 @@
 	"id": 110179722,
 	"name": "High Taper Fap",
 	"author": "Zachisntchilly",
-	"creators": ["Zachisntchilly"],
+	"creators": [
+		"Zachisntchilly"
+	],
 	"verifier": "Zachisntchilly",
 	"verification": "https://youtu.be/mLc-2UeGJYc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/x9MxVNAJu4c?si=J0LhyMaBUGuR4LwU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
