@@ -2,10 +2,19 @@
 	"id": 110655585,
 	"name": "Ben shapirizz",
 	"author": "ILLUSION4Z",
-	"creators": ["ILLUSION4Z"],
+	"creators": [
+		"ILLUSION4Z"
+	],
 	"verifier": "Daevie",
 	"verification": "https://youtu.be/w5ZjWdbN4eY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/f1YESdlv3Ok?si=8hCsyQddUltJmwkp",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
