@@ -4300,5 +4300,14 @@
 		"from_rank": null,
 		"above": "turkish_circles_inf3",
 		"below": "Grimace is shaking"
+	},
+	{
+		"date": 1728018324,
+		"action": "raised",
+		"name": "the_grimace",
+		"to_rank": 118,
+		"from_rank": 119,
+		"above": "i_may_have_dementia",
+		"below": "fanum_toilet"
 	}
 ]
