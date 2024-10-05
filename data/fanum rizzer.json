@@ -1,12 +1,20 @@
 {
-    "id": 108482226,
-    "name": "fanum rizzer",
-    "author": "wavelog",
-    "creators": ["wavelog"],
-    "verifier": "Bledrno",
-    "verification": "https://youtu.be/F3zxYkrDlTU",
-    "percentToQualify": "100",
-    "password": "None",
-    "records": [
-    ]
+	"id": 108482226,
+	"name": "fanum rizzer",
+	"author": "wavelog",
+	"creators": [
+		"wavelog"
+	],
+	"verifier": "Bledrno",
+	"verification": "https://youtu.be/F3zxYkrDlTU",
+	"percentToQualify": "100",
+	"password": "None",
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/tRtNVAbU4Hk?si=soK6ggwOPUYxdfbp",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
