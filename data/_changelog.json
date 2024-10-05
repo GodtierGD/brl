@@ -4399,5 +4399,14 @@
 		"from_rank": null,
 		"above": "sigmahouse",
 		"below": "sakupenrizzinsigma"
+	},
+	{
+		"date": 1728163475,
+		"action": "lowered",
+		"name": "rednaxs_traffic_cone",
+		"to_rank": 134,
+		"from_rank": 74,
+		"above": "jax_circles",
+		"below": "freedumbohgyat"
 	}
 ]
