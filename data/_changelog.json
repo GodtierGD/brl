@@ -4363,5 +4363,14 @@
 		"from_rank": 14,
 		"above": "brainrot_circles_x",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1728145347,
+		"action": "raised",
+		"name": "eatdatskibidi445",
+		"to_rank": 10,
+		"from_rank": 45,
+		"above": "unnerfed_rizzler_road_deluxe",
+		"below": "escape_ethiopia_real"
 	}
 ]
