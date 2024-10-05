@@ -4372,5 +4372,14 @@
 		"from_rank": 45,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1728145398,
+		"action": "raised",
+		"name": "fanum rizzer",
+		"to_rank": 6,
+		"from_rank": 7,
+		"above": "femboyrotted",
+		"below": "low_taper_fade"
 	}
 ]
