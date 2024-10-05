@@ -4381,5 +4381,14 @@
 		"from_rank": 7,
 		"above": "femboyrotted",
 		"below": "low_taper_fade"
+	},
+	{
+		"date": 1728145532,
+		"action": "raised",
+		"name": "igyattwithmyrizz",
+		"to_rank": 13,
+		"from_rank": 14,
+		"above": "brainrot_circles_x",
+		"below": "igyattmyrizz"
 	}
 ]
