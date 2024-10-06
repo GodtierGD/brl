@@ -4417,5 +4417,14 @@
 		"from_rank": 134,
 		"above": "sigmahouse",
 		"below": "sakupenrizzinsigma"
+	},
+	{
+		"date": 1728209223,
+		"action": "placed",
+		"name": "skibidi_trilogy",
+		"to_rank": 31,
+		"from_rank": null,
+		"above": "rizzler_road_deluxe",
+		"below": "rizzler_road_redux"
 	}
 ]
