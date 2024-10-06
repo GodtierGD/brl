@@ -4462,5 +4462,14 @@
 		"from_rank": 76,
 		"above": "drakemaxxing",
 		"below": "Rizzler Road"
+	},
+	{
+		"date": 1728210814,
+		"action": "raised",
+		"name": "gorlock_destroyer",
+		"to_rank": 127,
+		"from_rank": 166,
+		"above": "super_skibidi_toilet",
+		"below": "sleepmaxxing"
 	}
 ]
