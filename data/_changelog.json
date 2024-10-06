@@ -4444,5 +4444,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_circles",
 		"below": "death_corridaura"
+	},
+	{
+		"date": 1728210336,
+		"action": "raised",
+		"name": "fanum_toilet",
+		"to_rank": 99,
+		"from_rank": 122,
+		"above": "silliest_trials",
+		"below": "livvey_dunne_vortex_2"
 	}
 ]
