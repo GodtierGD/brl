@@ -4426,5 +4426,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_deluxe",
 		"below": "rizzler_road_redux"
+	},
+	{
+		"date": 1728209499,
+		"action": "placed",
+		"name": "old_rainbow_rot_v2",
+		"to_rank": 137,
+		"from_rank": null,
+		"above": "livvey_dunne_vortex",
+		"below": "jax_circles"
 	}
 ]
