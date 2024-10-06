@@ -4453,5 +4453,14 @@
 		"from_rank": 122,
 		"above": "silliest_trials",
 		"below": "livvey_dunne_vortex_2"
+	},
+	{
+		"date": 1728210569,
+		"action": "lowered",
+		"name": "rednaxs_traffic_cone",
+		"to_rank": 116,
+		"from_rank": 76,
+		"above": "drakemaxxing",
+		"below": "Rizzler Road"
 	}
 ]
