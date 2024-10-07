@@ -4525,5 +4525,14 @@
 		"from_rank": null,
 		"above": "sakupen_sigma",
 		"below": "rotten_skibidi"
+	},
+	{
+		"date": 1728339041,
+		"action": "raised",
+		"name": "make_reqx_admin",
+		"to_rank": 38,
+		"from_rank": 44,
+		"above": "normal_face_chall",
+		"below": "escape_diddy_party"
 	}
 ]
