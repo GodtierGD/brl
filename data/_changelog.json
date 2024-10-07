@@ -4489,5 +4489,14 @@
 		"from_rank": 33,
 		"above": "rizzler_road_deluxe",
 		"below": "skibidi_trilogy"
+	},
+	{
+		"date": 1728338489,
+		"action": "lowered",
+		"name": "ben_shapirizz",
+		"to_rank": 73,
+		"from_rank": 47,
+		"above": "skibisodii",
+		"below": "rizzler_road_circles"
 	}
 ]
