@@ -2,10 +2,19 @@
 	"id": 110861502,
 	"name": "noradrealinesigmaPHO",
 	"author": "Somuli",
-	"creators": ["Somuli"],
+	"creators": [
+		"Somuli"
+	],
 	"verifier": "Somuli",
 	"verification": "https://youtu.be/VwUT8kpshs4?si=WOcU9jQFqBpFdxob",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/YKLwb1X534w?si=XNAbG1od3gxMFI3c",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

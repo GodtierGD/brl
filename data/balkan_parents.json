@@ -2,10 +2,19 @@
 	"id": 110877286,
 	"name": "Balkan Parents",
 	"author": "Somuli",
-	"creators": ["Somuli"],
+	"creators": [
+		"Somuli"
+	],
 	"verifier": "Somuli",
 	"verification": "https://youtu.be/GLTEPpPvACA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/TMymNRxy_iM?si=CBfRit-iTJ9hp9JO",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
