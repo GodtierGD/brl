@@ -4480,5 +4480,14 @@
 		"from_rank": 17,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "eatdatskibidi445"
+	},
+	{
+		"date": 1728338447,
+		"action": "raised",
+		"name": "caseohs_demise",
+		"to_rank": 32,
+		"from_rank": 33,
+		"above": "rizzler_road_deluxe",
+		"below": "skibidi_trilogy"
 	}
 ]
