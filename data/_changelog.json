@@ -4570,5 +4570,14 @@
 		"from_rank": 114,
 		"above": "sigmahouse",
 		"below": "sakupenrizzinsigma"
+	},
+	{
+		"date": 1728339702,
+		"action": "raised",
+		"name": "the_grimace",
+		"to_rank": 116,
+		"from_rank": 126,
+		"above": "diddy_sticky_rot",
+		"below": "livvey_dunne_vortex"
 	}
 ]
