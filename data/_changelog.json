@@ -4534,5 +4534,14 @@
 		"from_rank": 44,
 		"above": "normal_face_chall",
 		"below": "escape_diddy_party"
+	},
+	{
+		"date": 1728339064,
+		"action": "raised",
+		"name": "escape_diddy_party",
+		"to_rank": 27,
+		"from_rank": 37,
+		"above": "alpha_maze",
+		"below": "glc"
 	}
 ]
