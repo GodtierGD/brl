@@ -4516,5 +4516,14 @@
 		"from_rank": null,
 		"above": "livvey_dunne_vortex",
 		"below": "old_rainbow_rot_v2"
+	},
+	{
+		"date": 1728338973,
+		"action": "placed",
+		"name": "balkan_parents",
+		"to_rank": 123,
+		"from_rank": null,
+		"above": "sakupen_sigma",
+		"below": "rotten_skibidi"
 	}
 ]
