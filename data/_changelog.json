@@ -4552,5 +4552,14 @@
 		"from_rank": 41,
 		"above": "scoobert_og",
 		"below": "ha_ha_so_funny"
+	},
+	{
+		"date": 1728339441,
+		"action": "raised",
+		"name": "livvey_dunne_vortex",
+		"to_rank": 115,
+		"from_rank": 143,
+		"above": "diddy_sticky_rot",
+		"below": "skibidibath"
 	}
 ]
