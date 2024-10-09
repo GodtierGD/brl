@@ -4624,5 +4624,14 @@
 		"from_rank": 6,
 		"above": "mental_never_clear",
 		"below": "make_deat_admin"
+	},
+	{
+		"date": 1728513875,
+		"action": "raised",
+		"name": "fanum rizzer",
+		"to_rank": 6,
+		"from_rank": 7,
+		"above": "pov you jelq too hard",
+		"below": "mental_never_clear"
 	}
 ]
