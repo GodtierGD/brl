@@ -4714,5 +4714,14 @@
 		"from_rank": 140,
 		"above": "diddy_sticky_rot",
 		"below": "the_grimace"
+	},
+	{
+		"date": 1728516023,
+		"action": "raised",
+		"name": "miami_gyattline",
+		"to_rank": 119,
+		"from_rank": 153,
+		"above": "the_grimace",
+		"below": "livvey_dunne_vortex"
 	}
 ]
