@@ -4669,5 +4669,14 @@
 		"from_rank": 49,
 		"above": "normal_face_chall",
 		"below": "make_reqx_admin"
+	},
+	{
+		"date": 1728514676,
+		"action": "lowered",
+		"name": "501_cigarettes",
+		"to_rank": 101,
+		"from_rank": 96,
+		"above": "silliest_trials",
+		"below": "fanum_toilet"
 	}
 ]
