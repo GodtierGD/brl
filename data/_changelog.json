@@ -4705,5 +4705,14 @@
 		"from_rank": 125,
 		"above": "edging_in_destiny",
 		"below": "edp445_challenge"
+	},
+	{
+		"date": 1728515638,
+		"action": "raised",
+		"name": "EDGE MEW MAXXER 5000",
+		"to_rank": 120,
+		"from_rank": 140,
+		"above": "diddy_sticky_rot",
+		"below": "the_grimace"
 	}
 ]
