@@ -4660,5 +4660,14 @@
 		"from_rank": 29,
 		"above": "scoobert_og",
 		"below": "brain_rot_final_boss"
+	},
+	{
+		"date": 1728514484,
+		"action": "raised",
+		"name": "limbo_redux",
+		"to_rank": 41,
+		"from_rank": 49,
+		"above": "normal_face_chall",
+		"below": "make_reqx_admin"
 	}
 ]
