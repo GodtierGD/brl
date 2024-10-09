@@ -4687,5 +4687,14 @@
 		"from_rank": 110,
 		"above": "skibidi_showdown",
 		"below": "night_farty"
+	},
+	{
+		"date": 1728515126,
+		"action": "raised",
+		"name": "extrafreakybob",
+		"to_rank": 85,
+		"from_rank": 92,
+		"above": "diddy_balls_mix",
+		"below": "night_farty"
 	}
 ]
