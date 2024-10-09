@@ -4777,5 +4777,14 @@
 		"from_rank": 169,
 		"above": "jax_vs_skibidi",
 		"below": "congregation 34 real"
+	},
+	{
+		"date": 1728517905,
+		"action": "lowered",
+		"name": "sany_cluaz",
+		"to_rank": 158,
+		"from_rank": 150,
+		"above": "metroz_is_fat",
+		"below": "skibidi_flower"
 	}
 ]
