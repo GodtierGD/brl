@@ -4732,5 +4732,14 @@
 		"from_rank": 34,
 		"above": "high_taper_fap",
 		"below": "skibidi_blizzard"
+	},
+	{
+		"date": 1728517432,
+		"action": "placed",
+		"name": "sterling_circles",
+		"to_rank": 27,
+		"from_rank": null,
+		"above": "glc",
+		"below": "brain_rot_final_boss"
 	}
 ]
