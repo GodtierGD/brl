@@ -4588,5 +4588,14 @@
 		"from_rank": null,
 		"above": "just_fart_in_the_bag",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1728441154,
+		"action": "lowered",
+		"name": "make_deat_admin",
+		"to_rank": 3,
+		"from_rank": 2,
+		"above": "mental_never_clear",
+		"below": "just_fart_in_the_bag"
 	}
 ]
