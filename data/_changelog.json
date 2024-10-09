@@ -4651,5 +4651,14 @@
 		"from_rank": 40,
 		"above": "sigma_level",
 		"below": "igyattamongus"
+	},
+	{
+		"date": 1728514360,
+		"action": "raised",
+		"name": "glc",
+		"to_rank": 27,
+		"from_rank": 29,
+		"above": "scoobert_og",
+		"below": "brain_rot_final_boss"
 	}
 ]
