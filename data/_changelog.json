@@ -4750,5 +4750,14 @@
 		"from_rank": 31,
 		"above": "sterling_circles",
 		"below": "brain_rot_final_boss"
+	},
+	{
+		"date": 1728517635,
+		"action": "raised",
+		"name": "rizzy_circles",
+		"to_rank": 123,
+		"from_rank": 173,
+		"above": "diddy_sticky_rot",
+		"below": "EDGE MEW MAXXER 5000"
 	}
 ]
