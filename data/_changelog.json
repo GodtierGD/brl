@@ -4642,5 +4642,14 @@
 		"from_rank": 40,
 		"above": "high_taper_fap",
 		"below": "alpha_maze"
+	},
+	{
+		"date": 1728514268,
+		"action": "lowered",
+		"name": "the_unknown_rizzler",
+		"to_rank": 45,
+		"from_rank": 40,
+		"above": "sigma_level",
+		"below": "igyattamongus"
 	}
 ]
