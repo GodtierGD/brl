@@ -4741,5 +4741,14 @@
 		"from_rank": null,
 		"above": "glc",
 		"below": "brain_rot_final_boss"
+	},
+	{
+		"date": 1728517516,
+		"action": "raised",
+		"name": "escape_diddy_party",
+		"to_rank": 27,
+		"from_rank": 31,
+		"above": "sterling_circles",
+		"below": "brain_rot_final_boss"
 	}
 ]
