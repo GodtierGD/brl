@@ -4606,5 +4606,14 @@
 		"from_rank": null,
 		"above": "ball_circles",
 		"below": "recent_tab_trash"
+	},
+	{
+		"date": 1728513816,
+		"action": "raised",
+		"name": "femboy_vortex",
+		"to_rank": 16,
+		"from_rank": 23,
+		"above": "brainrot_circles_x",
+		"below": "igyattwithmyrizz"
 	}
 ]
