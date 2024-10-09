@@ -4759,5 +4759,14 @@
 		"from_rank": 173,
 		"above": "diddy_sticky_rot",
 		"below": "EDGE MEW MAXXER 5000"
+	},
+	{
+		"date": 1728517722,
+		"action": "raised",
+		"name": "skibidi_fire_redux",
+		"to_rank": 142,
+		"from_rank": 168,
+		"above": "gavin_eat_bossfight",
+		"below": "skibidiest_level"
 	}
 ]
