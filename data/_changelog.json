@@ -4615,5 +4615,14 @@
 		"from_rank": 23,
 		"above": "brainrot_circles_x",
 		"below": "igyattwithmyrizz"
+	},
+	{
+		"date": 1728513839,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 4,
+		"from_rank": 6,
+		"above": "mental_never_clear",
+		"below": "make_deat_admin"
 	}
 ]
