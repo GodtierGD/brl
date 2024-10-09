@@ -4723,5 +4723,14 @@
 		"from_rank": 153,
 		"above": "the_grimace",
 		"below": "livvey_dunne_vortex"
+	},
+	{
+		"date": 1728517121,
+		"action": "raised",
+		"name": "dr_oi_for_president",
+		"to_rank": 33,
+		"from_rank": 34,
+		"above": "high_taper_fap",
+		"below": "skibidi_blizzard"
 	}
 ]
