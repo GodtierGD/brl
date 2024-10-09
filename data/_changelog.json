@@ -4678,5 +4678,14 @@
 		"from_rank": 96,
 		"above": "silliest_trials",
 		"below": "fanum_toilet"
+	},
+	{
+		"date": 1728514894,
+		"action": "raised",
+		"name": "diddy_balls_mix",
+		"to_rank": 85,
+		"from_rank": 110,
+		"above": "skibidi_showdown",
+		"below": "night_farty"
 	}
 ]
