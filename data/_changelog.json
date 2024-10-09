@@ -4579,5 +4579,14 @@
 		"from_rank": 126,
 		"above": "diddy_sticky_rot",
 		"below": "livvey_dunne_vortex"
+	},
+	{
+		"date": 1728440589,
+		"action": "placed",
+		"name": "make_deat_admin",
+		"to_rank": 2,
+		"from_rank": null,
+		"above": "just_fart_in_the_bag",
+		"below": "babushka_vortex"
 	}
 ]
