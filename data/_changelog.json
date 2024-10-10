@@ -4849,5 +4849,14 @@
 		"from_rank": 40,
 		"above": "normal_face_chall",
 		"below": "limbo_redux"
+	},
+	{
+		"date": 1728519148,
+		"action": "raised",
+		"name": "unnerfed_jax_circles",
+		"to_rank": 49,
+		"from_rank": 50,
+		"above": "Caine Circles",
+		"below": "sigma_level"
 	}
 ]
