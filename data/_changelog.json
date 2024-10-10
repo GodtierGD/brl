@@ -4840,5 +4840,14 @@
 		"from_rank": 33,
 		"above": "one_million_beets",
 		"below": "free_list_points"
+	},
+	{
+		"date": 1728519088,
+		"action": "lowered",
+		"name": "rizzler_road_deluxe",
+		"to_rank": 42,
+		"from_rank": 40,
+		"above": "normal_face_chall",
+		"below": "limbo_redux"
 	}
 ]
