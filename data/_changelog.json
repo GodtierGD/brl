@@ -4876,5 +4876,14 @@
 		"from_rank": 53,
 		"above": "ben_shapirizz",
 		"below": "rizzler_road_circles"
+	},
+	{
+		"date": 1728519468,
+		"action": "lowered",
+		"name": "carson_never_clear",
+		"to_rank": 78,
+		"from_rank": 77,
+		"above": "skibisodii",
+		"below": "ben_shapirizz"
 	}
 ]
