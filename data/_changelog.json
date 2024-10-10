@@ -4867,5 +4867,14 @@
 		"from_rank": 70,
 		"above": "splurge_chalace_z",
 		"below": "just_poop_in_the_bag"
+	},
+	{
+		"date": 1728519381,
+		"action": "lowered",
+		"name": "carson_never_clear",
+		"to_rank": 77,
+		"from_rank": 53,
+		"above": "ben_shapirizz",
+		"below": "rizzler_road_circles"
 	}
 ]
