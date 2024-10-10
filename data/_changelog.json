@@ -4822,5 +4822,14 @@
 		"from_rank": 25,
 		"above": "recent_tab_trash",
 		"below": "diddys_coloringbook"
+	},
+	{
+		"date": 1728518663,
+		"action": "raised",
+		"name": "gooned",
+		"to_rank": 30,
+		"from_rank": 32,
+		"above": "glc",
+		"below": "sterling_circles"
 	}
 ]
