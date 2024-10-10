@@ -4813,5 +4813,14 @@
 		"from_rank": 40,
 		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1728518535,
+		"action": "raised",
+		"name": "ball_circles",
+		"to_rank": 24,
+		"from_rank": 25,
+		"above": "recent_tab_trash",
+		"below": "diddys_coloringbook"
 	}
 ]
