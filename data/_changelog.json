@@ -4858,5 +4858,14 @@
 		"from_rank": 50,
 		"above": "Caine Circles",
 		"below": "sigma_level"
+	},
+	{
+		"date": 1728519264,
+		"action": "raised",
+		"name": "scoobert_rebirth",
+		"to_rank": 67,
+		"from_rank": 70,
+		"above": "splurge_chalace_z",
+		"below": "just_poop_in_the_bag"
 	}
 ]
