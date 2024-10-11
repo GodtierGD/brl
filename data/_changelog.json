@@ -4885,5 +4885,14 @@
 		"from_rank": 77,
 		"above": "skibisodii",
 		"below": "ben_shapirizz"
+	},
+	{
+		"date": 1728621719,
+		"action": "raised",
+		"name": "silliest_trials",
+		"to_rank": 77,
+		"from_rank": 105,
+		"above": "ben_shapirizz",
+		"below": "rizzler_road_circles"
 	}
 ]
