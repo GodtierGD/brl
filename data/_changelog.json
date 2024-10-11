@@ -4894,5 +4894,14 @@
 		"from_rank": 105,
 		"above": "ben_shapirizz",
 		"below": "rizzler_road_circles"
+	},
+	{
+		"date": 1728621761,
+		"action": "raised",
+		"name": "dexter_morgan_chall",
+		"to_rank": 60,
+		"from_rank": 94,
+		"above": "m3nt411s_tv",
+		"below": "sigma_triangles"
 	}
 ]
