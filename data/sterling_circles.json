@@ -2,10 +2,19 @@
 	"id": 110969568,
 	"name": "sterling circles",
 	"author": "WaddleUS",
-	"creators": ["WaddleUS"],
+	"creators": [
+		"WaddleUS"
+	],
 	"verifier": "WaddleUS",
 	"verification": "https://www.youtube.com/watch?v=2MMpUqFyD7k&ab_channel=WaddlesUS",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/p6mJo4Rreco",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
