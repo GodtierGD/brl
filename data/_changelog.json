@@ -4975,5 +4975,14 @@
 		"from_rank": 31,
 		"above": "high_taper_fap",
 		"below": "dr_oi_for_president"
+	},
+	{
+		"date": 1729037992,
+		"action": "raised",
+		"name": "carson_never_clear",
+		"to_rank": 64,
+		"from_rank": 86,
+		"above": "dexter_morgan_chall",
+		"below": "sigma_triangles"
 	}
 ]
