@@ -4912,5 +4912,14 @@
 		"from_rank": null,
 		"above": "skibidi_never_clear",
 		"below": "hawk_tuah_sim_v5"
+	},
+	{
+		"date": 1729036888,
+		"action": "placed",
+		"name": "head_eraser",
+		"to_rank": 78,
+		"from_rank": null,
+		"above": "silliest_trials",
+		"below": "rizzler_road_circles"
 	}
 ]
