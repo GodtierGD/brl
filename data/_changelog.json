@@ -4921,5 +4921,14 @@
 		"from_rank": null,
 		"above": "silliest_trials",
 		"below": "rizzler_road_circles"
+	},
+	{
+		"date": 1729037095,
+		"action": "placed",
+		"name": "thanos_for_admin",
+		"to_rank": 75,
+		"from_rank": null,
+		"above": "death_corridaura",
+		"below": "edging_in_destiny"
 	}
 ]
