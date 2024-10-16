@@ -4966,5 +4966,14 @@
 		"from_rank": null,
 		"above": "normal_face_chall",
 		"below": "sterling_cirlces_x"
+	},
+	{
+		"date": 1729037927,
+		"action": "lowered",
+		"name": "sterling_circles",
+		"to_rank": 36,
+		"from_rank": 31,
+		"above": "high_taper_fap",
+		"below": "dr_oi_for_president"
 	}
 ]
