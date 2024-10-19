@@ -5056,5 +5056,14 @@
 		"from_rank": 154,
 		"above": "rizzler_voyage",
 		"below": "drakemaxxing"
+	},
+	{
+		"date": 1729367301,
+		"action": "raised",
+		"name": "milk_lover_worms",
+		"to_rank": 133,
+		"from_rank": 154,
+		"above": "Rizzler Road",
+		"below": "diddy_sticky_rot"
 	}
 ]
