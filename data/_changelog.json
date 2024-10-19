@@ -5038,5 +5038,14 @@
 		"from_rank": 128,
 		"above": "501_cigarettes",
 		"below": "miami_gyattline"
+	},
+	{
+		"date": 1729367158,
+		"action": "raised",
+		"name": "sleepmaxxing",
+		"to_rank": 131,
+		"from_rank": 142,
+		"above": "diddy_sticky_rot",
+		"below": "rizzy_circles"
 	}
 ]
