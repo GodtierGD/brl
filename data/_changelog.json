@@ -5020,5 +5020,14 @@
 		"from_rank": 121,
 		"above": "sigmahouse",
 		"below": "skibidibath"
+	},
+	{
+		"date": 1729366919,
+		"action": "raised",
+		"name": "miami_gyattline",
+		"to_rank": 113,
+		"from_rank": 127,
+		"above": "501_cigarettes",
+		"below": "fanum_toilet"
 	}
 ]
