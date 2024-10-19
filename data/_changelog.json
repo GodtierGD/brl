@@ -5047,5 +5047,14 @@
 		"from_rank": 142,
 		"above": "diddy_sticky_rot",
 		"below": "rizzy_circles"
+	},
+	{
+		"date": 1729367275,
+		"action": "raised",
+		"name": "jax_vs_skibidi",
+		"to_rank": 136,
+		"from_rank": 154,
+		"above": "rizzler_voyage",
+		"below": "drakemaxxing"
 	}
 ]
