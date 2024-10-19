@@ -5002,5 +5002,14 @@
 		"from_rank": null,
 		"above": "carson_never_clear",
 		"below": "sigma_triangles"
+	},
+	{
+		"date": 1729366548,
+		"action": "placed",
+		"name": "2147483647cigarettes",
+		"to_rank": 44,
+		"from_rank": null,
+		"above": "rizzler_road_deluxe",
+		"below": "limbo_redux"
 	}
 ]
