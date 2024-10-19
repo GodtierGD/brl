@@ -4993,5 +4993,14 @@
 		"from_rank": 56,
 		"above": "jelqing_simulator",
 		"below": "normal_face_chall"
+	},
+	{
+		"date": 1729365515,
+		"action": "placed",
+		"name": "extrafreakybob_limit",
+		"to_rank": 63,
+		"from_rank": null,
+		"above": "carson_never_clear",
+		"below": "sigma_triangles"
 	}
 ]
