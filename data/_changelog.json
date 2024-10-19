@@ -5011,5 +5011,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_deluxe",
 		"below": "limbo_redux"
+	},
+	{
+		"date": 1729366608,
+		"action": "raised",
+		"name": "grains_of_brainrot",
+		"to_rank": 91,
+		"from_rank": 121,
+		"above": "sigmahouse",
+		"below": "skibidibath"
 	}
 ]
