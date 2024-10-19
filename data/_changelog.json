@@ -5029,5 +5029,14 @@
 		"from_rank": 127,
 		"above": "501_cigarettes",
 		"below": "fanum_toilet"
+	},
+	{
+		"date": 1729367063,
+		"action": "raised",
+		"name": "the_grimace",
+		"to_rank": 114,
+		"from_rank": 128,
+		"above": "501_cigarettes",
+		"below": "miami_gyattline"
 	}
 ]
