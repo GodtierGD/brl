@@ -2,10 +2,19 @@
 	"id": 109241522,
 	"name": "escape ethiopia real",
 	"author": "Gauzz",
-	"creators": ["Gauzz"],
+	"creators": [
+		"Gauzz"
+	],
 	"verifier": "Gauzz",
 	"verification": "https://youtu.be/3G-zJX956CQ?si=2STeCKmkr9xC4LZx",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "amdy",
+			"link": "https://youtu.be/PIgGHg9Lxr4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
