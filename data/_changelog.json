@@ -5137,5 +5137,14 @@
 		"from_rank": 32,
 		"above": "sterling_circles_x",
 		"below": "ball_circles"
+	},
+	{
+		"date": 1729386935,
+		"action": "lowered",
+		"name": "mental_never_clear",
+		"to_rank": 6,
+		"from_rank": 5,
+		"above": "pov you jelq too hard",
+		"below": "fanum rizzer"
 	}
 ]
