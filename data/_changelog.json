@@ -5074,5 +5074,14 @@
 		"from_rank": 33,
 		"above": "grimace_circles",
 		"below": "jelqing_simulator"
+	},
+	{
+		"date": 1729385222,
+		"action": "placed",
+		"name": "skibidiest_level_rebirth",
+		"to_rank": 100,
+		"from_rank": null,
+		"above": "skibidi_showdown",
+		"below": "diddy_balls_mix"
 	}
 ]
