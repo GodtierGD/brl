@@ -5164,5 +5164,14 @@
 		"from_rank": 115,
 		"above": "babushka_vortex",
 		"below": null
+	},
+	{
+		"date": 1729396907,
+		"action": "lowered",
+		"name": "miami_gyattline",
+		"to_rank": 115,
+		"from_rank": 1,
+		"above": "sakupen_sigma",
+		"below": "fanum_toilet"
 	}
 ]
