@@ -5119,5 +5119,14 @@
 		"from_rank": 29,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "vropirates_havezaza"
+	},
+	{
+		"date": 1729386354,
+		"action": "raised",
+		"name": "escape_diddy_party",
+		"to_rank": 24,
+		"from_rank": 30,
+		"above": "jax_o_bot",
+		"below": "one_million_beets"
 	}
 ]
