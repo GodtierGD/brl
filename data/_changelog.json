@@ -5110,5 +5110,14 @@
 		"from_rank": 144,
 		"above": "the_grimace",
 		"below": "miami_gyattline"
+	},
+	{
+		"date": 1729386079,
+		"action": "raised",
+		"name": "brain_rot_final_boss",
+		"to_rank": 13,
+		"from_rank": 29,
+		"above": "unnerfed_rizzler_road_deluxe",
+		"below": "vropirates_havezaza"
 	}
 ]
