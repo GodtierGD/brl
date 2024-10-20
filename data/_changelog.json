@@ -5101,5 +5101,14 @@
 		"from_rank": 149,
 		"above": "rizzy_circles",
 		"below": "EDGE MEW MAXXER 5000"
+	},
+	{
+		"date": 1729385592,
+		"action": "raised",
+		"name": "sakupen_sigma",
+		"to_rank": 116,
+		"from_rank": 144,
+		"above": "the_grimace",
+		"below": "miami_gyattline"
 	}
 ]
