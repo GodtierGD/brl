@@ -5146,5 +5146,14 @@
 		"from_rank": 5,
 		"above": "pov you jelq too hard",
 		"below": "fanum rizzer"
+	},
+	{
+		"date": 1729388296,
+		"action": "raised",
+		"name": "brain_rot_final_boss",
+		"to_rank": 5,
+		"from_rank": 13,
+		"above": "fanum rizzer",
+		"below": "low_taper_fade"
 	}
 ]
