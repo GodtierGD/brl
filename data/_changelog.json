@@ -5128,5 +5128,14 @@
 		"from_rank": 30,
 		"above": "jax_o_bot",
 		"below": "one_million_beets"
+	},
+	{
+		"date": 1729386856,
+		"action": "raised",
+		"name": "glc",
+		"to_rank": 28,
+		"from_rank": 32,
+		"above": "sterling_circles_x",
+		"below": "ball_circles"
 	}
 ]
