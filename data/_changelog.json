@@ -5155,5 +5155,14 @@
 		"from_rank": 13,
 		"above": "fanum rizzer",
 		"below": "low_taper_fade"
+	},
+	{
+		"date": 1729396593,
+		"action": "raised",
+		"name": "miami_gyattline",
+		"to_rank": 1,
+		"from_rank": 115,
+		"above": "babushka_vortex",
+		"below": null
 	}
 ]
