@@ -5083,5 +5083,14 @@
 		"from_rank": null,
 		"above": "skibidi_showdown",
 		"below": "diddy_balls_mix"
+	},
+	{
+		"date": 1729385388,
+		"action": "raised",
+		"name": "rotten_skibidi",
+		"to_rank": 80,
+		"from_rank": 141,
+		"above": "edging_in_destiny",
+		"below": "just_pee_in_the_bag"
 	}
 ]
