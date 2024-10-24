@@ -5200,5 +5200,14 @@
 		"from_rank": 14,
 		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
 		"below": "quicksis_limit"
+	},
+	{
+		"date": 1729799557,
+		"action": "raised",
+		"name": "escape_diddy_party",
+		"to_rank": 20,
+		"from_rank": 24,
+		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"below": "unnerfed_rizzler_road_deluxe"
 	}
 ]
