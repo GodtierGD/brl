@@ -5218,5 +5218,14 @@
 		"from_rank": 35,
 		"above": "igyattamongus",
 		"below": "grimace_circles"
+	},
+	{
+		"date": 1729799935,
+		"action": "raised",
+		"name": "Dr Godtierspect",
+		"to_rank": 136,
+		"from_rank": 224,
+		"above": "diddy_sticky_rot",
+		"below": "sleepmaxxing"
 	}
 ]
