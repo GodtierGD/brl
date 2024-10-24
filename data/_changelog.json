@@ -5173,5 +5173,14 @@
 		"from_rank": 1,
 		"above": "sakupen_sigma",
 		"below": "fanum_toilet"
+	},
+	{
+		"date": 1729799255,
+		"action": "raised",
+		"name": "make_deat_admin",
+		"to_rank": 2,
+		"from_rank": 3,
+		"above": "just_fart_in_the_bag",
+		"below": "babushka_vortex"
 	}
 ]
