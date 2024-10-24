@@ -5245,5 +5245,14 @@
 		"from_rank": 25,
 		"above": "igyattamongus",
 		"below": "sterling_circles"
+	},
+	{
+		"date": 1729800326,
+		"action": "raised",
+		"name": "jax_o_bot",
+		"to_rank": 49,
+		"from_rank": 50,
+		"above": "sterling_circles",
+		"below": "grimace_circles"
 	}
 ]
