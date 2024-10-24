@@ -5191,5 +5191,14 @@
 		"from_rank": 11,
 		"above": "fanum rizzer",
 		"below": "brain_rot_final_boss"
+	},
+	{
+		"date": 1729799414,
+		"action": "lowered",
+		"name": "unnerfed_rizzler_road_deluxe",
+		"to_rank": 19,
+		"from_rank": 14,
+		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"below": "quicksis_limit"
 	}
 ]
