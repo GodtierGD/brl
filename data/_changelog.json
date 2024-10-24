@@ -5227,5 +5227,14 @@
 		"from_rank": 224,
 		"above": "diddy_sticky_rot",
 		"below": "sleepmaxxing"
+	},
+	{
+		"date": 1729800157,
+		"action": "lowered",
+		"name": "sterling_circles_x",
+		"to_rank": 42,
+		"from_rank": 29,
+		"above": "rizzler_road_deluxe",
+		"below": "2147483647cigarettes"
 	}
 ]
