@@ -5236,5 +5236,14 @@
 		"from_rank": 29,
 		"above": "rizzler_road_deluxe",
 		"below": "2147483647cigarettes"
+	},
+	{
+		"date": 1729800273,
+		"action": "lowered",
+		"name": "jax_o_bot",
+		"to_rank": 50,
+		"from_rank": 25,
+		"above": "igyattamongus",
+		"below": "sterling_circles"
 	}
 ]
