@@ -5362,5 +5362,14 @@
 		"from_rank": 22,
 		"above": "skibidiest_level",
 		"below": "i_may_have_dementia"
+	},
+	{
+		"date": 1729821815,
+		"action": "lowered",
+		"name": "i_love_double_clicks",
+		"to_rank": 160,
+		"from_rank": 144,
+		"above": "I hate the skippidi",
+		"below": "Diddy Masacre"
 	}
 ]
