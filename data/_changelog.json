@@ -5353,5 +5353,14 @@
 		"from_rank": 141,
 		"above": "skibidi_fire_redux",
 		"below": "skibidiest_level"
+	},
+	{
+		"date": 1729821781,
+		"action": "lowered",
+		"name": "free_list_points",
+		"to_rank": 151,
+		"from_rank": 22,
+		"above": "skibidiest_level",
+		"below": "i_may_have_dementia"
 	}
 ]
