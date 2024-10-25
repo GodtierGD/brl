@@ -5308,5 +5308,14 @@
 		"from_rank": 34,
 		"above": "dr_oi_for_president",
 		"below": "skibidi_blizzard"
+	},
+	{
+		"date": 1729816205,
+		"action": "lowered",
+		"name": "sterling_circles",
+		"to_rank": 64,
+		"from_rank": 50,
+		"above": "carson_never_clear",
+		"below": "extrafreakybob_limit"
 	}
 ]
