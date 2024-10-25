@@ -5335,5 +5335,14 @@
 		"from_rank": 29,
 		"above": "xtinct_thug_shake",
 		"below": "super_skibidi_toilet"
+	},
+	{
+		"date": 1729821690,
+		"action": "lowered",
+		"name": "i_may_have_dementia",
+		"to_rank": 152,
+		"from_rank": 146,
+		"above": "skibidiest_level",
+		"below": "xtinct_thug_shake"
 	}
 ]
