@@ -5290,5 +5290,14 @@
 		"from_rank": 49,
 		"above": "jax_o_bot",
 		"below": "2147483647cigarettes"
+	},
+	{
+		"date": 1729815865,
+		"action": "raised",
+		"name": "brain_rot_final_boss",
+		"to_rank": 3,
+		"from_rank": 5,
+		"above": "just_fart_in_the_bag",
+		"below": "make_deat_admin"
 	}
 ]
