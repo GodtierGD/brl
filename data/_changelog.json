@@ -5407,5 +5407,14 @@
 		"from_rank": 148,
 		"above": "Skibidi Lights",
 		"below": "skibidihouse"
+	},
+	{
+		"date": 1729821929,
+		"action": "lowered",
+		"name": "drakemaxxing",
+		"to_rank": 164,
+		"from_rank": 149,
+		"above": "Skibidi Lights",
+		"below": "i_may_have_dementia"
 	}
 ]
