@@ -5281,5 +5281,14 @@
 		"from_rank": 49,
 		"above": "sterling_circles_x",
 		"below": "2147483647cigarettes"
+	},
+	{
+		"date": 1729815649,
+		"action": "raised",
+		"name": "grimace_circles",
+		"to_rank": 41,
+		"from_rank": 49,
+		"above": "jax_o_bot",
+		"below": "2147483647cigarettes"
 	}
 ]
