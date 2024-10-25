@@ -5425,5 +5425,14 @@
 		"from_rank": 156,
 		"above": "sigmahouse",
 		"below": "grains_of_brainrot"
+	},
+	{
+		"date": 1729823164,
+		"action": "raised",
+		"name": "ha_ha_so_funny",
+		"to_rank": 148,
+		"from_rank": 158,
+		"above": "xtinct_thug_shake",
+		"below": "super_skibidi_toilet"
 	}
 ]
