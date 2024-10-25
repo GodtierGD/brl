@@ -5344,5 +5344,14 @@
 		"from_rank": 146,
 		"above": "skibidiest_level",
 		"below": "xtinct_thug_shake"
+	},
+	{
+		"date": 1729821703,
+		"action": "lowered",
+		"name": "drakemaxxing",
+		"to_rank": 153,
+		"from_rank": 141,
+		"above": "skibidi_fire_redux",
+		"below": "skibidiest_level"
 	}
 ]
