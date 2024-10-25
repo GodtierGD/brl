@@ -5416,5 +5416,14 @@
 		"from_rank": 149,
 		"above": "Skibidi Lights",
 		"below": "i_may_have_dementia"
+	},
+	{
+		"date": 1729823127,
+		"action": "raised",
+		"name": "free_list_points",
+		"to_rank": 91,
+		"from_rank": 156,
+		"above": "sigmahouse",
+		"below": "grains_of_brainrot"
 	}
 ]
