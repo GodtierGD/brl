@@ -5317,5 +5317,14 @@
 		"from_rank": 50,
 		"above": "carson_never_clear",
 		"below": "extrafreakybob_limit"
+	},
+	{
+		"date": 1729816511,
+		"action": "raised",
+		"name": "thanos_for_admin",
+		"to_rank": 59,
+		"from_rank": 82,
+		"above": "skibidi_lights_redux",
+		"below": "groommaxxing"
 	}
 ]
