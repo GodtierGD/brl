@@ -5380,5 +5380,14 @@
 		"from_rank": 147,
 		"above": "congregation 34 real",
 		"below": "gavin_eat_bossfight"
+	},
+	{
+		"date": 1729821882,
+		"action": "lowered",
+		"name": "free_list_points",
+		"to_rank": 159,
+		"from_rank": 149,
+		"above": "i_love_double_clicks",
+		"below": "Diddy Masacre"
 	}
 ]
