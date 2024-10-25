@@ -5299,5 +5299,14 @@
 		"from_rank": 5,
 		"above": "just_fart_in_the_bag",
 		"below": "make_deat_admin"
+	},
+	{
+		"date": 1729816006,
+		"action": "raised",
+		"name": "rizzler_road_redux",
+		"to_rank": 32,
+		"from_rank": 34,
+		"above": "dr_oi_for_president",
+		"below": "skibidi_blizzard"
 	}
 ]
