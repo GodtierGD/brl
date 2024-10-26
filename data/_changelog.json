@@ -5479,5 +5479,14 @@
 		"from_rank": null,
 		"above": "brainrot_circles_x",
 		"below": "diddy_piecefull"
+	},
+	{
+		"date": 1729981641,
+		"action": "lowered",
+		"name": "lunchly_vortex",
+		"to_rank": 16,
+		"from_rank": 15,
+		"above": "igyattmyrizz",
+		"below": "brainrot_circles_x"
 	}
 ]
