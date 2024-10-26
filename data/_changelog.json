@@ -5434,5 +5434,14 @@
 		"from_rank": 158,
 		"above": "xtinct_thug_shake",
 		"below": "super_skibidi_toilet"
+	},
+	{
+		"date": 1729978819,
+		"action": "placed",
+		"name": "edp_go_away",
+		"to_rank": 82,
+		"from_rank": null,
+		"above": "the_sun_2",
+		"below": "death_corridaura"
 	}
 ]
