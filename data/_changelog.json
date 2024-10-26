@@ -5461,5 +5461,14 @@
 		"from_rank": 17,
 		"above": "igyattmyrizz",
 		"below": "diddy_piecefull"
+	},
+	{
+		"date": 1729979665,
+		"action": "raised",
+		"name": "quicksis_limit",
+		"to_rank": 13,
+		"from_rank": 18,
+		"above": "diddy_piecefull",
+		"below": "vropirates_havezaza"
 	}
 ]
