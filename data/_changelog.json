@@ -5443,5 +5443,14 @@
 		"from_rank": null,
 		"above": "the_sun_2",
 		"below": "death_corridaura"
+	},
+	{
+		"date": 1729979174,
+		"action": "placed",
+		"name": "off_the_cartnite",
+		"to_rank": 32,
+		"from_rank": null,
+		"above": "high_taper_fap",
+		"below": "dr_oi_for_president"
 	}
 ]
