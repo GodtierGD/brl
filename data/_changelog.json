@@ -5452,5 +5452,14 @@
 		"from_rank": null,
 		"above": "high_taper_fap",
 		"below": "dr_oi_for_president"
+	},
+	{
+		"date": 1729979617,
+		"action": "raised",
+		"name": "brainrot_circles_x",
+		"to_rank": 14,
+		"from_rank": 17,
+		"above": "igyattmyrizz",
+		"below": "diddy_piecefull"
 	}
 ]
