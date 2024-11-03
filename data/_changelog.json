@@ -5506,5 +5506,14 @@
 		"from_rank": null,
 		"above": "sterling_circles",
 		"below": "extrafreakybob_limit"
+	},
+	{
+		"date": 1730660406,
+		"action": "placed",
+		"name": "skibidi_consistency",
+		"to_rank": 96,
+		"from_rank": null,
+		"above": "sigmahouse",
+		"below": "free_list_points"
 	}
 ]
