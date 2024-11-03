@@ -5488,5 +5488,14 @@
 		"from_rank": 15,
 		"above": "igyattmyrizz",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1730659940,
+		"action": "placed",
+		"name": "unnerfed_ballin_from_detroit",
+		"to_rank": 120,
+		"from_rank": null,
+		"above": "501_cigarettes",
+		"below": "the_grimace"
 	}
 ]
