@@ -5542,5 +5542,14 @@
 		"from_rank": 33,
 		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
 		"below": "escape_diddy_party"
+	},
+	{
+		"date": 1730661374,
+		"action": "lowered",
+		"name": "skibidiohiomoonbake",
+		"to_rank": 135,
+		"from_rank": 74,
+		"above": "Pomni Circles",
+		"below": "i_miss_the_skibidi"
 	}
 ]
