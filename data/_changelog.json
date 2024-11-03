@@ -5497,5 +5497,14 @@
 		"from_rank": null,
 		"above": "501_cigarettes",
 		"below": "the_grimace"
+	},
+	{
+		"date": 1730660156,
+		"action": "placed",
+		"name": "rizzy_circles_unnerf",
+		"to_rank": 65,
+		"from_rank": null,
+		"above": "sterling_circles",
+		"below": "extrafreakybob_limit"
 	}
 ]
