@@ -2,10 +2,19 @@
 	"id": 111553932,
 	"name": "Conic Skibidux",
 	"author": "VexP",
-	"creators": ["VexP"],
+	"creators": [
+		"VexP"
+	],
 	"verifier": "VexP",
 	"verification": "https://youtu.be/zTINtNcA_uY?si=kt7ZvOQg4mcmYA3r",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/POJmZsWjHJI?si=MRo5TCJbKoYFqMCr",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

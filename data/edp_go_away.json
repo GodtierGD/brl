@@ -2,10 +2,20 @@
 	"id": 111466657,
 	"name": "edp go away",
 	"author": "kman333",
-	"creators": ["knub"," zoonk"],
+	"creators": [
+		"knub",
+		" zoonk"
+	],
 	"verifier": "kman333",
 	"verification": "https://youtu.be/NwiQwhGS_j8?si=KOMAtUwXQNu8Harp",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/B7VZ_mvc1zw?si=xHG-VEHvDSRYdKfR",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

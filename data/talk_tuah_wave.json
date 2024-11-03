@@ -2,10 +2,19 @@
 	"id": 111556498,
 	"name": "Talk Tuah Wave",
 	"author": "BeatenFries",
-	"creators": ["jabozo the clown"],
+	"creators": [
+		"jabozo the clown"
+	],
 	"verifier": "Daevie",
 	"verification": "https://www.youtube.com/watch?v=9vV6HcfwUvo",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/DKi2-2-tPV4?si=x19fStn_xbhz0CSg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

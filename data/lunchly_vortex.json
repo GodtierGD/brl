@@ -2,10 +2,19 @@
 	"id": 111446995,
 	"name": "lunchly vortex",
 	"author": "some guy",
-	"creators": ["some guy"],
+	"creators": [
+		"some guy"
+	],
 	"verifier": "Daevie",
 	"verification": "https://youtu.be/LREFKpoMDsE?si=6Nior6Lgb5ns0JNn",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/_MD5UPsg-A8?si=Nsr9ychxImfkRRcl",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

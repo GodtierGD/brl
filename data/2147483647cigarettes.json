@@ -2,10 +2,19 @@
 	"id": 111284116,
 	"name": "2147483647cigarettes",
 	"author": "schitt",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/Jnuao1c_PXE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/NQ9Frx1xpc0?si=4gkRfmkwuTjis-W2",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
