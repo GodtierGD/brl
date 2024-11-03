@@ -5533,5 +5533,14 @@
 		"from_rank": null,
 		"above": "skibidiest_level_rebirth",
 		"below": "diddy_balls_mix"
+	},
+	{
+		"date": 1730661281,
+		"action": "raised",
+		"name": "off_the_cartnite",
+		"to_rank": 22,
+		"from_rank": 33,
+		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"below": "escape_diddy_party"
 	}
 ]
