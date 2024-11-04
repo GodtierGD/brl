@@ -5551,5 +5551,14 @@
 		"from_rank": 74,
 		"above": "Pomni Circles",
 		"below": "i_miss_the_skibidi"
+	},
+	{
+		"date": 1730688382,
+		"action": "placed",
+		"name": "ballin_from_o_block",
+		"to_rank": 85,
+		"from_rank": null,
+		"above": "edp_go_away",
+		"below": "death_corridaura"
 	}
 ]
