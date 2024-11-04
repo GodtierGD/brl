@@ -5578,5 +5578,14 @@
 		"from_rank": 96,
 		"above": "edp_go_away",
 		"below": "ballin_from_o_block"
+	},
+	{
+		"date": 1730688559,
+		"action": "lowered",
+		"name": "thanos_for_admin",
+		"to_rank": 68,
+		"from_rank": 60,
+		"above": "carson_never_clear",
+		"below": "sterling_circles"
 	}
 ]
