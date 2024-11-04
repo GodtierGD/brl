@@ -5569,5 +5569,14 @@
 		"from_rank": null,
 		"above": "jelqing_simulator",
 		"below": "unnerfed_rotten_skibidi_deluxe"
+	},
+	{
+		"date": 1730688522,
+		"action": "raised",
+		"name": "grains_of_brainrot",
+		"to_rank": 87,
+		"from_rank": 96,
+		"above": "edp_go_away",
+		"below": "ballin_from_o_block"
 	}
 ]
