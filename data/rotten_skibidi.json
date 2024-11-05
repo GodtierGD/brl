@@ -2,10 +2,19 @@
 	"id": 109305721,
 	"name": "Rotten Skibidi",
 	"author": "diexx",
-	"creators": ["diexx"],
+	"creators": [
+		"diexx"
+	],
 	"verifier": "diexx",
 	"verification": "https://youtu.be/nt3y5kwu7NI?si=RNaG46Bx90j9bVxG",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/Y29Td5_qjkM?si=1X7vp0gzZdQKmWN7",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
