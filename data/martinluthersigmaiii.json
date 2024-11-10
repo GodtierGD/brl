@@ -2,10 +2,19 @@
 	"id": 110057321,
 	"name": "martinluthersigmaiii",
 	"author": "Vinkii",
-	"creators": ["Vinkii"],
+	"creators": [
+		"Vinkii"
+	],
 	"verifier": "Vinkii",
 	"verification": "https://youtu.be/zI4rdGvUiII?si=t_rRqXdtEmsBqY98",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/Ev6H-mBjWtU?si=ULFmhA9ICtTrIq7O",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
