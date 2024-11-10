@@ -2,10 +2,19 @@
 	"id": 108737086,
 	"name": "Dawn Dish Soap",
 	"author": "GDFigures",
-	"creators": ["GDFigures"],
+	"creators": [
+		"GDFigures"
+	],
 	"verifier": "GDFigures",
 	"verification": "https://youtu.be/nVwcyQhXZN8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/OW4B-Kpy4eE?si=syygaiEx3U4J64bw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
