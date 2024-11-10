@@ -2,10 +2,19 @@
 	"id": 110765352,
 	"name": "apple vision pro",
 	"author": "Frqshgmd",
-	"creators": ["oFrqsh"],
+	"creators": [
+		"oFrqsh"
+	],
 	"verifier": "oFrqsh",
 	"verification": "https://youtu.be/sGhzN7xgOMw?si=wT20XT8uIc6pOPRQ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/thYExeVXVSA?si=SLq3zJ4mh9_Z1W4P",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
