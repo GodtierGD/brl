@@ -2,10 +2,19 @@
 	"id": 110744450,
 	"name": "rizzmoc",
 	"author": "charlie11111",
-	"creators": ["charlie11111"],
+	"creators": [
+		"charlie11111"
+	],
 	"verifier": "charlie11111",
 	"verification": "https://youtu.be/C3wpFZZ-lis?si=IgDX_ILPWFF_9xGW",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/ByCv00NM0EA?si=Vos7qJSx7jpPFFsx",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
