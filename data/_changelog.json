@@ -5605,5 +5605,14 @@
 		"from_rank": 164,
 		"above": "ha_ha_so_funny",
 		"below": "kelp_2"
+	},
+	{
+		"date": 1731341126,
+		"action": "lowered",
+		"name": "drakemaxxing",
+		"to_rank": 238,
+		"from_rank": 164,
+		"above": "edpness",
+		"below": "ballin_from_detroit"
 	}
 ]
