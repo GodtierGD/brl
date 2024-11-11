@@ -5668,5 +5668,14 @@
 		"from_rank": null,
 		"above": "lobotomy_sandwhich",
 		"below": "shreks beefy toes"
+	},
+	{
+		"date": 1731342751,
+		"action": "raised",
+		"name": "ballin_from_detroit",
+		"to_rank": 229,
+		"from_rank": 237,
+		"above": "edp_cupcake_theft",
+		"below": "skibidi_house"
 	}
 ]
