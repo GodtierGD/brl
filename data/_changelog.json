@@ -5632,5 +5632,14 @@
 		"from_rank": 186,
 		"above": "edpness",
 		"below": "drakemaxxing"
+	},
+	{
+		"date": 1731341525,
+		"action": "lowered",
+		"name": "utz_variety_pack",
+		"to_rank": 226,
+		"from_rank": 205,
+		"above": "free_robux",
+		"below": "my_mewing_streak"
 	}
 ]
