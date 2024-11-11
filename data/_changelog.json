@@ -5686,5 +5686,14 @@
 		"from_rank": 243,
 		"above": "Kai Rizz",
 		"below": "rizzstep"
+	},
+	{
+		"date": 1731368764,
+		"action": "lowered",
+		"name": "turkish_circles",
+		"to_rank": 235,
+		"from_rank": 223,
+		"above": "skibidi_hell",
+		"below": "genzimibra"
 	}
 ]
