@@ -5587,5 +5587,14 @@
 		"from_rank": 60,
 		"above": "carson_never_clear",
 		"below": "sterling_circles"
+	},
+	{
+		"date": 1731340935,
+		"action": "lowered",
+		"name": "ha_ha_so_funny",
+		"to_rank": 252,
+		"from_rank": 152,
+		"above": "xirai",
+		"below": "kelp_2"
 	}
 ]
