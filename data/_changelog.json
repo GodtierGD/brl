@@ -5677,5 +5677,14 @@
 		"from_rank": 237,
 		"above": "edp_cupcake_theft",
 		"below": "skibidi_house"
+	},
+	{
+		"date": 1731368214,
+		"action": "raised",
+		"name": "nojushouse",
+		"to_rank": 242,
+		"from_rank": 243,
+		"above": "Kai Rizz",
+		"below": "rizzstep"
 	}
 ]
