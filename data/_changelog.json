@@ -5650,5 +5650,14 @@
 		"from_rank": 194,
 		"above": "sleepmaxxing",
 		"below": "rizzy_circles"
+	},
+	{
+		"date": 1731341853,
+		"action": "lowered",
+		"name": "edp_cupcake_theft",
+		"to_rank": 228,
+		"from_rank": 186,
+		"above": "xtinct_is_gay",
+		"below": "skibidi_house"
 	}
 ]
