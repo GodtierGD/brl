@@ -2,10 +2,20 @@
 	"id": 111892356,
 	"name": "ohio escape",
 	"author": "Kman333",
-	"creators": ["Sstaarss"," Kman333"],
+	"creators": [
+		"Sstaarss",
+		" Kman333"
+	],
 	"verifier": "Kman333",
 	"verification": "https://www.youtube.com/watch?v=_EU7cQ6xrqA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/yNXMQ3xSVrE?si=1jFEfidik1sWQwMN",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
