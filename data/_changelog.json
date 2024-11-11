@@ -5614,5 +5614,14 @@
 		"from_rank": 164,
 		"above": "edpness",
 		"below": "ballin_from_detroit"
+	},
+	{
+		"date": 1731341249,
+		"action": "lowered",
+		"name": "xtinct_is_gay",
+		"to_rank": 230,
+		"from_rank": 124,
+		"above": "diddy_scream_chamber",
+		"below": "skibidi_house"
 	}
 ]
