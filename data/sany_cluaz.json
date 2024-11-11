@@ -2,10 +2,19 @@
 	"id": 110883121,
 	"name": "Sany Cluaz",
 	"author": "MuralGMD",
-	"creators": ["MuralGMD"],
+	"creators": [
+		"MuralGMD"
+	],
 	"verifier": "MuralGMD",
 	"verification": "https://www.youtube.com/watch?v=8HMpzSFH1OE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/q81LR2LvXs8?si=aVdEmOlEkJ234gbu",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

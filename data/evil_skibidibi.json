@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/YF94JC_TxNo",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/PKFJgpBHc4o?si=60VCrAD7axRB9ppN",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
