@@ -5623,5 +5623,14 @@
 		"from_rank": 124,
 		"above": "diddy_scream_chamber",
 		"below": "skibidi_house"
+	},
+	{
+		"date": 1731341360,
+		"action": "lowered",
+		"name": "kris tyson challenge",
+		"to_rank": 238,
+		"from_rank": 186,
+		"above": "edpness",
+		"below": "drakemaxxing"
 	}
 ]
