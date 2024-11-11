@@ -5659,5 +5659,14 @@
 		"from_rank": 186,
 		"above": "xtinct_is_gay",
 		"below": "skibidi_house"
+	},
+	{
+		"date": 1731342327,
+		"action": "placed",
+		"name": "ohio_escape",
+		"to_rank": 207,
+		"from_rank": null,
+		"above": "lobotomy_sandwhich",
+		"below": "shreks beefy toes"
 	}
 ]
