@@ -69,6 +69,13 @@
 			"link": "https://www.youtube.com/shorts/dfYZRuYpL74",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Godtier",
+			"link": "https://youtu.be/st0Aaw88e6E?si=b-QMNCLPnl4HBMwL",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
