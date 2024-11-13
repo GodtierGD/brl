@@ -5722,5 +5722,14 @@
 		"from_rank": null,
 		"above": "lunchly_vortex",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1731462706,
+		"action": "raised",
+		"name": "turkish_circles",
+		"to_rank": 231,
+		"from_rank": 238,
+		"above": "edp_cupcake_theft",
+		"below": "ballin_from_detroit"
 	}
 ]
