@@ -2,10 +2,20 @@
 	"id": 110129677,
 	"name": "why i love edging",
 	"author": "xXfinngdXx",
-	"creators": ["GravyCatMan896"," xXfinngdXx"],
+	"creators": [
+		"GravyCatMan896",
+		" xXfinngdXx"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/07KHcJTACUk?si=yDdhUiYsnkuzoMao",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://www.youtube.com/watch?v=emQ9vOrcCss",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
