@@ -5803,5 +5803,14 @@
 		"from_rank": 61,
 		"above": "rizzler_road_redux",
 		"below": "skibidi_blizzard"
+	},
+	{
+		"date": 1731545416,
+		"action": "raised",
+		"name": "extrafreakybob_limit",
+		"to_rank": 40,
+		"from_rank": 64,
+		"above": "caseohs_demise",
+		"below": "skibidi_trilogy"
 	}
 ]
