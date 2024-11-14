@@ -5794,5 +5794,14 @@
 		"from_rank": 62,
 		"above": "ball_circles",
 		"below": "diddys_coloringbook"
+	},
+	{
+		"date": 1731545265,
+		"action": "raised",
+		"name": "skibidi_lights_redux",
+		"to_rank": 34,
+		"from_rank": 61,
+		"above": "rizzler_road_redux",
+		"below": "skibidi_blizzard"
 	}
 ]
