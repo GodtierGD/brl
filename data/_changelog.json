@@ -5776,5 +5776,14 @@
 		"from_rank": 210,
 		"above": "skibidi_hell",
 		"below": "genzimibra"
+	},
+	{
+		"date": 1731544472,
+		"action": "lowered",
+		"name": "alpha_maze",
+		"to_rank": 15,
+		"from_rank": 14,
+		"above": "brainrot_circles_x",
+		"below": "diddy_piecefull"
 	}
 ]
