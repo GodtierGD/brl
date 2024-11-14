@@ -5749,5 +5749,14 @@
 		"from_rank": 234,
 		"above": "turkish_circles",
 		"below": "ballin_from_detroit"
+	},
+	{
+		"date": 1731544037,
+		"action": "placed",
+		"name": "jelquers_gronkadise",
+		"to_rank": 227,
+		"from_rank": null,
+		"above": "utz_variety_pack",
+		"below": "my_mewing_streak"
 	}
 ]
