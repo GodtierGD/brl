@@ -5857,5 +5857,14 @@
 		"from_rank": 120,
 		"above": "diddy_sticky_balls_x",
 		"below": "groommaxxing"
+	},
+	{
+		"date": 1731639079,
+		"action": "raised",
+		"name": "daeviebaebasic8",
+		"to_rank": 106,
+		"from_rank": 107,
+		"above": "conic_skibidux",
+		"below": "diddy_balls_mix"
 	}
 ]
