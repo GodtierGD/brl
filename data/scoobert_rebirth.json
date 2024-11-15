@@ -2,10 +2,20 @@
 	"id": 109756946,
 	"name": "Scoobert Rebirth",
 	"author": "Crit",
-	"creators": ["Crit"," jinx"],
+	"creators": [
+		"Crit",
+		" jinx"
+	],
 	"verifier": "Crit",
 	"verification": "https://youtu.be/x83NmvmW7UQ?si=8cSbcaNHzSQ27A0d",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/MyUgkS-r5es?si=EMVEWeIEdA2Ha9gk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
