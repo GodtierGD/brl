@@ -5839,5 +5839,14 @@
 		"from_rank": null,
 		"above": "skibidiest_level_rebirth",
 		"below": "conic_skibidux"
+	},
+	{
+		"date": 1731638685,
+		"action": "placed",
+		"name": "unnerfed_rotten_skibidi_deluxe",
+		"to_rank": 31,
+		"from_rank": null,
+		"above": "recent_tab_trash",
+		"below": "glc"
 	}
 ]
