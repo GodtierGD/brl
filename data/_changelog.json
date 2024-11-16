@@ -5920,5 +5920,14 @@
 		"from_rank": 252,
 		"above": "can_i_get_a_mc_brain",
 		"below": "skibidi_hell"
+	},
+	{
+		"date": 1731715966,
+		"action": "raised",
+		"name": "nojushouse",
+		"to_rank": 247,
+		"from_rank": 252,
+		"above": "skibidi_choose_way_2",
+		"below": "can_i_get_a_mc_brain"
 	}
 ]
