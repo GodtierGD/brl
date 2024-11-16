@@ -5938,5 +5938,14 @@
 		"from_rank": 65,
 		"above": "talk_tuah_wave",
 		"below": "rizzy_circles_unnerf"
+	},
+	{
+		"date": 1731716212,
+		"action": "lowered",
+		"name": "the_unknown_rizzler",
+		"to_rank": 66,
+		"from_rank": 56,
+		"above": "diddy_sticky_balls_x",
+		"below": "rizzy_circles_unnerf"
 	}
 ]
