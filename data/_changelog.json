@@ -5929,5 +5929,14 @@
 		"from_rank": 252,
 		"above": "skibidi_choose_way_2",
 		"below": "can_i_get_a_mc_brain"
+	},
+	{
+		"date": 1731716168,
+		"action": "lowered",
+		"name": "diddy_sticky_balls_x",
+		"to_rank": 67,
+		"from_rank": 65,
+		"above": "talk_tuah_wave",
+		"below": "rizzy_circles_unnerf"
 	}
 ]
