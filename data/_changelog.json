@@ -5983,5 +5983,14 @@
 		"from_rank": null,
 		"above": "xtinct_is_gay",
 		"below": "edp_cupcake_theft"
+	},
+	{
+		"date": 1731794391,
+		"action": "placed",
+		"name": "never_shower",
+		"to_rank": 235,
+		"from_rank": null,
+		"above": "diddy_scream_chamber",
+		"below": "ballin_from_detroit"
 	}
 ]
