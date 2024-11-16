@@ -5965,5 +5965,14 @@
 		"from_rank": null,
 		"above": "why_i_love_edging",
 		"below": "xtinct_is_gay"
+	},
+	{
+		"date": 1731792188,
+		"action": "raised",
+		"name": "extrafreakybob_limit",
+		"to_rank": 36,
+		"from_rank": 41,
+		"above": "skibidi_lights_redux",
+		"below": "skibidi_blizzard"
 	}
 ]
