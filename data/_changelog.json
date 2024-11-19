@@ -6001,5 +6001,14 @@
 		"from_rank": null,
 		"above": "genzimibra",
 		"below": "10 Levels Of Grimace"
+	},
+	{
+		"date": 1732055463,
+		"action": "lowered",
+		"name": "irizzmygyatt",
+		"to_rank": 65,
+		"from_rank": 12,
+		"above": "the_unknown_rizzler",
+		"below": "rizzy_circles_unnerf"
 	}
 ]
