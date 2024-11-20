@@ -6019,5 +6019,14 @@
 		"from_rank": 15,
 		"above": "vropirates_havezaza",
 		"below": "igyattmyrizz"
+	},
+	{
+		"date": 1732066885,
+		"action": "lowered",
+		"name": "skibidi_showdown",
+		"to_rank": 120,
+		"from_rank": 110,
+		"above": "fanum_toilet",
+		"below": "itchy_ballsak_xyz_4"
 	}
 ]
