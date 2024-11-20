@@ -6037,5 +6037,14 @@
 		"from_rank": 110,
 		"above": "fanum_toilet",
 		"below": "skibidi_showdown"
+	},
+	{
+		"date": 1732067246,
+		"action": "lowered",
+		"name": "turkish_circles",
+		"to_rank": 246,
+		"from_rank": 237,
+		"above": "genzimibra",
+		"below": "tyrone_the_maker"
 	}
 ]
