@@ -6055,5 +6055,14 @@
 		"from_rank": null,
 		"above": "dr_oi_for_president",
 		"below": "rizzler_road_redux"
+	},
+	{
+		"date": 1732236084,
+		"action": "placed",
+		"name": "moai",
+		"to_rank": 229,
+		"from_rank": null,
+		"above": "my_mewing_streak",
+		"below": "krisscapes"
 	}
 ]
