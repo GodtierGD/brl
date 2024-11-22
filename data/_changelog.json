@@ -6064,5 +6064,14 @@
 		"from_rank": null,
 		"above": "my_mewing_streak",
 		"below": "krisscapes"
+	},
+	{
+		"date": 1732236251,
+		"action": "raised",
+		"name": "Jaxagarasu",
+		"to_rank": 247,
+		"from_rank": 252,
+		"above": "tyrone_the_maker",
+		"below": "10 Levels Of Grimace"
 	}
 ]
