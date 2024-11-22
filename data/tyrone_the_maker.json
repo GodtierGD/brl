@@ -2,10 +2,19 @@
 	"id": 109565974,
 	"name": "Tyrone the maker",
 	"author": "therealMIEP",
-	"creators": ["therealMIEP"],
+	"creators": [
+		"therealMIEP"
+	],
 	"verifier": "therealMIEP",
 	"verification": "https://youtu.be/5MXPW4OXdf8?si=RxlR6G9cnuB8EvCW",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/3ATe6qMgAXU?si=vukJBg2MliovsmJd",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
