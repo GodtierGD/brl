@@ -2,10 +2,19 @@
 	"id": 112152110,
 	"name": "gronkasize",
 	"author": "filipcupcake",
-	"creators": ["filipcupcake"],
+	"creators": [
+		"filipcupcake"
+	],
 	"verifier": "filipcupcake",
 	"verification": "https://www.youtube.com/watch?v=DVW3X1czUuY&ab_channel=FilipCupCake",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/3ATe6qMgAXU?si=vukJBg2MliovsmJd",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
