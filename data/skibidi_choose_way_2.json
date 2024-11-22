@@ -2,10 +2,19 @@
 	"id": 108912411,
 	"name": "skibidi choose way 2",
 	"author": "filipcupcake",
-	"creators": ["filipcupcake"],
+	"creators": [
+		"filipcupcake"
+	],
 	"verifier": "filipcupcake",
 	"verification": "https://youtu.be/Y3AHHJwZOWE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/8MrAncjS874?si=AuvmhdIs6w0t1fdz",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

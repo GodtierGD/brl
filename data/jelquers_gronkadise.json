@@ -2,10 +2,19 @@
 	"id": 109266968,
 	"name": "jelquers gronkadise",
 	"author": "filipcupcake",
-	"creators": ["filipcupcake"],
+	"creators": [
+		"filipcupcake"
+	],
 	"verifier": "filipcupcake",
 	"verification": "https://www.youtube.com/watch?v=sPe7W__zXKs&ab_channel=FilipCupCake",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/8MrAncjS874?si=AuvmhdIs6w0t1fdz",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
