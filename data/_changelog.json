@@ -6073,5 +6073,14 @@
 		"from_rank": 252,
 		"above": "tyrone_the_maker",
 		"below": "10 Levels Of Grimace"
+	},
+	{
+		"date": 1732351321,
+		"action": "placed",
+		"name": "deat_is_gay",
+		"to_rank": 109,
+		"from_rank": null,
+		"above": "conic_skibidux",
+		"below": "daeviebaebasic8"
 	}
 ]
