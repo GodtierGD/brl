@@ -6100,5 +6100,14 @@
 		"from_rank": null,
 		"above": "krisscapes",
 		"below": "KAIGREGATION CENAT"
+	},
+	{
+		"date": 1732384488,
+		"action": "placed",
+		"name": "deat_is_gay",
+		"to_rank": 112,
+		"from_rank": null,
+		"above": "skibidiest_level_rebirth",
+		"below": "conic_skibidux"
 	}
 ]
