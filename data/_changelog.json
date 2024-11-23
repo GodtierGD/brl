@@ -6136,5 +6136,14 @@
 		"from_rank": 246,
 		"above": "irish_party",
 		"below": "pedro_is_gay"
+	},
+	{
+		"date": 1732398609,
+		"action": "lowered",
+		"name": "quicksis_limit",
+		"to_rank": 18,
+		"from_rank": 16,
+		"above": "alpha_maze",
+		"below": "diddy_piecefull"
 	}
 ]
