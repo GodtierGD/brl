@@ -6109,5 +6109,14 @@
 		"from_rank": null,
 		"above": "skibidiest_level_rebirth",
 		"below": "conic_skibidux"
+	},
+	{
+		"date": 1732385327,
+		"action": "raised",
+		"name": "10 Levels Of Grimace",
+		"to_rank": 242,
+		"from_rank": 250,
+		"above": "diddy_scream_chamber",
+		"below": "never_shower"
 	}
 ]
