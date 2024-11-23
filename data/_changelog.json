@@ -6082,5 +6082,14 @@
 		"from_rank": null,
 		"above": "conic_skibidux",
 		"below": "daeviebaebasic8"
+	},
+	{
+		"date": 1732384076,
+		"action": "placed",
+		"name": "silent_moai",
+		"to_rank": 48,
+		"from_rank": null,
+		"above": "sterling_circles_x",
+		"below": "jax_o_bot"
 	}
 ]
