@@ -6145,5 +6145,14 @@
 		"from_rank": 16,
 		"above": "alpha_maze",
 		"below": "diddy_piecefull"
+	},
+	{
+		"date": 1732412372,
+		"action": "raised",
+		"name": "brain_rot_final_boss",
+		"to_rank": 2,
+		"from_rank": 3,
+		"above": "make_deat_admin",
+		"below": "babushka_vortex"
 	}
 ]
