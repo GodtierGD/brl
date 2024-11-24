@@ -6154,5 +6154,14 @@
 		"from_rank": 3,
 		"above": "make_deat_admin",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1732412450,
+		"action": "lowered",
+		"name": "alpha_arc",
+		"to_rank": 12,
+		"from_rank": 11,
+		"above": "femboyrotted",
+		"below": "eatdatskibidi445"
 	}
 ]
