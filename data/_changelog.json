@@ -6190,5 +6190,14 @@
 		"from_rank": null,
 		"above": "balkan_fanum_boss",
 		"below": "rizzler_road_deluxe"
+	},
+	{
+		"date": 1732478409,
+		"action": "raised",
+		"name": "genzimibra",
+		"to_rank": 245,
+		"from_rank": 259,
+		"above": "ballin_from_detroit",
+		"below": "skibidi_house"
 	}
 ]
