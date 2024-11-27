@@ -6217,5 +6217,14 @@
 		"from_rank": null,
 		"above": "the_unknown_rizzler",
 		"below": "irizzmygyatt"
+	},
+	{
+		"date": 1732695373,
+		"action": "placed",
+		"name": "failed_mewing_streak",
+		"to_rank": 229,
+		"from_rank": null,
+		"above": "skibid_chal_s02_e3w",
+		"below": "liamlovesgyattttttt"
 	}
 ]
