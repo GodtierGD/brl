@@ -6208,5 +6208,14 @@
 		"from_rank": null,
 		"above": "normal_face_chall",
 		"below": "balkan_fanum_boss"
+	},
+	{
+		"date": 1732695130,
+		"action": "placed",
+		"name": "deat_is_straight",
+		"to_rank": 73,
+		"from_rank": null,
+		"above": "the_unknown_rizzler",
+		"below": "irizzmygyatt"
 	}
 ]
