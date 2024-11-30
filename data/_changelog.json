@@ -6352,5 +6352,14 @@
 		"from_rank": null,
 		"above": "rizzy_circles_unnerf",
 		"below": "sigma_triangles"
+	},
+	{
+		"date": 1732989630,
+		"action": "lowered",
+		"name": "skibid_chal_s02_e3w",
+		"to_rank": 257,
+		"from_rank": 236,
+		"above": "swinging_rizz",
+		"below": "utz_variety_pack"
 	}
 ]
