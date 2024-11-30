@@ -6271,5 +6271,14 @@
 		"from_rank": 248,
 		"above": "diddy_touched_me",
 		"below": "my_dad_with_a_bat"
+	},
+	{
+		"date": 1732986851,
+		"action": "raised",
+		"name": "never_shower",
+		"to_rank": 230,
+		"from_rank": 248,
+		"above": "skibid_chal_s02_e3w",
+		"below": "failed_mewing_streak"
 	}
 ]
