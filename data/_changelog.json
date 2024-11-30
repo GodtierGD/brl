@@ -6298,5 +6298,14 @@
 		"from_rank": 251,
 		"above": "silent_cenat",
 		"below": "diddy_touched_me"
+	},
+	{
+		"date": 1732987094,
+		"action": "raised",
+		"name": "skibidi_house",
+		"to_rank": 232,
+		"from_rank": 249,
+		"above": "skibid_chal_s02_e3w",
+		"below": "never_shower"
 	}
 ]
