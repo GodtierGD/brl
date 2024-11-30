@@ -6262,5 +6262,14 @@
 		"from_rank": 250,
 		"above": "goofy_ahh_lvl",
 		"below": "rainbow_rot"
+	},
+	{
+		"date": 1732983147,
+		"action": "raised",
+		"name": "10 Levels Of Grimace",
+		"to_rank": 224,
+		"from_rank": 248,
+		"above": "diddy_touched_me",
+		"below": "my_dad_with_a_bat"
 	}
 ]
