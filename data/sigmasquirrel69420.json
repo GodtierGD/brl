@@ -2,10 +2,19 @@
 	"id": 112548072,
 	"name": "Sigmasquirrel69420",
 	"author": "carvvv",
-	"creators": ["carvvv"],
+	"creators": [
+		"carvvv"
+	],
 	"verifier": "carv",
 	"verification": "https://youtu.be/EVZ_8dETvwA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/ldJhI8tOHT8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
