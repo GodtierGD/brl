@@ -6226,5 +6226,14 @@
 		"from_rank": null,
 		"above": "skibid_chal_s02_e3w",
 		"below": "liamlovesgyattttttt"
+	},
+	{
+		"date": 1732981239,
+		"action": "lowered",
+		"name": "rainbow_rot",
+		"to_rank": 255,
+		"from_rank": 190,
+		"above": "goofy_ahh_lvl",
+		"below": "xtinct_is_gay"
 	}
 ]
