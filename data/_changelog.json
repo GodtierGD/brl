@@ -6379,5 +6379,14 @@
 		"from_rank": 20,
 		"above": "alpha_arc",
 		"below": "vropirates_havezaza"
+	},
+	{
+		"date": 1732990129,
+		"action": "lowered",
+		"name": "bbl_circles",
+		"to_rank": 236,
+		"from_rank": 224,
+		"above": "ohiorizzsigmaxyz",
+		"below": "five_night_freakbob"
 	}
 ]
