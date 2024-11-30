@@ -6307,5 +6307,14 @@
 		"from_rank": 249,
 		"above": "skibid_chal_s02_e3w",
 		"below": "never_shower"
+	},
+	{
+		"date": 1732987139,
+		"action": "raised",
+		"name": "KAIGREGATION CENAT",
+		"to_rank": 211,
+		"from_rank": 241,
+		"above": "Jaxagarasu Rebirth",
+		"below": "brain_nourishment"
 	}
 ]
