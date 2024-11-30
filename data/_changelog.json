@@ -6253,5 +6253,14 @@
 		"from_rank": 244,
 		"above": "swinging_rizz",
 		"below": "goofy_ahh_lvl"
+	},
+	{
+		"date": 1732983081,
+		"action": "lowered",
+		"name": "edp_cupcake_theft",
+		"to_rank": 253,
+		"from_rank": 250,
+		"above": "goofy_ahh_lvl",
+		"below": "rainbow_rot"
 	}
 ]
