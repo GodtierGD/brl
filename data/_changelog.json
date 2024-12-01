@@ -6406,5 +6406,14 @@
 		"from_rank": 2,
 		"above": "just_fart_in_the_bag",
 		"below": "make_deat_admin"
+	},
+	{
+		"date": 1733074747,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 3,
+		"from_rank": 5,
+		"above": "brain_rot_final_boss",
+		"below": "make_deat_admin"
 	}
 ]
