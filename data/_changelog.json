@@ -6424,5 +6424,14 @@
 		"from_rank": null,
 		"above": "brain_rot_final_boss",
 		"below": "low_taper_fade"
+	},
+	{
+		"date": 1733075338,
+		"action": "placed",
+		"name": "extrafreakybob_negative",
+		"to_rank": 42,
+		"from_rank": null,
+		"above": "rizzler_road_redux",
+		"below": "skibidi_lights_redux"
 	}
 ]
