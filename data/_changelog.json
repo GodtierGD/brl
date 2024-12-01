@@ -6397,5 +6397,14 @@
 		"from_rank": 2,
 		"above": "escape_ethiopia_real",
 		"below": "make_wushady_mod"
+	},
+	{
+		"date": 1733074604,
+		"action": "lowered",
+		"name": "brain_rot_final_boss",
+		"to_rank": 3,
+		"from_rank": 2,
+		"above": "just_fart_in_the_bag",
+		"below": "make_deat_admin"
 	}
 ]
