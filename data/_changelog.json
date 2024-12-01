@@ -6415,5 +6415,14 @@
 		"from_rank": 5,
 		"above": "brain_rot_final_boss",
 		"below": "make_deat_admin"
+	},
+	{
+		"date": 1733075122,
+		"action": "placed",
+		"name": "narcton_diablo_ean",
+		"to_rank": 4,
+		"from_rank": null,
+		"above": "brain_rot_final_boss",
+		"below": "low_taper_fade"
 	}
 ]
