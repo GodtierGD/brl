@@ -6433,5 +6433,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_redux",
 		"below": "skibidi_lights_redux"
+	},
+	{
+		"date": 1733075753,
+		"action": "placed",
+		"name": "what_a_lobotomy_feels_like",
+		"to_rank": 238,
+		"from_rank": null,
+		"above": "bbl_circles",
+		"below": "five_night_freakbob"
 	}
 ]
