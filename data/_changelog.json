@@ -6442,5 +6442,14 @@
 		"from_rank": null,
 		"above": "bbl_circles",
 		"below": "five_night_freakbob"
+	},
+	{
+		"date": 1733075947,
+		"action": "placed",
+		"name": "rot_in_the_water",
+		"to_rank": 153,
+		"from_rank": null,
+		"above": "brainrot_fantasy",
+		"below": "EDGE MEW MAXXER 5000"
 	}
 ]
