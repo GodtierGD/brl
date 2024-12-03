@@ -6487,5 +6487,14 @@
 		"from_rank": null,
 		"above": "sakupen_grimace",
 		"below": "sleepmaxxing"
+	},
+	{
+		"date": 1733187011,
+		"action": "raised",
+		"name": "jelquers_gronkadise",
+		"to_rank": 235,
+		"from_rank": 255,
+		"above": "Skibidi Circles",
+		"below": "why_i_hate_edging"
 	}
 ]
