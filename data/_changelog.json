@@ -6496,5 +6496,14 @@
 		"from_rank": 255,
 		"above": "Skibidi Circles",
 		"below": "why_i_hate_edging"
+	},
+	{
+		"date": 1733187265,
+		"action": "raised",
+		"name": "gronkasize",
+		"to_rank": 236,
+		"from_rank": 247,
+		"above": "Skibidi Circles",
+		"below": "jelquers_gronkadise"
 	}
 ]
