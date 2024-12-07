@@ -45,6 +45,13 @@
 			"link": "https://www.youtube.com/watch?v=eB1O545tRBk",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Lobotomy",
+			"link": "https://youtu.be/eGrvtjd5yYg?si=v0Xpl719WE1-MgMG",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
