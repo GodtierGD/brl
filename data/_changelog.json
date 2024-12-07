@@ -6523,5 +6523,14 @@
 		"from_rank": null,
 		"above": "what_a_lobotomy_feels_like",
 		"below": "five_night_freakbob"
+	},
+	{
+		"date": 1733607007,
+		"action": "placed",
+		"name": "dooby_dooby_doo",
+		"to_rank": 224,
+		"from_rank": null,
+		"above": "mrbeast_is_a_sigma",
+		"below": "moai_circles"
 	}
 ]
