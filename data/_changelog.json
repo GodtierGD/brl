@@ -6505,5 +6505,14 @@
 		"from_rank": 247,
 		"above": "Skibidi Circles",
 		"below": "jelquers_gronkadise"
+	},
+	{
+		"date": 1733547316,
+		"action": "placed",
+		"name": "poo_fart_among_us_v6",
+		"to_rank": 1,
+		"from_rank": null,
+		"above": "babushka_vortex",
+		"below": null
 	}
 ]
