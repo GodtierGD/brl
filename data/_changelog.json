@@ -6559,5 +6559,14 @@
 		"from_rank": null,
 		"above": "poo_fart_among_us_v6",
 		"below": null
+	},
+	{
+		"date": 1733705707,
+		"action": "raised",
+		"name": "babushka_vortex",
+		"to_rank": 2,
+		"from_rank": 3,
+		"above": "poo_fart_among_us_v6",
+		"below": "poo_fart_among_us_v5"
 	}
 ]
