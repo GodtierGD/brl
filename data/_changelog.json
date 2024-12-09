@@ -6586,5 +6586,14 @@
 		"from_rank": 9,
 		"above": "just_fart_in_the_bag",
 		"below": "brain_rot_final_boss"
+	},
+	{
+		"date": 1733706232,
+		"action": "raised",
+		"name": "never_shower",
+		"to_rank": 237,
+		"from_rank": 246,
+		"above": "diddy_touched_me",
+		"below": "10 Levels Of Grimace"
 	}
 ]
