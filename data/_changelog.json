@@ -6577,5 +6577,14 @@
 		"from_rank": null,
 		"above": "fanum rizzer",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1733706052,
+		"action": "raised",
+		"name": "make_wushady_mod",
+		"to_rank": 8,
+		"from_rank": 9,
+		"above": "just_fart_in_the_bag",
+		"below": "brain_rot_final_boss"
 	}
 ]
