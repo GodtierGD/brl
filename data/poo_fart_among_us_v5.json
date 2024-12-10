@@ -2,10 +2,19 @@
 	"id": 93340239,
 	"name": "Poo Fart Among Us v5",
 	"author": "tmkis",
-	"creators": ["tmkis"],
+	"creators": [
+		"tmkis"
+	],
 	"verifier": "Gauzz",
 	"verification": "https://www.youtube.com/watch?v=jamL88fG44c",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "fodso",
+			"link": "https://www.youtube.com/watch?v=aOqgp8vslcA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
