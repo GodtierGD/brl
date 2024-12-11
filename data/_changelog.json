@@ -6595,5 +6595,14 @@
 		"from_rank": 246,
 		"above": "diddy_touched_me",
 		"below": "10 Levels Of Grimace"
+	},
+	{
+		"date": 1733879061,
+		"action": "placed",
+		"name": "le_fart_of_le_blade",
+		"to_rank": 3,
+		"from_rank": null,
+		"above": "poo_fart_among_us_v6",
+		"below": "babushka_vortex"
 	}
 ]
