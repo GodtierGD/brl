@@ -6604,5 +6604,14 @@
 		"from_rank": null,
 		"above": "poo_fart_among_us_v6",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1733879575,
+		"action": "placed",
+		"name": "massive_level_of_poo",
+		"to_rank": 64,
+		"from_rank": null,
+		"above": "normal_face_chall",
+		"below": "godtier_is_a_femboy"
 	}
 ]
