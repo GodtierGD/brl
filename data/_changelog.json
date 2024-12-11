@@ -6613,5 +6613,14 @@
 		"from_rank": null,
 		"above": "normal_face_chall",
 		"below": "godtier_is_a_femboy"
+	},
+	{
+		"date": 1733879689,
+		"action": "placed",
+		"name": "10_minute_brainrot",
+		"to_rank": 216,
+		"from_rank": null,
+		"above": "the_sixnineth_varien",
+		"below": "silent_membrane"
 	}
 ]
