@@ -6685,5 +6685,14 @@
 		"from_rank": 2,
 		"above": "babushka_vortex",
 		"below": null
+	},
+	{
+		"date": 1734215446,
+		"action": "lowered",
+		"name": "le_fart_of_le_blade",
+		"to_rank": 2,
+		"from_rank": 1,
+		"above": "poo_fart_among_us_v5",
+		"below": "babushka_vortex"
 	}
 ]
