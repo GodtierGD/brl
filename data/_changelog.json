@@ -6649,5 +6649,14 @@
 		"from_rank": null,
 		"above": "diddy_touched_me",
 		"below": "never_shower"
+	},
+	{
+		"date": 1734214056,
+		"action": "placed",
+		"name": "shatter_of_96",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "just_fart_in_the_bag",
+		"below": "make_wushady_mod"
 	}
 ]
