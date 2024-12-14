@@ -6667,5 +6667,14 @@
 		"from_rank": 1,
 		"above": "poo_fart_among_us_v6",
 		"below": "le_fart_of_le_blade"
+	},
+	{
+		"date": 1734214957,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 4,
+		"from_rank": 6,
+		"above": "poo_fart_among_us_v6",
+		"below": "poo_fart_among_us_v5"
 	}
 ]
