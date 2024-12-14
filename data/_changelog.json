@@ -6658,5 +6658,14 @@
 		"from_rank": null,
 		"above": "just_fart_in_the_bag",
 		"below": "make_wushady_mod"
+	},
+	{
+		"date": 1734214771,
+		"action": "lowered",
+		"name": "poo_fart_among_us_v5",
+		"to_rank": 3,
+		"from_rank": 1,
+		"above": "poo_fart_among_us_v6",
+		"below": "le_fart_of_le_blade"
 	}
 ]
