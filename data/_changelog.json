@@ -6730,5 +6730,14 @@
 		"from_rank": 27,
 		"above": "alpha_maze",
 		"below": "alpha_arc"
+	},
+	{
+		"date": 1734306550,
+		"action": "raised",
+		"name": "femboyrotted",
+		"to_rank": 18,
+		"from_rank": 19,
+		"above": "pov you jelq too hard",
+		"below": "mental_never_clear"
 	}
 ]
