@@ -2,10 +2,19 @@
 	"id": 112969272,
 	"name": "MASSIVE level of poo",
 	"author": "K1TTYP",
-	"creators": ["K1TTYP"],
+	"creators": [
+		"K1TTYP"
+	],
 	"verifier": "K1TTYP",
 	"verification": "https://youtu.be/8QHE6p7kDnk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "xXfinngdXx",
+			"link": "https://youtu.be/8u1-rNbDonk?si=tWlTYyxoEK7I1peP",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
