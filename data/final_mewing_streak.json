@@ -2,10 +2,20 @@
 	"id": 113080895,
 	"name": "FINAL MEWING STREAK",
 	"author": "OGBenjamin",
-	"creators": ["OGBenjamin"],
+	"creators": [
+		"OGBenjamin"
+	],
 	"verifier": "Benjaminishuman",
 	"verification": "https://youtu.be/JpX4cKobF_Y?si=aiqrsjF5YaPQp1rw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "BoykisserShadow",
+			"link": "https://youtu.be/1J_mJVZ1u5w?si=FR9vAddt6YMQVf25",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
