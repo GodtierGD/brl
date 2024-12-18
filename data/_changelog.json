@@ -6748,5 +6748,14 @@
 		"from_rank": 3,
 		"above": "narcton_diablo_ean",
 		"below": "make_deat_admin"
+	},
+	{
+		"date": 1734483496,
+		"action": "lowered",
+		"name": "poo_fart_among_us_v6",
+		"to_rank": 5,
+		"from_rank": 4,
+		"above": "poo_fart_among_us_v5",
+		"below": "make_deat_admin"
 	}
 ]
