@@ -2,10 +2,19 @@
 	"id": 113018136,
 	"name": "Steakupen Hell",
 	"author": "schitt",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/Ztf2XEH9Xlw?si=2miZl3LQOS1H4LPt",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "meowi",
+			"link": "https://www.youtube.com/watch?v=zp2WsaPdl14",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
