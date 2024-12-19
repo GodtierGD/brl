@@ -2,10 +2,19 @@
 	"id": 110391178,
 	"name": "just pee in the bag",
 	"author": "2nyt",
-	"creators": ["2nyt"],
+	"creators": [
+		"2nyt"
+	],
 	"verifier": "2nyt",
 	"verification": "https://www.youtube.com/watch?v=k7j8CYe6Se4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "xXfinngdXx",
+			"link": "https://youtu.be/jBn5tQJkqHI?si=nGX2ttrt0yAl-XXu",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
