@@ -6784,5 +6784,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_redux",
 		"below": "extrafreakybob_negative"
+	},
+	{
+		"date": 1734911600,
+		"action": "placed",
+		"name": "ferel",
+		"to_rank": 235,
+		"from_rank": null,
+		"above": "mrbeast_is_a_sigma",
+		"below": "terrorz_toyz_revewz"
 	}
 ]
