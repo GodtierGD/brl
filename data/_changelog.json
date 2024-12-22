@@ -6802,5 +6802,14 @@
 		"from_rank": 252,
 		"above": "final_mewing_streak",
 		"below": "dooby_dooby_doo"
+	},
+	{
+		"date": 1734911715,
+		"action": "raised",
+		"name": "failed_mewing_streak",
+		"to_rank": 220,
+		"from_rank": 255,
+		"above": "silent_membrane",
+		"below": "Skibidi Cenat"
 	}
 ]
