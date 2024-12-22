@@ -6793,5 +6793,14 @@
 		"from_rank": null,
 		"above": "mrbeast_is_a_sigma",
 		"below": "terrorz_toyz_revewz"
+	},
+	{
+		"date": 1734911620,
+		"action": "raised",
+		"name": "gronkasize",
+		"to_rank": 233,
+		"from_rank": 252,
+		"above": "final_mewing_streak",
+		"below": "dooby_dooby_doo"
 	}
 ]
