@@ -6829,5 +6829,14 @@
 		"from_rank": 246,
 		"above": "silent_membrane",
 		"below": "failed_mewing_streak"
+	},
+	{
+		"date": 1734911893,
+		"action": "raised",
+		"name": "skibidi_house",
+		"to_rank": 233,
+		"from_rank": 256,
+		"above": "moai_circles",
+		"below": "silent_freddy"
 	}
 ]
