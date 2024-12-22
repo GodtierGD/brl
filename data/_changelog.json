@@ -6820,5 +6820,14 @@
 		"from_rank": 126,
 		"above": "wushady_is_dead",
 		"below": "rizzler_road_negative"
+	},
+	{
+		"date": 1734911835,
+		"action": "raised",
+		"name": "never_shower",
+		"to_rank": 221,
+		"from_rank": 246,
+		"above": "silent_membrane",
+		"below": "failed_mewing_streak"
 	}
 ]
