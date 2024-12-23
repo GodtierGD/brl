@@ -6865,5 +6865,14 @@
 		"from_rank": null,
 		"above": "free_list_points",
 		"below": "skibidibath"
+	},
+	{
+		"date": 1734929523,
+		"action": "raised",
+		"name": "10_minute_brainrot",
+		"to_rank": 214,
+		"from_rank": 225,
+		"above": "martinluthersigmaiii",
+		"below": "idksterling_cahll"
 	}
 ]
