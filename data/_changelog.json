@@ -6883,5 +6883,14 @@
 		"from_rank": null,
 		"above": "just_fart_in_the_bag",
 		"below": "shatter_of_96"
+	},
+	{
+		"date": 1735106923,
+		"action": "placed",
+		"name": "poo_fart_among_us_v3",
+		"to_rank": 55,
+		"from_rank": null,
+		"above": "dr_oi_for_president",
+		"below": "skid"
 	}
 ]
