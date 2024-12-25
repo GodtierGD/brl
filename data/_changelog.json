@@ -6874,5 +6874,14 @@
 		"from_rank": 225,
 		"above": "martinluthersigmaiii",
 		"below": "idksterling_cahll"
+	},
+	{
+		"date": 1735106453,
+		"action": "placed",
+		"name": "quest_for_brainrot",
+		"to_rank": 11,
+		"from_rank": null,
+		"above": "just_fart_in_the_bag",
+		"below": "shatter_of_96"
 	}
 ]
