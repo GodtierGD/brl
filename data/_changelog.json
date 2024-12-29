@@ -6928,5 +6928,14 @@
 		"from_rank": null,
 		"above": "failed_mewing_streak",
 		"below": "Skibidi Cenat"
+	},
+	{
+		"date": 1735505570,
+		"action": "placed",
+		"name": "brainoweo",
+		"to_rank": 244,
+		"from_rank": null,
+		"above": "ferel",
+		"below": "terrorz_toyz_revewz"
 	}
 ]
