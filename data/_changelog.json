@@ -6955,5 +6955,14 @@
 		"from_rank": null,
 		"above": "dr_oi_for_president",
 		"below": "poo_fart_among_us_v3"
+	},
+	{
+		"date": 1735723825,
+		"action": "placed",
+		"name": "do_you",
+		"to_rank": 203,
+		"from_rank": null,
+		"above": "pencil_level",
+		"below": "apple_vision_pro"
 	}
 ]
