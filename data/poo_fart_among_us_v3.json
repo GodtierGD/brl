@@ -2,10 +2,19 @@
 	"id": 74749254,
 	"name": "Poo Fart Among Us v3",
 	"author": "tmkis",
-	"creators": ["tmkis"],
+	"creators": [
+		"tmkis"
+	],
 	"verifier": "Tonk",
 	"verification": "https://www.youtube.com/watch?v=S1NFx9FY4Eo",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MimoGD",
+			"link": "https://youtu.be/nRkXb8QDXew",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
