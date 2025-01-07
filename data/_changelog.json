@@ -7000,5 +7000,14 @@
 		"from_rank": null,
 		"above": "poo_fart_among_us_v6",
 		"below": "make_deat_admin"
+	},
+	{
+		"date": 1736292359,
+		"action": "placed",
+		"name": "solar_flare_gun_1999",
+		"to_rank": 234,
+		"from_rank": null,
+		"above": "never_shower",
+		"below": "failed_mewing_streak"
 	}
 ]
