@@ -6982,5 +6982,14 @@
 		"from_rank": null,
 		"above": "DIDDY STICKY B",
 		"below": "caseoh_never_clear"
+	},
+	{
+		"date": 1736291239,
+		"action": "placed",
+		"name": "mangosmangos",
+		"to_rank": 194,
+		"from_rank": null,
+		"above": "travis_gyatt",
+		"below": "I hate the skippidi"
 	}
 ]
