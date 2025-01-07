@@ -7009,5 +7009,14 @@
 		"from_rank": null,
 		"above": "never_shower",
 		"below": "failed_mewing_streak"
+	},
+	{
+		"date": 1736293260,
+		"action": "lowered",
+		"name": "the_rot_limit",
+		"to_rank": 240,
+		"from_rank": 5,
+		"above": "brain_nourishment",
+		"below": "supersigma"
 	}
 ]
