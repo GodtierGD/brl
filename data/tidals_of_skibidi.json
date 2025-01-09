@@ -2,10 +2,19 @@
 	"id": 113819210,
 	"name": "Tidals Of Skibidi",
 	"author": "ausgammer01",
-	"creators": ["ausgammer01"],
+	"creators": [
+		"ausgammer01"
+	],
 	"verifier": "ausgammer01",
 	"verification": "https://youtu.be/mHe32JN1iBo?si=g0Gg1oPoT3p8ocnb",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Jarzst",
+			"link": "https://youtu.be/44OqFAVMFio",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

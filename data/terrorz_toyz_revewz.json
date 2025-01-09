@@ -2,10 +2,19 @@
 	"id": 112272304,
 	"name": "TERRORZ TOYZ REVEWZ",
 	"author": "xXfinngdXx",
-	"creators": ["xXfinngdXx"],
+	"creators": [
+		"xXfinngdXx"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/V0sUWmuk0N0?si=jUKy9t226kt8LUuI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Jarzst",
+			"link": "https://youtu.be/84Ut022cv1U",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

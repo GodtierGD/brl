@@ -2,10 +2,19 @@
 	"id": 113673335,
 	"name": "do you",
 	"author": "lavewog",
-	"creators": ["lavewog"],
+	"creators": [
+		"lavewog"
+	],
 	"verifier": "Tonk",
 	"verification": "https://www.youtube.com/watch?v=hAPFakw5cX8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sonofnooby",
+			"link": "https://youtu.be/4ponjp_K1Gs?si=a3mGzbhkP8mT2ll_",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
