@@ -2,10 +2,20 @@
 	"id": 113913757,
 	"name": "MANGOSMANGOS",
 	"author": "GD_Chicken",
-	"creators": ["GD_Chicken","MochiBochi"],
+	"creators": [
+		"GD_Chicken",
+		"MochiBochi"
+	],
 	"verifier": "GD_Chicken",
 	"verification": "https://www.youtube.com/watch?v=wTyel0vLq2Y",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/u5x8_YbkPCQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
