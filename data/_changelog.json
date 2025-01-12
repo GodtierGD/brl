@@ -7162,5 +7162,14 @@
 		"from_rank": 216,
 		"above": "escape_kris_tyson",
 		"below": "ilovedashspiderpart2"
+	},
+	{
+		"date": 1736679545,
+		"action": "lowered",
+		"name": "pencil_level",
+		"to_rank": 243,
+		"from_rank": 217,
+		"above": "barely_visible_failed_mewing_streak",
+		"below": "Skibidi Cenat"
 	}
 ]
