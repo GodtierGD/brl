@@ -7306,5 +7306,14 @@
 		"from_rank": 220,
 		"above": "Jaxagarasu Rebirth",
 		"below": "dorabe_memore"
+	},
+	{
+		"date": 1736680780,
+		"action": "lowered",
+		"name": "alpha_maze",
+		"to_rank": 31,
+		"from_rank": 30,
+		"above": "brainrot_circles_x",
+		"below": "quicksis_limit"
 	}
 ]
