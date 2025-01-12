@@ -7297,5 +7297,14 @@
 		"from_rank": 250,
 		"above": "1mil_turkishayrans",
 		"below": "evil_skibidibi"
+	},
+	{
+		"date": 1736680675,
+		"action": "lowered",
+		"name": "forgotten_rizz",
+		"to_rank": 227,
+		"from_rank": 220,
+		"above": "Jaxagarasu Rebirth",
+		"below": "dorabe_memore"
 	}
 ]
