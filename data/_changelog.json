@@ -7090,5 +7090,14 @@
 		"from_rank": 248,
 		"above": "jax_circles",
 		"below": "skibidi_stages_wave"
+	},
+	{
+		"date": 1736678860,
+		"action": "raised",
+		"name": "skibidi_house",
+		"to_rank": 235,
+		"from_rank": 253,
+		"above": "evil_skibidibi",
+		"below": "escape_kris_tyson"
 	}
 ]
