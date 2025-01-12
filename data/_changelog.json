@@ -7333,5 +7333,14 @@
 		"from_rank": 185,
 		"above": "rot_in_the_water",
 		"below": "EDGE MEW MAXXER 5000"
+	},
+	{
+		"date": 1736709963,
+		"action": "placed",
+		"name": "i_chaeted",
+		"to_rank": 5,
+		"from_rank": null,
+		"above": "poo_fart_among_us_v6",
+		"below": "make_deat_admin"
 	}
 ]
