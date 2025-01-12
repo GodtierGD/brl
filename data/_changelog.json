@@ -7189,5 +7189,14 @@
 		"from_rank": 254,
 		"above": "creator_point_tycoon",
 		"below": "limbo_by_rizzcap"
+	},
+	{
+		"date": 1736679704,
+		"action": "raised",
+		"name": "Forbidden Pomni",
+		"to_rank": 224,
+		"from_rank": 228,
+		"above": "dooby_dooby_doo",
+		"below": "limbo_by_rizzcap"
 	}
 ]
