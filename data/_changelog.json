@@ -7099,5 +7099,14 @@
 		"from_rank": 253,
 		"above": "evil_skibidibi",
 		"below": "escape_kris_tyson"
+	},
+	{
+		"date": 1736678966,
+		"action": "raised",
+		"name": "never_shower",
+		"to_rank": 211,
+		"from_rank": 242,
+		"above": "conic_skibidux",
+		"below": "DIDDY STICKY B"
 	}
 ]
