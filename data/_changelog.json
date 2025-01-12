@@ -7144,5 +7144,14 @@
 		"from_rank": 251,
 		"above": "Skibidi Pomni X",
 		"below": "dorabe_memore"
+	},
+	{
+		"date": 1736679412,
+		"action": "raised",
+		"name": "brain_nourishment",
+		"to_rank": 232,
+		"from_rank": 250,
+		"above": "Skibidi Pomni X",
+		"below": "Jaxagarasu Rebirth"
 	}
 ]
