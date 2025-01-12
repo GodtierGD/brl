@@ -7135,5 +7135,14 @@
 		"from_rank": 254,
 		"above": "conic_skibidux",
 		"below": "turkish_circles_inf3"
+	},
+	{
+		"date": 1736679323,
+		"action": "raised",
+		"name": "Jaxagarasu Rebirth",
+		"to_rank": 231,
+		"from_rank": 251,
+		"above": "Skibidi Pomni X",
+		"below": "dorabe_memore"
 	}
 ]
