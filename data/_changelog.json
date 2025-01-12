@@ -7234,5 +7234,14 @@
 		"from_rank": 250,
 		"above": "dooby_dooby_doo",
 		"below": "Forbidden Pomni"
+	},
+	{
+		"date": 1736680266,
+		"action": "raised",
+		"name": "dawn_dish_soap",
+		"to_rank": 218,
+		"from_rank": 252,
+		"above": "Grimace is shaking",
+		"below": "sigmapluhstep"
 	}
 ]
