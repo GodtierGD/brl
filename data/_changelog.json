@@ -7036,5 +7036,14 @@
 		"from_rank": null,
 		"above": "KAIGREGATION CENAT",
 		"below": "brain_nourishment"
+	},
+	{
+		"date": 1736677223,
+		"action": "placed",
+		"name": "eye_of_rah",
+		"to_rank": 166,
+		"from_rank": null,
+		"above": "EDGE MEW MAXXER 5000",
+		"below": "livvey_dunne_vortex"
 	}
 ]
