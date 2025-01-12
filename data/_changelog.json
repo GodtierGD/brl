@@ -7324,5 +7324,14 @@
 		"from_rank": 73,
 		"above": "grimace_circles",
 		"below": "2147483647cigarettes"
+	},
+	{
+		"date": 1736680981,
+		"action": "raised",
+		"name": "gorlock_destroyer",
+		"to_rank": 171,
+		"from_rank": 185,
+		"above": "rot_in_the_water",
+		"below": "EDGE MEW MAXXER 5000"
 	}
 ]
