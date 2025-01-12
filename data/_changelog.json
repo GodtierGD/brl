@@ -7270,5 +7270,14 @@
 		"from_rank": 129,
 		"above": "Rizzler Road",
 		"below": "milk_lover_worms"
+	},
+	{
+		"date": 1736680518,
+		"action": "raised",
+		"name": "head_eraser",
+		"to_rank": 114,
+		"from_rank": 121,
+		"above": "rotten_skibidi",
+		"below": "just_pee_in_the_bag"
 	}
 ]
