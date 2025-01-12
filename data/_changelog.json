@@ -7288,5 +7288,14 @@
 		"from_rank": 250,
 		"above": "pencil_level",
 		"below": "Skibidi Cenat"
+	},
+	{
+		"date": 1736680624,
+		"action": "raised",
+		"name": "solar_flare_gun_1999",
+		"to_rank": 243,
+		"from_rank": 250,
+		"above": "1mil_turkishayrans",
+		"below": "evil_skibidibi"
 	}
 ]
