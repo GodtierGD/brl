@@ -7180,5 +7180,14 @@
 		"from_rank": 248,
 		"above": "skibidi_rizzler",
 		"below": "mrbeast_is_a_sigma"
+	},
+	{
+		"date": 1736679678,
+		"action": "raised",
+		"name": "dooby_dooby_doo",
+		"to_rank": 224,
+		"from_rank": 254,
+		"above": "creator_point_tycoon",
+		"below": "limbo_by_rizzcap"
 	}
 ]
