@@ -7315,5 +7315,14 @@
 		"from_rank": 30,
 		"above": "brainrot_circles_x",
 		"below": "quicksis_limit"
+	},
+	{
+		"date": 1736680892,
+		"action": "raised",
+		"name": "balkan_fanum_boss",
+		"to_rank": 67,
+		"from_rank": 73,
+		"above": "grimace_circles",
+		"below": "2147483647cigarettes"
 	}
 ]
