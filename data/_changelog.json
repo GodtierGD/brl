@@ -7216,5 +7216,14 @@
 		"from_rank": 176,
 		"above": "eye_of_rah",
 		"below": "livvey_dunne_vortex"
+	},
+	{
+		"date": 1736680144,
+		"action": "lowered",
+		"name": "conic_skibidux",
+		"to_rank": 237,
+		"from_rank": 215,
+		"above": "escape_kris_tyson",
+		"below": "apple_vision_pro"
 	}
 ]
