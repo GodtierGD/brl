@@ -7153,5 +7153,14 @@
 		"from_rank": 250,
 		"above": "Skibidi Pomni X",
 		"below": "Jaxagarasu Rebirth"
+	},
+	{
+		"date": 1736679477,
+		"action": "lowered",
+		"name": "apple_vision_pro",
+		"to_rank": 238,
+		"from_rank": 216,
+		"above": "escape_kris_tyson",
+		"below": "ilovedashspiderpart2"
 	}
 ]
