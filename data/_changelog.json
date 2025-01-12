@@ -7243,5 +7243,14 @@
 		"from_rank": 252,
 		"above": "Grimace is shaking",
 		"below": "sigmapluhstep"
+	},
+	{
+		"date": 1736680306,
+		"action": "lowered",
+		"name": "sigmapluhstep",
+		"to_rank": 238,
+		"from_rank": 217,
+		"above": "conic_skibidux",
+		"below": "apple_vision_pro"
 	}
 ]
