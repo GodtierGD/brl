@@ -7342,5 +7342,14 @@
 		"from_rank": null,
 		"above": "poo_fart_among_us_v6",
 		"below": "make_deat_admin"
+	},
+	{
+		"date": 1737234534,
+		"action": "lowered",
+		"name": "i_chaeted",
+		"to_rank": 10,
+		"from_rank": 5,
+		"above": "shatter_of_96",
+		"below": "make_wushady_mod"
 	}
 ]
