@@ -7351,5 +7351,14 @@
 		"from_rank": 5,
 		"above": "shatter_of_96",
 		"below": "make_wushady_mod"
+	},
+	{
+		"date": 1737416145,
+		"action": "placed",
+		"name": "sigma_pookie_rizz_v1",
+		"to_rank": 165,
+		"from_rank": null,
+		"above": "skibidiohiomoonbake",
+		"below": "i_miss_the_skibidi"
 	}
 ]
