@@ -7396,5 +7396,14 @@
 		"from_rank": null,
 		"above": "sigma_wave_trial",
 		"below": "can_of_crack"
+	},
+	{
+		"date": 1737418078,
+		"action": "placed",
+		"name": "the_worst_brainrot",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "i_chaeted",
+		"below": "make_wushady_mod"
 	}
 ]
