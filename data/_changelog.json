@@ -7432,5 +7432,14 @@
 		"from_rank": null,
 		"above": "sakupen_grimace",
 		"below": "sleepmaxxing"
+	},
+	{
+		"date": 1738619024,
+		"action": "placed",
+		"name": "metroz_is_furry",
+		"to_rank": 240,
+		"from_rank": null,
+		"above": "Skibidi Pomni X",
+		"below": "brain_nourishment"
 	}
 ]
