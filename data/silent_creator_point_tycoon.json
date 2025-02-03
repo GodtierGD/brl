@@ -2,10 +2,19 @@
 	"id": 112419606,
 	"name": "silent creator point tycoon",
 	"author": "m3nt411",
-	"creators": ["wushady"],
+	"creators": [
+		"wushady"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/tXMpc2ICJm8?si=65uqiA0rUCR0OcW-",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/iiqzCBCEYFA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
