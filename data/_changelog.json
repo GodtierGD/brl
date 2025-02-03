@@ -7423,5 +7423,14 @@
 		"from_rank": null,
 		"above": "alpha_arc",
 		"below": "vropirates_havezaza"
+	},
+	{
+		"date": 1738618474,
+		"action": "placed",
+		"name": "predator_circles",
+		"to_rank": 185,
+		"from_rank": null,
+		"above": "sakupen_grimace",
+		"below": "sleepmaxxing"
 	}
 ]
