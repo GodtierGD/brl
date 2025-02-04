@@ -2,10 +2,19 @@
 	"id": 108537167,
 	"name": "BRAINPOWERRRRRR",
 	"author": "EpicSparkZ",
-	"creators": ["EpicSparkZ"],
+	"creators": [
+		"EpicSparkZ"
+	],
 	"verifier": "EpicSparkZ",
 	"verification": "https://www.youtube.com/watch?v=QSzHxZA0sNQ&t=2s",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/hk2uXGJz00Y",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
