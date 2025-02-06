@@ -7486,5 +7486,14 @@
 		"from_rank": 257,
 		"above": "dooby_dooby_doo",
 		"below": "supersigma"
+	},
+	{
+		"date": 1738874730,
+		"action": "lowered",
+		"name": "poo_fart_among_us_v5",
+		"to_rank": 10,
+		"from_rank": 6,
+		"above": "i_chaeted",
+		"below": "the_worst_brainrot"
 	}
 ]
