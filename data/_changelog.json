@@ -7495,5 +7495,14 @@
 		"from_rank": 6,
 		"above": "i_chaeted",
 		"below": "the_worst_brainrot"
+	},
+	{
+		"date": 1738874770,
+		"action": "lowered",
+		"name": "poo_fart_among_us_v6",
+		"to_rank": 9,
+		"from_rank": 5,
+		"above": "poo_fart_among_us_v5",
+		"below": "the_worst_brainrot"
 	}
 ]
