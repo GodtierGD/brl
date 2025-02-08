@@ -2,10 +2,19 @@
 	"id": 108534102,
 	"name": "Narcton Diablo Ean",
 	"author": "capitt",
-	"creators": ["capitt"],
+	"creators": [
+		"capitt"
+	],
 	"verifier": "capitt",
 	"verification": "https://www.youtube.com/watch?v=O6AxA9Rpo_w",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/n4ACzqnfOv4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

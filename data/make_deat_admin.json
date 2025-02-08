@@ -2,10 +2,19 @@
 	"id": 110943114,
 	"name": "Make Deat Admin",
 	"author": "Rednax",
-	"creators": ["Rednax"],
+	"creators": [
+		"Rednax"
+	],
 	"verifier": "Rednax",
 	"verification": "https://www.youtube.com/watch?v=W78ojXtVmQY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/mMedJsEpCGc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

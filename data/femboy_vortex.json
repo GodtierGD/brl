@@ -2,10 +2,20 @@
 	"id": 110945874,
 	"name": "Femboy Vortex",
 	"author": "PuckGMD",
-	"creators": ["PuckGMD"," wushady"],
+	"creators": [
+		"PuckGMD",
+		" wushady"
+	],
 	"verifier": "Pucky",
 	"verification": "https://youtu.be/xcmrvgghmq4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "sary",
+			"link": "https://youtu.be/w0T5aLy9S4Q",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
