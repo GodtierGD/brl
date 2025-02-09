@@ -7585,5 +7585,14 @@
 		"from_rank": 42,
 		"above": "jax_o_bot_unnerfed",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1739071090,
+		"action": "placed",
+		"name": "poopoo_fart_among_us",
+		"to_rank": 175,
+		"from_rank": null,
+		"above": "Pomni Circles",
+		"below": "skibidiohiomoonbake"
 	}
 ]
