@@ -7531,5 +7531,14 @@
 		"from_rank": 68,
 		"above": "tonk_circles",
 		"below": "skibidi_stages_wave_rebirth"
+	},
+	{
+		"date": 1739070258,
+		"action": "raised",
+		"name": "chat_is_this_fake",
+		"to_rank": 183,
+		"from_rank": 190,
+		"above": "rot_in_the_water",
+		"below": "gorlock_destroyer"
 	}
 ]
