@@ -7540,5 +7540,14 @@
 		"from_rank": 190,
 		"above": "rot_in_the_water",
 		"below": "gorlock_destroyer"
+	},
+	{
+		"date": 1739070297,
+		"action": "raised",
+		"name": "brainoweo",
+		"to_rank": 190,
+		"from_rank": 207,
+		"above": "sakupen_grimace",
+		"below": "predator_circles"
 	}
 ]
