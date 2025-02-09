@@ -7522,5 +7522,14 @@
 		"from_rank": 213,
 		"above": "EDGE MEW MAXXER 5000",
 		"below": "eye_of_rah"
+	},
+	{
+		"date": 1739070233,
+		"action": "raised",
+		"name": "brainoueo",
+		"to_rank": 27,
+		"from_rank": 68,
+		"above": "tonk_circles",
+		"below": "skibidi_stages_wave_rebirth"
 	}
 ]
