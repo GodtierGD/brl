@@ -7576,5 +7576,14 @@
 		"from_rank": 29,
 		"above": "skibidi_stages_wave_rebirth",
 		"below": "gabbyminecraft29"
+	},
+	{
+		"date": 1739070658,
+		"action": "raised",
+		"name": "femboy_vortex",
+		"to_rank": 40,
+		"from_rank": 42,
+		"above": "jax_o_bot_unnerfed",
+		"below": "brainrot_circles_x"
 	}
 ]
