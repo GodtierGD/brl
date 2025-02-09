@@ -7612,5 +7612,14 @@
 		"from_rank": null,
 		"above": "sigma_never_clear",
 		"below": "moai_circles"
+	},
+	{
+		"date": 1739071719,
+		"action": "placed",
+		"name": "the_brainrot_escape",
+		"to_rank": 202,
+		"from_rank": null,
+		"above": "diddy_creamy_balls",
+		"below": "unskibidi"
 	}
 ]
