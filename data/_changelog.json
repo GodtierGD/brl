@@ -7657,5 +7657,14 @@
 		"from_rank": null,
 		"above": "balkan_fanum_boss",
 		"below": "2147483647cigarettes"
+	},
+	{
+		"date": 1739657286,
+		"action": "placed",
+		"name": "serious_gaming",
+		"to_rank": 92,
+		"from_rank": null,
+		"above": "igyattamongus",
+		"below": "scoobert_og"
 	}
 ]
