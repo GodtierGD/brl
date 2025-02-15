@@ -7639,5 +7639,14 @@
 		"from_rank": null,
 		"above": "brainoueo",
 		"below": "skibidi_stages_wave_rebirth"
+	},
+	{
+		"date": 1739656757,
+		"action": "placed",
+		"name": "russian_flickermunt",
+		"to_rank": 201,
+		"from_rank": null,
+		"above": "rizzler_voyage",
+		"below": "jax_vs_skibidi"
 	}
 ]
