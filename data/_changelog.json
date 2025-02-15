@@ -7630,5 +7630,14 @@
 		"from_rank": 192,
 		"above": "brainrot_fantasy",
 		"below": "rot_in_the_water"
+	},
+	{
+		"date": 1739656502,
+		"action": "placed",
+		"name": "brainrot_madness",
+		"to_rank": 28,
+		"from_rank": null,
+		"above": "brainoueo",
+		"below": "skibidi_stages_wave_rebirth"
 	}
 ]
