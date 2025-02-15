@@ -7648,5 +7648,14 @@
 		"from_rank": null,
 		"above": "rizzler_voyage",
 		"below": "jax_vs_skibidi"
+	},
+	{
+		"date": 1739657131,
+		"action": "placed",
+		"name": "river_in_lego_city_v",
+		"to_rank": 77,
+		"from_rank": null,
+		"above": "balkan_fanum_boss",
+		"below": "2147483647cigarettes"
 	}
 ]
