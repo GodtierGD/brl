@@ -2,10 +2,19 @@
 	"id": 110530490,
 	"name": "JUST FART IN THE BAG",
 	"author": "2nyt",
-	"creators": ["2nyt"],
+	"creators": [
+		"2nyt"
+	],
 	"verifier": "2nyt",
 	"verification": "https://www.youtube.com/watch?v=ZQVvv01OQsI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/yfTT2wTBwYk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

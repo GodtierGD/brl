@@ -2,10 +2,19 @@
 	"id": 114989773,
 	"name": "brainrot madness",
 	"author": "wavelog",
-	"creators": ["wavelog"],
+	"creators": [
+		"wavelog"
+	],
 	"verifier": "lavewave",
 	"verification": "https://youtu.be/bfxohpWIY38",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/-ZcilLGTE5A",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
