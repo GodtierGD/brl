@@ -7711,5 +7711,14 @@
 		"from_rank": null,
 		"above": "rotten_skibidi",
 		"below": "head_eraser"
+	},
+	{
+		"date": 1740437891,
+		"action": "placed",
+		"name": "the_trials_of_mulch",
+		"to_rank": 18,
+		"from_rank": null,
+		"above": "steakupen_hell",
+		"below": "escape_ethiopia_real"
 	}
 ]
