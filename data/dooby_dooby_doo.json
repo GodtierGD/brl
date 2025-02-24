@@ -2,10 +2,20 @@
 	"id": 112859489,
 	"name": "dooby dooby doo",
 	"author": "xXfinngdXx",
-	"creators": ["partitionzion80"," xXfinngdXx"],
+	"creators": [
+		"partitionzion80",
+		" xXfinngdXx"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/ZKJBKjNFOCc?si=s9pD6zup-BfJZVge",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/sfuldEta-4I",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
