@@ -7720,5 +7720,14 @@
 		"from_rank": null,
 		"above": "steakupen_hell",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1740438262,
+		"action": "raised",
+		"name": "10_minute_brainrot",
+		"to_rank": 205,
+		"from_rank": 248,
+		"above": "skibidiest_level",
+		"below": "xtinct_thug_shake"
 	}
 ]
