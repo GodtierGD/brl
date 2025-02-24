@@ -7702,5 +7702,14 @@
 		"from_rank": null,
 		"above": "babushka_vortex",
 		"below": null
+	},
+	{
+		"date": 1740437597,
+		"action": "placed",
+		"name": "rotten_banana",
+		"to_rank": 122,
+		"from_rank": null,
+		"above": "rotten_skibidi",
+		"below": "head_eraser"
 	}
 ]
