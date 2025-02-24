@@ -7738,5 +7738,14 @@
 		"from_rank": null,
 		"above": "Skibidi Pomni X",
 		"below": "metroz_is_furry"
+	},
+	{
+		"date": 1740439196,
+		"action": "lowered",
+		"name": "creator_point_tycoon",
+		"to_rank": 251,
+		"from_rank": 241,
+		"above": "Grimace is shaking",
+		"below": "ilovedashspiderpart2"
 	}
 ]
