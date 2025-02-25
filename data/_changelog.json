@@ -7756,5 +7756,14 @@
 		"from_rank": null,
 		"above": "ball_circles",
 		"below": "skibidi_limbo_circle"
+	},
+	{
+		"date": 1740463588,
+		"action": "placed",
+		"name": "abandoned_rizz_party",
+		"to_rank": 30,
+		"from_rank": null,
+		"above": "brainoueo",
+		"below": "brainrot_madness"
 	}
 ]
