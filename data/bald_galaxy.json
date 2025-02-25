@@ -2,10 +2,19 @@
 	"id": 115481447,
 	"name": "bald galaxy",
 	"author": "drfingle",
-	"creators": ["drfingle"],
+	"creators": [
+		"drfingle"
+	],
 	"verifier": "drfingle",
 	"verification": "https://youtu.be/3Yp-kz8kqfc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/GQ4eS0ZthYA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
