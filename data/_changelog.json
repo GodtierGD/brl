@@ -7765,5 +7765,14 @@
 		"from_rank": null,
 		"above": "brainoueo",
 		"below": "brainrot_madness"
+	},
+	{
+		"date": 1740521629,
+		"action": "lowered",
+		"name": "femboyrotted",
+		"to_rank": 25,
+		"from_rank": 23,
+		"above": "gabbyminecraft29",
+		"below": "eatdatskibidi445"
 	}
 ]
