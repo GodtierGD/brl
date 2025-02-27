@@ -7837,5 +7837,14 @@
 		"from_rank": 107,
 		"above": "make_reqx_admin",
 		"below": "caseohs_demise"
+	},
+	{
+		"date": 1740619309,
+		"action": "placed",
+		"name": "berries_and_gleam",
+		"to_rank": 95,
+		"from_rank": null,
+		"above": "sigma_level",
+		"below": "igyattamongus"
 	}
 ]
