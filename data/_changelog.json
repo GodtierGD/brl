@@ -7801,5 +7801,14 @@
 		"from_rank": 19,
 		"above": "fanum rizzer",
 		"below": "steakupen_hell"
+	},
+	{
+		"date": 1740617144,
+		"action": "lowered",
+		"name": "braingoober",
+		"to_rank": 23,
+		"from_rank": 20,
+		"above": "brainpowerrrrrr",
+		"below": "pov you jelq too hard"
 	}
 ]
