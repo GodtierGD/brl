@@ -7873,5 +7873,14 @@
 		"from_rank": 249,
 		"above": "evil_skibidibi",
 		"below": "supersigma"
+	},
+	{
+		"date": 1740620411,
+		"action": "raised",
+		"name": "the_worst_brainrot",
+		"to_rank": 4,
+		"from_rank": 5,
+		"above": "make_deat_admin",
+		"below": "le_fart_of_le_blade"
 	}
 ]
