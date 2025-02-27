@@ -7846,5 +7846,14 @@
 		"from_rank": null,
 		"above": "sigma_level",
 		"below": "igyattamongus"
+	},
+	{
+		"date": 1740619810,
+		"action": "raised",
+		"name": "you_cant_handle_it",
+		"to_rank": 10,
+		"from_rank": 27,
+		"above": "narcton_diablo_ean",
+		"below": "gabbyminecraft29"
 	}
 ]
