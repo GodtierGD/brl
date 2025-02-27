@@ -7792,5 +7792,14 @@
 		"from_rank": null,
 		"above": "steakupen_hell",
 		"below": "the_trials_of_mulch"
+	},
+	{
+		"date": 1740616130,
+		"action": "lowered",
+		"name": "braingoober",
+		"to_rank": 20,
+		"from_rank": 19,
+		"above": "fanum rizzer",
+		"below": "steakupen_hell"
 	}
 ]
