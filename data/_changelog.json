@@ -7855,5 +7855,14 @@
 		"from_rank": 27,
 		"above": "narcton_diablo_ean",
 		"below": "gabbyminecraft29"
+	},
+	{
+		"date": 1740619833,
+		"action": "lowered",
+		"name": "narcton_diablo_ean",
+		"to_rank": 12,
+		"from_rank": 11,
+		"above": "shatter_of_96",
+		"below": "i_chaeted"
 	}
 ]
