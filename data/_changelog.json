@@ -7828,5 +7828,14 @@
 		"from_rank": 24,
 		"above": "brainoueo",
 		"below": "abandoned_rizz_party"
+	},
+	{
+		"date": 1740619159,
+		"action": "raised",
+		"name": "dr_pomni_scout",
+		"to_rank": 77,
+		"from_rank": 107,
+		"above": "make_reqx_admin",
+		"below": "caseohs_demise"
 	}
 ]
