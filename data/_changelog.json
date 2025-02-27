@@ -7864,5 +7864,14 @@
 		"from_rank": 11,
 		"above": "shatter_of_96",
 		"below": "i_chaeted"
+	},
+	{
+		"date": 1740620246,
+		"action": "raised",
+		"name": "metroz_is_furry",
+		"to_rank": 243,
+		"from_rank": 249,
+		"above": "evil_skibidibi",
+		"below": "supersigma"
 	}
 ]
