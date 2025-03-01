@@ -2,10 +2,20 @@
 	"id": 110049487,
 	"name": "wushady is dead",
 	"author": "m3nt411",
-	"creators": ["m3nt411"," wushady"],
+	"creators": [
+		"m3nt411",
+		" wushady"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/5Ttz00nRJCw?si=gq5rfmoDnxaNTMRW",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/IVU7XZr8IBE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
