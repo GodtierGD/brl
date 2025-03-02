@@ -7900,5 +7900,14 @@
 		"from_rank": null,
 		"above": "pov you jelq too hard",
 		"below": "mental_never_clear"
+	},
+	{
+		"date": 1740933319,
+		"action": "placed",
+		"name": "yersinia_pestis",
+		"to_rank": 40,
+		"from_rank": null,
+		"above": "quicksis_limit",
+		"below": "diddy_piecefull"
 	}
 ]
