@@ -7882,5 +7882,14 @@
 		"from_rank": 5,
 		"above": "make_deat_admin",
 		"below": "le_fart_of_le_blade"
+	},
+	{
+		"date": 1740932434,
+		"action": "placed",
+		"name": "lastminutememories",
+		"to_rank": 20,
+		"from_rank": null,
+		"above": "the_trials_of_mulch",
+		"below": "escape_ethiopia_real"
 	}
 ]
