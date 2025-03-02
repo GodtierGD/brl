@@ -7891,5 +7891,14 @@
 		"from_rank": null,
 		"above": "the_trials_of_mulch",
 		"below": "escape_ethiopia_real"
+	},
+	{
+		"date": 1740933048,
+		"action": "placed",
+		"name": "g_gugy",
+		"to_rank": 25,
+		"from_rank": null,
+		"above": "pov you jelq too hard",
+		"below": "mental_never_clear"
 	}
 ]
