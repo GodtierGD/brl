@@ -7909,5 +7909,14 @@
 		"from_rank": null,
 		"above": "quicksis_limit",
 		"below": "diddy_piecefull"
+	},
+	{
+		"date": 1740980063,
+		"action": "raised",
+		"name": "moai_circles",
+		"to_rank": 202,
+		"from_rank": 235,
+		"above": "rednaxs_traffic_cone",
+		"below": "Rizzler Road"
 	}
 ]
