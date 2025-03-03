@@ -7918,5 +7918,14 @@
 		"from_rank": 235,
 		"above": "rednaxs_traffic_cone",
 		"below": "Rizzler Road"
+	},
+	{
+		"date": 1740980406,
+		"action": "placed",
+		"name": "caseoh_light_snack",
+		"to_rank": 30,
+		"from_rank": null,
+		"above": "skibidi_stages_wave_rebirth",
+		"below": "femboyrotted"
 	}
 ]
