@@ -87,6 +87,13 @@
 			"link": "https://youtu.be/Puoil_uds68",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=qUhRWhp9Fu8",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
