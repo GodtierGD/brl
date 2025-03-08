@@ -2,10 +2,21 @@
 	"id": 112107437,
 	"name": "daeviebaebasic8",
 	"author": "wushady",
-	"creators": ["wushady"," Daevie"," Dorabae"],
+	"creators": [
+		"wushady",
+		" Daevie",
+		" Dorabae"
+	],
 	"verifier": "wushady",
 	"verification": "https://youtu.be/RfqhoSROljM",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Jarzst",
+			"link": "https://youtu.be/sDjOfxCh8Ek",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
