@@ -2,10 +2,19 @@
 	"id": 109676513,
 	"name": "SkibidiBath",
 	"author": "MacacoChucrut",
-	"creators": ["Zarthus"],
+	"creators": [
+		"Zarthus"
+	],
 	"verifier": "MacacoChucrut",
 	"verification": "https://youtu.be/-Yew9hT3nS4?si=seJnjydE8iEG8bdm",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/ItKxre7L_Og?si=IF-5Xno2YLwSh-qp",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
