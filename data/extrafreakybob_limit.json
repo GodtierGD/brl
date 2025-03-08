@@ -2,10 +2,19 @@
 	"id": 111196981,
 	"name": "Extrafreakybob Limit",
 	"author": "diexx",
-	"creators": ["diexx"],
+	"creators": [
+		"diexx"
+	],
 	"verifier": "diexx",
 	"verification": "https://youtu.be/Y6rgrKG33MU",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/ItKxre7L_Og?si=IF-5Xno2YLwSh-qp",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
