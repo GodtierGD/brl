@@ -7945,5 +7945,14 @@
 		"from_rank": null,
 		"above": "abandoned_rizz_party",
 		"below": "brainrot_madness"
+	},
+	{
+		"date": 1741543549,
+		"action": "placed",
+		"name": "sussy_corridor",
+		"to_rank": 116,
+		"from_rank": null,
+		"above": "talk_tuah_wave",
+		"below": "diddy_sticky_balls_x"
 	}
 ]
