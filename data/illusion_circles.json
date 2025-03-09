@@ -2,10 +2,19 @@
 	"id": 115858473,
 	"name": "Illusion Circles",
 	"author": "Zg0d",
-	"creators": ["Exile"],
+	"creators": [
+		"Exile"
+	],
 	"verifier": "Godtier",
 	"verification": "https://www.youtube.com/watch?v=B28sCT-xjh0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/kuRByBpUeXM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
