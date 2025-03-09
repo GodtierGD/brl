@@ -7927,5 +7927,14 @@
 		"from_rank": null,
 		"above": "skibidi_stages_wave_rebirth",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1741543320,
+		"action": "placed",
+		"name": "free_vbucks",
+		"to_rank": 239,
+		"from_rank": null,
+		"above": "e",
+		"below": "sigma_never_clear"
 	}
 ]
