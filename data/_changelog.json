@@ -7954,5 +7954,14 @@
 		"from_rank": null,
 		"above": "talk_tuah_wave",
 		"below": "diddy_sticky_balls_x"
+	},
+	{
+		"date": 1741543598,
+		"action": "placed",
+		"name": "mewing_paracosm",
+		"to_rank": 199,
+		"from_rank": null,
+		"above": "predator_circles",
+		"below": "sleepmaxxing"
 	}
 ]
