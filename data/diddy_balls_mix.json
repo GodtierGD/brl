@@ -2,10 +2,20 @@
 	"id": 109809324,
 	"name": "Diddy Balls Mix",
 	"author": "diexx",
-	"creators": ["diexx"],
+	"creators": [
+		"diexx"
+	],
 	"verifier": "diexx",
 	"verification": "https://youtu.be/m42X9DZUqY8?si=Zvz1RhANjEmNBlMO",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/Hk3wGqut_jw",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
