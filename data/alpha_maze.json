@@ -2,10 +2,20 @@
 	"id": 109521871,
 	"name": "alpha maze",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/7AduHd-2xeA?si=s_P4Faids02TpSXH",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/M8q_cIlD1D4",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
