@@ -4,7 +4,8 @@
 	"author": "Nojusgamingg",
 	"creators": [
 		"Nojusgamingg",
-		"GTyger", "tmkis"
+		"GTyger",
+		"tmkis"
 	],
 	"verifier": "Nojusgamingg",
 	"verification": "https://youtu.be/69QReH9Xsds",
@@ -14,6 +15,12 @@
 		{
 			"user": "foxplush",
 			"link": "https://youtu.be/06XC5R-qn_Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/MN3UIrKhZ7k",
 			"percent": 100,
 			"hz": 360
 		}
