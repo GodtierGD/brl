@@ -2,10 +2,19 @@
 	"id": 113319943,
 	"name": "sigma wave trial",
 	"author": "zmeowie",
-	"creators": ["meowi"],
+	"creators": [
+		"meowi"
+	],
 	"verifier": "meowi",
 	"verification": "https://youtu.be/krON34V1HCw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/JzkKVv1m0fg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -2,10 +2,19 @@
 	"id": 115505616,
 	"name": "Berries and gleam",
 	"author": "animized",
-	"creators": ["animized"],
+	"creators": [
+		"animized"
+	],
 	"verifier": "animized",
 	"verification": "https://youtu.be/calr_tUQTQM",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/JzkKVv1m0fg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
