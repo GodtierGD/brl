@@ -8044,5 +8044,14 @@
 		"from_rank": null,
 		"above": "unskibidi",
 		"below": "brain_of_rot"
+	},
+	{
+		"date": 1742093208,
+		"action": "raised",
+		"name": "Forbidden Pomni",
+		"to_rank": 239,
+		"from_rank": 257,
+		"above": "Skibidi Lights",
+		"below": "atthespeedofskibidi"
 	}
 ]
