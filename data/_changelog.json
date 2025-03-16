@@ -8008,5 +8008,14 @@
 		"from_rank": null,
 		"above": "lunchly_vortex",
 		"below": "jax_o_bot_unnerfed"
+	},
+	{
+		"date": 1742092699,
+		"action": "placed",
+		"name": "sigma_wave_trials_v2",
+		"to_rank": 51,
+		"from_rank": null,
+		"above": "lunchly_vortex",
+		"below": "lunchly_vortex_infinity"
 	}
 ]
