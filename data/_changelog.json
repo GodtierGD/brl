@@ -8062,5 +8062,14 @@
 		"from_rank": 251,
 		"above": "skibidiest_level",
 		"below": "10_minute_brainrot"
+	},
+	{
+		"date": 1742094299,
+		"action": "raised",
+		"name": "mental_is_not_my_guy",
+		"to_rank": 210,
+		"from_rank": 251,
+		"above": "milk_lover_worms",
+		"below": "diddy_sticky_rot"
 	}
 ]
