@@ -7972,5 +7972,14 @@
 		"from_rank": null,
 		"above": "brainrot_circles_x",
 		"below": "crackerfrick_crap_hd"
+	},
+	{
+		"date": 1742091845,
+		"action": "placed",
+		"name": "brain_of_rot",
+		"to_rank": 212,
+		"from_rank": null,
+		"above": "unskibidi",
+		"below": "rizzler_voyage"
 	}
 ]
