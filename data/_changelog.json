@@ -8071,5 +8071,14 @@
 		"from_rank": 251,
 		"above": "milk_lover_worms",
 		"below": "diddy_sticky_rot"
+	},
+	{
+		"date": 1742094430,
+		"action": "lowered",
+		"name": "Skibidi Lights",
+		"to_rank": 260,
+		"from_rank": 242,
+		"above": "dooby_dooby_doo",
+		"below": "evil_skibidibi"
 	}
 ]
