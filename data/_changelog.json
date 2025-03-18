@@ -8089,5 +8089,14 @@
 		"from_rank": 227,
 		"above": "deat_is_gay",
 		"below": "daeviebaebasic8"
+	},
+	{
+		"date": 1742330430,
+		"action": "placed",
+		"name": "silent_moai",
+		"to_rank": 75,
+		"from_rank": null,
+		"above": "nutter_butter",
+		"below": "tonk_tidal"
 	}
 ]

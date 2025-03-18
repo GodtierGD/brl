@@ -1,22 +1,11 @@
 {
-	"id": 112405763,
+	"id": 116141539,
 	"name": "silent moai",
 	"author": "m3nt411",
-	"creators": [
-		"m3nt411",
-		" partitionzion80",
-		" xXfinngdXx"
-	],
+	"creators": ["xXfinngdXx"," m3nt411"],
 	"verifier": "m3nt411",
-	"verification": "https://youtu.be/c5Uam4cIy6U?si=6rGvZqiIM3Z1Uc_6",
+	"verification": "https://youtu.be/c5Uam4cIy6U?si=QXkEiBRVtTCX_azz",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records": [
-		{
-			"user": "bunkyrunky",
-			"link": "https://youtu.be/VIYQrWTGPd0",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records" : []
 }
