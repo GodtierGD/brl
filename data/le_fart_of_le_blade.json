@@ -2,10 +2,19 @@
 	"id": 107950940,
 	"name": "Le fart of le blade",
 	"author": "PurpleStep",
-	"creators": ["PurpleStep"],
+	"creators": [
+		"PurpleStep"
+	],
 	"verifier": "PurpleStep",
 	"verification": "https://youtu.be/foDkQ5eX3Xc",
 	"percentToQualify": 66,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "nojusgamingg",
+			"link": "https://youtu.be/XvifGAUZwzI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
