@@ -8107,5 +8107,14 @@
 		"from_rank": null,
 		"above": "poopoo_fart_among_us",
 		"below": "skibidiohiomoonbake"
+	},
+	{
+		"date": 1742330642,
+		"action": "raised",
+		"name": "illusion_circles",
+		"to_rank": 23,
+		"from_rank": 33,
+		"above": "fanum rizzer",
+		"below": "steakupen_hell"
 	}
 ]
