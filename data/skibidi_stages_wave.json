@@ -2,10 +2,19 @@
 	"id": 114046532,
 	"name": "Skibidi Stages Wave",
 	"author": "BoykisserShadow",
-	"creators": ["BoykisserShadow"],
+	"creators": [
+		"BoykisserShadow"
+	],
 	"verifier": "MacacoChucrut",
 	"verification": "https://youtu.be/prTGe4tbbKk?si=YD2GNO-ApAXjrUjs",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/A_1u2DDI6S4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

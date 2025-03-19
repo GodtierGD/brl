@@ -2,10 +2,19 @@
 	"id": 108658911,
 	"name": "Predator circles",
 	"author": "MetroZ",
-	"creators": ["standinghorse"],
+	"creators": [
+		"standinghorse"
+	],
 	"verifier": "MetroZ",
 	"verification": "https://www.youtube.com/watch?v=JVDP5eqjlRA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/A_1u2DDI6S4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
