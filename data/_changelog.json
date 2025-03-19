@@ -8125,5 +8125,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_redux",
 		"below": "craemy_crcles"
+	},
+	{
+		"date": 1742420427,
+		"action": "raised",
+		"name": "never_shower",
+		"to_rank": 230,
+		"from_rank": 251,
+		"above": "10_minute_brainrot",
+		"below": "xtinct_thug_shake"
 	}
 ]
