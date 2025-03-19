@@ -8116,5 +8116,14 @@
 		"from_rank": 33,
 		"above": "fanum rizzer",
 		"below": "steakupen_hell"
+	},
+	{
+		"date": 1742420246,
+		"action": "placed",
+		"name": "bob",
+		"to_rank": 80,
+		"from_rank": null,
+		"above": "rizzler_road_redux",
+		"below": "craemy_crcles"
 	}
 ]
