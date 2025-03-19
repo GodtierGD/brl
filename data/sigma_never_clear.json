@@ -2,10 +2,20 @@
 	"id": 113960041,
 	"name": "SIGMA NEVER CLEAR",
 	"author": "xXfinngdXx",
-	"creators": ["xXfinngdXx"," SupremeOrange"],
+	"creators": [
+		"xXfinngdXx",
+		" SupremeOrange"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/TL9VZpooICs?si=4l-xPAGaKqj5uYJ9",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/opPXAi7a-b4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
