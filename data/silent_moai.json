@@ -2,10 +2,20 @@
 	"id": 116141539,
 	"name": "silent moai",
 	"author": "m3nt411",
-	"creators": ["xXfinngdXx"," m3nt411"],
+	"creators": [
+		"xXfinngdXx",
+		" m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/c5Uam4cIy6U?si=QXkEiBRVtTCX_azz",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "bunkyrunky",
+			"link": "https://youtu.be/VIYQrWTGPd0?si=zMCH7MRWCMAPtYS5",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
