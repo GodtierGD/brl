@@ -2,10 +2,19 @@
 	"id": 115214571,
 	"name": "rotten banana",
 	"author": "tmkis",
-	"creators": ["tmkis"],
+	"creators": [
+		"tmkis"
+	],
 	"verifier": "NojusGamingg",
 	"verification": "https://youtu.be/ZdzRb6h4Q_8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/9cVFncBySHc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

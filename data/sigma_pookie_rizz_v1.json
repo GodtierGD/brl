@@ -2,10 +2,19 @@
 	"id": 114176581,
 	"name": "sigma pookie rizz v1",
 	"author": "MetroZ",
-	"creators": ["MetroZ"],
+	"creators": [
+		"MetroZ"
+	],
 	"verifier": "MetroZ",
 	"verification": "https://www.youtube.com/watch?v=V1CUC7nT7nY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/bX36eEkEgjM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
