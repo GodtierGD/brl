@@ -8134,5 +8134,14 @@
 		"from_rank": 251,
 		"above": "10_minute_brainrot",
 		"below": "xtinct_thug_shake"
+	},
+	{
+		"date": 1742848111,
+		"action": "placed",
+		"name": "cfc",
+		"to_rank": 2,
+		"from_rank": null,
+		"above": "babushka_vortex",
+		"below": "mango_phonk_house"
 	}
 ]
