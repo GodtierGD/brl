@@ -2,10 +2,19 @@
 	"id": 116459749,
 	"name": "Zephyrous Landscape",
 	"author": "wushady",
-	"creators": ["wushady"],
+	"creators": [
+		"wushady"
+	],
 	"verifier": "wushady",
 	"verification": "https://youtu.be/mb9Q4IKaOmE?si=YyADXPCsxGI04mPc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/A65-l2GQj6g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
