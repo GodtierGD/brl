@@ -8197,5 +8197,14 @@
 		"from_rank": 40,
 		"above": "skibidi_stages_wave_rebirth",
 		"below": "caseoh_light_snack"
+	},
+	{
+		"date": 1743117128,
+		"action": "raised",
+		"name": "igyattmyrizz",
+		"to_rank": 35,
+		"from_rank": 41,
+		"above": "igyattwithmyrizz",
+		"below": "caseoh_light_snack"
 	}
 ]
