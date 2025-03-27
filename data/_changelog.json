@@ -8170,5 +8170,14 @@
 		"from_rank": null,
 		"above": "caseoh_light_snack",
 		"below": "femboyrotted"
+	},
+	{
+		"date": 1743116591,
+		"action": "placed",
+		"name": "demote_mental",
+		"to_rank": 200,
+		"from_rank": null,
+		"above": "rednax_goon_challeng",
+		"below": "livvey_dunne_vortex"
 	}
 ]
