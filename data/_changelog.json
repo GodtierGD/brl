@@ -8215,5 +8215,14 @@
 		"from_rank": 122,
 		"above": "brainoueo",
 		"below": "abandoned_rizz_party"
+	},
+	{
+		"date": 1743128645,
+		"action": "placed",
+		"name": "moving_out",
+		"to_rank": 30,
+		"from_rank": null,
+		"above": "eatdatskibidi445",
+		"below": "pov you jelq too hard"
 	}
 ]
