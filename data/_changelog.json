@@ -8251,5 +8251,14 @@
 		"from_rank": 182,
 		"above": "mango_phonk_house",
 		"below": null
+	},
+	{
+		"date": 1743129969,
+		"action": "lowered",
+		"name": "the_grimace",
+		"to_rank": 182,
+		"from_rank": 1,
+		"above": "unnerfed_ballin_from_detroit",
+		"below": "sakupen_sigma"
 	}
 ]
