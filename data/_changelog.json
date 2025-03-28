@@ -8260,5 +8260,14 @@
 		"from_rank": 1,
 		"above": "unnerfed_ballin_from_detroit",
 		"below": "sakupen_sigma"
+	},
+	{
+		"date": 1743130154,
+		"action": "raised",
+		"name": "Jaxagarasu",
+		"to_rank": 1,
+		"from_rank": 347,
+		"above": "mango_phonk_house",
+		"below": null
 	}
 ]
