@@ -8269,5 +8269,14 @@
 		"from_rank": 347,
 		"above": "mango_phonk_house",
 		"below": null
+	},
+	{
+		"date": 1743130322,
+		"action": "lowered",
+		"name": "Jaxagarasu",
+		"to_rank": 347,
+		"from_rank": 1,
+		"above": "tyrone_the_maker",
+		"below": "jack_of_all_trades"
 	}
 ]
