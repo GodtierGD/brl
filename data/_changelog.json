@@ -8278,5 +8278,14 @@
 		"from_rank": 1,
 		"above": "tyrone_the_maker",
 		"below": "jack_of_all_trades"
+	},
+	{
+		"date": 1743286343,
+		"action": "lowered",
+		"name": "cfc",
+		"to_rank": 4,
+		"from_rank": 2,
+		"above": "the_worst_brainrot",
+		"below": "le_fart_of_le_blade"
 	}
 ]
