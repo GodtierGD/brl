@@ -8296,5 +8296,14 @@
 		"from_rank": 17,
 		"above": "quest_for_brainrot",
 		"below": "shatter_of_96"
+	},
+	{
+		"date": 1743287245,
+		"action": "raised",
+		"name": "just_fart_in_the_bag",
+		"to_rank": 16,
+		"from_rank": 17,
+		"above": "quest_for_brainrot",
+		"below": "sigmasquirrel69420"
 	}
 ]
