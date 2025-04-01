@@ -8449,5 +8449,14 @@
 		"from_rank": 6,
 		"above": "sakupen_sigma",
 		"below": "fanum_toilet"
+	},
+	{
+		"date": 1743476785,
+		"action": "lowered",
+		"name": "brainoueo",
+		"to_rank": 44,
+		"from_rank": 7,
+		"above": "fanum_not_rizzer",
+		"below": "irizzmygyatt"
 	}
 ]
