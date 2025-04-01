@@ -8314,5 +8314,14 @@
 		"from_rank": 374,
 		"above": "mango_phonk_house",
 		"below": null
+	},
+	{
+		"date": 1743466342,
+		"action": "raised",
+		"name": "Rizzler Road",
+		"to_rank": 10,
+		"from_rank": 225,
+		"above": "poo_fart_among_us_v5",
+		"below": "poo_fart_among_us_v6"
 	}
 ]
