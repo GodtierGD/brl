@@ -8458,5 +8458,14 @@
 		"from_rank": 7,
 		"above": "fanum_not_rizzer",
 		"below": "irizzmygyatt"
+	},
+	{
+		"date": 1743476890,
+		"action": "lowered",
+		"name": "Rizzing Baby Gronk",
+		"to_rank": 365,
+		"from_rank": 3,
+		"above": "skibidi_choose_way",
+		"below": "gyatstep"
 	}
 ]
