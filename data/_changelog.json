@@ -8467,5 +8467,14 @@
 		"from_rank": 3,
 		"above": "skibidi_choose_way",
 		"below": "gyatstep"
+	},
+	{
+		"date": 1743477001,
+		"action": "lowered",
+		"name": "free_list_points",
+		"to_rank": 158,
+		"from_rank": 3,
+		"above": "young_sheldon_x",
+		"below": "sigmahouse"
 	}
 ]
