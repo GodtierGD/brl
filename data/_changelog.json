@@ -8422,5 +8422,14 @@
 		"from_rank": 198,
 		"above": "Rizzing Baby Gronk",
 		"below": null
+	},
+	{
+		"date": 1743476678,
+		"action": "raised",
+		"name": "babushka_vortex",
+		"to_rank": 2,
+		"from_rank": 257,
+		"above": "Rizzing Baby Gronk",
+		"below": "mango_phonk_house"
 	}
 ]
