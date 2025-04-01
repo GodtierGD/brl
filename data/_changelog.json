@@ -8386,5 +8386,14 @@
 		"from_rank": 366,
 		"above": "le_fart_of_le_blade",
 		"below": "tidal_tonk"
+	},
+	{
+		"date": 1743468032,
+		"action": "raised",
+		"name": "free_list_points",
+		"to_rank": 3,
+		"from_rank": 159,
+		"above": "le_fart_of_le_blade",
+		"below": "Rizzing Baby Gronk"
 	}
 ]
