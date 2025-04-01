@@ -8476,5 +8476,14 @@
 		"from_rank": 3,
 		"above": "young_sheldon_x",
 		"below": "sigmahouse"
+	},
+	{
+		"date": 1743477057,
+		"action": "raised",
+		"name": "free_list_points",
+		"to_rank": 157,
+		"from_rank": 158,
+		"above": "sigmahouse",
+		"below": "skibidi_circles_z"
 	}
 ]
