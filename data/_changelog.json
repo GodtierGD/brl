@@ -8404,5 +8404,14 @@
 		"from_rank": 1,
 		"above": null,
 		"below": "br"
+	},
+	{
+		"date": 1743476644,
+		"action": "lowered",
+		"name": "Rizzler Road",
+		"to_rank": 224,
+		"from_rank": 12,
+		"above": "skibidi_consistency",
+		"below": "milk_lover_worms"
 	}
 ]
