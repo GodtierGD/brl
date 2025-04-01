@@ -8350,5 +8350,14 @@
 		"from_rank": 29,
 		"above": "cfc",
 		"below": "le_fart_of_le_blade"
+	},
+	{
+		"date": 1743466552,
+		"action": "raised",
+		"name": "the_grimace",
+		"to_rank": 4,
+		"from_rank": 182,
+		"above": "cfc",
+		"below": "pov you jelq too hard"
 	}
 ]
