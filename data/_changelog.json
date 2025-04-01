@@ -8440,5 +8440,14 @@
 		"from_rank": 6,
 		"above": "moving_out",
 		"below": "g_gugy"
+	},
+	{
+		"date": 1743476734,
+		"action": "lowered",
+		"name": "the_grimace",
+		"to_rank": 183,
+		"from_rank": 6,
+		"above": "sakupen_sigma",
+		"below": "fanum_toilet"
 	}
 ]
