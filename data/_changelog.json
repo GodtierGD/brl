@@ -8377,5 +8377,14 @@
 		"from_rank": null,
 		"above": "igyattamongus",
 		"below": "serious_gaming"
+	},
+	{
+		"date": 1743467940,
+		"action": "raised",
+		"name": "Rizzing Baby Gronk",
+		"to_rank": 2,
+		"from_rank": 366,
+		"above": "le_fart_of_le_blade",
+		"below": "tidal_tonk"
 	}
 ]
