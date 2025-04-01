@@ -8341,5 +8341,14 @@
 		"from_rank": 2,
 		"above": "caseoh_never_clear",
 		"below": "metroz_is_fat"
+	},
+	{
+		"date": 1743466493,
+		"action": "raised",
+		"name": "pov you jelq too hard",
+		"to_rank": 3,
+		"from_rank": 29,
+		"above": "cfc",
+		"below": "le_fart_of_le_blade"
 	}
 ]
