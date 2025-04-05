@@ -8530,5 +8530,14 @@
 		"from_rank": null,
 		"above": "edging_in_destiny",
 		"below": "rotten_skibidi"
+	},
+	{
+		"date": 1743885722,
+		"action": "lowered",
+		"name": "kanyescapes",
+		"to_rank": 104,
+		"from_rank": 70,
+		"above": "rizzler_road_deluxe",
+		"below": "sterling_circles_x"
 	}
 ]
