@@ -8512,5 +8512,14 @@
 		"from_rank": null,
 		"above": "alpha_maze",
 		"below": "quicksis_limit"
+	},
+	{
+		"date": 1743885576,
+		"action": "placed",
+		"name": "ok_and",
+		"to_rank": 125,
+		"from_rank": null,
+		"above": "krisscapes_x",
+		"below": "krismas"
 	}
 ]
