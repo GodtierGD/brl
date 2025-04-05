@@ -2,10 +2,20 @@
 	"id": 116600782,
 	"name": "Moving Out",
 	"author": "Daevie",
-	"creators": ["Daevie"],
+	"creators": [
+		"Daevie"
+	],
 	"verifier": "Daevie",
 	"verification": "https://youtu.be/EJ4-wtcZ4Jc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=OlpV2v3ExIo",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
