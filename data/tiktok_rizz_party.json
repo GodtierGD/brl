@@ -2,10 +2,19 @@
 	"id": 108930674,
 	"name": "tiktok rizz party",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/znGmInPXAuQ?si=eDFZ4vKFrS75UR9-",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "lavewave",
+			"link": "https://youtu.be/d2Ln0fnnCUk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
