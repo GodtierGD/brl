@@ -2,10 +2,19 @@
 	"id": 111306195,
 	"name": "skibidiest level rebirth",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/6XeG-YNT2cc?si=laJK-JptrDer1Vtc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "lavewave",
+			"link": "https://youtu.be/KxeE7AZmIbo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

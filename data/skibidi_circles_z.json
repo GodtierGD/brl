@@ -2,10 +2,19 @@
 	"id": 113372128,
 	"name": "Skibidi Circles Z",
 	"author": "vxidness",
-	"creators": ["Vxid"],
+	"creators": [
+		"Vxid"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/vVLDXzPgEEs?si=LU7BKcvoG3hr3N4b",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "lavewave",
+			"link": "https://youtu.be/Lx1a0iWlSVQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
