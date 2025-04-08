@@ -2,10 +2,19 @@
 	"id": 115934946,
 	"name": "sigma lighting eyes",
 	"author": "Vicentexd1233",
-	"creators": ["Vicentexd1233"],
+	"creators": [
+		"Vicentexd1233"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/__3C0MGoAxY?si=N0DGmZ3ogQ9QRWiR",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "lavewave",
+			"link": "https://youtu.be/KxeE7AZmIbo",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
