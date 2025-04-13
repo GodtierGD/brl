@@ -8557,5 +8557,14 @@
 		"from_rank": null,
 		"above": "abandoned_rizz_party",
 		"below": "brainrot_madness"
+	},
+	{
+		"date": 1744580699,
+		"action": "placed",
+		"name": "based_sigmas",
+		"to_rank": 189,
+		"from_rank": null,
+		"above": "unnerfed_ballin_from_detroit",
+		"below": "sakupen_sigma"
 	}
 ]
