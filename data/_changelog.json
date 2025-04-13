@@ -8548,5 +8548,14 @@
 		"from_rank": null,
 		"above": "gyatt_rod",
 		"below": "quicksis_limit"
+	},
+	{
+		"date": 1744580053,
+		"action": "placed",
+		"name": "the_man",
+		"to_rank": 40,
+		"from_rank": null,
+		"above": "abandoned_rizz_party",
+		"below": "brainrot_madness"
 	}
 ]
