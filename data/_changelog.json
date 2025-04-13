@@ -8566,5 +8566,14 @@
 		"from_rank": null,
 		"above": "unnerfed_ballin_from_detroit",
 		"below": "sakupen_sigma"
+	},
+	{
+		"date": 1744581360,
+		"action": "placed",
+		"name": "super_skeebuhdee_world",
+		"to_rank": 209,
+		"from_rank": null,
+		"above": "demote_mental",
+		"below": "livvey_dunne_vortex"
 	}
 ]
