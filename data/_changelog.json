@@ -8539,5 +8539,14 @@
 		"from_rank": 70,
 		"above": "rizzler_road_deluxe",
 		"below": "sterling_circles_x"
+	},
+	{
+		"date": 1744579207,
+		"action": "placed",
+		"name": "freaky_demoness",
+		"to_rank": 49,
+		"from_rank": null,
+		"above": "gyatt_rod",
+		"below": "quicksis_limit"
 	}
 ]
