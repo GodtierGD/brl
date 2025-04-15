@@ -8602,5 +8602,14 @@
 		"from_rank": 156,
 		"above": "brain_rot_dungein_edg",
 		"below": "skibidi_showdown"
+	},
+	{
+		"date": 1744707446,
+		"action": "lowered",
+		"name": "dexter_morgan_chall",
+		"to_rank": 148,
+		"from_rank": 138,
+		"above": "rotten_banana",
+		"below": "head_eraser"
 	}
 ]
