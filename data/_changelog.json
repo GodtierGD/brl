@@ -8620,5 +8620,14 @@
 		"from_rank": 78,
 		"above": "brainrot_circles_x",
 		"below": "sakupen_creamy"
+	},
+	{
+		"date": 1744708745,
+		"action": "lowered",
+		"name": "extrafreakybob_limit",
+		"to_rank": 63,
+		"from_rank": 54,
+		"above": "escape_diddy_party",
+		"below": "unnerfed_rizzler_road_deluxe"
 	}
 ]
