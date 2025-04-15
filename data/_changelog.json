@@ -8593,5 +8593,14 @@
 		"from_rank": 187,
 		"above": "skibidi_showdown",
 		"below": "itchy_ballsak_xyz_4"
+	},
+	{
+		"date": 1744707372,
+		"action": "lowered",
+		"name": "silliest_trials",
+		"to_rank": 185,
+		"from_rank": 156,
+		"above": "brain_rot_dungein_edg",
+		"below": "skibidi_showdown"
 	}
 ]
