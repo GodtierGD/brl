@@ -8629,5 +8629,14 @@
 		"from_rank": 54,
 		"above": "escape_diddy_party",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1744741782,
+		"action": "lowered",
+		"name": "illusion_circles",
+		"to_rank": 31,
+		"from_rank": 25,
+		"above": "alpha_arc",
+		"below": "eatdatskibidi445"
 	}
 ]
