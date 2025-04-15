@@ -8584,5 +8584,14 @@
 		"from_rank": 51,
 		"above": "femboy_vortex",
 		"below": "brainrot_circles_x"
+	},
+	{
+		"date": 1744707220,
+		"action": "raised",
+		"name": "the_grimace",
+		"to_rank": 184,
+		"from_rank": 187,
+		"above": "skibidi_showdown",
+		"below": "itchy_ballsak_xyz_4"
 	}
 ]
