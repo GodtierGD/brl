@@ -8611,5 +8611,14 @@
 		"from_rank": 138,
 		"above": "rotten_banana",
 		"below": "head_eraser"
+	},
+	{
+		"date": 1744708542,
+		"action": "raised",
+		"name": "extrafreakybob_limit",
+		"to_rank": 54,
+		"from_rank": 78,
+		"above": "brainrot_circles_x",
+		"below": "sakupen_creamy"
 	}
 ]
