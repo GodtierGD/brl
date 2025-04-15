@@ -8575,5 +8575,14 @@
 		"from_rank": null,
 		"above": "demote_mental",
 		"below": "livvey_dunne_vortex"
+	},
+	{
+		"date": 1744706038,
+		"action": "lowered",
+		"name": "gyatt_rod",
+		"to_rank": 55,
+		"from_rank": 51,
+		"above": "femboy_vortex",
+		"below": "brainrot_circles_x"
 	}
 ]
