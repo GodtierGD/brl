@@ -8701,5 +8701,14 @@
 		"from_rank": 67,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "skibidibath_deluxe"
+	},
+	{
+		"date": 1745278779,
+		"action": "lowered",
+		"name": "gyatt_rod",
+		"to_rank": 61,
+		"from_rank": 56,
+		"above": "skibidibath_deluxe",
+		"below": "lunchly_vortex"
 	}
 ]
