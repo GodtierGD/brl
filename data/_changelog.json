@@ -8647,5 +8647,14 @@
 		"from_rank": null,
 		"above": "i_chaeted",
 		"below": "you_cant_handle_it"
+	},
+	{
+		"date": 1745205433,
+		"action": "lowered",
+		"name": "ok_and",
+		"to_rank": 187,
+		"from_rank": 126,
+		"above": "sakupen_sigma",
+		"below": "fanum_toilet"
 	}
 ]
