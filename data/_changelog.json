@@ -8665,5 +8665,14 @@
 		"from_rank": null,
 		"above": "brainrot_circles_x",
 		"below": "sakupen_creamy"
+	},
+	{
+		"date": 1745206953,
+		"action": "raised",
+		"name": "10_minute_brainrot",
+		"to_rank": 233,
+		"from_rank": 247,
+		"above": "skibidi_consistency",
+		"below": "Rizzler Road"
 	}
 ]
