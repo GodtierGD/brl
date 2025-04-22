@@ -8719,5 +8719,14 @@
 		"from_rank": 154,
 		"above": "3_levels_of_wave",
 		"below": "zephyrous_landscape"
+	},
+	{
+		"date": 1745293854,
+		"action": "raised",
+		"name": "berries_and_gleam",
+		"to_rank": 114,
+		"from_rank": 117,
+		"above": "scoobert_og",
+		"below": "jelqing_simulator"
 	}
 ]
