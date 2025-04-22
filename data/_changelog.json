@@ -8728,5 +8728,14 @@
 		"from_rank": 117,
 		"above": "scoobert_og",
 		"below": "jelqing_simulator"
+	},
+	{
+		"date": 1745293870,
+		"action": "lowered",
+		"name": "scoobert_og",
+		"to_rank": 117,
+		"from_rank": 115,
+		"above": "sigma_level",
+		"below": "igyattamongus"
 	}
 ]
