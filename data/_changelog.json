@@ -8710,5 +8710,14 @@
 		"from_rank": 56,
 		"above": "skibidibath_deluxe",
 		"below": "lunchly_vortex"
+	},
+	{
+		"date": 1745289337,
+		"action": "lowered",
+		"name": "edp_go_away",
+		"to_rank": 217,
+		"from_rank": 154,
+		"above": "3_levels_of_wave",
+		"below": "zephyrous_landscape"
 	}
 ]
