@@ -8737,5 +8737,14 @@
 		"from_rank": 115,
 		"above": "sigma_level",
 		"below": "igyattamongus"
+	},
+	{
+		"date": 1745294203,
+		"action": "lowered",
+		"name": "gooned",
+		"to_rank": 83,
+		"from_rank": 79,
+		"above": "tonk_tidal",
+		"below": "can_of_crack"
 	}
 ]
