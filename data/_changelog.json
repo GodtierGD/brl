@@ -8746,5 +8746,14 @@
 		"from_rank": 79,
 		"above": "tonk_tidal",
 		"below": "can_of_crack"
+	},
+	{
+		"date": 1745369050,
+		"action": "raised",
+		"name": "quicksis_limit",
+		"to_rank": 40,
+		"from_rank": 49,
+		"above": "the_man",
+		"below": "brainrot_madness"
 	}
 ]
