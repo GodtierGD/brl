@@ -8764,5 +8764,14 @@
 		"from_rank": 58,
 		"above": "hawktuah_circles",
 		"below": "sakupen_creamy"
+	},
+	{
+		"date": 1745369580,
+		"action": "raised",
+		"name": "extrafreakybob_limit",
+		"to_rank": 61,
+		"from_rank": 65,
+		"above": "gyatt_rod",
+		"below": "lunchly_vortex"
 	}
 ]
