@@ -2,10 +2,19 @@
 	"id": 117429866,
 	"name": "teh frick 69",
 	"author": "tmkis",
-	"creators": ["tmkis"],
+	"creators": [
+		"tmkis"
+	],
 	"verifier": "tmkis",
 	"verification": "https://youtu.be/_Kh9_1hEkyg",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "SolarOtter",
+			"link": "https://youtu.be/TPYHlqwzqjU?si=Jsghmk-gXLKU73en",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
