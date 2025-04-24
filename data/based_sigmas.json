@@ -2,10 +2,20 @@
 	"id": 114584088,
 	"name": "based sigmas",
 	"author": "soapswazher",
-	"creators": ["soapswazher"],
+	"creators": [
+		"soapswazher"
+	],
 	"verifier": "thanosdudegd",
 	"verification": "https://www.youtube.com/watch?v=Wu32zmiFZMc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/iSBNanHqBcE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
