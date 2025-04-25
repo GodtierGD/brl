@@ -8863,5 +8863,14 @@
 		"from_rank": null,
 		"above": "skibidibath_deluxe",
 		"below": "gyatt_rod"
+	},
+	{
+		"date": 1745620411,
+		"action": "lowered",
+		"name": "sigma_triangles",
+		"to_rank": 91,
+		"from_rank": 79,
+		"above": "rizzler_road_redux",
+		"below": "bob"
 	}
 ]
