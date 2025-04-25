@@ -6,23 +6,23 @@
     },
     {
         "role": "admin",
+        "name": "Mental",
+        "link": "https://youtube.com/@mentalvr5978?si=lN3giUCATqNtLvlJ"
+    },
+    {
+        "role": "admin",
         "name": "Tonk",
         "link": "https://www.youtube.com/@tonkorsmth"
     },
     {
         "role": "admin",
-        "name": "Rednax",
-        "link": "https://www.youtube.com/@Real_Rednax"
+        "name": "Daevie",
+        "link": "https://www.youtube.com/channel/UC-HU_ImBPYQTYPyMcLx6aDA"
     },
     {
         "role": "admin",
-        "name": "Nerfy",
-        "link": "https://www.youtube.com/@ItzNerfed_"
-    },
-    {
-        "role": "admin",
-        "name": "Pori",
-        "link": "https://youtube.com/@atpurri?si=IlOSGSKHpwbp4XXT"
+        "name": "Yoshi",
+        "link": ""
     },
     {
         "role": "admin",
@@ -31,23 +31,8 @@
     },
     {
         "role": "admin",
-        "name": "Xirai",
-        "link": "https://www.youtube.com/@xirai7348"
-    },
-    {
-        "role": "admin",
-        "name": "Jayxofc",
-        "link": "https://www.youtube.com/@Jayxofc"
-    },
-    {
-        "role": "admin",
         "name": "Wushady",
         "link": "https://www.youtube.com/channel/UCtvkqj6Vo6-zzc2VIGa-nVg"
-    },
-    {
-        "role": "helper",
-        "name": "Kwail",
-        "link": "https://www.youtube.com/@KwailGD/videos"
     },
     {
         "role": "helper",
@@ -55,33 +40,44 @@
         "link": "https://www.youtube.com/@nameless1s-gd"
     },
     {
-        "role": "helper",
-        "name": "[GD] Syth",
-        "link": "https://www.youtube.com/@gdsyth1262"
+        "role": "Furious",
+        "name": "everyone",
+        "link": ""
     },
     {
         "role": "helper",
-        "name": "AlkaGD",
-        "link": "https://www.youtube.com/@alkamelky"
+        "name": "thanosdude",
+        "link": ""
     },
     {
         "role": "helper",
-        "name": "",
-        "link": "https://www.youtube.com/channel/UCpw86dpXA0fg3_g5Uank2ag"
+        "name": "tmkis",
+        "link": ""
     },
     {
         "role": "helper",
-        "name": "Mental",
-        "link": "https://youtube.com/@mentalvr5978?si=lN3giUCATqNtLvlJ"
+        "name": "oneshot",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "zoonk",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "pokemon",
+        "link": ""
     },
     {
         "role": "trial",
         "name": "None",
         "link": ""
     },
+    
     {
         "role": "dev",
-        "name": "Zonkers",
-        "link": "https://www.youtube.com/@zonkers84"
+        "name": "None",
+        "link": ""
     }
 ]
