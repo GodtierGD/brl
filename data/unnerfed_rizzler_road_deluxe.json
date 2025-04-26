@@ -2,10 +2,19 @@
 	"id": 109613391,
 	"name": "Unnerfed Rizzler Road Deluxe",
 	"author": "m3nt411",
-	"creators": ["m3nt411"],
+	"creators": [
+		"m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/pEXrae236MA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/6U0nrbWs4m0?feature=shared",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
