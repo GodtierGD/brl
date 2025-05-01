@@ -10,5 +10,11 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/N-39daKGc7c",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
