@@ -2,10 +2,20 @@
 	"id": 113556539,
 	"name": "brainoweo",
 	"author": "wavelog",
-	"creators": ["m3nt411"," wavelog"],
+	"creators": [
+		"m3nt411",
+		" wavelog"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/NRykHELL9CY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/IsgEHb64aco",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
