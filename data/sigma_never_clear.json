@@ -16,6 +16,13 @@
 			"link": "https://youtu.be/opPXAi7a-b4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/X2JTFuqvPtw",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
