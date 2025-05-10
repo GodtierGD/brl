@@ -28,14 +28,14 @@ export default {
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard">
                             <td class="rank">
-                                <p class="type-label-lg">#{{ i + 1 }}</p>
+                                <p class="type-label-lg" :id="'rank-' + i">#{{ i + 1 }}</p>
                             </td>
                             <td class="total">
-                                <p class="type-label-lg">{{ localize(ientry.total) }}</p>
+                                <p class="type-label-lg" :id="'total-' + i">{{ localize(ientry.total) }}</p>
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
-                                    <span class="type-label-lg">{{ ientry.user }}</span>
+                                    <span class="type-label-lg" :id="'user-' + i">{{ ientry.user }}</span>
                                 </button>
                             </td>
                         </tr>
@@ -101,11 +101,54 @@ export default {
         const [leaderboard, err] = await fetchLeaderboard();
         this.leaderboard = leaderboard;
         this.err = err;
-        // Hide loading spinner
         this.loading = false;
+        this.applyRankEffects();
     },
     methods: {
         localize,
-        
+        applyRankEffects() {
+            this.$nextTick(() => {
+                const ranks = [
+                    { index: 0, color: '#FFD700', animation: 'breathingGold' },
+                    { index: 1, color: '#C0C0C0', animation: 'breathingSilver' },
+                    { index: 2, color: '#CD7F32', animation: 'breathingBronze' },
+                ];
+
+                for (const { index, color, animation } of ranks) {
+                    const rank = document.querySelector(`#rank-${index}`);
+                    const user = document.querySelector(`#user-${index}`);
+                    const total = document.querySelector(`#total-${index}`);
+                    if (rank && user && total) {
+                        this.addGlowEffect(rank, color, animation);
+                        this.addGlowEffect(user, color, animation);
+                        this.addGlowEffect(total, color, animation);
+                    }
+                }
+            });
+        },
+        addGlowEffect(element, color, animationName) {
+            element.style.transition = "all 0.5s ease-in-out";
+            element.style.fontWeight = 'bold';
+            element.style.color = color;
+            element.style.animation = `${animationName} 3s infinite alternate`;
+        }
     },
 };
+
+// Add breathing glow CSS animations
+const style = document.createElement('style');
+style.innerHTML = `
+@keyframes breathingGold {
+    0% { text-shadow: 0 0 5px rgba(255,215,0,0.65), 0 0 10px rgba(255,215,0,0.65); }
+    100% { text-shadow: 0 0 20px rgba(255,215,0,0.25), 0 0 50px rgba(255,215,0,0.25); }
+}
+@keyframes breathingSilver {
+    0% { text-shadow: 0 0 5px rgba(192,192,192,0.65), 0 0 10px rgba(192,192,192,0.65); }
+    100% { text-shadow: 0 0 20px rgba(192,192,192,0.25), 0 0 50px rgba(192,192,192,0.25); }
+}
+@keyframes breathingBronze {
+    0% { text-shadow: 0 0 5px rgba(205,127,50,0.65), 0 0 10px rgba(205,127,50,0.65); }
+    100% { text-shadow: 0 0 20px rgba(205,127,50,0.25), 0 0 50px rgba(205,127,50,0.25); }
+}
+`;
+document.head.appendChild(style);
