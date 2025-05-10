@@ -28,14 +28,14 @@ export default {
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard">
                             <td class="rank">
-                                <p class="type-label-lg" :id="'rank-' + i">#{{ i + 1 }}</p>
+                                <p class="type-label-lg">#{{ i + 1 }}</p>
                             </td>
                             <td class="total">
-                                <p class="type-label-lg" :id="'total-' + i">{{ localize(ientry.total) }}</p>
+                                <p class="type-label-lg">{{ localize(ientry.total) }}</p>
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
-                                    <span class="type-label-lg" :id="'user-' + i">{{ ientry.user }}</span>
+                                    <span class="type-label-lg">{{ ientry.user }}</span>
                                 </button>
                             </td>
                         </tr>
@@ -99,12 +99,10 @@ export default {
     },
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
-        
+        this.leaderboard = leaderboard;
+        this.err = err;
         // Hide loading spinner
         this.loading = false;
-        
-        // Apply gold, silver, and bronze effects to the first three users
-        this.applyRankEffects();
     },
     methods: {
         localize,
