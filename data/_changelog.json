@@ -8899,5 +8899,14 @@
 		"from_rank": 6,
 		"above": "teh_frick_69",
 		"below": "you_cant_handle_it"
+	},
+	{
+		"date": 1748111733,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 8,
+		"from_rank": 9,
+		"above": "you_cant_handle_it",
+		"below": "poo_fart_among_us_v5"
 	}
 ]
