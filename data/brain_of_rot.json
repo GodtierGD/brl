@@ -28,6 +28,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Cinnamonon_plays",
+			"link": "https://www.youtube.com/watch?v=Gwiga9ueslc",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
