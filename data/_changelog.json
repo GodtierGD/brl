@@ -8881,5 +8881,14 @@
 		"from_rank": null,
 		"above": "scoobert_rebirth",
 		"below": "just_poop_in_the_bag"
+	},
+	{
+		"date": 1748074714,
+		"action": "placed",
+		"name": "low_taper_fade_rebirth",
+		"to_rank": 129,
+		"from_rank": null,
+		"above": "krismas",
+		"below": "talk_tuah_wave"
 	}
 ]
