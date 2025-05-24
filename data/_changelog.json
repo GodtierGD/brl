@@ -8890,5 +8890,14 @@
 		"from_rank": null,
 		"above": "krismas",
 		"below": "talk_tuah_wave"
+	},
+	{
+		"date": 1748111685,
+		"action": "lowered",
+		"name": "low_taper_fade",
+		"to_rank": 9,
+		"from_rank": 6,
+		"above": "teh_frick_69",
+		"below": "you_cant_handle_it"
 	}
 ]
