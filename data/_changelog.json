@@ -8953,5 +8953,14 @@
 		"from_rank": null,
 		"above": "narcton_diablo_ean",
 		"below": "i_chaeted"
+	},
+	{
+		"date": 1749856612,
+		"action": "placed",
+		"name": "play_km",
+		"to_rank": 48,
+		"from_rank": null,
+		"above": "fanum_not_rizzer",
+		"below": "brainoueo"
 	}
 ]
