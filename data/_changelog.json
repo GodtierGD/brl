@@ -8935,5 +8935,14 @@
 		"from_rank": null,
 		"above": "deat_is_straight",
 		"below": "rizzy_circles_unnerf"
+	},
+	{
+		"date": 1749855810,
+		"action": "placed",
+		"name": "fireinthescapes",
+		"to_rank": 145,
+		"from_rank": null,
+		"above": "splurge_chalace_z",
+		"below": "scoobert_rebirth"
 	}
 ]
