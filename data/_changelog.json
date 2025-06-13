@@ -8944,5 +8944,14 @@
 		"from_rank": null,
 		"above": "splurge_chalace_z",
 		"below": "scoobert_rebirth"
+	},
+	{
+		"date": 1749856130,
+		"action": "placed",
+		"name": "low_taper_fade_rebirth",
+		"to_rank": 13,
+		"from_rank": null,
+		"above": "narcton_diablo_ean",
+		"below": "i_chaeted"
 	}
 ]
