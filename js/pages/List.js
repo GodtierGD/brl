@@ -105,13 +105,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Completion MUST have clicks, with should be audible throughout the whole Completion/ Verification.
+                        Completion MUST have clicks, which should be audible throughout the whole Completion/ Verification.
                     </p>
                     <p>
                         Completion MUST have at least one death before the completion attempt. If it is on the first attempt and obviously shown that apon entering the level then it is exempt from this rule.
                     </p>
                     <p>
-                        Completions or Verifications MUST be uploaded in the format of a youtube video. If it is a top 10 it must have a raw version of the completion attempt attached to the video.
+                        Completions or Verifications MUST be uploaded in the format of a youtube video. If it is a top 20 it must have a raw version of the completion attempt attached to the video.
                     </p>
                     <p>
                         If on mobile, you MUST show taps on screen alongside audible clicks that are consistent enough in volume. No clickbots allowed.
@@ -126,26 +126,23 @@ export default {
                         Please show the attempt count in the level stats menu before ending recording.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls into the Legacy List, we will no longer accept records for said level.
                     </p>
                     <h3>Level Rules</h3>
                     <p>
                         JOIN THE DISCORD TO SUBMIT LEVELS TO THE LIST (VERIFICATIONS)
                     </p>
                     <p>
-                        MUST contain brainrot or have something in it that links with the theme of brainrot. Fire In The Hole, Normal Faces, etc.
+                        MUST contain brainrot artwork, themes or sounds. Can also be the following: "femboy", "memes" or "dad jokes" etx.
                     </p>
                     <p>
-                        For a level to place it must be harder than the level placed at #100. We will not be accepting any levels that are easier than the top 100.
+                        For a level to place it must be harder than the level placed at #250. We will not be accepting any levels that are easier than the top 250.
                     </p>
                     <p>
                         Level MUST be at least 31 seconds long. No shorter. If It is shorter than 31 seconds or "Medium" length it will not be accepted on the list.
                     </p>
                     <p>
                         Copying levels outside the list is NOT permitted, we wish for originality. You may however remake already existing levels BUT AGAIN do not directly copy an already existing level. Only copy other levels UNDER THE PERMISSION of it's creator(s), make sure to CREDIT them aswell.
-                    </p>
-                    <p>
-                        The level cannot be FULLY invisible meaning there must be some sort of indication on how to play the level - The layout cannot be fully invisible.
                     </p>
                     <p>
                         Layouts will NOT be accepted onto the list. Please put some effort into the decoration. It doesn't have to be amazing or anything just fill in the blocks and make structures please.
@@ -157,16 +154,13 @@ export default {
                         If you're using an LDM/ULDM of a level it must be approved by a moderator first. Please be sure that the copy is OK by making sure with our staff.
                     </p>
                     <p>
-                        CANNOT BE FULLY SPAM BASED, we do not want this to be a spam challenge. Please abide by this rule.
+                        CANNOT BE FULLY SPAM BASED, uncontrolled cap is 20 - 22, controlled cap is 10 - 13. We don't wish for this to be a spam challenge list.
                     </p>
                     <p>
                         If the level has a non-newgrounds song (nong), then the youtube video MUST include a download link for the nong song.
                     </p>
                     <p>
-                        No extremely chokepoint based levels like sf challenges or completely spam for extremely long periods of time.
-                    </p>
-                    <p>
-                        The gameplay CANNOT be invisible when the PLAYER is invisible, it's either one or the other.
+                        Avoid extremely difficult chokepoints and attempt to somewhat balance the level. Yes you can make it ass but not too ass basically.
                     </p>
                     <p>
                         Avoid making images with over 500 objects in the geometrize mod, it causes levels to get removed off of the servers and breaks ids.
@@ -175,13 +169,13 @@ export default {
                         Levels have to be LISTED to be placed. UNLISTED levels will NOT be placed on the brl.
                     </p>
                     <p>
-                        Maximum level length: 15 minutes. No auto levels.
+                        Maximum level length: 28 minutes. No auto levels.
                     </p>
                     <p>
                         STRICTLY NO RANDOM TRIGGERS. No Triple or Quad Clicks allowed, and obviously NOTHING HIGHER.
                     </p>
                     <p>
-                        No 2player levels are allowed on the list. STRICTLY NO NSFW.
+                        STRICTLY NO NSFW. You may make suggestive jokes AT MOST.
                     </p>
                     <p>
                 </div>
