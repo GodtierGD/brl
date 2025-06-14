@@ -8980,5 +8980,14 @@
 		"from_rank": null,
 		"above": "poo_fart_among_us_v5",
 		"below": "poo_fart_among_us_v6"
+	},
+	{
+		"date": 1749888806,
+		"action": "placed",
+		"name": "make_wushady_mod",
+		"to_rank": 9,
+		"from_rank": null,
+		"above": "poo_fart_among_us_v5",
+		"below": "make_wushady_mod_ii"
 	}
 ]
