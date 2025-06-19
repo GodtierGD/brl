@@ -9007,5 +9007,14 @@
 		"from_rank": null,
 		"above": "superhawkmetuah",
 		"below": "sakupen_rot"
+	},
+	{
+		"date": 1750330888,
+		"action": "placed",
+		"name": "drinkingraw_milk_raw",
+		"to_rank": 77,
+		"from_rank": null,
+		"above": "ultimate_brl_mix",
+		"below": "diddy_circle"
 	}
 ]
