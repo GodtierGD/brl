@@ -8989,5 +8989,14 @@
 		"from_rank": null,
 		"above": "poo_fart_among_us_v5",
 		"below": "make_wushady_mod_ii"
+	},
+	{
+		"date": 1750329421,
+		"action": "placed",
+		"name": "hawk_tuah_vortex",
+		"to_rank": 79,
+		"from_rank": null,
+		"above": "glc",
+		"below": "ball_circles"
 	}
 ]
