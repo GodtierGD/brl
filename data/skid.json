@@ -2,10 +2,20 @@
 	"id": 112317075,
 	"name": "Skid",
 	"author": "StaticonGD",
-	"creators": ["ULTRA821man_gd"," staticon"],
+	"creators": [
+		"ULTRA821man_gd",
+		" staticon"
+	],
 	"verifier": "staticon",
 	"verification": "https://youtu.be/5tr8yWnO3Ck?si=YzKQaeTmpw4cZp0t",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Rednax",
+			"link": "https://www.youtube.com/watch?v=XlFNflPS1bQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
