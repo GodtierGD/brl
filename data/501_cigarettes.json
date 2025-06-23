@@ -136,6 +136,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "soggysamurai",
+			"link": "https://www.youtube.com/watch?v=FuwpLNbSvDw",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
