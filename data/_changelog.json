@@ -9016,5 +9016,14 @@
 		"from_rank": null,
 		"above": "ultimate_brl_mix",
 		"below": "diddy_circle"
+	},
+	{
+		"date": 1751657280,
+		"action": "raised",
+		"name": "skibidiest_level_rebirth",
+		"to_rank": 127,
+		"from_rank": 181,
+		"above": "xirai_bossfight",
+		"below": "Caine Circles"
 	}
 ]
