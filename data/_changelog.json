@@ -9025,5 +9025,14 @@
 		"from_rank": 181,
 		"above": "xirai_bossfight",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1751657666,
+		"action": "raised",
+		"name": "super_skeebuhdee_world",
+		"to_rank": 12,
+		"from_rank": 217,
+		"above": "teh_frick_69",
+		"below": "you_cant_handle_it"
 	}
 ]
