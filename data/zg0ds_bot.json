@@ -2,10 +2,20 @@
 	"id": 117841061,
 	"name": "zg0ds bot",
 	"author": "wushady",
-	"creators": ["wushady"," Jerry4"],
+	"creators": [
+		"wushady",
+		" Jerry4"
+	],
 	"verifier": "wushady",
 	"verification": "https://youtu.be/gcwBrICXopI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/rvQEMRaWxPA?t=172",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
