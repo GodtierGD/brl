@@ -9061,5 +9061,14 @@
 		"from_rank": 242,
 		"above": "demote_mental",
 		"below": "the_brainrot_collab"
+	},
+	{
+		"date": 1753043630,
+		"action": "raised",
+		"name": "the_worst_brainrot",
+		"to_rank": 2,
+		"from_rank": 5,
+		"above": "babushka_vortex",
+		"below": "mango_phonk_house"
 	}
 ]
