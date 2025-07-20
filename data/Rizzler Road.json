@@ -40,6 +40,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "lavewave",
+			"link": "https://youtu.be/WXPXluDQeAw",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
