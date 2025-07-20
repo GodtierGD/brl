@@ -9052,5 +9052,14 @@
 		"from_rank": null,
 		"above": "Rizzler Road",
 		"below": "milk_lover_worms"
+	},
+	{
+		"date": 1753043569,
+		"action": "raised",
+		"name": "10_minute_brainrot",
+		"to_rank": 218,
+		"from_rank": 242,
+		"above": "demote_mental",
+		"below": "the_brainrot_collab"
 	}
 ]
