@@ -9070,5 +9070,14 @@
 		"from_rank": 5,
 		"above": "babushka_vortex",
 		"below": "mango_phonk_house"
+	},
+	{
+		"date": 1753251935,
+		"action": "placed",
+		"name": "eric_van_impossible",
+		"to_rank": 200,
+		"from_rank": null,
+		"above": "unnerfed_ballin_from_detroit",
+		"below": "based_sigmas"
 	}
 ]
