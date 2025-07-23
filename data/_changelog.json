@@ -9079,5 +9079,14 @@
 		"from_rank": null,
 		"above": "unnerfed_ballin_from_detroit",
 		"below": "based_sigmas"
+	},
+	{
+		"date": 1753252085,
+		"action": "placed",
+		"name": "mustaaaaardscapes",
+		"to_rank": 164,
+		"from_rank": null,
+		"above": "death_corridaura",
+		"below": "edging_in_destiny"
 	}
 ]
