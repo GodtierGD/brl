@@ -9124,5 +9124,14 @@
 		"from_rank": null,
 		"above": "rizzy_circles",
 		"below": "brainrot_fantasy"
+	},
+	{
+		"date": 1753720540,
+		"action": "raised",
+		"name": "silliest_trials",
+		"to_rank": 182,
+		"from_rank": 198,
+		"above": "night_farty",
+		"below": "superhawkmetuah"
 	}
 ]
