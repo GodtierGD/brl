@@ -9151,5 +9151,14 @@
 		"from_rank": 234,
 		"above": "skibidiest_level_rebirth",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1753720944,
+		"action": "lowered",
+		"name": "the_unknown_rizzler",
+		"to_rank": 191,
+		"from_rank": 189,
+		"above": "rizztic",
+		"below": "sigma_and_skibidi_m"
 	}
 ]
