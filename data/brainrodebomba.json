@@ -2,10 +2,20 @@
 	"id": 123293800,
 	"name": "Brainrodebomba",
 	"author": "Shafikdabest",
-	"creators": ["Shafikdabest"],
+	"creators": [
+		"Shafikdabest"
+	],
 	"verifier": "Shafikdabest",
 	"verification": "https://www.youtube.com/watch?v=NRZPnM5NgRQ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/NDLAYKXobjE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
