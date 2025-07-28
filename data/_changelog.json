@@ -9088,5 +9088,14 @@
 		"from_rank": null,
 		"above": "death_corridaura",
 		"below": "edging_in_destiny"
+	},
+	{
+		"date": 1753703099,
+		"action": "raised",
+		"name": "eric_van_impossible",
+		"to_rank": 169,
+		"from_rank": 201,
+		"above": "sakupenrizzinsigma",
+		"below": "skibisodii"
 	}
 ]
