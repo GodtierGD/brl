@@ -9115,5 +9115,14 @@
 		"from_rank": null,
 		"above": "escape_ethiopia_real",
 		"below": "ts_again"
+	},
+	{
+		"date": 1753712616,
+		"action": "placed",
+		"name": "brainrodebomba",
+		"to_rank": 236,
+		"from_rank": null,
+		"above": "rizzy_circles",
+		"below": "brainrot_fantasy"
 	}
 ]
