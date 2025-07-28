@@ -9142,5 +9142,14 @@
 		"from_rank": 145,
 		"above": "skibidi_never_clear",
 		"below": "hawk_tuah_sim_v5"
+	},
+	{
+		"date": 1753720862,
+		"action": "raised",
+		"name": "brainoweo",
+		"to_rank": 130,
+		"from_rank": 234,
+		"above": "skibidiest_level_rebirth",
+		"below": "Caine Circles"
 	}
 ]
