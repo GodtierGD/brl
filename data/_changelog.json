@@ -9160,5 +9160,14 @@
 		"from_rank": 189,
 		"above": "rizztic",
 		"below": "sigma_and_skibidi_m"
+	},
+	{
+		"date": 1753720984,
+		"action": "raised",
+		"name": "extrafreakybob_limit",
+		"to_rank": 57,
+		"from_rank": 68,
+		"above": "freaky_demoness",
+		"below": "diddy_piecefull"
 	}
 ]
