@@ -9133,5 +9133,14 @@
 		"from_rank": 198,
 		"above": "night_farty",
 		"below": "superhawkmetuah"
+	},
+	{
+		"date": 1753720798,
+		"action": "lowered",
+		"name": "the_unknown_rizzler",
+		"to_rank": 188,
+		"from_rank": 145,
+		"above": "skibidi_never_clear",
+		"below": "hawk_tuah_sim_v5"
 	}
 ]
