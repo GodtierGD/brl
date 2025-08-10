@@ -2,10 +2,20 @@
 	"id": 124272032,
 	"name": "BrianScapes",
 	"author": "JankuJuss",
-	"creators": ["JankuJuss"," Mfrappe"],
+	"creators": [
+		"JankuJuss",
+		" Mfrappe"
+	],
 	"verifier": "JankuJuss",
 	"verification": "https://youtu.be/-WyYwspXDY4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://www.youtube.com/watch?v=BUf1TC0fo2U",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
