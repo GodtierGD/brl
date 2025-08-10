@@ -9196,5 +9196,14 @@
 		"from_rank": null,
 		"above": "sterling_circles",
 		"below": "diddy_sticky_balls_x"
+	},
+	{
+		"date": 1754854179,
+		"action": "placed",
+		"name": "iron_brainrot",
+		"to_rank": 13,
+		"from_rank": null,
+		"above": "illusion_circles_iii",
+		"below": "teh_frick_69"
 	}
 ]
