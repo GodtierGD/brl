@@ -9178,5 +9178,14 @@
 		"from_rank": null,
 		"above": "brainrot_fantasy",
 		"below": "rot_in_the_water"
+	},
+	{
+		"date": 1754852482,
+		"action": "placed",
+		"name": "olive_delights",
+		"to_rank": 130,
+		"from_rank": null,
+		"above": "brainoweo",
+		"below": "Caine Circles"
 	}
 ]
