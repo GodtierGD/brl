@@ -9187,5 +9187,14 @@
 		"from_rank": null,
 		"above": "brainoweo",
 		"below": "Caine Circles"
+	},
+	{
+		"date": 1754853493,
+		"action": "placed",
+		"name": "rotted_death_redux",
+		"to_rank": 149,
+		"from_rank": null,
+		"above": "sterling_circles",
+		"below": "diddy_sticky_balls_x"
 	}
 ]
