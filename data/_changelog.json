@@ -9169,5 +9169,14 @@
 		"from_rank": 68,
 		"above": "freaky_demoness",
 		"below": "diddy_piecefull"
+	},
+	{
+		"date": 1754851289,
+		"action": "placed",
+		"name": "brianscapes",
+		"to_rank": 235,
+		"from_rank": null,
+		"above": "brainrot_fantasy",
+		"below": "rot_in_the_water"
 	}
 ]
