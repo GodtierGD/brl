@@ -46,6 +46,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "shafikdabest",
+			"link": "https://www.youtube.com/watch?v=zvx_B35ubdo",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
