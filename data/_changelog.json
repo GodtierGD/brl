@@ -9223,5 +9223,14 @@
 		"from_rank": 52,
 		"above": "ts_again",
 		"below": "poo_fart_among_us_v4"
+	},
+	{
+		"date": 1755275366,
+		"action": "raised",
+		"name": "skibidibath_deluxe",
+		"to_rank": 54,
+		"from_rank": 73,
+		"above": "fanum_not_rizzer",
+		"below": "play_km"
 	}
 ]
