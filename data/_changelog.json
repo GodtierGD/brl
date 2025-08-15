@@ -9277,5 +9277,14 @@
 		"from_rank": 217,
 		"above": "the_grimace",
 		"below": "itchy_ballsak_xyz_4"
+	},
+	{
+		"date": 1755276623,
+		"action": "raised",
+		"name": "demote_mental",
+		"to_rank": 208,
+		"from_rank": 229,
+		"above": "fanum_toilet",
+		"below": "brain_rot_dungein_edg"
 	}
 ]
