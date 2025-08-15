@@ -9232,5 +9232,14 @@
 		"from_rank": 73,
 		"above": "fanum_not_rizzer",
 		"below": "play_km"
+	},
+	{
+		"date": 1755275418,
+		"action": "raised",
+		"name": "skid",
+		"to_rank": 71,
+		"from_rank": 80,
+		"above": "lunchly_vortex",
+		"below": "sigma_wave_trials_v2"
 	}
 ]
