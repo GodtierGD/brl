@@ -9295,5 +9295,14 @@
 		"from_rank": 238,
 		"above": "Pomni Circles",
 		"below": "poopoo_fart_among_us"
+	},
+	{
+		"date": 1755277152,
+		"action": "lowered",
+		"name": "unnerfed_ballin_from_detroit",
+		"to_rank": 238,
+		"from_rank": 212,
+		"above": "brianscapes",
+		"below": "chat_is_this_fake"
 	}
 ]
