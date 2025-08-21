@@ -2,10 +2,21 @@
 	"id": 116128440,
 	"name": "3 levels of wave",
 	"author": "m3nt411",
-	"creators": ["wavelog"," chimp"," m3nt411"],
+	"creators": [
+		"wavelog",
+		" chimp",
+		" m3nt411"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/_nN11iFfl0w",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "south182",
+			"link": "https://youtu.be/DA1oqzJCTi4?si=ACxYrCdN4Maqy78z",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
