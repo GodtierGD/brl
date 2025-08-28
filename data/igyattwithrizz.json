@@ -2,10 +2,21 @@
 	"id": 116563684,
 	"name": "igyattwithrizz",
 	"author": "m3nt411",
-	"creators": ["m3nt411"," wavelog"],
+	"creators": [
+		"m3nt411",
+		" wavelog"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/UumlSfS_eyk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/-6RS91WDu90",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
