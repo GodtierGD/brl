@@ -9349,5 +9349,14 @@
 		"from_rank": 128,
 		"above": "make_reqx_admin",
 		"below": "dr_pomni_scout"
+	},
+	{
+		"date": 1756416331,
+		"action": "raised",
+		"name": "3_levels_of_wave",
+		"to_rank": 174,
+		"from_rank": 203,
+		"above": "rizzler_road_circles",
+		"below": "death_corridaura"
 	}
 ]
