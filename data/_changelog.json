@@ -9358,5 +9358,14 @@
 		"from_rank": 203,
 		"above": "rizzler_road_circles",
 		"below": "death_corridaura"
+	},
+	{
+		"date": 1756416611,
+		"action": "raised",
+		"name": "tiktok_rizz_party",
+		"to_rank": 188,
+		"from_rank": 206,
+		"above": "silliest_trials",
+		"below": "skibiditoe571"
 	}
 ]
