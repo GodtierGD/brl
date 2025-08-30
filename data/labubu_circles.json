@@ -2,10 +2,19 @@
 	"id": 124875684,
 	"name": "Labubu Circles",
 	"author": "shafikdagoat",
-	"creators": ["Blues"],
+	"creators": [
+		"Blues"
+	],
 	"verifier": "shafikdabest",
 	"verification": "https://www.youtube.com/watch?v=LgN5gPajnao",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/alQXHRNTQqw?t=277",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
