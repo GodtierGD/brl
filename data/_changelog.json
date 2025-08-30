@@ -9394,5 +9394,14 @@
 		"from_rank": 111,
 		"above": "normal_face_chall",
 		"below": "mr_beast_does_fent"
+	},
+	{
+		"date": 1756595782,
+		"action": "raised",
+		"name": "suhpermingle",
+		"to_rank": 158,
+		"from_rank": 197,
+		"above": "scoobert_rebirth",
+		"below": "just_poop_in_the_bag"
 	}
 ]
