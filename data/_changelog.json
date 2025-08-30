@@ -9376,5 +9376,14 @@
 		"from_rank": 2,
 		"above": "cfc",
 		"below": "le_fart_of_le_blade"
+	},
+	{
+		"date": 1756595193,
+		"action": "raised",
+		"name": "femboy_vortex",
+		"to_rank": 60,
+		"from_rank": 68,
+		"above": "extrafreakybob_limit",
+		"below": "diddy_piecefull"
 	}
 ]
