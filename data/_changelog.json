@@ -9403,5 +9403,14 @@
 		"from_rank": 197,
 		"above": "scoobert_rebirth",
 		"below": "just_poop_in_the_bag"
+	},
+	{
+		"date": 1756595857,
+		"action": "raised",
+		"name": "gorlock_destroyer",
+		"to_rank": 211,
+		"from_rank": 236,
+		"above": "fanum_toilet",
+		"below": "demote_mental"
 	}
 ]
