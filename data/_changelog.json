@@ -9367,5 +9367,14 @@
 		"from_rank": 206,
 		"above": "silliest_trials",
 		"below": "skibiditoe571"
+	},
+	{
+		"date": 1756595161,
+		"action": "lowered",
+		"name": "the_worst_brainrot",
+		"to_rank": 4,
+		"from_rank": 2,
+		"above": "cfc",
+		"below": "le_fart_of_le_blade"
 	}
 ]
