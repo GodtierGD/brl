@@ -9421,5 +9421,14 @@
 		"from_rank": 229,
 		"above": "10_minute_brainrot",
 		"below": "the_brainrot_collab"
+	},
+	{
+		"date": 1756596119,
+		"action": "lowered",
+		"name": "10_minute_brainrot",
+		"to_rank": 235,
+		"from_rank": 232,
+		"above": "EDGE MEW MAXXER 5000",
+		"below": "mangosmangos"
 	}
 ]
