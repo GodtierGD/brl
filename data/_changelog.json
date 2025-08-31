@@ -9475,5 +9475,14 @@
 		"from_rank": null,
 		"above": "utz_party_mix",
 		"below": "sterling_circles"
+	},
+	{
+		"date": 1756604801,
+		"action": "placed",
+		"name": "igyattrizz",
+		"to_rank": 123,
+		"from_rank": null,
+		"above": "igyattamongus",
+		"below": "mr_beast_does_fent"
 	}
 ]
