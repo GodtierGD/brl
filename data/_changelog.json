@@ -9448,5 +9448,14 @@
 		"from_rank": null,
 		"above": "skibidi_crackhead",
 		"below": "young_sheldon_x"
+	},
+	{
+		"date": 1756604513,
+		"action": "placed",
+		"name": "the_sun_2",
+		"to_rank": 175,
+		"from_rank": null,
+		"above": "3_levels_of_wave",
+		"below": "death_corridaura"
 	}
 ]
