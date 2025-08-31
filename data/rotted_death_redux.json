@@ -2,10 +2,19 @@
 	"id": 124297016,
 	"name": "rotted death redux",
 	"author": "Heilx",
-	"creators": ["Heilx"],
+	"creators": [
+		"Heilx"
+	],
 	"verifier": "tmkis",
 	"verification": "https://youtu.be/E94Z5fGHScw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/7Da-vmBaVVo?t=39",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
