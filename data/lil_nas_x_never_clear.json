@@ -1,38 +1,11 @@
 {
-	"id": 108614160,
+	"id": 118343533,
 	"name": "lil nas x never clear",
-	"author": "mnob",
-	"creators": [
-		"mnob"
-	],
+	"author": "m3nt411",
+	"creators": ["mnob"],
 	"verifier": "m3nt411",
-	"verification": "https://youtu.be/hNtb8hnAUhw?si=oux6hZSSeX8ibpf9",
+	"verification": "https://youtu.be/hNtb8hnAUhw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records": [
-		{
-			"user": "Water",
-			"link": "https://www.youtube.com/watch?v=3gXwjkZyn1o",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "staticon",
-			"link": "https://youtu.be/AbtPugIQfDM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "8tobble",
-			"link": "https://youtu.be/zlBwnomOeKI",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Daevie",
-			"link": "https://youtu.be/ZnJ_O_yYRTg",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"records" : []
 }
