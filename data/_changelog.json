@@ -9430,5 +9430,14 @@
 		"from_rank": 232,
 		"above": "EDGE MEW MAXXER 5000",
 		"below": "mangosmangos"
+	},
+	{
+		"date": 1756599439,
+		"action": "raised",
+		"name": "the_worst_brainrot",
+		"to_rank": 2,
+		"from_rank": 4,
+		"above": "babushka_vortex",
+		"below": "mango_phonk_house"
 	}
 ]
