@@ -9502,5 +9502,14 @@
 		"from_rank": null,
 		"above": "brainrot_circles_x",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1757715720,
+		"action": "placed",
+		"name": "fent_cart_bomecack",
+		"to_rank": 205,
+		"from_rank": null,
+		"above": "sigma_and_skibidi_m",
+		"below": "sakupen_sigma"
 	}
 ]
