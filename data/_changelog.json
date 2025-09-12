@@ -9511,5 +9511,14 @@
 		"from_rank": null,
 		"above": "sigma_and_skibidi_m",
 		"below": "sakupen_sigma"
+	},
+	{
+		"date": 1757716048,
+		"action": "placed",
+		"name": "crizztal_gusher",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "poo_fart_among_us_v5",
+		"below": "teh_frick_69"
 	}
 ]
