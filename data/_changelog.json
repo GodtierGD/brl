@@ -9547,5 +9547,14 @@
 		"from_rank": null,
 		"above": "babushka_vortex",
 		"below": "skibidipendence_2"
+	},
+	{
+		"date": 1757720848,
+		"action": "lowered",
+		"name": "the_worst_brainrot",
+		"to_rank": 4,
+		"from_rank": 2,
+		"above": "babushka_vortex",
+		"below": "yuvin_marasini"
 	}
 ]
