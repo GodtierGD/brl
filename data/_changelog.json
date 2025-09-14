@@ -9619,5 +9619,14 @@
 		"from_rank": 18,
 		"above": "poo_fart_among_us_v5",
 		"below": "crizztal_gusher"
+	},
+	{
+		"date": 1757886282,
+		"action": "lowered",
+		"name": "crizztal_gusher",
+		"to_rank": 19,
+		"from_rank": 14,
+		"above": "i_chaeted",
+		"below": "illusion_circles_iii"
 	}
 ]
