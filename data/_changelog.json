@@ -9628,5 +9628,14 @@
 		"from_rank": 14,
 		"above": "i_chaeted",
 		"below": "illusion_circles_iii"
+	},
+	{
+		"date": 1757886344,
+		"action": "raised",
+		"name": "crizztal_gusher",
+		"to_rank": 16,
+		"from_rank": 19,
+		"above": "low_taper_fade",
+		"below": "poo_fart_among_us_v5"
 	}
 ]
