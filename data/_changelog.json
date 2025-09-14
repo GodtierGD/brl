@@ -9655,5 +9655,14 @@
 		"from_rank": null,
 		"above": "femboyrotted",
 		"below": "alpha_arc"
+	},
+	{
+		"date": 1757887507,
+		"action": "raised",
+		"name": "the_worst_brainrot_2",
+		"to_rank": 1,
+		"from_rank": 3,
+		"above": "mango_phonk_house",
+		"below": null
 	}
 ]
