@@ -9601,5 +9601,14 @@
 		"from_rank": 85,
 		"above": "unnamed_67",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1757885906,
+		"action": "raised",
+		"name": "the_brainrot_collab",
+		"to_rank": 235,
+		"from_rank": 242,
+		"above": "i_miss_the_skibidi",
+		"below": "rizzgyatt"
 	}
 ]
