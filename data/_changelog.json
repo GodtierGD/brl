@@ -9646,5 +9646,14 @@
 		"from_rank": 242,
 		"above": "ok_and",
 		"below": "fanum_toilet"
+	},
+	{
+		"date": 1757887315,
+		"action": "placed",
+		"name": "kid_named_finger",
+		"to_rank": 45,
+		"from_rank": null,
+		"above": "femboyrotted",
+		"below": "alpha_arc"
 	}
 ]
