@@ -9610,5 +9610,14 @@
 		"from_rank": 242,
 		"above": "i_miss_the_skibidi",
 		"below": "rizzgyatt"
+	},
+	{
+		"date": 1757886136,
+		"action": "raised",
+		"name": "iron_brainrot",
+		"to_rank": 15,
+		"from_rank": 18,
+		"above": "poo_fart_among_us_v5",
+		"below": "crizztal_gusher"
 	}
 ]
