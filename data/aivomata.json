@@ -2,10 +2,20 @@
 	"id": 120125679,
 	"name": "aivomata",
 	"author": "XRatoGD",
-	"creators": ["XRatoGD"," Trickyy66"],
+	"creators": [
+		"XRatoGD",
+		" Trickyy66"
+	],
 	"verifier": "XRatoGD",
 	"verification": "https://youtu.be/AzNtLh1m484",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/LM7Un40R2xs",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
