@@ -15,6 +15,24 @@
 			"link": "https://youtu.be/jvSJTmoFEZU?si=kXuk4_nl0ID_bCEV",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Water",
+			"link": "https://www.youtube.com/watch?v=3gXwjkZyn1o",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "8tobble",
+			"link": "https://youtu.be/zlBwnomOeKI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/AbtPugIQfDM",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
