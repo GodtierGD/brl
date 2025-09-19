@@ -2,10 +2,21 @@
 	"id": 112133743,
 	"name": "irizzmygyatt",
 	"author": "m3nt411",
-	"creators": ["m3nt411"," wavelog"],
+	"creators": [
+		"m3nt411",
+		" wavelog"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/w3PUwOFQ7tg?si=p5Rcc8q0n-hpWrN5",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=MxLp9eXrr5Y",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
