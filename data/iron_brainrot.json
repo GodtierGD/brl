@@ -2,10 +2,19 @@
 	"id": 124237509,
 	"name": "Iron Brainrot",
 	"author": "wavelog",
-	"creators": ["wavelog"],
+	"creators": [
+		"wavelog"
+	],
 	"verifier": "lavewave",
 	"verification": "https://youtu.be/ebnISkMta1E",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "afive",
+			"link": "https://youtu.be/wYtTQcdQu0E?si=pmNX_KeMQPeN5Pjc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
