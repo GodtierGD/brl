@@ -9664,5 +9664,14 @@
 		"from_rank": 3,
 		"above": "mango_phonk_house",
 		"below": null
+	},
+	{
+		"date": 1759109472,
+		"action": "placed",
+		"name": "super_diddy_trials",
+		"to_rank": 178,
+		"from_rank": null,
+		"above": "rotten_banana",
+		"below": "dexter_morgan_chall"
 	}
 ]
