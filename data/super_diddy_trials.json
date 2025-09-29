@@ -2,10 +2,19 @@
 	"id": 126487168,
 	"name": "super diddy trials",
 	"author": "Shafikdagoat",
-	"creators": ["Shafikdabest"],
+	"creators": [
+		"Shafikdabest"
+	],
 	"verifier": "Shafikdabest",
 	"verification": "https://youtu.be/kNo2Enqmm5Y",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/V249WwAX1gw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
