@@ -9691,5 +9691,14 @@
 		"from_rank": null,
 		"above": "chips_ahoy_chewy",
 		"below": "british_circles"
+	},
+	{
+		"date": 1759112821,
+		"action": "lowered",
+		"name": "2020_canadih_niche",
+		"to_rank": 245,
+		"from_rank": 145,
+		"above": "rot_in_the_water",
+		"below": "poopoo_fart_among_us"
 	}
 ]
