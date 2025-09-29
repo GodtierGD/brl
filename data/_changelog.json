@@ -9682,5 +9682,14 @@
 		"from_rank": null,
 		"above": "head_eraser",
 		"below": "just_pee_in_the_bag"
+	},
+	{
+		"date": 1759110388,
+		"action": "placed",
+		"name": "2020_canadih_niche",
+		"to_rank": 145,
+		"from_rank": null,
+		"above": "chips_ahoy_chewy",
+		"below": "british_circles"
 	}
 ]
