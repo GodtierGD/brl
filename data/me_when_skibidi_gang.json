@@ -2,10 +2,28 @@
 	"id": 114108070,
 	"name": "me when skibidi gang",
 	"author": "RanOutOfUsers",
-	"creators": ["RanOutOfUsers"," ptyw"," ty344"," dynamic729"," watermemon"," phasm_e"," someperson"," bulbazorio"," revolkilm"," sean_epic67"],
+	"creators": [
+		"RanOutOfUsers",
+		" ptyw",
+		" ty344",
+		" dynamic729",
+		" watermemon",
+		" phasm_e",
+		" someperson",
+		" bulbazorio",
+		" revolkilm",
+		" sean_epic67"
+	],
 	"verifier": "RanOutOfUsers",
 	"verification": "https://youtu.be/e6ZApJDjtHM?si=dcKDtj3FgKtQYjrn",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/ect7-CjGwq0?si=yIgL3W2X-7JIHzns",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
