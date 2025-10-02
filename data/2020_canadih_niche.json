@@ -2,10 +2,19 @@
 	"id": 126309553,
 	"name": "2020 Canadih Niche",
 	"author": "HydroTheBlank",
-	"creators": ["HydroTheBlank"],
+	"creators": [
+		"HydroTheBlank"
+	],
 	"verifier": "HydroTheBlank",
 	"verification": "https://youtu.be/fZb9cElNmvg",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/6mDj5u_VxO0?si=AvfY1vwqoQ1hn26N",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
