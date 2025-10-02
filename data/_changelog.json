@@ -9709,5 +9709,14 @@
 		"from_rank": 245,
 		"above": "fent_cart_bomecack",
 		"below": "sakupen_sigma"
+	},
+	{
+		"date": 1759423361,
+		"action": "lowered",
+		"name": "crizztal_gusher",
+		"to_rank": 80,
+		"from_rank": 16,
+		"above": "random_idk_breh",
+		"below": "barely_visible_unnerfed_rizzler_road_deluxe"
 	}
 ]
