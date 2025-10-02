@@ -9727,5 +9727,14 @@
 		"from_rank": 21,
 		"above": "you_cant_handle_it",
 		"below": "low_taper_fade"
+	},
+	{
+		"date": 1759423734,
+		"action": "raised",
+		"name": "rotten_banana",
+		"to_rank": 153,
+		"from_rank": 180,
+		"above": "krismas",
+		"below": "low_taper_fade_rebirth"
 	}
 ]
