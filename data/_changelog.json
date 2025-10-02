@@ -9745,5 +9745,14 @@
 		"from_rank": null,
 		"above": "rotmoc",
 		"below": "poo_fart_among_us_v2"
+	},
+	{
+		"date": 1759425101,
+		"action": "placed",
+		"name": "embrace_normal_face",
+		"to_rank": 151,
+		"from_rank": null,
+		"above": "talk_tuah_wave",
+		"below": "superhawkmetuah"
 	}
 ]
