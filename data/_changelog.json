@@ -9736,5 +9736,14 @@
 		"from_rank": 180,
 		"above": "krismas",
 		"below": "low_taper_fade_rebirth"
+	},
+	{
+		"date": 1759424353,
+		"action": "placed",
+		"name": "tickle_my_totr",
+		"to_rank": 220,
+		"from_rank": null,
+		"above": "rotmoc",
+		"below": "poo_fart_among_us_v2"
 	}
 ]
