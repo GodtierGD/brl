@@ -9718,5 +9718,14 @@
 		"from_rank": 16,
 		"above": "random_idk_breh",
 		"below": "barely_visible_unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1759423548,
+		"action": "raised",
+		"name": "vropirateshavezaza_2",
+		"to_rank": 17,
+		"from_rank": 21,
+		"above": "you_cant_handle_it",
+		"below": "low_taper_fade"
 	}
 ]
