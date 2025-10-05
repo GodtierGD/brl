@@ -9781,5 +9781,14 @@
 		"from_rank": null,
 		"above": "alpha_maze",
 		"below": "freaky_demoness"
+	},
+	{
+		"date": 1759691832,
+		"action": "raised",
+		"name": "igyattamongus",
+		"to_rank": 132,
+		"from_rank": 133,
+		"above": "igyattrizz",
+		"below": "mr_beast_does_fent"
 	}
 ]
