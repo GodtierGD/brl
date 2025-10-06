@@ -2,10 +2,19 @@
 	"id": 121266149,
 	"name": "drinkingraw milk raw",
 	"author": "glennquagmiree",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://www.youtube.com/watch?v=5ZJZHnNgMaw",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/FRPy0U9vT2A?t=47",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

@@ -2,10 +2,19 @@
 	"id": 121072774,
 	"name": "Vonhouse",
 	"author": "glennquagmiree",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/mLOXd0spZ7E",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/FRPy0U9vT2A?t=90",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
