@@ -9826,5 +9826,14 @@
 		"from_rank": null,
 		"above": "mental_never_clear",
 		"below": "moving_out"
+	},
+	{
+		"date": 1759809258,
+		"action": "placed",
+		"name": "entering_dandong_china",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "creamy_lights",
+		"below": "me_when_skibidi_gang"
 	}
 ]
