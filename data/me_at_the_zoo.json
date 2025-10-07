@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"name": "me at the zoo",
+	"author": "jawed",
+	"creators": ["me"],
+	"verifier": "crazen",
+	"verification": "https://youtu.be/jNQXAC9IVRw?si=B069HRfRO060iUdn",
+	"percentToQualify": 100,
+	"password": "tonk",
+	"records" : []
+}
