@@ -9898,5 +9898,14 @@
 		"from_rank": 11,
 		"above": null,
 		"below": "entering_dandong_china"
+	},
+	{
+		"date": 1760211544,
+		"action": "lowered",
+		"name": "waitingrabbitalicegif",
+		"to_rank": 431,
+		"from_rank": 14,
+		"above": null,
+		"below": "can_we_make_a_top_1_in_1_hour"
 	}
 ]
