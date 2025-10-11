@@ -9862,5 +9862,14 @@
 		"from_rank": null,
 		"above": "teh_frick_69",
 		"below": "make_wushady_mod"
+	},
+	{
+		"date": 1760211431,
+		"action": "lowered",
+		"name": "captin_fidls_circles",
+		"to_rank": 430,
+		"from_rank": 2,
+		"above": "tidal_tonk",
+		"below": "br"
 	}
 ]
