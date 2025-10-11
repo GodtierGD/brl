@@ -9889,5 +9889,14 @@
 		"from_rank": 8,
 		"above": null,
 		"below": "eon"
+	},
+	{
+		"date": 1760211524,
+		"action": "lowered",
+		"name": "can_we_make_a_top_1_in_1_hour",
+		"to_rank": 431,
+		"from_rank": 11,
+		"above": null,
+		"below": "entering_dandong_china"
 	}
 ]
