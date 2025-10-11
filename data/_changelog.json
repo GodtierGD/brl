@@ -9934,5 +9934,14 @@
 		"from_rank": 84,
 		"above": null,
 		"below": "thinking_space"
+	},
+	{
+		"date": 1760211764,
+		"action": "lowered",
+		"name": "captin_fidls_circles",
+		"to_rank": 431,
+		"from_rank": 423,
+		"above": null,
+		"below": "max_mode"
 	}
 ]
