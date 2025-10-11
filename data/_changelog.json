@@ -9880,5 +9880,14 @@
 		"from_rank": 4,
 		"above": null,
 		"below": "tidal_tonk"
+	},
+	{
+		"date": 1760211505,
+		"action": "lowered",
+		"name": "entering_dandong_china",
+		"to_rank": 431,
+		"from_rank": 8,
+		"above": null,
+		"below": "eon"
 	}
 ]
