@@ -9952,5 +9952,14 @@
 		"from_rank": null,
 		"above": "make_reqx_admin",
 		"below": "dr_pomni_scout"
+	},
+	{
+		"date": 1760453760,
+		"action": "placed",
+		"name": "pomni_finale",
+		"to_rank": 102,
+		"from_rank": null,
+		"above": "extrafreakybob_negative",
+		"below": "skibidi_lights_redux"
 	}
 ]
