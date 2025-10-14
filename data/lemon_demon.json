@@ -2,10 +2,19 @@
 	"id": 126137612,
 	"name": "lemon demon",
 	"author": "AFive",
-	"creators": ["AFive"],
+	"creators": [
+		"AFive"
+	],
 	"verifier": "AFive",
 	"verification": "https://www.youtube.com/watch?v=nGDp6pleRe4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "south182",
+			"link": "https://youtu.be/itEzRhUPry4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
