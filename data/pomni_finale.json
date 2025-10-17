@@ -2,10 +2,19 @@
 	"id": 115929914,
 	"name": "Pomni Finale",
 	"author": "Godtier",
-	"creators": ["Godtier"],
+	"creators": [
+		"Godtier"
+	],
 	"verifier": "Godtier",
 	"verification": "https://youtu.be/vUdUyNbuJb8?si=EdKM5m9MksRQRk3t",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "afive",
+			"link": "https://www.youtube.com/watch?v=S2S6anhSkcU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
