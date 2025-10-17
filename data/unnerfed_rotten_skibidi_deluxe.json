@@ -2,10 +2,19 @@
 	"id": 112124424,
 	"name": "Unnerfed Rotten Skibidi Deluxe",
 	"author": "diexx",
-	"creators": ["diexx"],
+	"creators": [
+		"diexx"
+	],
 	"verifier": "diexx",
 	"verification": "https://www.youtube.com/watch?v=61jhQUfglQI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "afive",
+			"link": "https://youtu.be/YNsJQzyOhCM?si=NvmbiR3lhrcJXt1y",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
