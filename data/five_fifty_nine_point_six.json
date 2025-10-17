@@ -2,10 +2,20 @@
 	"id": 111809498,
 	"name": "five fifty nine point six",
 	"author": "m3nt411",
-	"creators": ["m3nt411"," NotCat"],
+	"creators": [
+		"m3nt411",
+		" NotCat"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/3JRTuL9sO3M?si=rZSwkpXRJkvXHGxB",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "lemonsliice",
+			"link": "https://youtu.be/TLrEE89fyt0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
