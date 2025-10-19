@@ -5,7 +5,7 @@
 	"creators": ["Thanosdude"],
 	"verifier": "AFive",
 	"verification": "https://www.youtube.com/watch?v=FB1tOZYsxsg",
-	"percentToQualify": 100,
+	"percentToQualify": 50,
 	"password": "No Copy",
 	"records" : []
 }
