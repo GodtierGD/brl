@@ -11,6 +11,16 @@
     },
     {
         "role": "admin",
+        "name": "tmkis",
+        "link": ""
+    },
+    {
+        "role": "admin",
+        "name": "afive",
+        "link": ""
+    },
+    {
+        "role": "admin",
         "name": "Tonk",
         "link": "https://www.youtube.com/@tonkorsmth"
     },
@@ -55,8 +65,8 @@
         "link": ""
     },
     {
-        "role": "helper",
-        "name": "tmkis",
+        "role": "shafikdabest",
+        "name": "thanosdude",
         "link": ""
     },
     {
@@ -72,6 +82,12 @@
     {
         "role": "helper",
         "name": "pokemon",
+        "link": ""
+    },
+    
+    {
+        "role": "helper",
+        "name": "soggysamurai",
         "link": ""
     },
     {
