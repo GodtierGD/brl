@@ -2,10 +2,20 @@
 	"id": 126656936,
 	"name": "Shades from China",
 	"author": "glennquagmiree",
-	"creators": ["TeamSmokeCrack"],
+	"creators": [
+		"TeamSmokeCrack"
+	],
 	"verifier": "schitt",
 	"verification": "https://www.youtube.com/watch?v=gA4pY86T_bM",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=SOEPzsq3qbI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
