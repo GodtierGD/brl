@@ -10015,5 +10015,14 @@
 		"from_rank": 6,
 		"above": "you_cant_handle_it",
 		"below": "vropirateshavezaza_2"
+	},
+	{
+		"date": 1761321527,
+		"action": "lowered",
+		"name": "shades_from_china",
+		"to_rank": 33,
+		"from_rank": 16,
+		"above": "lastminutememories",
+		"below": "escape_ethiopia_real"
 	}
 ]
