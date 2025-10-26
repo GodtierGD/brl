@@ -2,10 +2,19 @@
 	"id": 109520866,
 	"name": "Shrigma Male",
 	"author": "m3nt411",
-	"creators": ["furobtop"],
+	"creators": [
+		"furobtop"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/9aQq-hxjU_I",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/C9WsnVB8EXI?t=41",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
