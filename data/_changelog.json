@@ -10114,5 +10114,14 @@
 		"from_rank": 182,
 		"above": "sterling_circles_x",
 		"below": "grimace_circles"
+	},
+	{
+		"date": 1761458504,
+		"action": "lowered",
+		"name": "brainrot_circles_x",
+		"to_rank": 94,
+		"from_rank": 74,
+		"above": "hawk_tuah_vortex",
+		"below": "ball_circles"
 	}
 ]
