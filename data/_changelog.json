@@ -10096,5 +10096,14 @@
 		"from_rank": 248,
 		"above": "demote_mental",
 		"below": "brain_rot_dungein_edg"
+	},
+	{
+		"date": 1761458297,
+		"action": "lowered",
+		"name": "carson_never_clear",
+		"to_rank": 198,
+		"from_rank": 174,
+		"above": "eric_van_impossible",
+		"below": "skibisodii"
 	}
 ]
