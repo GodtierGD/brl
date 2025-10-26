@@ -10105,5 +10105,14 @@
 		"from_rank": 174,
 		"above": "eric_van_impossible",
 		"below": "skibisodii"
+	},
+	{
+		"date": 1761458352,
+		"action": "raised",
+		"name": "dr_disrescapes",
+		"to_rank": 129,
+		"from_rank": 182,
+		"above": "sterling_circles_x",
+		"below": "grimace_circles"
 	}
 ]
