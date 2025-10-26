@@ -10177,5 +10177,14 @@
 		"from_rank": 98,
 		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
 		"below": "gyatt_rod"
+	},
+	{
+		"date": 1761459322,
+		"action": "raised",
+		"name": "head_eraser",
+		"to_rank": 158,
+		"from_rank": 188,
+		"above": "zg0ds_bot",
+		"below": "miami_gyattline"
 	}
 ]
