@@ -10060,5 +10060,14 @@
 		"from_rank": 52,
 		"above": "igyattmyrizz",
 		"below": "caseoh_light_snack"
+	},
+	{
+		"date": 1761454400,
+		"action": "lowered",
+		"name": "igyattwithrizz",
+		"to_rank": 50,
+		"from_rank": 48,
+		"above": "igyattmyrizz",
+		"below": "skibidi_stages_wave_rebirth"
 	}
 ]
