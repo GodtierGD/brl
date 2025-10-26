@@ -10087,5 +10087,14 @@
 		"from_rank": 165,
 		"above": "unnerfed_jax_circles",
 		"below": "sigma_level"
+	},
+	{
+		"date": 1761458168,
+		"action": "raised",
+		"name": "the_brainrot_collab",
+		"to_rank": 235,
+		"from_rank": 248,
+		"above": "demote_mental",
+		"below": "brain_rot_dungein_edg"
 	}
 ]
