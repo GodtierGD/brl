@@ -10150,5 +10150,14 @@
 		"from_rank": null,
 		"above": "3_levels_of_wave",
 		"below": "the_sun_2"
+	},
+	{
+		"date": 1761459008,
+		"action": "placed",
+		"name": "invisible_drakescapes",
+		"to_rank": 181,
+		"from_rank": null,
+		"above": "splurge_chalace_z",
+		"below": "fireinthescapes"
 	}
 ]
