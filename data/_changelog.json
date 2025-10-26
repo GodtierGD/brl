@@ -10168,5 +10168,14 @@
 		"from_rank": null,
 		"above": "the_brainrot_collab",
 		"below": "brain_rot_dungein_edg"
+	},
+	{
+		"date": 1761459193,
+		"action": "raised",
+		"name": "recent_tab_trash",
+		"to_rank": 80,
+		"from_rank": 98,
+		"above": "barely_visible_unnerfed_rizzler_road_deluxe",
+		"below": "gyatt_rod"
 	}
 ]
