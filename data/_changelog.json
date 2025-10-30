@@ -10222,5 +10222,14 @@
 		"from_rank": null,
 		"above": "babushka_vortex",
 		"below": "skibidipendence_2"
+	},
+	{
+		"date": 1761851560,
+		"action": "raised",
+		"name": "olive_delights",
+		"to_rank": 130,
+		"from_rank": 151,
+		"above": "grimace_circles",
+		"below": "balkan_fanum_boss"
 	}
 ]
