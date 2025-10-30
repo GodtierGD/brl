@@ -2,10 +2,19 @@
 	"id": 127481706,
 	"name": "SKIBBYDI tesco",
 	"author": "XRatoGD",
-	"creators": ["XRatoGD"],
+	"creators": [
+		"XRatoGD"
+	],
 	"verifier": "XRatoGD",
 	"verification": "https://youtu.be/-9TdFMxos88",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "afive",
+			"link": "https://www.youtube.com/watch?v=kIlElffhf9U",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
