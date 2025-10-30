@@ -10231,5 +10231,14 @@
 		"from_rank": 151,
 		"above": "grimace_circles",
 		"below": "balkan_fanum_boss"
+	},
+	{
+		"date": 1761851694,
+		"action": "raised",
+		"name": "embrace_normal_face",
+		"to_rank": 139,
+		"from_rank": 164,
+		"above": "mr_beast_does_fent",
+		"below": "godtier_is_a_femboy"
 	}
 ]
