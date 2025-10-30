@@ -10195,5 +10195,14 @@
 		"from_rank": 125,
 		"above": "rotten_skibidi",
 		"below": "super_diddy_trials"
+	},
+	{
+		"date": 1761847578,
+		"action": "placed",
+		"name": "wildwest_dingus_x",
+		"to_rank": 180,
+		"from_rank": null,
+		"above": "fireinthescapes",
+		"below": "scoobert_rebirth"
 	}
 ]
