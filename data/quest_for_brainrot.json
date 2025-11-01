@@ -2,10 +2,19 @@
 	"id": 113420460,
 	"name": "quest for brainrot",
 	"author": "wavelog",
-	"creators": ["wavelog"],
+	"creators": [
+		"wavelog"
+	],
 	"verifier": "lavewave",
 	"verification": "https://www.youtube.com/watch?v=fhU1E8HM4AY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "afive",
+			"link": "https://youtu.be/mVIwTxDu_YE?si=nCl6BTm9_xe3C0nt",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
