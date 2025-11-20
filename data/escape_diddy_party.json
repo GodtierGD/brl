@@ -2,10 +2,19 @@
 	"id": 109929231,
 	"name": "escape diddy party",
 	"author": "StaticonGD",
-	"creators": ["staticon"],
+	"creators": [
+		"staticon"
+	],
 	"verifier": "staticon",
 	"verification": "https://youtu.be/3Z1Am1wPZuc?si=6VZahLCgZXIg92yb",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Flawless",
+			"link": "https://www.youtube.com/watch?v=ggKVsxDGOCE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
