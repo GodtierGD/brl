@@ -2,10 +2,19 @@
 	"id": 127136302,
 	"name": "sonic wave but tuff",
 	"author": "Shafikdagoat",
-	"creators": ["mushroom4933"],
+	"creators": [
+		"mushroom4933"
+	],
 	"verifier": "Shafikdabest",
 	"verification": "https://youtu.be/_7bbcJWf-3g?si=-f9A-wY2u49LzTJP",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://www.youtube.com/watch?v=4o7q4rDXue0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
