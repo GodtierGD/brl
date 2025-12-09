@@ -10249,5 +10249,14 @@
 		"from_rank": 60,
 		"above": "igyattwithrizz",
 		"below": "skibidi_stages_wave_rebirth"
+	},
+	{
+		"date": 1765253943,
+		"action": "placed",
+		"name": "invisible_crizztal_gusher",
+		"to_rank": 13,
+		"from_rank": null,
+		"above": "make_wushady_mod",
+		"below": "make_wushady_mod_ii"
 	}
 ]
