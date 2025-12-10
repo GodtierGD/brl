@@ -2,10 +2,20 @@
 	"id": 125413705,
 	"name": "skibidipendence 2",
 	"author": "ptyw",
-	"creators": ["ptyw"," RanOutOfUsers"],
+	"creators": [
+		"ptyw",
+		" RanOutOfUsers"
+	],
 	"verifier": "ptyw",
 	"verification": "https://youtu.be/zq-LhBZGKhs",
 	"percentToQualify": 59,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "MacacoChucrut",
+			"link": "https://youtu.be/l-7Hca1kzxw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
