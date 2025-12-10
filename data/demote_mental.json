@@ -16,6 +16,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "staticon",
+			"link": "https://youtu.be/4Ifwdc5ltpg",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
