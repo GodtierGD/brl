@@ -2,10 +2,19 @@
 	"id": 112377205,
 	"name": "swinging rizz",
 	"author": "lavewog",
-	"creators": ["wavelog"],
+	"creators": [
+		"wavelog"
+	],
 	"verifier": "lavewave",
 	"verification": "https://youtu.be/_3WoOMphLTA",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "m3nt411",
+			"link": "https://youtu.be/8zQhvv4b01w",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
