@@ -10258,5 +10258,14 @@
 		"from_rank": null,
 		"above": "make_wushady_mod",
 		"below": "make_wushady_mod_ii"
+	},
+	{
+		"date": 1766349525,
+		"action": "placed",
+		"name": "hawk_tuah_rizz_v3_ex",
+		"to_rank": 179,
+		"from_rank": null,
+		"above": "thanos_for_admin",
+		"below": "utz_party_mix"
 	}
 ]
