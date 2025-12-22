@@ -10312,5 +10312,14 @@
 		"from_rank": 99,
 		"above": "can_of_crack",
 		"below": "extrafreakybob_negative"
+	},
+	{
+		"date": 1766431048,
+		"action": "raised",
+		"name": "xirai_bossfight",
+		"to_rank": 150,
+		"from_rank": 157,
+		"above": "scoobert_og",
+		"below": "serious_gaming"
 	}
 ]
