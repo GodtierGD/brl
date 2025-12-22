@@ -10285,5 +10285,14 @@
 		"from_rank": 11,
 		"above": "make_wushady_mod",
 		"below": "invisible_crizztal_gusher"
+	},
+	{
+		"date": 1766430053,
+		"action": "raised",
+		"name": "iron_brainrot",
+		"to_rank": 12,
+		"from_rank": 16,
+		"above": "invisible_crizztal_gusher",
+		"below": "make_wushady_mod_ii"
 	}
 ]
