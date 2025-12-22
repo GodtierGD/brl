@@ -10339,5 +10339,14 @@
 		"from_rank": 369,
 		"above": "10 Levels Of Grimace",
 		"below": "my_dad_with_a_bat"
+	},
+	{
+		"date": 1766432869,
+		"action": "lowered",
+		"name": "skibidi_hell",
+		"to_rank": 426,
+		"from_rank": 416,
+		"above": "touch_dic_ds",
+		"below": "nojus Paradise"
 	}
 ]
