@@ -10294,5 +10294,14 @@
 		"from_rank": 16,
 		"above": "invisible_crizztal_gusher",
 		"below": "make_wushady_mod_ii"
+	},
+	{
+		"date": 1766430130,
+		"action": "raised",
+		"name": "low_taper_fade",
+		"to_rank": 13,
+		"from_rank": 18,
+		"above": "invisible_crizztal_gusher",
+		"below": "iron_brainrot"
 	}
 ]
