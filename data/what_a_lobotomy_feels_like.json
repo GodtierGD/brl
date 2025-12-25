@@ -2,10 +2,19 @@
 	"id": 112678678,
 	"name": "What a lobotomy feels like",
 	"author": "mammi2",
-	"creators": ["mammi2"],
+	"creators": [
+		"mammi2"
+	],
 	"verifier": "mammi2",
 	"verification": "https://www.youtube.com/watch?v=BIGMBcqb_IQ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "meowi",
+			"link": "https://www.youtube.com/watch?v=JSoqUyNgd5g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
