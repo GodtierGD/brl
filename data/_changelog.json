@@ -10357,5 +10357,14 @@
 		"from_rank": 81,
 		"above": "extrafreakybob_limit",
 		"below": "diddy_piecefull"
+	},
+	{
+		"date": 1766677943,
+		"action": "lowered",
+		"name": "gyatt_rod",
+		"to_rank": 73,
+		"from_rank": 66,
+		"above": "unnerfed_rizzler_road_deluxe",
+		"below": "hawktuah_circles"
 	}
 ]
