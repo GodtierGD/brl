@@ -2,10 +2,20 @@
 	"id": 113321502,
 	"name": "Unnerf Cupcake Theft",
 	"author": "0neShot786",
-	"creators": ["xXfinngdXx"],
+	"creators": [
+		"xXfinngdXx"
+	],
 	"verifier": "OneShot786",
 	"verification": "https://youtu.be/DZBFeR5re4w?si=agFD57ZW3NWDUjRu",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/goQaqV-0nnk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

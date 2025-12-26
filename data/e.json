@@ -2,10 +2,20 @@
 	"id": 114590405,
 	"name": "E",
 	"author": "ARandomBall",
-	"creators": ["ARandomBal"],
+	"creators": [
+		"ARandomBal"
+	],
 	"verifier": "ARandomBall",
 	"verification": "https://youtu.be/fOLNlsG6f4k",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/goQaqV-0nnk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

@@ -2,10 +2,21 @@
 	"id": 112349725,
 	"name": "easter island",
 	"author": "xXfinngdXx",
-	"creators": ["xXfinngdXx"," partitionzion80"],
+	"creators": [
+		"xXfinngdXx",
+		" partitionzion80"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/gUeqo_ljErI?si=J9yh_lbxWz8JjElV",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/goQaqV-0nnk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

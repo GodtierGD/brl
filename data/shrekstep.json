@@ -2,10 +2,21 @@
 	"id": 112908582,
 	"name": "shrekstep",
 	"author": "xXfinngdXx",
-	"creators": ["gdyakob"," xXfinngdXx"],
+	"creators": [
+		"gdyakob",
+		" xXfinngdXx"
+	],
 	"verifier": "xXfinngdXx",
 	"verification": "https://youtu.be/hYifUoExwWM",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/goQaqV-0nnk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

@@ -2,10 +2,20 @@
 	"id": 113964145,
 	"name": "metroz is innocent",
 	"author": "wavelog",
-	"creators": ["wavelog"],
+	"creators": [
+		"wavelog"
+	],
 	"verifier": "lavewave",
 	"verification": "https://youtu.be/vFnkJvzIqFE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/goQaqV-0nnk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

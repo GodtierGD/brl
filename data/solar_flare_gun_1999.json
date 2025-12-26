@@ -2,10 +2,20 @@
 	"id": 113937938,
 	"name": "solar flare gun 1999",
 	"author": "LiamLovesCatz",
-	"creators": ["LiamLovesCatz"],
+	"creators": [
+		"LiamLovesCatz"
+	],
 	"verifier": "LiamLovesCatz",
 	"verification": "https://www.youtube.com/watch?v=eA6WllYlM9E",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/goQaqV-0nnk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
