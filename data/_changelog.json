@@ -10465,5 +10465,14 @@
 		"from_rank": 65,
 		"above": "barely_visible_rizzler_road_slightly_changed_lighty_buff_kinda_unnerfed_bug_fix_with_fixed_hitboxes_and_shock_wave_shock_line_lens_circles_and_gray_scaled_for_most_of_the_level_this_is_the_acronym",
 		"below": "vropirates_havezaza"
+	},
+	{
+		"date": 1766874744,
+		"action": "raised",
+		"name": "final_skibantasy",
+		"to_rank": 64,
+		"from_rank": 65,
+		"above": "barely_visible_rizzler_road_slightly_changed_lighty_buff_kinda_unnerfed_bug_fix_with_fixed_hitboxes_and_shock_wave_shock_line_lens_circles_and_gray_scaled_for_most_of_the_level_this_is_the_acronym",
+		"below": "diddy_piecefull"
 	}
 ]
