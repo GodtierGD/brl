@@ -10366,5 +10366,14 @@
 		"from_rank": 66,
 		"above": "unnerfed_rizzler_road_deluxe",
 		"below": "hawktuah_circles"
+	},
+	{
+		"date": 1766870785,
+		"action": "raised",
+		"name": "errorfunk_ii",
+		"to_rank": 3,
+		"from_rank": 5,
+		"above": "yuvin_marasini",
+		"below": "mango_phonk_house"
 	}
 ]
