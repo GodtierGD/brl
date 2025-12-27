@@ -10411,5 +10411,14 @@
 		"from_rank": 125,
 		"above": "nettspend_obby_wrizz",
 		"below": "skibidi_blizzard"
+	},
+	{
+		"date": 1766873610,
+		"action": "raised",
+		"name": "10 Levels Of Grimace",
+		"to_rank": 368,
+		"from_rank": 369,
+		"above": "the_sixnineth_varien",
+		"below": "my_dad_with_a_bat"
 	}
 ]
