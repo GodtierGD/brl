@@ -10501,5 +10501,14 @@
 		"from_rank": 328,
 		"above": "e",
 		"below": "free_vbucks"
+	},
+	{
+		"date": 1766876051,
+		"action": "placed",
+		"name": "abyss_of_darkness_2",
+		"to_rank": 366,
+		"from_rank": null,
+		"above": "21core",
+		"below": "ohio_escape"
 	}
 ]
