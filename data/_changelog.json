@@ -10483,5 +10483,14 @@
 		"from_rank": 270,
 		"above": "10_minute_brainrot",
 		"below": "mangosmangos"
+	},
+	{
+		"date": 1766875098,
+		"action": "lowered",
+		"name": "one_million_beets",
+		"to_rank": 151,
+		"from_rank": 126,
+		"above": "sigma_level",
+		"below": "scoobert_og"
 	}
 ]
