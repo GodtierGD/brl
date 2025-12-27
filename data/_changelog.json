@@ -10438,5 +10438,14 @@
 		"from_rank": 209,
 		"above": "carson_never_clear",
 		"below": "skibisodii"
+	},
+	{
+		"date": 1766874575,
+		"action": "raised",
+		"name": "eric_van_impossible",
+		"to_rank": 206,
+		"from_rank": 208,
+		"above": "ben_shapirizz",
+		"below": "rizzler_road_circles"
 	}
 ]
