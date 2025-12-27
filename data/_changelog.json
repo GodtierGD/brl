@@ -10420,5 +10420,14 @@
 		"from_rank": 369,
 		"above": "the_sixnineth_varien",
 		"below": "my_dad_with_a_bat"
+	},
+	{
+		"date": 1766874405,
+		"action": "lowered",
+		"name": "femboy_vortex",
+		"to_rank": 80,
+		"from_rank": 79,
+		"above": "lunchly_vortex",
+		"below": "skid"
 	}
 ]
