@@ -10402,5 +10402,14 @@
 		"from_rank": 102,
 		"above": "white_people",
 		"below": "dr_pomni_scout"
+	},
+	{
+		"date": 1766873349,
+		"action": "raised",
+		"name": "dr_pomni_scout",
+		"to_rank": 102,
+		"from_rank": 125,
+		"above": "nettspend_obby_wrizz",
+		"below": "skibidi_blizzard"
 	}
 ]
