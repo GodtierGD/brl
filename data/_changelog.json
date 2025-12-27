@@ -10447,5 +10447,14 @@
 		"from_rank": 208,
 		"above": "ben_shapirizz",
 		"below": "rizzler_road_circles"
+	},
+	{
+		"date": 1766874713,
+		"action": "lowered",
+		"name": "The Brainrot Drink",
+		"to_rank": 412,
+		"from_rank": 411,
+		"above": "touch_dic_ds",
+		"below": "skibidi_hell"
 	}
 ]
