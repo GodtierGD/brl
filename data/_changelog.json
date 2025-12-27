@@ -10492,5 +10492,14 @@
 		"from_rank": 126,
 		"above": "sigma_level",
 		"below": "scoobert_og"
+	},
+	{
+		"date": 1766875312,
+		"action": "raised",
+		"name": "evil_skibidibi",
+		"to_rank": 322,
+		"from_rank": 328,
+		"above": "e",
+		"below": "free_vbucks"
 	}
 ]
