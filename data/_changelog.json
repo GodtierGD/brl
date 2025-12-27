@@ -10456,5 +10456,14 @@
 		"from_rank": 411,
 		"above": "touch_dic_ds",
 		"below": "skibidi_hell"
+	},
+	{
+		"date": 1766874736,
+		"action": "raised",
+		"name": "diddy_piecefull",
+		"to_rank": 63,
+		"from_rank": 65,
+		"above": "barely_visible_rizzler_road_slightly_changed_lighty_buff_kinda_unnerfed_bug_fix_with_fixed_hitboxes_and_shock_wave_shock_line_lens_circles_and_gray_scaled_for_most_of_the_level_this_is_the_acronym",
+		"below": "vropirates_havezaza"
 	}
 ]
