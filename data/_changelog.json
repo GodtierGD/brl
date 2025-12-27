@@ -10384,5 +10384,14 @@
 		"from_rank": 6,
 		"above": "skibidipendence_2",
 		"below": "yuvin_marasini"
+	},
+	{
+		"date": 1766872740,
+		"action": "lowered",
+		"name": "one_million_beets",
+		"to_rank": 102,
+		"from_rank": 89,
+		"above": "nettspend_obby_wrizz",
+		"below": "skibidi_blizzard"
 	}
 ]
