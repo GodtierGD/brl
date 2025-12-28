@@ -10510,5 +10510,14 @@
 		"from_rank": null,
 		"above": "21core",
 		"below": "ohio_escape"
+	},
+	{
+		"date": 1766889475,
+		"action": "lowered",
+		"name": "poo_fart_among_us_v4",
+		"to_rank": 47,
+		"from_rank": 30,
+		"above": "femboyrotted",
+		"below": "kid_named_finger"
 	}
 ]
