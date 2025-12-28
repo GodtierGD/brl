@@ -87,6 +87,12 @@
 			"link": "https://www.youtube.com/watch?v=XXEp13rQPao&ab_channel=WuShady",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "shafikdabest",
+			"link": "https://www.youtube.com/live/eu2c65gEVi4?si=uTOvEn1WbjguOIix",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
