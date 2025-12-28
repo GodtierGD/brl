@@ -10519,5 +10519,14 @@
 		"from_rank": 30,
 		"above": "femboyrotted",
 		"below": "kid_named_finger"
+	},
+	{
+		"date": 1766893833,
+		"action": "lowered",
+		"name": "creator_point_tycoon",
+		"to_rank": 342,
+		"from_rank": 340,
+		"above": "sigmapluhstep",
+		"below": "apple_vision_pro"
 	}
 ]
