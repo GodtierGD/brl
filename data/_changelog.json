@@ -10564,5 +10564,14 @@
 		"from_rank": 70,
 		"above": "abandoned_rizz_party",
 		"below": "the_man"
+	},
+	{
+		"date": 1767037113,
+		"action": "raised",
+		"name": "tmkocx",
+		"to_rank": 136,
+		"from_rank": 193,
+		"above": "kanyescapes",
+		"below": "jax_o_bot"
 	}
 ]
