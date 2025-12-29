@@ -10537,5 +10537,14 @@
 		"from_rank": null,
 		"above": "you_cant_handle_it",
 		"below": "me_when_skibidi_gang"
+	},
+	{
+		"date": 1766975373,
+		"action": "lowered",
+		"name": "brainrodebomba_x",
+		"to_rank": 215,
+		"from_rank": 21,
+		"above": "sigmahouse",
+		"below": "the_grimace"
 	}
 ]
