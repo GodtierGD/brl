@@ -10555,5 +10555,14 @@
 		"from_rank": null,
 		"above": "rizzmemory",
 		"below": "idksterling_cahll"
+	},
+	{
+		"date": 1767037069,
+		"action": "raised",
+		"name": "crackerfrick_crap_hd",
+		"to_rank": 59,
+		"from_rank": 70,
+		"above": "abandoned_rizz_party",
+		"below": "the_man"
 	}
 ]
