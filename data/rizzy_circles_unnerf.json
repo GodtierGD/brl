@@ -2,10 +2,19 @@
 	"id": 110073333,
 	"name": "rizzy circles unnerf",
 	"author": "foxplush",
-	"creators": ["foxplush"],
+	"creators": [
+		"foxplush"
+	],
 	"verifier": "foxplush",
 	"verification": "https://youtu.be/3L5A-d9Xkoc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/9WjUQf_wc9I?si=7AMRyJEjnBIlM3LO",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
