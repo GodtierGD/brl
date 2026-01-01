@@ -10600,5 +10600,14 @@
 		"from_rank": 62,
 		"above": "brainrot_madness",
 		"below": "yersinia_pestis"
+	},
+	{
+		"date": 1767305796,
+		"action": "raised",
+		"name": "delusion_circles",
+		"to_rank": 2,
+		"from_rank": 3,
+		"above": "mango_phonk_house",
+		"below": "the_worst_brainrot_2"
 	}
 ]
