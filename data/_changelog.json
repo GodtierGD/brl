@@ -10582,5 +10582,14 @@
 		"from_rank": null,
 		"above": "errorfunk_ii",
 		"below": "mango_phonk_house"
+	},
+	{
+		"date": 1767298862,
+		"action": "lowered",
+		"name": "quicksis_limit",
+		"to_rank": 62,
+		"from_rank": 57,
+		"above": "vropirates_havezaza",
+		"below": "fanum_not_rizzer"
 	}
 ]
