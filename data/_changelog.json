@@ -10591,5 +10591,14 @@
 		"from_rank": 57,
 		"above": "vropirates_havezaza",
 		"below": "fanum_not_rizzer"
+	},
+	{
+		"date": 1767298939,
+		"action": "raised",
+		"name": "quicksis_limit",
+		"to_rank": 56,
+		"from_rank": 62,
+		"above": "brainrot_madness",
+		"below": "yersinia_pestis"
 	}
 ]
