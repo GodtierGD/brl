@@ -1,21 +1,15 @@
 {
-	"id": 108818704,
+	"id": 130142054,
 	"name": "My Mewing streak",
-	"author": "BAnjmainishuma",
+	"author": "BoykisserShadow",
 	"creators": [
 		"BAnjmainishuma"
 	],
-	"verifier": "BAnjmainishuma",
-	"verification": "https://youtu.be/nd6mm6axnLE?si=7l_gU1oKK6kbcUEi",
+	"verifier": "MrErlin",
+	"verification": "https://www.youtube.com/watch?v=jilmvdPt8Gk",
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
-		{
-			"user": "MrErlin",
-			"link": "https://youtu.be/jilmvdPt8Gk",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "Pandora",
 			"link": "https://youtu.be/Gix0JdpP-eU",

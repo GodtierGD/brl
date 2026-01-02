@@ -1,21 +1,15 @@
 {
-	"id": 108456176,
+	"id": 130159079,
 	"name": "shreks beefy toes",
-	"author": "Gdyakob",
+	"author": "zHeilxx",
 	"creators": [
 		"Gdyakob"
 	],
-	"verifier": "Gdyakob",
-	"verification": "https://youtu.be/wziKZSROhtA?si=UgFLnhvtN8mlHGyY",
+	"verifier": "SatnavGD",
+	"verification": "https://www.youtube.com/watch?v=jHydGwDwIxk",
 	"percentToQualify": "100",
 	"password": "None",
 	"records": [
-		{
-			"user": "SatnavGD",
-			"link": "https://youtu.be/jHydGwDwIxk",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "meowpanel.cc",
 			"link": "https://youtu.be/si-_YkhzFZU",
