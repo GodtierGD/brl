@@ -10609,5 +10609,14 @@
 		"from_rank": 3,
 		"above": "mango_phonk_house",
 		"below": "the_worst_brainrot_2"
+	},
+	{
+		"date": 1767392356,
+		"action": "lowered",
+		"name": "my_mewing_streak",
+		"to_rank": 399,
+		"from_rank": 360,
+		"above": "utz_variety_pack",
+		"below": "goofy_ahh_lvl"
 	}
 ]
