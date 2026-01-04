@@ -10636,5 +10636,14 @@
 		"from_rank": null,
 		"above": "skibidi_consistency",
 		"below": "Rizzler Road"
+	},
+	{
+		"date": 1767568787,
+		"action": "raised",
+		"name": "demote_mental",
+		"to_rank": 216,
+		"from_rank": 248,
+		"above": "sigmahouse",
+		"below": "brainrodebomba_x"
 	}
 ]
