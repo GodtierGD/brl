@@ -10654,5 +10654,14 @@
 		"from_rank": 291,
 		"above": "edp_go_away",
 		"below": "zephyrous_landscape"
+	},
+	{
+		"date": 1767579430,
+		"action": "raised",
+		"name": "le_fart_of_le_blade2",
+		"to_rank": 253,
+		"from_rank": 275,
+		"above": "501_cigarettes",
+		"below": "based_sigmas"
 	}
 ]
