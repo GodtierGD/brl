@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/kRRII1t5WEg?si=AE-vCvFxxleNELNH",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/2ilb93yoqUA?si=TeCk3Ws1DBzOHvZz",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

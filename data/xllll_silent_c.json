@@ -2,10 +2,19 @@
 	"id": 96577595,
 	"name": "XLLLL silent C",
 	"author": "AFive",
-	"creators": ["AFive"],
+	"creators": [
+		"AFive"
+	],
 	"verifier": "tmkis",
 	"verification": "https://www.youtube.com/watch?v=Rt29hVckxQs",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/2ilb93yoqUA?si=TeCk3Ws1DBzOHvZz",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
