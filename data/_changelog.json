@@ -10645,5 +10645,14 @@
 		"from_rank": 248,
 		"above": "sigmahouse",
 		"below": "brainrodebomba_x"
+	},
+	{
+		"date": 1767579291,
+		"action": "raised",
+		"name": "le_fart_of_le_blade2",
+		"to_rank": 275,
+		"from_rank": 291,
+		"above": "edp_go_away",
+		"below": "zephyrous_landscape"
 	}
 ]
