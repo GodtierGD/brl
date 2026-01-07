@@ -10726,5 +10726,14 @@
 		"from_rank": null,
 		"above": "edp_cupcake_theft",
 		"below": "rainbow_rot"
+	},
+	{
+		"date": 1767825833,
+		"action": "lowered",
+		"name": "le_fart_of_le_blade2",
+		"to_rank": 324,
+		"from_rank": 255,
+		"above": "DIDDY STICKY B",
+		"below": "tidals_of_skibidi"
 	}
 ]
