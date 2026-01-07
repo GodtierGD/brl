@@ -10690,5 +10690,14 @@
 		"from_rank": null,
 		"above": "moai_circles",
 		"below": "skibidi_consistency"
+	},
+	{
+		"date": 1767820535,
+		"action": "lowered",
+		"name": "peter_2",
+		"to_rank": 338,
+		"from_rank": 291,
+		"above": "Jaxagarasu Rebirth",
+		"below": "dorabe_memore"
 	}
 ]
