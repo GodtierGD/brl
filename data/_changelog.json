@@ -10735,5 +10735,14 @@
 		"from_rank": 255,
 		"above": "DIDDY STICKY B",
 		"below": "tidals_of_skibidi"
+	},
+	{
+		"date": 1767825911,
+		"action": "lowered",
+		"name": "roblox",
+		"to_rank": 368,
+		"from_rank": 345,
+		"above": "terrorz_toyz_revewz",
+		"below": "silent_freddy"
 	}
 ]
