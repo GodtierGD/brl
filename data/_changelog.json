@@ -10717,5 +10717,14 @@
 		"from_rank": null,
 		"above": "shatter_of_96",
 		"below": "i_chaeted"
+	},
+	{
+		"date": 1767824855,
+		"action": "placed",
+		"name": "unnamed_godtier_chal",
+		"to_rank": 404,
+		"from_rank": null,
+		"above": "edp_cupcake_theft",
+		"below": "rainbow_rot"
 	}
 ]
