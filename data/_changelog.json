@@ -10708,5 +10708,14 @@
 		"from_rank": null,
 		"above": "rednax_goon_challeng",
 		"below": "rot_in_the_water"
+	},
+	{
+		"date": 1767822302,
+		"action": "placed",
+		"name": "tuffacheron_hahfh_67",
+		"to_rank": 24,
+		"from_rank": null,
+		"above": "shatter_of_96",
+		"below": "i_chaeted"
 	}
 ]
