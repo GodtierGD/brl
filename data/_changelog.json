@@ -10699,5 +10699,14 @@
 		"from_rank": 291,
 		"above": "Jaxagarasu Rebirth",
 		"below": "dorabe_memore"
+	},
+	{
+		"date": 1767822090,
+		"action": "placed",
+		"name": "back_on_rot",
+		"to_rank": 271,
+		"from_rank": null,
+		"above": "rednax_goon_challeng",
+		"below": "rot_in_the_water"
 	}
 ]
