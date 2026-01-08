@@ -2,10 +2,19 @@
 	"id": 130513778,
 	"name": "Unnamed Godtier Chal",
 	"author": "GD Enfix",
-	"creators": ["GD Enfix"],
+	"creators": [
+		"GD Enfix"
+	],
 	"verifier": "GD Enfix",
 	"verification": "https://youtu.be/lMlY3RjUbAs",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/F9_VYq10tt0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
