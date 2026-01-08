@@ -2,10 +2,20 @@
 	"id": 129899414,
 	"name": "Abyss of Darkness 2",
 	"author": "LiamLovesCatz",
-	"creators": ["LiamLovesCatz"],
+	"creators": [
+		"LiamLovesCatz"
+	],
 	"verifier": "LiamLovesCatz",
 	"verification": "https://youtu.be/E6lxkm6bQ1c?si=P9QeCn1H3Zi7S1g9",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=Vq9qxd5zG7I",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
