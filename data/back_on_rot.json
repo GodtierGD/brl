@@ -2,10 +2,19 @@
 	"id": 129847935,
 	"name": "back on rot",
 	"author": "m3nt411",
-	"creators": ["wavelog"],
+	"creators": [
+		"wavelog"
+	],
 	"verifier": "m3nt411",
 	"verification": "https://youtu.be/_v88wY_Y_vE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/zxxMX8B9bmk?si=rMG8_YLYUienrnMl",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
