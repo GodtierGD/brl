@@ -10807,5 +10807,14 @@
 		"from_rank": 408,
 		"above": "thick_of_it_circles",
 		"below": "pedro_is_gay"
+	},
+	{
+		"date": 1768078390,
+		"action": "raised",
+		"name": "scawy_madness",
+		"to_rank": 220,
+		"from_rank": 241,
+		"above": "sigmahouse",
+		"below": "demote_mental"
 	}
 ]
