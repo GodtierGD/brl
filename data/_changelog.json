@@ -10744,5 +10744,14 @@
 		"from_rank": 345,
 		"above": "terrorz_toyz_revewz",
 		"below": "silent_freddy"
+	},
+	{
+		"date": 1768069914,
+		"action": "placed",
+		"name": "scawy_madness",
+		"to_rank": 240,
+		"from_rank": null,
+		"above": "sigma_and_skibidi_m",
+		"below": "fent_cart_bomecack"
 	}
 ]
