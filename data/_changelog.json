@@ -10816,5 +10816,14 @@
 		"from_rank": 241,
 		"above": "sigmahouse",
 		"below": "demote_mental"
+	},
+	{
+		"date": 1768080414,
+		"action": "placed",
+		"name": "lithium_battery_z",
+		"to_rank": 300,
+		"from_rank": null,
+		"above": "brain_of_rot",
+		"below": "rizzler_voyage"
 	}
 ]
