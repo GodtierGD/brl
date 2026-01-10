@@ -10753,5 +10753,14 @@
 		"from_rank": null,
 		"above": "sigma_and_skibidi_m",
 		"below": "fent_cart_bomecack"
+	},
+	{
+		"date": 1768071959,
+		"action": "placed",
+		"name": "krypt_of_kyrgyz",
+		"to_rank": 374,
+		"from_rank": null,
+		"above": "gronkasize",
+		"below": "skibidi_rizzler"
 	}
 ]
