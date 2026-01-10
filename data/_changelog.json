@@ -10789,5 +10789,14 @@
 		"from_rank": null,
 		"above": "thanos_for_admin",
 		"below": "hawk_tuah_rizz_v3_ex"
+	},
+	{
+		"date": 1768074047,
+		"action": "lowered",
+		"name": "back_on_rot",
+		"to_rank": 370,
+		"from_rank": 273,
+		"above": "roblox",
+		"below": "silent_freddy"
 	}
 ]
