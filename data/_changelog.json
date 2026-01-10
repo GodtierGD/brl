@@ -10798,5 +10798,14 @@
 		"from_rank": 273,
 		"above": "roblox",
 		"below": "silent_freddy"
+	},
+	{
+		"date": 1768074258,
+		"action": "raised",
+		"name": "unnamed_godtier_chal",
+		"to_rank": 400,
+		"from_rank": 408,
+		"above": "thick_of_it_circles",
+		"below": "pedro_is_gay"
 	}
 ]
