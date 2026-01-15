@@ -2,10 +2,21 @@
 	"id": 131121673,
 	"name": "Legend Mewing Streak",
 	"author": "BoykisserShadow",
-	"creators": ["BoykisserShadow"," BAnjaminIsHuma"],
+	"creators": [
+		"BoykisserShadow",
+		" BAnjaminIsHuma"
+	],
 	"verifier": "BoykisserShadow",
 	"verification": "https://youtu.be/i0k96q7MnjE?si=x5BYW3cXUjsvNAW8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=Jug_KTWz9Ic",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
