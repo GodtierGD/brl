@@ -2,10 +2,20 @@
 	"id": 130075886,
 	"name": "lithium battery z",
 	"author": "exile7919",
-	"creators": ["exile7919"],
+	"creators": [
+		"exile7919"
+	],
 	"verifier": "exile7919",
 	"verification": "https://youtu.be/HVarmeBJ0Hs",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=Jug_KTWz9Ic",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
