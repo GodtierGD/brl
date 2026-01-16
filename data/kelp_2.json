@@ -57,6 +57,13 @@
 			"link": "https://www.youtube.com/live/9o_4D5Zz68w?si=9B9sME-L1kajUQ55",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "adas281",
+			"link": "https://youtu.be/KpemNs8hYXQ?si=hEhLxrRuN4pfbs3Q",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
