@@ -2,10 +2,19 @@
 	"id": 131582405,
 	"name": "Diddys gremlin",
 	"author": "UnoLish",
-	"creators": ["UnoLish"],
+	"creators": [
+		"UnoLish"
+	],
 	"verifier": "Ausgammer01",
 	"verification": "https://youtu.be/6q3Arjk3FlE?si=kOpfD9dXBur4QcmC",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/chHb5UhLwRM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
