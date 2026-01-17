@@ -10861,5 +10861,14 @@
 		"from_rank": null,
 		"above": "Kai Rizz",
 		"below": "rizzstep"
+	},
+	{
+		"date": 1768685187,
+		"action": "placed",
+		"name": "i_miss_brl",
+		"to_rank": 110,
+		"from_rank": null,
+		"above": "can_of_crack",
+		"below": "brainrot_circles_x"
 	}
 ]
