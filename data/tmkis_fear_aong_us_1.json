@@ -2,10 +2,19 @@
 	"id": 131198837,
 	"name": "tmkis fear aong us 1",
 	"author": "22p4r15og",
-	"creators": ["22paris"],
+	"creators": [
+		"22paris"
+	],
 	"verifier": "tmkis",
 	"verification": "https://www.youtube.com/watch?v=UCSDlYTM1Kk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/lq5m7uf_DB0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
