@@ -10906,5 +10906,14 @@
 		"from_rank": 404,
 		"above": "silent_cenat",
 		"below": "xtinct_is_gay"
+	},
+	{
+		"date": 1768891205,
+		"action": "lowered",
+		"name": "yersinia_pestis",
+		"to_rank": 62,
+		"from_rank": 57,
+		"above": "irizzmygyatt",
+		"below": "abandoned_rizz_party"
 	}
 ]
