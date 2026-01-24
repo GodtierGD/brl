@@ -2,10 +2,19 @@
 	"id": 121043382,
 	"name": "Hawk Tuah Vortex",
 	"author": "glennquagmiree",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/GU9clm9zX1c",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "AFive",
+			"link": "https://www.youtube.com/watch?v=2qrFerfjSdQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
