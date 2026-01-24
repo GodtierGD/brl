@@ -2,10 +2,19 @@
 	"id": 126344587,
 	"name": "tmkocX",
 	"author": "83LTA",
-	"creators": ["83LTA"],
+	"creators": [
+		"83LTA"
+	],
 	"verifier": "tmkis",
 	"verification": "https://youtu.be/2Jj0SiSUa9k",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "AFive",
+			"link": "https://www.youtube.com/watch?v=ndk1a8QoVwI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
