@@ -10978,5 +10978,14 @@
 		"from_rank": 78,
 		"above": "igyattwithrizz",
 		"below": "final_skibantasy"
+	},
+	{
+		"date": 1770247584,
+		"action": "raised",
+		"name": "invisible_drakescapes",
+		"to_rank": 167,
+		"from_rank": 195,
+		"above": "miami_gyattline",
+		"below": "invisible_rizzler_road"
 	}
 ]
