@@ -11041,5 +11041,14 @@
 		"from_rank": 337,
 		"above": "super_diddy_trials",
 		"below": "dexter_morgan_chall"
+	},
+	{
+		"date": 1770248925,
+		"action": "placed",
+		"name": "khaby_lame_mechanism",
+		"to_rank": 3,
+		"from_rank": null,
+		"above": "mango_phonk_house",
+		"below": "delusion_circles"
 	}
 ]
