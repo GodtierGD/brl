@@ -10960,5 +10960,14 @@
 		"from_rank": 108,
 		"above": "hawk_tuah_vortex",
 		"below": "ball_circles"
+	},
+	{
+		"date": 1770247193,
+		"action": "lowered",
+		"name": "quicksis_limit",
+		"to_rank": 64,
+		"from_rank": 55,
+		"above": "irizzmygyatt",
+		"below": "yersinia_pestis"
 	}
 ]
