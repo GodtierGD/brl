@@ -11032,5 +11032,14 @@
 		"from_rank": 292,
 		"above": "unskibidi",
 		"below": "sigma_lighting_eyes"
+	},
+	{
+		"date": 1770248835,
+		"action": "raised",
+		"name": "son_im_crine_gaming",
+		"to_rank": 201,
+		"from_rank": 337,
+		"above": "super_diddy_trials",
+		"below": "dexter_morgan_chall"
 	}
 ]
