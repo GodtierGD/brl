@@ -11005,5 +11005,14 @@
 		"from_rank": 61,
 		"above": "gyatt_rod",
 		"below": "hawktuah_circles"
+	},
+	{
+		"date": 1770248376,
+		"action": "lowered",
+		"name": "Jork_This",
+		"to_rank": 338,
+		"from_rank": 191,
+		"above": "do_you",
+		"below": "son_im_crine_gaming"
 	}
 ]
