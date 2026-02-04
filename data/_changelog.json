@@ -11023,5 +11023,14 @@
 		"from_rank": 140,
 		"above": "suhpermingle",
 		"below": "just_poop_in_the_bag"
+	},
+	{
+		"date": 1770248715,
+		"action": "lowered",
+		"name": "ultimateskibidi",
+		"to_rank": 305,
+		"from_rank": 292,
+		"above": "unskibidi",
+		"below": "sigma_lighting_eyes"
 	}
 ]
