@@ -10987,5 +10987,14 @@
 		"from_rank": 195,
 		"above": "miami_gyattline",
 		"below": "invisible_rizzler_road"
+	},
+	{
+		"date": 1770247712,
+		"action": "lowered",
+		"name": "crizztal_gusher",
+		"to_rank": 157,
+		"from_rank": 88,
+		"above": "sigma_level",
+		"below": "one_million_beets"
 	}
 ]
