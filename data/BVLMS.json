@@ -2,10 +2,20 @@
 	"id": 131211718,
 	"name": "Barely Visible Legend Mewing Streak",
 	"author": "BoykisserShadow",
-	"creators": ["BoykisserShadow"],
+	"creators": [
+		"BoykisserShadow"
+	],
 	"verifier": "BoykisserShadow",
 	"verification": "https://youtu.be/kPxKskJ0PDk?si=RrSOs03c04DJHG8z",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=Jug_KTWz9Ic",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
