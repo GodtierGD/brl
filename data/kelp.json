@@ -76,6 +76,13 @@
 			"link": "https://youtu.be/ZKIu1n1VbOI?si=eoHI6_4XsPMnqs_a",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "CubicMold3483",
+			"link": "https://youtu.be/ZiujsE-xXIM?si=TfJumazahm_gLDm4",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
