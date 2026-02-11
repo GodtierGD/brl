@@ -2,10 +2,19 @@
 	"id": 131514503,
 	"name": "I miss BRL",
 	"author": "tmkis",
-	"creators": ["tmkis"],
+	"creators": [
+		"tmkis"
+	],
 	"verifier": "tmkis",
 	"verification": "https://youtu.be/9EMsiBexdSQ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/YVAyc_s0WSg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
