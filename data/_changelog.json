@@ -11095,5 +11095,14 @@
 		"from_rank": 440,
 		"above": "krisscapes",
 		"below": "easter_island"
+	},
+	{
+		"date": 1770860084,
+		"action": "placed",
+		"name": "rot_basic_1",
+		"to_rank": 461,
+		"from_rank": null,
+		"above": "tidal_tonk",
+		"below": "br"
 	}
 ]
