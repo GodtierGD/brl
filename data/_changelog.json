@@ -11077,5 +11077,14 @@
 		"from_rank": 455,
 		"above": "skibidi_ofwgkta_wave",
 		"below": "krypt_of_kyrgyz"
+	},
+	{
+		"date": 1770858440,
+		"action": "raised",
+		"name": "free_list_points",
+		"to_rank": 125,
+		"from_rank": 221,
+		"above": "poo_fart_among_us_v3",
+		"below": "rizzler_road_redux"
 	}
 ]
