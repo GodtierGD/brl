@@ -11086,5 +11086,14 @@
 		"from_rank": 221,
 		"above": "poo_fart_among_us_v3",
 		"below": "rizzler_road_redux"
+	},
+	{
+		"date": 1770859884,
+		"action": "raised",
+		"name": "drakemaxxing",
+		"to_rank": 419,
+		"from_rank": 440,
+		"above": "krisscapes",
+		"below": "easter_island"
 	}
 ]
