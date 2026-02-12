@@ -11068,5 +11068,14 @@
 		"from_rank": null,
 		"above": "the_worst_brainrot_2",
 		"below": null
+	},
+	{
+		"date": 1770855189,
+		"action": "raised",
+		"name": "ha_ha_so_funny",
+		"to_rank": 388,
+		"from_rank": 455,
+		"above": "skibidi_ofwgkta_wave",
+		"below": "krypt_of_kyrgyz"
 	}
 ]
