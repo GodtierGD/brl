@@ -11131,5 +11131,14 @@
 		"from_rank": null,
 		"above": "kelp_2",
 		"below": "skibidi_choose_way"
+	},
+	{
+		"date": 1770860952,
+		"action": "placed",
+		"name": "only_double_clicks_x",
+		"to_rank": 453,
+		"from_rank": null,
+		"above": "skibidi_choose_way",
+		"below": "Rizzing Baby Gronk"
 	}
 ]
