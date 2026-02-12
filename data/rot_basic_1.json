@@ -2,10 +2,19 @@
 	"id": 131632368,
 	"name": "rot basic 1",
 	"author": "adas281",
-	"creators": ["adas281"],
+	"creators": [
+		"adas281"
+	],
 	"verifier": "adas281",
 	"verification": "https://youtu.be/mAZwtDqqxXw?si=UXJtiUFEcGccwjzk",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/OwGSWx8Kivk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
