@@ -2,10 +2,20 @@
 	"id": 132768858,
 	"name": "tidal tmkis",
 	"author": "BoykisserShadow",
-	"creators": ["BoykisserShadow"],
+	"creators": [
+		"BoykisserShadow"
+	],
 	"verifier": "BoykisserShadow",
 	"verification": "https://youtu.be/zyRPQU6VSY4?si=yuTNoJ_zelHi1VZp",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/xu8OSParYIY",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

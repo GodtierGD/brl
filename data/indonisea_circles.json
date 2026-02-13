@@ -2,10 +2,19 @@
 	"id": 132863503,
 	"name": "indonisea circles",
 	"author": "BoykisserShadow",
-	"creators": ["BoykisserShadow"],
+	"creators": [
+		"BoykisserShadow"
+	],
 	"verifier": "BoykisserShadow",
 	"verification": "https://youtu.be/8USisEKji5M?si=7GIi-n9hK2a39Rt9",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "WeirdABlues",
+			"link": "https://www.youtube.com/watch?v=yabVTPmlCDU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
