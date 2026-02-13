@@ -2,10 +2,19 @@
 	"id": 132417773,
 	"name": "ONLY DOUBLE CLICKS",
 	"author": "BoykisserSh2",
-	"creators": ["BoykisserShadow"],
+	"creators": [
+		"BoykisserShadow"
+	],
 	"verifier": "BoykisserShadow",
 	"verification": "https://youtu.be/rI0PShudA6k?si=2aTk8pfaHCJ2lzRR",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/vGCXO6ocxko?si=I2xg0GQImbIuj2ZS",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

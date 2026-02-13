@@ -2,10 +2,19 @@
 	"id": 132688513,
 	"name": "Rip TT",
 	"author": "Unolish",
-	"creators": ["Unolish"],
+	"creators": [
+		"Unolish"
+	],
 	"verifier": "Unolish",
 	"verification": "https://www.youtube.com/watch?v=ZRoJ1MGTtNc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/vGCXO6ocxko?si=I2xg0GQImbIuj2ZS",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
