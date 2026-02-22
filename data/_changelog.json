@@ -11176,5 +11176,14 @@
 		"from_rank": 464,
 		"above": "rot_basic_1",
 		"below": "br"
+	},
+	{
+		"date": 1771800289,
+		"action": "lowered",
+		"name": "only_double_clicks",
+		"to_rank": 457,
+		"from_rank": 456,
+		"above": "tidal_tmkis",
+		"below": "kelp_2"
 	}
 ]
