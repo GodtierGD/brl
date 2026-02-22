@@ -11167,5 +11167,14 @@
 		"from_rank": null,
 		"above": "rotted_death_redux",
 		"below": "metroz_does_fent"
+	},
+	{
+		"date": 1771800224,
+		"action": "lowered",
+		"name": "rip_tt",
+		"to_rank": 465,
+		"from_rank": 464,
+		"above": "rot_basic_1",
+		"below": "br"
 	}
 ]
