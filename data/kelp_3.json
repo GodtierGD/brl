@@ -33,6 +33,13 @@
 			"link": "https://youtu.be/C1DxxbrT2L0?si=t18Taax0s_3ivvwt",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "adas281",
+			"link": "https://youtu.be/rTpE1A4VtaE?si=HJ_KWIOrWTwYJeAb",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
