@@ -11230,5 +11230,14 @@
 		"from_rank": null,
 		"above": "turkish_circles",
 		"below": "tyrone_the_maker"
+	},
+	{
+		"date": 1771802433,
+		"action": "placed",
+		"name": "2p_krisscapes",
+		"to_rank": 422,
+		"from_rank": null,
+		"above": "krisscapes",
+		"below": "drakemaxxing"
 	}
 ]
