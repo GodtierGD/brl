@@ -11194,5 +11194,14 @@
 		"from_rank": 454,
 		"above": "only_double_clicks",
 		"below": "kelp_2"
+	},
+	{
+		"date": 1771800521,
+		"action": "placed",
+		"name": "rot_basic_2",
+		"to_rank": 465,
+		"from_rank": null,
+		"above": "rip_tt",
+		"below": "br"
 	}
 ]
