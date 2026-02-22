@@ -11257,5 +11257,14 @@
 		"from_rank": 442,
 		"above": "lobotomy_sandwhich",
 		"below": "turkish_circles"
+	},
+	{
+		"date": 1771804163,
+		"action": "placed",
+		"name": "fih_temple",
+		"to_rank": 398,
+		"from_rank": null,
+		"above": "my_dad_with_a_bat",
+		"below": "shreks beefy toes"
 	}
 ]
