@@ -11302,5 +11302,14 @@
 		"from_rank": 88,
 		"above": "lastminutememories",
 		"below": "ultimate_brl_mix"
+	},
+	{
+		"date": 1771806769,
+		"action": "raised",
+		"name": "krypt_of_kyrgyz",
+		"to_rank": 368,
+		"from_rank": 390,
+		"above": "escape_kris_tyson",
+		"below": "conic_skibidux"
 	}
 ]
