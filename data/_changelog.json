@@ -11311,5 +11311,14 @@
 		"from_rank": 390,
 		"above": "escape_kris_tyson",
 		"below": "conic_skibidux"
+	},
+	{
+		"date": 1771891917,
+		"action": "placed",
+		"name": "xtinct_is_a_chud",
+		"to_rank": 1,
+		"from_rank": null,
+		"above": "the_worst_brainrot_2",
+		"below": null
 	}
 ]
