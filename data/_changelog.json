@@ -11356,5 +11356,14 @@
 		"from_rank": null,
 		"above": "The Brainrot Drink",
 		"below": "skibidi_hell"
+	},
+	{
+		"date": 1772487290,
+		"action": "placed",
+		"name": "sikmt_mog",
+		"to_rank": 427,
+		"from_rank": null,
+		"above": "2p_krisscapes",
+		"below": "drakemaxxing"
 	}
 ]
