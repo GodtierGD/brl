@@ -10,5 +10,12 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=9p0G7zJKywE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
 	]
 }

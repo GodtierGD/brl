@@ -2,10 +2,20 @@
 	"id": 131120055,
 	"name": "unnamed 14",
 	"author": "LiamLovesCatz",
-	"creators": ["LiamLovesCatz"],
+	"creators": [
+		"LiamLovesCatz"
+	],
 	"verifier": "LiamLovesCatz",
 	"verification": "https://www.youtube.com/watch?v=8nlMKWwOsrQ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=9p0G7zJKywE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

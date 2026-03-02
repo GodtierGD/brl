@@ -2,10 +2,20 @@
 	"id": 133757444,
 	"name": "Fih Temple",
 	"author": "UnoLish",
-	"creators": ["UnoLish"],
+	"creators": [
+		"UnoLish"
+	],
 	"verifier": "UnoLish",
 	"verification": "https://youtu.be/B8HZeBm2qfY?si=oiCmkY2BG5n__TZJ",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=9p0G7zJKywE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
