@@ -11329,5 +11329,14 @@
 		"from_rank": null,
 		"above": "xtinct_is_a_chud",
 		"below": null
+	},
+	{
+		"date": 1772486098,
+		"action": "placed",
+		"name": "bro_i_hate_the_lois",
+		"to_rank": 467,
+		"from_rank": null,
+		"above": "tidal_tmkis",
+		"below": "only_double_clicks"
 	}
 ]
