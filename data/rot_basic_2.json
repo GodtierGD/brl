@@ -2,10 +2,19 @@
 	"id": 134085162,
 	"name": "rot basic 2",
 	"author": "adas281",
-	"creators": ["adas281"],
+	"creators": [
+		"adas281"
+	],
 	"verifier": "adas281",
 	"verification": "https://youtu.be/I7n7qf3Oa8A?si=VI37jzNS2fnR8EWt",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/yZlEHk9DUvw?si=y9Bg_M271yhj9bf9",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
