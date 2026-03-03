@@ -83,6 +83,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "atomik58",
+			"link": "https://www.youtube.com/watch?v=n_XEYiTJMGU",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
