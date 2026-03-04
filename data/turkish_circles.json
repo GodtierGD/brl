@@ -149,6 +149,13 @@
 			"link": "https://youtu.be/f8jtC2gy7Is?si=411aszQF82JpXtSg",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "vayt1",
+			"link": "https://youtu.be/1INaDjR57O0?si=FhMjVorL5aELPvdB",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
