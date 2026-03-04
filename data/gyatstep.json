@@ -120,6 +120,13 @@
 			"link": "https://www.youtube.com/watch?v=68VQ3t7s-kM",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "SleepyGooger",
+			"link": "https://youtu.be/jiJGzqHV_5I?si=U9LhyO79YLr3lmZ9",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
