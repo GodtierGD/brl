@@ -21,6 +21,19 @@
 			"link": "https://www.youtube.com/watch?v=oZhPakgrVpk",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "BoykisserShadow",
+			"link": "https://youtu.be/DIKqlbpCpIE?si=U9fDLeW0DhuSN-33",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/SwzqsIDJqDE",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
