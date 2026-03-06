@@ -11455,5 +11455,14 @@
 		"from_rank": null,
 		"above": "le_fart_of_le_blade2",
 		"below": "tidals_of_skibidi"
+	},
+	{
+		"date": 1772805310,
+		"action": "raised",
+		"name": "bro_i_hate_the_lois",
+		"to_rank": 466,
+		"from_rank": 476,
+		"above": "The Brainrot Drink",
+		"below": "sikmt_rizz"
 	}
 ]
