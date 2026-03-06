@@ -95,6 +95,13 @@
 			"link": "https://youtu.be/L2_z17jyjf4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "shimeji",
+			"link": "https://youtu.be/s5LWNH8OgEo?si=TtGnsQAdhjm7glZf",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
