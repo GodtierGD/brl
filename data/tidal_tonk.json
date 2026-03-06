@@ -241,6 +241,13 @@
 			"link": "https://youtu.be/6Bs10nbxaDs",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "shimeji",
+			"link": "https://youtu.be/os1JYltfDG4?si=FU_NJj0BdQgdJORZ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
