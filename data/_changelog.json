@@ -11473,5 +11473,14 @@
 		"from_rank": 102,
 		"above": "silent_moai",
 		"below": "tonk_tidal"
+	},
+	{
+		"date": 1772805823,
+		"action": "raised",
+		"name": "escape_diddy_party",
+		"to_rank": 84,
+		"from_rank": 90,
+		"above": "skid",
+		"below": "sigma_wave_trials_v2"
 	}
 ]
