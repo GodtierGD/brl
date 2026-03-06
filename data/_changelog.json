@@ -11464,5 +11464,14 @@
 		"from_rank": 476,
 		"above": "The Brainrot Drink",
 		"below": "sikmt_rizz"
+	},
+	{
+		"date": 1772805418,
+		"action": "lowered",
+		"name": "ball_circles",
+		"to_rank": 116,
+		"from_rank": 102,
+		"above": "silent_moai",
+		"below": "tonk_tidal"
 	}
 ]
