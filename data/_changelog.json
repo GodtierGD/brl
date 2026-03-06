@@ -11419,5 +11419,14 @@
 		"from_rank": null,
 		"above": "kelp_3",
 		"below": "touch_dic_ds"
+	},
+	{
+		"date": 1772804546,
+		"action": "placed",
+		"name": "tidal_skebedeh",
+		"to_rank": 380,
+		"from_rank": null,
+		"above": "barely_visible_failed_mewing_streak",
+		"below": "unnamed_godtier_chal"
 	}
 ]
