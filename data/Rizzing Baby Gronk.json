@@ -332,6 +332,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Symm.",
+			"link": "https://youtu.be/uxVWkzzlwZA",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

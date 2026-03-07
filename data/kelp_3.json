@@ -71,6 +71,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "CentiGoldenGD",
+			"link": "https://www.youtube.com/watch?v=B21Vcnmx3OM",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
