@@ -11518,5 +11518,14 @@
 		"from_rank": 333,
 		"above": "back_on_rot",
 		"below": "unnamed_tmkis_challenge"
+	},
+	{
+		"date": 1772893705,
+		"action": "raised",
+		"name": "creamy_lights",
+		"to_rank": 8,
+		"from_rank": 9,
+		"above": "babushka_vortex",
+		"below": "yuvin_marasini"
 	}
 ]
