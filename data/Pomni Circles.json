@@ -1,6 +1,7 @@
 {
 	"id": 107624489,
 	"name": "Pomni Circles",
+	"description": "The first level on the list, the level that started it all. First level in the pomni trilogy.",
 	"author": "zg0d",
 	"creators": [
 		"Godtier"
@@ -8,7 +9,7 @@
 	"verifier": "Bean",
 	"verification": "https://youtu.be/ZUsRVreHOQ0?si=k3WBosY2qKeEo6jd",
 	"percentToQualify": "100",
-	"password": "None",
+	"password": "#1",
 	"records": [
 		{
 			"user": "Rednax",
