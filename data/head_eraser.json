@@ -2,10 +2,20 @@
 	"id": 110983677,
 	"name": "Head Eraser",
 	"author": "st4rfl4k3",
-	"creators": ["st4rfl4k3"],
+	"creators": [
+		"st4rfl4k3"
+	],
 	"verifier": "st4rfl4k3",
 	"verification": "https://www.youtube.com/watch?v=CjX-npDvU3g&ab_channel=namix%5BGD%5D",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/0PUIuY55xOI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

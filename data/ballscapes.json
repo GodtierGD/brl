@@ -2,10 +2,20 @@
 	"id": 134855533,
 	"name": "Ballscapes",
 	"author": "Probablyaccount",
-	"creators": ["Probablyaccount"],
+	"creators": [
+		"Probablyaccount"
+	],
 	"verifier": "Probablyaccount",
 	"verification": "https://youtu.be/7Hqzb_6Qk2s",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/0PUIuY55xOI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
