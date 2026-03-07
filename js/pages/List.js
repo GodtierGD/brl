@@ -40,6 +40,7 @@ export default {
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
+                    <p v-if="level.description" class="type-body">{{ level.description }}</p>
                     <div class="packs" v-if="level.packs.length > 0">
                         <div v-for="pack in level.packs" class="tag" :style="{background:pack.colour}">
                             <p>{{pack.name}}</p>
@@ -56,8 +57,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Initial Placement</div>
+                            <p>{{ level.password || 'N/A' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
