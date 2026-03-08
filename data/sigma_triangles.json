@@ -2,10 +2,20 @@
 	"id": 117917708,
 	"name": "sigma triangles",
 	"author": "m3nt411",
-	"creators": ["willscoro"],
+	"creators": [
+		"willscoro"
+	],
 	"verifier": "bunkyrunky",
 	"verification": "https://youtu.be/f2lIQxsYmIM?si=44zEzwHBB9tGspIY",
 	"percentToQualify": 100,
 	"password": "N/A",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=5u58B6E78rk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
