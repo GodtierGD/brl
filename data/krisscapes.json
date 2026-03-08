@@ -1,7 +1,7 @@
 {
 	"id": 108601952,
 	"name": "Krisscapes",
-        "description": "better than drakescapes",
+	"description": "better than drakescapes",
 	"author": "filipcupcake",
 	"creators": [
 		"filipcupcake"
@@ -119,6 +119,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Voidnixx",
+			"link": "https://youtu.be/sUFO4YA6cv4?si=2TIG7ZZzVbXlfscJ",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
