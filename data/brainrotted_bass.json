@@ -3,10 +3,20 @@
 	"name": "Brainrotted Bass",
 	"description": "",
 	"author": "TeddyandbearYT",
-	"creators": ["TeddyandbearYT"],
+	"creators": [
+		"TeddyandbearYT"
+	],
 	"verifier": "TeddyandbearYT",
 	"verification": "https://youtu.be/gpjzuZS4cAQ?si=8A97bRSYwOCEeUUj",
 	"percentToQualify": 100,
 	"password": "#437",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/PKaOIyihH04",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

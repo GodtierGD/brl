@@ -2,10 +2,20 @@
 	"id": 110827499,
 	"name": "Skibidi Trilogy",
 	"author": "matymakg",
-	"creators": ["matymakg"],
+	"creators": [
+		"matymakg"
+	],
 	"verifier": "matymakg",
 	"verification": "https://youtu.be/v0S8GvEWh-4?si=kIW-4ASSzWwtlAod",
 	"percentToQualify": 100,
 	"password": "N/A",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/PKaOIyihH04",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
