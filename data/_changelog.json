@@ -11608,5 +11608,14 @@
 		"from_rank": null,
 		"above": "i_may_have_dementia",
 		"below": "tidal_tmkis"
+	},
+	{
+		"date": 1773881614,
+		"action": "placed",
+		"name": "tuff_top_10_ez_brl",
+		"to_rank": 470,
+		"from_rank": null,
+		"above": "The Brainrot Drink",
+		"below": "bro_i_hate_the_lois"
 	}
 ]
