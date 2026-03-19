@@ -3,10 +3,20 @@
 	"name": "Tuff top 10 ez brl",
 	"description": "Top ten ez in the brl (not added dementia) (fix swag)",
 	"author": "jaysaton",
-	"creators": ["jaysaton"],
+	"creators": [
+		"jaysaton"
+	],
 	"verifier": "shimeji",
 	"verification": "https://www.youtube.com/watch?v=v-2TA3glC7U",
 	"percentToQualify": 100,
 	"password": "#470",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/F2xrkMpBdXE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
