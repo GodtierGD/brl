@@ -3,10 +3,20 @@
 	"name": "dude circles",
 	"description": "dude what was i on",
 	"author": "AFive",
-	"creators": ["AFive"],
+	"creators": [
+		"AFive"
+	],
 	"verifier": "AFive",
 	"verification": "https://www.youtube.com/watch?v=Hyf2c3CgQqc",
 	"percentToQualify": 100,
 	"password": "#220",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/VzTs6TMsHCk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

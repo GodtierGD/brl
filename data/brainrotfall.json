@@ -3,10 +3,20 @@
 	"name": "BRainrotfaLL",
 	"description": "hi gais",
 	"author": "BoykisserShadow",
-	"creators": ["BoykisserShadow"],
+	"creators": [
+		"BoykisserShadow"
+	],
 	"verifier": "BoykisserShadow",
 	"verification": "https://www.youtube.com/watch?v=fMooItIQRXI",
 	"percentToQualify": 100,
 	"password": "#483",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/F2xrkMpBdXE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

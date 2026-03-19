@@ -3,10 +3,20 @@
 	"name": "get back on wave",
 	"description": "im not wave carried",
 	"author": "bKriegz",
-	"creators": ["bKriegz"],
+	"creators": [
+		"bKriegz"
+	],
 	"verifier": "bKriegz",
 	"verification": "https://www.youtube.com/watch?v=Mm8Sud7E1yU",
 	"percentToQualify": 100,
 	"password": "#341",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/-mqPn7KAk3s",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

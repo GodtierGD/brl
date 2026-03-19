@@ -3,10 +3,20 @@
 	"name": "BRNouement",
 	"description": "I love denoument",
 	"author": "BoykisserShadow",
-	"creators": ["BoykisserShadow"],
+	"creators": [
+		"BoykisserShadow"
+	],
 	"verifier": "BoykisserShadow",
 	"verification": "https://www.youtube.com/watch?v=ThDZtZsiQlE",
 	"percentToQualify": 100,
 	"password": "#483",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/F2xrkMpBdXE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
