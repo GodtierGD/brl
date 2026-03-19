@@ -3,10 +3,20 @@
 	"name": "Labootomy RGB",
 	"description": "",
 	"author": "CentiGoldenGD",
-	"creators": ["CentiGoldenGD"],
+	"creators": [
+		"CentiGoldenGD"
+	],
 	"verifier": "CentiGoldenGD",
 	"verification": "https://www.youtube.com/watch?v=5I0MBElo1wA",
 	"percentToQualify": 100,
 	"password": "#415",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/PKaOIyihH04",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

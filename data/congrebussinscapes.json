@@ -3,10 +3,20 @@
 	"name": "CONGREBUSSINSCAPES",
 	"description": "",
 	"author": "Symmetrics",
-	"creators": ["Symm."],
+	"creators": [
+		"Symm."
+	],
 	"verifier": "Symm.",
 	"verification": "https://www.youtube.com/watch?v=xDWmk-PgiRY",
 	"percentToQualify": 100,
 	"password": "#286",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/PKaOIyihH04",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

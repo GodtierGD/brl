@@ -3,10 +3,20 @@
 	"name": "Robtop circles",
 	"description": "",
 	"author": "Probablyaccount",
-	"creators": ["Probablyaccount"],
+	"creators": [
+		"Probablyaccount"
+	],
 	"verifier": "Probablyaccount",
 	"verification": "https://youtu.be/0cxICFXyu1s",
 	"percentToQualify": 100,
 	"password": "#480",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/PKaOIyihH04",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
