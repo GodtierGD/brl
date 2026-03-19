@@ -11617,5 +11617,14 @@
 		"from_rank": null,
 		"above": "The Brainrot Drink",
 		"below": "bro_i_hate_the_lois"
+	},
+	{
+		"date": 1773881798,
+		"action": "placed",
+		"name": "denormal",
+		"to_rank": 457,
+		"from_rank": null,
+		"above": "unnamed_14",
+		"below": "turkish_circles"
 	}
 ]
