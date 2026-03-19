@@ -11626,5 +11626,14 @@
 		"from_rank": null,
 		"above": "unnamed_14",
 		"below": "turkish_circles"
+	},
+	{
+		"date": 1773882049,
+		"action": "placed",
+		"name": "labootomy_rgb",
+		"to_rank": 415,
+		"from_rank": null,
+		"above": "jelquers_gronkadise",
+		"below": "silent_cenat"
 	}
 ]
