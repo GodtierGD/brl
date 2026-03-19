@@ -11635,5 +11635,14 @@
 		"from_rank": null,
 		"above": "jelquers_gronkadise",
 		"below": "silent_cenat"
+	},
+	{
+		"date": 1773882220,
+		"action": "placed",
+		"name": "ascension_to_lebron",
+		"to_rank": 408,
+		"from_rank": null,
+		"above": "the_sixnineth_varien",
+		"below": "one_more_freak"
 	}
 ]
