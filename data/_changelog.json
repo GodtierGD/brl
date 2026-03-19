@@ -11752,5 +11752,14 @@
 		"from_rank": 481,
 		"above": "swinging_rizz",
 		"below": "skibid_chal_s02_e3w"
+	},
+	{
+		"date": 1773885194,
+		"action": "lowered",
+		"name": "carly_legend_skibidi",
+		"to_rank": 481,
+		"from_rank": 460,
+		"above": "bro_i_hate_the_lois",
+		"below": "skibidi_hell"
 	}
 ]
