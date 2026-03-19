@@ -3,10 +3,20 @@
 	"name": "Mango Blud",
 	"description": "",
 	"author": "MrFallOh",
-	"creators": ["MrFallOh"],
+	"creators": [
+		"MrFallOh"
+	],
 	"verifier": "Theblight",
 	"verification": "https://youtube.com/watch?v=X47AZmto_gk",
 	"percentToQualify": 100,
 	"password": "#486",
-	"records" : []
+	"records": [
+		{
+			"user": "adas281",
+			"link": "https://youtu.be/i4g4ePcg3u4?si=FbxlKn5X0rF8NA86",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

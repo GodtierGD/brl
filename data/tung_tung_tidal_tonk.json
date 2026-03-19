@@ -3,10 +3,19 @@
 	"name": "Tung Tung Tidal Tonk",
 	"description": "",
 	"author": "Nugbit",
-	"creators": ["Nugbit"],
+	"creators": [
+		"Nugbit"
+	],
 	"verifier": "Nugbit",
 	"verification": "https://youtu.be/fQ1hN3HTGxw",
 	"percentToQualify": 100,
 	"password": "#486",
-	"records" : []
+	"records": [
+		{
+			"user": "bKriegz",
+			"link": "https://www.youtube.com/watch?v=FOwxNaK1CDM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
