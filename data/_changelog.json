@@ -11716,5 +11716,14 @@
 		"from_rank": null,
 		"above": "statistically_muhammad",
 		"below": "skibidibath_deluxe"
+	},
+	{
+		"date": 1773884463,
+		"action": "placed",
+		"name": "cloupstep",
+		"to_rank": 22,
+		"from_rank": null,
+		"above": "you_cant_handle_it",
+		"below": "me_when_skibidi_gang"
 	}
 ]
