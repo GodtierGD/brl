@@ -65,6 +65,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Kman333",
+			"link": "https://www.youtube.com/watch?v=birFweIx3gA",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
