@@ -459,6 +459,12 @@
 			"link": "https://m.youtube.com/shorts/LlXlQSHWfWg",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "GobbleBlobber",
+			"link": "https://youtu.be/z6RyETEswUU",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

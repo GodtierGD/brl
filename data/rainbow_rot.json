@@ -93,6 +93,12 @@
 			"link": "https://www.youtube.com/live/eu2c65gEVi4?si=uTOvEn1WbjguOIix",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "GobbleBlobber",
+			"link": "https://youtu.be/EePmjv03MAM",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
