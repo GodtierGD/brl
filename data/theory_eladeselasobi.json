@@ -17,6 +17,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Ascrupt",
+			"link": "https://www.youtube.com/watch?v=MrN-yiSOrf4",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
