@@ -17,6 +17,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "afive",
+			"link": "https://www.youtube.com/watch?v=TZ4eiKoWhFc",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
