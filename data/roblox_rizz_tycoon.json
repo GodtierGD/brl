@@ -33,6 +33,13 @@
 			"link": "https://www.youtube.com/watch?v=fDSfCNxrnhY&ab_channel=emberkz",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/5MEe7aULS6E",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
