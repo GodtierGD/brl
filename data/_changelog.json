@@ -11815,5 +11815,14 @@
 		"from_rank": 216,
 		"above": "fireinthescapes",
 		"below": "wildwest_dingus_x"
+	},
+	{
+		"date": 1774486906,
+		"action": "raised",
+		"name": "wildwest_dingus_x",
+		"to_rank": 191,
+		"from_rank": 202,
+		"above": "sterling_circles",
+		"below": "diddy_sticky_balls_x"
 	}
 ]
