@@ -11824,5 +11824,14 @@
 		"from_rank": 202,
 		"above": "sterling_circles",
 		"below": "diddy_sticky_balls_x"
+	},
+	{
+		"date": 1774487038,
+		"action": "raised",
+		"name": "lemon_demon",
+		"to_rank": 107,
+		"from_rank": 123,
+		"above": "hawk_tuah_vortex",
+		"below": "i_miss_brl"
 	}
 ]
