@@ -3,10 +3,25 @@
 	"name": "My amazing map",
 	"description": "Proudly presented by: xMimoGD, ionn, Sparg, qups, Emiheliou and tmkis!!! (me). Enjoy this EHHH-MAZING experience! :^)",
 	"author": "tmkis",
-	"creators": ["tmkis"," MimoGD"," ionn"," Sparg"," qups"," Emiheliou"],
+	"creators": [
+		"tmkis",
+		" MimoGD",
+		" ionn",
+		" Sparg",
+		" qups",
+		" Emiheliou"
+	],
 	"verifier": "tmkis",
 	"verification": "https://youtu.be/A6oqQiwP3bk",
 	"percentToQualify": 100,
 	"password": "#500",
-	"records" : []
+	"records": [
+		{
+			"user": "BoykisserShadow",
+			"link": "https://youtu.be/TkDCqwnv4qA?si=jXTt3E2L8ZLO5XmV",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
