@@ -11869,5 +11869,14 @@
 		"from_rank": 471,
 		"above": "tuff_top_10_ez_brl",
 		"below": "bro_i_hate_the_lois"
+	},
+	{
+		"date": 1774488891,
+		"action": "placed",
+		"name": "i_n_j_u_r_e_d",
+		"to_rank": 485,
+		"from_rank": null,
+		"above": "tuff_top_10_ez_brl",
+		"below": "unnamed_14"
 	}
 ]
