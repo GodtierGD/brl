@@ -58,6 +58,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "GobbleBlobber",
+			"link": "https://youtu.be/tfwtH5tTvps?si=VHjmkyFK7MNrONvT",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
