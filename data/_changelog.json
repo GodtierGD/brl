@@ -11833,5 +11833,14 @@
 		"from_rank": 123,
 		"above": "hawk_tuah_vortex",
 		"below": "i_miss_brl"
+	},
+	{
+		"date": 1774487100,
+		"action": "raised",
+		"name": "balkan_fanum_boss",
+		"to_rank": 121,
+		"from_rank": 140,
+		"above": "ball_circles",
+		"below": "tonk_tidal"
 	}
 ]
