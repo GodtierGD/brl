@@ -11878,5 +11878,14 @@
 		"from_rank": null,
 		"above": "tuff_top_10_ez_brl",
 		"below": "unnamed_14"
+	},
+	{
+		"date": 1774489501,
+		"action": "placed",
+		"name": "final_gd_br",
+		"to_rank": 478,
+		"from_rank": null,
+		"above": "diddys_gremlin",
+		"below": "rizzstep"
 	}
 ]
