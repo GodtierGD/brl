@@ -54,6 +54,12 @@
 			"link": "https://youtu.be/qyfP8inoPFU",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "hybrid",
+			"link": "https://www.youtube.com/watch?v=mvdjhcNKxjE",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
