@@ -11842,5 +11842,14 @@
 		"from_rank": 140,
 		"above": "ball_circles",
 		"below": "tonk_tidal"
+	},
+	{
+		"date": 1774487581,
+		"action": "placed",
+		"name": "my_amazing_map",
+		"to_rank": 500,
+		"from_rank": null,
+		"above": "kelp",
+		"below": "xirai"
 	}
 ]
