@@ -11941,5 +11941,14 @@
 		"from_rank": null,
 		"above": "scawy_madness",
 		"below": "demote_mental"
+	},
+	{
+		"date": 1774491933,
+		"action": "placed",
+		"name": "luminous_wavs",
+		"to_rank": 61,
+		"from_rank": null,
+		"above": "igyattwithrizz",
+		"below": "brainoueo"
 	}
 ]
