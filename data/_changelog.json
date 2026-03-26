@@ -11932,5 +11932,14 @@
 		"from_rank": null,
 		"above": "fanum_toilet",
 		"below": "gorlock_destroyer"
+	},
+	{
+		"date": 1774491564,
+		"action": "placed",
+		"name": "go_on_with_the_spoon",
+		"to_rank": 233,
+		"from_rank": null,
+		"above": "scawy_madness",
+		"below": "demote_mental"
 	}
 ]
