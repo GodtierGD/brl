@@ -11923,5 +11923,14 @@
 		"from_rank": null,
 		"above": "congrebussinscapes",
 		"below": "rednax_is_a_crimmnal"
+	},
+	{
+		"date": 1774491221,
+		"action": "placed",
+		"name": "foids_never_clear",
+		"to_rank": 267,
+		"from_rank": null,
+		"above": "fanum_toilet",
+		"below": "gorlock_destroyer"
 	}
 ]
