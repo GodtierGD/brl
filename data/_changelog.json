@@ -11950,5 +11950,14 @@
 		"from_rank": null,
 		"above": "igyattwithrizz",
 		"below": "brainoueo"
+	},
+	{
+		"date": 1774494064,
+		"action": "lowered",
+		"name": "yersinia_pestis",
+		"to_rank": 70,
+		"from_rank": 69,
+		"above": "irizzmygyatt",
+		"below": "quicksis_limit"
 	}
 ]
