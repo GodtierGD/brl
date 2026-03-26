@@ -11779,5 +11779,14 @@
 		"from_rank": null,
 		"above": "le_fart_of_le_blade",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1774485947,
+		"action": "raised",
+		"name": "brainrotfall",
+		"to_rank": 497,
+		"from_rank": 500,
+		"above": "peterbot",
+		"below": "i_may_have_dementia"
 	}
 ]
