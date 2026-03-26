@@ -3,10 +3,20 @@
 	"name": "Final GD BR",
 	"description": "Lol XD gubby (EXTENTION)",
 	"author": "Jaysaton",
-	"creators": ["Jaysaton"],
+	"creators": [
+		"Jaysaton"
+	],
 	"verifier": "Shimeji",
 	"verification": "https://youtu.be/JWHuuvdH6ZI?si=sk7BJJM8KLkskLTx",
 	"percentToQualify": 100,
 	"password": "#478",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=yg7FCKW1hV4",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

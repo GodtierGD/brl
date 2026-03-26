@@ -3,10 +3,20 @@
 	"name": "go on with the spoon",
 	"description": "",
 	"author": "splooble",
-	"creators": ["splooble"],
+	"creators": [
+		"splooble"
+	],
 	"verifier": "hybrid",
 	"verification": "https://www.youtube.com/watch?v=JDTVf7BEh9U",
 	"percentToQualify": 100,
 	"password": "#233",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=yg7FCKW1hV4",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

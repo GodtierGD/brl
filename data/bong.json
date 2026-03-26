@@ -3,10 +3,20 @@
 	"name": "Bong",
 	"description": "smoking zaazaa with da boiz",
 	"author": "GobbleBlobber",
-	"creators": ["GobbleBlobber"],
+	"creators": [
+		"GobbleBlobber"
+	],
 	"verifier": "GobbleBlobber",
 	"verification": "https://youtu.be/J-uU2tBmEFw",
 	"percentToQualify": 100,
 	"password": "#293",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=yg7FCKW1hV4",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

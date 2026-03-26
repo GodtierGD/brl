@@ -3,10 +3,20 @@
 	"name": "Kelpital extremigans: fan extension of kelp one, two and three big budget of none",
 	"description": "Beaten 3 times, obs reset video capture first 2 time :(",
 	"author": "Probablyaccount",
-	"creators": ["Probablyaccount"],
+	"creators": [
+		"Probablyaccount"
+	],
 	"verifier": "Probablyaccount",
 	"verification": "https://youtu.be/I-BG-N2a7o0",
 	"percentToQualify": 100,
 	"password": "#480",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=PKaOIyihH04",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
