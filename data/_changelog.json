@@ -11851,5 +11851,14 @@
 		"from_rank": null,
 		"above": "kelp",
 		"below": "xirai"
+	},
+	{
+		"date": 1774487802,
+		"action": "placed",
+		"name": "kelpital_extremigans_fan_extension_of_kelp_one_two_and_three_big_budget_of_none",
+		"to_rank": 480,
+		"from_rank": null,
+		"above": "Kai Rizz",
+		"below": "diddys_gremlin"
 	}
 ]
