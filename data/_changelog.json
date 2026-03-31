@@ -12058,5 +12058,14 @@
 		"from_rank": 143,
 		"above": "poo_fart_among_us_v3",
 		"below": "free_list_points"
+	},
+	{
+		"date": 1774994473,
+		"action": "lowered",
+		"name": "low_taper_fade",
+		"to_rank": 21,
+		"from_rank": 17,
+		"above": "vropirateshavezaza_2",
+		"below": "poo_fart_among_us_v5"
 	}
 ]
