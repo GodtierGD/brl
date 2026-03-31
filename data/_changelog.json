@@ -12022,5 +12022,14 @@
 		"from_rank": null,
 		"above": "rotten_banana",
 		"below": "low_taper_fade_rebirth"
+	},
+	{
+		"date": 1774992909,
+		"action": "placed",
+		"name": "sandro_never_clear_c",
+		"to_rank": 69,
+		"from_rank": null,
+		"above": "quicksis_limit",
+		"below": "abandoned_rizz_party"
 	}
 ]
