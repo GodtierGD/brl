@@ -12076,5 +12076,14 @@
 		"from_rank": 7,
 		"above": "le_fart_of_le_blade",
 		"below": "man_circles"
+	},
+	{
+		"date": 1774997018,
+		"action": "raised",
+		"name": "errorfunk_ii",
+		"to_rank": 10,
+		"from_rank": 11,
+		"above": "man_circles",
+		"below": "babushka_vortex"
 	}
 ]
