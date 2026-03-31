@@ -12031,5 +12031,14 @@
 		"from_rank": null,
 		"above": "quicksis_limit",
 		"below": "abandoned_rizz_party"
+	},
+	{
+		"date": 1774993057,
+		"action": "raised",
+		"name": "sakupan_crame",
+		"to_rank": 25,
+		"from_rank": 37,
+		"above": "you_cant_handle_it",
+		"below": "cloupstep"
 	}
 ]
