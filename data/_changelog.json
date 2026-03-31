@@ -11995,5 +11995,14 @@
 		"from_rank": null,
 		"above": "2p_krisscapes",
 		"below": "drakemaxxing"
+	},
+	{
+		"date": 1774991971,
+		"action": "placed",
+		"name": "landon_never_clear",
+		"to_rank": 298,
+		"from_rank": null,
+		"above": "edp_go_away",
+		"below": "congrebussinscapes"
 	}
 ]
