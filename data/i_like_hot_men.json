@@ -3,10 +3,19 @@
 	"name": "i like hot men",
 	"description": "",
 	"author": "yyuke36",
-	"creators": ["yyuke36"],
+	"creators": [
+		"yyuke36"
+	],
 	"verifier": "yyuke36",
 	"verification": "https://youtu.be/8Ql-za4oV0Y",
 	"percentToQualify": 100,
 	"password": "#500",
-	"records" : []
+	"records": [
+		{
+			"user": "Kman333",
+			"link": "https://www.youtube.com/watch?v=Pgm5vtBoa4g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
