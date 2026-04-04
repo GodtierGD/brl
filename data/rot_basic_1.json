@@ -137,6 +137,13 @@
 			"link": "https://youtu.be/YyYh2Wwkd10",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "ImaorangeTwitch",
+			"link": "https://youtu.be/YLzjrdFkPQ8?si=7od8sA-_Xwdj0q3_",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
