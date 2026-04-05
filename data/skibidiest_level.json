@@ -5,17 +5,11 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/Vro6yk7oxTA?si=BjO80EMdnDHBoW6w",
+	"verifier": "MrPenguin",
+	"verification": "https://www.youtube.com/watch?v=Mo8lXzomFm8",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "MrPenguin",
-			"link": "https://www.youtube.com/watch?v=Mo8lXzomFm8",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "EpicSparkZ",
 			"link": "https://www.youtube.com/watch?v=bye4wPF65FM",
@@ -25,12 +19,6 @@
 		{
 			"user": "Flawless",
 			"link": "https://www.youtube.com/watch?v=ODz2gx1y_Ac&ab_channel=Flawless",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
 			"percent": 100,
 			"hz": 360
 		}

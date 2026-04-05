@@ -5,17 +5,11 @@
 	"creators": [
 		"Zarthus"
 	],
-	"verifier": "MacacoChucrut",
-	"verification": "https://www.youtube.com/watch?v=Ny4IAT5icos",
+	"verifier": "staticon",
+	"verification":"https://youtu.be/ItKxre7L_Og?si=IF-5Xno2YLwSh-qp",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "staticon",
-			"link": "https://youtu.be/ItKxre7L_Og?si=IF-5Xno2YLwSh-qp",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "shafikdabest",
 			"link": "https://youtu.be/9WjUQf_wc9I?si=7AMRyJEjnBIlM3LO",

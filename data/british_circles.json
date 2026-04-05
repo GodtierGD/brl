@@ -6,17 +6,11 @@
 		"wushady",
 		" m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/GM3GKWFOk5c?si=RVQ7o5jcJddyr7Cg",
+	"verifier": "TimmyTheThirddd",
+	"verification": "https://youtu.be/7tfGBAOw6KU",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "TimmyTheThirddd",
-			"link": "https://youtu.be/7tfGBAOw6KU",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "wushady",
 			"link": "https://www.youtube.com/watch?v=mHVtsFh0QU8",
@@ -56,12 +50,6 @@
 		{
 			"user": "Deathrange",
 			"link": "https://youtu.be/tnPFkfuV9xc?si=o186OqD_7USC2knK",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/FmhQZR1B6Xc?t=116",
 			"percent": 100,
 			"hz": 360
 		},
