@@ -12112,5 +12112,14 @@
 		"from_rank": null,
 		"above": "escape_ethiopia_real",
 		"below": "ts_again"
+	},
+	{
+		"date": 1775392212,
+		"action": "placed",
+		"name": "all_boss_all_time",
+		"to_rank": 115,
+		"from_rank": null,
+		"above": "caseohs_demise",
+		"below": "skibidi_trilogy"
 	}
 ]
