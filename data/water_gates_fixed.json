@@ -3,10 +3,19 @@
 	"name": "Water Gates Fixed",
 	"description": "Fixed version of this creators previous level entitled Water Gates.",
 	"author": "souptaels",
-	"creators": ["souptaels"],
+	"creators": [
+		"souptaels"
+	],
 	"verifier": "cr4ckship",
 	"verification": "https://www.youtube.com/watch?v=KCmP9ziQs6w",
 	"percentToQualify": 100,
 	"password": "#217",
-	"records" : []
+	"records": [
+		{
+			"user": "Godtier",
+			"link": "https://www.youtube.com/watch?v=RcKxkzyxO2k",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
