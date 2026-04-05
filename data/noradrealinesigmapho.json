@@ -10,5 +10,11 @@
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
+		{
+			"user": "flick.",
+			"link": "https://youtu.be/VgrtTg8miV0",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
