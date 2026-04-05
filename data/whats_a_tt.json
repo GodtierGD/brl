@@ -60,6 +60,13 @@
 			"link": "https://youtu.be/amtuPKOHT7o",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "rybqa",
+			"link": "https://youtu.be/33OuIVM0gLI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
