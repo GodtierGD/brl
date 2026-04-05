@@ -5,17 +5,11 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/kWO8vPnCNGc?si=eng9P4Xhp7n33IGl",
+	"verifier": "DapperDucko",
+	"verification": "https://youtu.be/d5KeNFD-RB4",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "DapperDucko",
-			"link": "https://youtu.be/d5KeNFD-RB4",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "Klynxz",
 			"link": "https://youtu.be/ANtPzOMwJmU?si=SxXLAOzynsjEGp7W",

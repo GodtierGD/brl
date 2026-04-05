@@ -5,17 +5,11 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/znGmInPXAuQ?si=eDFZ4vKFrS75UR9-",
+	"verifier": "lavewave",
+	"verification": "https://youtu.be/d2Ln0fnnCUk",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "lavewave",
-			"link": "https://youtu.be/d2Ln0fnnCUk",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "Flawless",
 			"link": "https://www.youtube.com/watch?v=ftFy9gG_QNo&ab_channel=Flawless",
