@@ -5,17 +5,11 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/pEXrae236MA",
+	"verifier": "Rednax",
+	"verification": "https://www.youtube.com/watch?v=kh4rRBavq98",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "Rednax",
-			"link": "https://www.youtube.com/watch?v=kh4rRBavq98",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "wushady",
 			"link": "https://www.youtube.com/watch?v=eH0SJrwOM-8",
