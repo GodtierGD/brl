@@ -5,26 +5,14 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/LHJs3Qc-0gU?si=Q_VEgczsEGBqY0pP",
+	"verifier": "wushady",
+	"verification": "https://www.youtube.com/watch?v=vXWSc8xdYxU",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
 		{
-			"user": "wushady",
-			"link": "https://www.youtube.com/watch?v=vXWSc8xdYxU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "Rednax",
 			"link": "https://www.youtube.com/watch?v=kXYLVNDb7go",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/vmzecW7J_-8",
 			"percent": 100,
 			"hz": 360
 		}

@@ -11,12 +11,6 @@
 	"password": "N/A",
 	"records": [
 		{
-			"user": "m3nt411",
-			"link": "https://youtu.be/NQ9Frx1xpc0?si=4gkRfmkwuTjis-W2",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "Water",
 			"link": "https://www.youtube.com/watch?v=aXdwgE1EJDs",
 			"percent": 100,
@@ -28,12 +22,6 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/B1J4P9DC4LI",
-			"percent": 100,
-			"hz": 360
 		}
 	]
 }

@@ -6,16 +6,10 @@
 		"m3nt411",
 		" NotCat"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/3JRTuL9sO3M?si=rZSwkpXRJkvXHGxB",
+	"verifier": "lemonsliice",
+	"verification": "https://youtu.be/TLrEE89fyt0",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "lemonsliice",
-			"link": "https://youtu.be/TLrEE89fyt0",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

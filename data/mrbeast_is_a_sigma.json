@@ -5,17 +5,11 @@
 	"creators": [
 		"Hyperbeat"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/Le0ISpgGtKk?si=K18gs_7u8brST4zm",
+	"verifier": "Vinkii",
+	"verification": "https://youtu.be/COeDpdTaOjI",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "Vinkii",
-			"link": "https://youtu.be/COeDpdTaOjI",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "anundefineduser",
 			"link": "https://youtu.be/4_2fJC11EbY",

@@ -6,22 +6,10 @@
 		"m3nt411",
 		" wavelog"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/lfEQn3aJwNw?si=3lkZQYkriPFHHc0f",
+	"verifier": "Flawless",
+	"verification": "https://www.youtube.com/watch?v=xEarWocFP9o",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "Flawless",
-			"link": "https://www.youtube.com/watch?v=xEarWocFP9o",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/GFeJGGay8yU?si=Fzj82Rz4DTeFdGP7",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

@@ -11,12 +11,6 @@
 	"password": "N/A",
 	"records": [
 		{
-			"user": "m3nt411",
-			"link": "https://youtu.be/YhHUoekASlM?si=66bZNXWGsZnzGFfm",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "MrPenguin",
 			"link": "https://youtu.be/t6GAwACAShA",
 			"percent": 100,
@@ -37,12 +31,6 @@
 		{
 			"user": "shafikdabest",
 			"link": "https://youtu.be/p6HaRcpTLQo?si=4_oBHoeMYLCiSv3S",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
 			"percent": 100,
 			"hz": 360
 		}

@@ -5,17 +5,11 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/tiJIuRFXSCA?si=VluuHWivu4eVPYhM",
+	"verifier": "dogboi320",
+	"verification": "https://youtu.be/hK-SD7CiOk0?si=I7Via0WThPkCaUeD",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "dogboi320",
-			"link": "https://youtu.be/hK-SD7CiOk0?si=I7Via0WThPkCaUeD",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "TimmyTheThirddd",
 			"link": "https://youtu.be/OvKzqTQlt0M",
@@ -37,12 +31,6 @@
 		{
 			"user": "staticon",
 			"link": "https://youtu.be/61_wuYJCnPo",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/FmhQZR1B6Xc",
 			"percent": 100,
 			"hz": 360
 		},

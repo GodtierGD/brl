@@ -5,26 +5,14 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/QtiTLofgTKE?si=AyGCp4c7v44R7G2_",
+	"verifier": "MrPenguin",
+	"verification": "https://youtu.be/jzNMIIimaEc",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
 		{
-			"user": "MrPenguin",
-			"link": "https://youtu.be/jzNMIIimaEc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "Kendrick West",
 			"link": "https://youtu.be/p0hLmsvWqNc",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
 			"percent": 100,
 			"hz": 360
 		},

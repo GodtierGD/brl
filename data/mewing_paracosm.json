@@ -5,22 +5,10 @@
 	"creators": [
 		"Blivverinn"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/ZkqKQMs032Y",
+	"verifier": "lavewave",
+	"verification": "https://youtu.be/KxeE7AZmIbo",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "lavewave",
-			"link": "https://youtu.be/KxeE7AZmIbo",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

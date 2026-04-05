@@ -6,23 +6,10 @@
 		"m3nt411",
 		" wavelog"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/hpA2af7Q7cU?si=g-UNJcR61-PsNIZ1",
+	"verifier": "tmkis",
+	"verification": "https://www.youtube.com/watch?v=meF0u8BqxzQ",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "tmkis",
-			"link": "https://www.youtube.com/watch?v=meF0u8BqxzQ",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/eNz8Y18ZoJs?si=-EC--LmMui1g1RVy",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

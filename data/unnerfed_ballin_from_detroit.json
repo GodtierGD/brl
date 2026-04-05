@@ -5,23 +5,11 @@
 	"creators": [
 		"CubicMold3483"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/r2_w8pJ6i_Y?si=ylv7gVWp_5N8_XJu",
+	"verifier": "Rednax",
+	"verification": "https://www.youtube.com/watch?v=jAinA6MDWDE",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "Rednax",
-			"link": "https://www.youtube.com/watch?v=jAinA6MDWDE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/5hhusiRfAns",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "tmkis",
 			"link": "https://youtu.be/Zzj_Nvz73Ko",

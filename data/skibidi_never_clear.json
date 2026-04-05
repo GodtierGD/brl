@@ -17,12 +17,6 @@
 			"hz": 360
 		},
 		{
-			"user": "m3nt411",
-			"link": "https://youtu.be/50w9ByJ0X-c?si=E7AtqRGqQDaeLqYP",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "NoLifeDax",
 			"link": "https://youtu.be/_iXW061ZDbo?si=T_bEoqRuhWXY2pWo",
 			"percent": 100,
@@ -64,12 +58,6 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/rvQEMRaWxPA",
-			"percent": 100,
-			"hz": 360
 		}
 	]
 }

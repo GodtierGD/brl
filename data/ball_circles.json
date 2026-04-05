@@ -5,17 +5,11 @@
 	"creators": [
 		"wushady"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/VraXD6gzdZU?si=MS9ITbIYuNolyaYJ",
+	"verifier": "staticon",
+	"verification": "https://youtu.be/ItKxre7L_Og?si=IF-5Xno2YLwSh-qp",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "staticon",
-			"link": "https://youtu.be/ItKxre7L_Og?si=IF-5Xno2YLwSh-qp",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "lemonsliice",
 			"link": "https://youtu.be/b3r9jTLwk00",

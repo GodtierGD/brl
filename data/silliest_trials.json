@@ -5,26 +5,14 @@
 	"creators": [
 		"wushady"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/adhVde9MYrc?si=8Zs29gcsABI5t0GB",
+	"verifier": "AFive",
+	"verification": "https://youtu.be/bniOhE72FpA?si=QYgWNvuU5dEVqkTa",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
 		{
-			"user": "AFive",
-			"link": "https://youtu.be/bniOhE72FpA?si=QYgWNvuU5dEVqkTa",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "bunkyrunky",
 			"link": "https://youtu.be/e-6YK_Sk118?si=U3kO8rlv0rb6KFMm",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/qyfP8inoPFU",
 			"percent": 100,
 			"hz": 360
 		}

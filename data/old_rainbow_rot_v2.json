@@ -5,16 +5,10 @@
 	"creators": [
 		"furobtop"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/L4JZBgvxSCA?si=d2-3aTN19x4adCUc",
+	"verifier": "Jarzst",
+	"verification": "https://youtu.be/mbiMtuS4roM?si=XmmXCCe98eU-16Cj",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "Jarzst",
-			"link": "https://youtu.be/mbiMtuS4roM?si=XmmXCCe98eU-16Cj",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

@@ -5,16 +5,10 @@
 	"creators": [
 		"Vicentexd1233"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/__3C0MGoAxY?si=N0DGmZ3ogQ9QRWiR",
+	"verifier": "lavewave",
+	"verification": "https://youtu.be/KxeE7AZmIbo",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "lavewave",
-			"link": "https://youtu.be/KxeE7AZmIbo",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

@@ -5,18 +5,11 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/a2EzxGxNXpA",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/goQaqV-0nnk",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "tmkis",
-			"link": "https://youtu.be/goQaqV-0nnk",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
 		{
 			"user": "shafikdabest",
 			"link": "https://youtu.be/yO-eEOiKjeo?si=8tvPokoexGuA5-9V",

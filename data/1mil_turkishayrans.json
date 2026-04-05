@@ -5,27 +5,14 @@
 	"creators": [
 		"PdophileGaming"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/OQh9doyjurY?si=gm78FSTlWo6k6w4U",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/goQaqV-0nnk",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
 		{
-			"user": "tmkis",
-			"link": "https://youtu.be/goQaqV-0nnk",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
-		{
 			"user": "shafikdabest",
 			"link": "https://youtu.be/yO-eEOiKjeo?si=8tvPokoexGuA5-9V",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
 			"percent": 100,
 			"hz": 360
 		}

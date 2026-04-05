@@ -8,17 +8,11 @@
 		" WuShady",
 		" m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/iuUm1miB09s?si=mCkmkRlSKNX-FaP0",
+	"verifier": "bionik",
+	"verification": "https://m.youtube.com/watch?v=1bOX2E2m9wc",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "bionik",
-			"link": "https://m.youtube.com/watch?v=1bOX2E2m9wc",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "wushady",
 			"link": "https://youtu.be/2dmNKhWx-0Q?si=yRknFKXoqrvhxtY4",

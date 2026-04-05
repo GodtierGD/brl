@@ -29,12 +29,6 @@
 			"hz": 360
 		},
 		{
-			"user": "m3nt411",
-			"link": "https://youtu.be/v-dS3jgn3yQ?si=gWMDWo99Ew9q-HSw",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "bio ik",
 			"link": "https://m.youtube.com/watch?v=1bOX2E2m9wc",
 			"percent": 100,
@@ -52,12 +46,6 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
-			"percent": 100,
-			"hz": 360
 		}
 	]
 }

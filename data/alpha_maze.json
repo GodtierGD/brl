@@ -5,23 +5,10 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/7AduHd-2xeA?si=s_P4Faids02TpSXH",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/M8q_cIlD1D4",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "tmkis",
-			"link": "https://youtu.be/M8q_cIlD1D4",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/tlp8LuWcs70",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

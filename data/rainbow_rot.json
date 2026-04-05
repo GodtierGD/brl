@@ -5,17 +5,11 @@
 	"creators": [
 		"furobtop"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/T6hPWbjJc3g?si=i3P2SygSN4MGsUAa",
+	"verifier": "MrPenguin",
+	"verification": "https://youtu.be/jzNMIIimaEc",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "MrPenguin",
-			"link": "https://youtu.be/jzNMIIimaEc",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "zoonk",
 			"link": "https://youtu.be/u6vYZBKZKsc",

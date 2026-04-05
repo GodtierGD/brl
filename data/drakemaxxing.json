@@ -5,17 +5,10 @@
 	"creators": [
 		"Dintnadoo"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/RmTL3N_CgdU?si=vmt3nXI29GuUegXU",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/a6xAQRpAfHU",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "tmkis",
-			"link": "https://youtu.be/a6xAQRpAfHU",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		}
 	]
 }

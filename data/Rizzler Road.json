@@ -5,17 +5,11 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/NjP5GwkS0iA?si=8FvlSsU-RMYI2dHl",
+	"verifier": "NojusGamingg",
+	"verification": "https://youtu.be/fAwkNOQ2gIk",
 	"percentToQualify": "100",
 	"password": "None",
 	"records": [
-		{
-			"user": "NojusGamingg",
-			"link": "https://youtu.be/fAwkNOQ2gIk",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "wushady",
 			"link": "https://www.youtube.com/watch?v=SsCmj8nJq0o&ab_channel=WuShady",
@@ -25,12 +19,6 @@
 		{
 			"user": "diexx",
 			"link": "https://youtu.be/VNiA9epEs1M?si=-sZUiBA3Xouhddfd",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/5oxH2a--Y7E",
 			"percent": 100,
 			"hz": 360
 		},

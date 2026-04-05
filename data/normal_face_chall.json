@@ -6,17 +6,11 @@
 		"m3nt411",
 		" wushady"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/ut2U89F4shU?si=3kwFvsLXSNGNCVRE",
+	"verifier": "zoonk",
+	"verification": "https://youtu.be/ZVM0fafN0XI",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "zoonk",
-			"link": "https://youtu.be/ZVM0fafN0XI",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "vompedda",
 			"link": "https://www.youtube.com/watch?v=7GcwJHWXXlA",
@@ -26,12 +20,6 @@
 		{
 			"user": "xaura2k",
 			"link": "https://www.youtube.com/watch?v=va9A4LAD8Yg",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/HAO_PSrVP0Q?t=113",
 			"percent": 100,
 			"hz": 360
 		},

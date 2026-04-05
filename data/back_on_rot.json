@@ -5,16 +5,10 @@
 	"creators": [
 		"wavelog"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/_v88wY_Y_vE",
+	"verifier": "shafikdabest",
+	"verification": "https://youtu.be/zxxMX8B9bmk?si=rMG8_YLYUienrnMl",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "shafikdabest",
-			"link": "https://youtu.be/zxxMX8B9bmk?si=rMG8_YLYUienrnMl",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

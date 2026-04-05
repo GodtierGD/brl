@@ -5,17 +5,11 @@
 	"creators": [
 		"soapswasher"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/zG0HndS1zfA?si=Xoy3jlSDxNO-Pos6",
+	"verifier": "wushady",
+	"verification": "https://www.youtube.com/watch?v=Y6-pFwU7WSg&ab_channel=WuShady",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "wushady",
-			"link": "https://www.youtube.com/watch?v=Y6-pFwU7WSg&ab_channel=WuShady",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "tmkis",
 			"link": "https://youtu.be/KBEiFeVmMhs",
@@ -32,12 +26,6 @@
 		{
 			"user": "shafikdabest",
 			"link": "https://youtu.be/iGLUdgPH0ag?si=ga4LJmMhFhudv-qS",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
 			"percent": 100,
 			"hz": 360
 		},

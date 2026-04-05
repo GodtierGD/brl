@@ -5,17 +5,11 @@
 	"creators": [
 		"soapswasher"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/nsWrSF7jN-A?si=olLadhtISId-89JC",
+	"verifier": "tgof",
+	"verification": "https://youtu.be/wwop91EAuZQ?si=wACMmvMbKjzmn95Q",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "tgof",
-			"link": "https://youtu.be/wwop91EAuZQ?si=wACMmvMbKjzmn95Q",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "Nugbit",
 			"link": "https://youtu.be/IYwr_AMgxIA",
@@ -40,12 +34,6 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/EjRd_eQ_Kpk",
-			"percent": 100,
-			"hz": 360
 		}
 	]
 }

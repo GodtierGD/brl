@@ -5,16 +5,10 @@
 	"creators": [
 		"Vxid"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/vVLDXzPgEEs?si=LU7BKcvoG3hr3N4b",
+	"verifier": "lavewave",
+	"verification": "https://youtu.be/Lx1a0iWlSVQ",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "lavewave",
-			"link": "https://youtu.be/Lx1a0iWlSVQ",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

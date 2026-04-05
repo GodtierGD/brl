@@ -6,27 +6,14 @@
 		"m3nt411",
 		" wavelog"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/wh1WorreXN8?si=pr30B-NNbGBHVtwE",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/oVg5vq6cZZM",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
 		{
-			"user": "tmkis",
-			"link": "https://youtu.be/oVg5vq6cZZM",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
-		{
 			"user": "shafikdabest",
 			"link": "https://www.youtube.com/watch?v=zIqJjObJBnE",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/alQXHRNTQqw?t=128",
 			"percent": 100,
 			"hz": 360
 		},

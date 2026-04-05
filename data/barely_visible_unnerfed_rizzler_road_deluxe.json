@@ -5,22 +5,10 @@
 	"creators": [
 		"m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/PK75yGm2cYQ",
+	"verifier": "Rednax",
+	"verification": "https://www.youtube.com/watch?v=GF57NJUEIdw",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/YjjzrvmkQWs?feature=shared",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Rednax",
-			"link": "https://www.youtube.com/watch?v=GF57NJUEIdw",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

@@ -6,23 +6,10 @@
 		"furobtop",
 		" m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/Uc6oPbmTSlQ",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/9siXEhg_a6E",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/ZUvoa3N3wZQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "tmkis",
-			"link": "https://youtu.be/9siXEhg_a6E",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		}
 	]
 }

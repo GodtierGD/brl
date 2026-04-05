@@ -13,12 +13,6 @@
 	"password": "N/A",
 	"records": [
 		{
-			"user": "m3nt411",
-			"link": "https://youtu.be/4AosnPqKrqI?si=4LbkJWzvxEJ3KrWW",
-			"percent": 100,
-			"hz": 360
-		},
-		{
 			"user": "MrPenguin",
 			"link": "https://youtu.be/jzNMIIimaEc",
 			"percent": 100,
@@ -27,12 +21,6 @@
 		{
 			"user": "Kendrick West",
 			"link": "https://www.youtube.com/watch?v=EA3ILlSxz24",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/Ro6KVR_djnQ",
 			"percent": 100,
 			"hz": 360
 		}

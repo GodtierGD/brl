@@ -5,23 +5,10 @@
 	"creators": [
 		"furobtop"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/9aQq-hxjU_I",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/9siXEhg_a6E",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/C9WsnVB8EXI?t=41",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "tmkis",
-			"link": "https://youtu.be/9siXEhg_a6E",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		}
 	]
 }

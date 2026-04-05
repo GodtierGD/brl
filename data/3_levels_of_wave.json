@@ -7,17 +7,11 @@
 		" chimp",
 		" m3nt411"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/_nN11iFfl0w",
+	"verifier": "south182",
+	"verification": "https://youtu.be/DA1oqzJCTi4?si=ACxYrCdN4Maqy78z",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "south182",
-			"link": "https://youtu.be/DA1oqzJCTi4?si=ACxYrCdN4Maqy78z",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "staticon",
 			"link": "https://youtu.be/4Ifwdc5ltpg",

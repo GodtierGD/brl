@@ -5,17 +5,11 @@
 	"creators": [
 		"furobtop"
 	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/_N1V7ls5bd8?si=7cNA-uELqnTWXCHz",
+	"verifier": "Kendrick West",
+	"verification": "https://youtu.be/zMHAU4HcOyM",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "Kendrick West",
-			"link": "https://youtu.be/zMHAU4HcOyM",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "Deathrange",
 			"link": "https://youtu.be/CXBepe6Uk9I",
@@ -25,12 +19,6 @@
 		{
 			"user": "staticon",
 			"link": "https://youtu.be/AbtPugIQfDM",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "MacacoChucrut",
-			"link": "https://youtu.be/rvQEMRaWxPA?t=39",
 			"percent": 100,
 			"hz": 360
 		}
