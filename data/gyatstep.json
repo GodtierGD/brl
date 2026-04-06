@@ -157,6 +157,13 @@
 			"link": "https://youtu.be/4HtX1awAmxc",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "DopamineHuman",
+			"link": "https://youtu.be/-TzmRSySqac?si=arKEwflcFsq0qYZp",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
