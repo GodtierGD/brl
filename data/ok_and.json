@@ -16,6 +16,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Kendrick West",
+			"link": "https://youtu.be/aa0_HvBq1Q4",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
