@@ -86,6 +86,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "ChefLime",
+			"link": "https://www.youtube.com/watch?v=9x43YsA20k0",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
