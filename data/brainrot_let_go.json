@@ -3,10 +3,19 @@
 	"name": "brainrot let go",
 	"description": "",
 	"author": "LiixGMDD",
-	"creators": ["LiixGMDD"],
+	"creators": [
+		"LiixGMDD"
+	],
 	"verifier": "Liix",
 	"verification": "https://www.youtube.com/watch?v=sNdJKMZzPro",
 	"percentToQualify": 100,
 	"password": "#488",
-	"records" : []
+	"records": [
+		{
+			"user": "Kman333",
+			"link": "https://www.youtube.com/watch?v=n900-iphgR4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
