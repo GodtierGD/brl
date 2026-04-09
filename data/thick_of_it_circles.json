@@ -16,6 +16,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "fivezies",
+			"link": "https://www.youtube.com/watch?v=acPnjifhAx8",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
