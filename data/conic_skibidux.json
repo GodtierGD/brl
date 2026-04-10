@@ -10,5 +10,11 @@
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
+		{
+			"user": "lemonsliice",
+			"link": "https://youtu.be/x1089ah9OaE",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
