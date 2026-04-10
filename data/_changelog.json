@@ -12211,5 +12211,14 @@
 		"from_rank": null,
 		"above": "alpha_maze",
 		"below": "vonhouse"
+	},
+	{
+		"date": 1775843093,
+		"action": "placed",
+		"name": "old_drakes_demise",
+		"to_rank": 324,
+		"from_rank": null,
+		"above": "dorabe_memore",
+		"below": "fent_friday"
 	}
 ]
