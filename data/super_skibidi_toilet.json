@@ -1,14 +1,12 @@
 {
 	"id": 108778306,
 	"name": "Super Skibidi Toilet",
+	"description": "one of mentals levels i think probably",
 	"author": "m3nt411",
-	"creators": [
-		"furobtop"
-	],
-	"verifier": "m3nt411",
-	"verification": "https://youtu.be/R_v5czJvGjo?si=b65a_KTn0l9410aN",
+	"creators": ["furobtop"],
+	"verifier": "foop",
+	"verification": "https://youtu.be/uMHTOX251BY",
 	"percentToQualify": 100,
-	"password": "N/A",
-	"records": [
-	]
+	"password": "#285",
+	"records" : []
 }
