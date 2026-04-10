@@ -12310,5 +12310,14 @@
 		"from_rank": 114,
 		"above": "low_taper_fade_rebirth",
 		"below": "talk_tuah_wave"
+	},
+	{
+		"date": 1775847630,
+		"action": "lowered",
+		"name": "old_drakes_demise",
+		"to_rank": 331,
+		"from_rank": 330,
+		"above": "barely_visible_unnerfed_skibidi_ofwgkta_wave",
+		"below": "dorabe_memore"
 	}
 ]
