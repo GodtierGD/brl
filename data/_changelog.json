@@ -12175,5 +12175,14 @@
 		"from_rank": null,
 		"above": "island_escape",
 		"below": "drakemaxxing"
+	},
+	{
+		"date": 1775842070,
+		"action": "placed",
+		"name": "sakupen_slop",
+		"to_rank": 391,
+		"from_rank": null,
+		"above": "sigmaest_level_ever",
+		"below": "jelquers_gronkadise"
 	}
 ]
