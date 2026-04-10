@@ -12229,5 +12229,14 @@
 		"from_rank": null,
 		"above": "ultimateskibidi",
 		"below": "sigma_lighting_eyes"
+	},
+	{
+		"date": 1775843850,
+		"action": "placed",
+		"name": "man_circles_reborn",
+		"to_rank": 31,
+		"from_rank": null,
+		"above": "the_trials_of_mulch",
+		"below": "shades_from_china"
 	}
 ]
