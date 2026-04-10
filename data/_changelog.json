@@ -12247,5 +12247,14 @@
 		"from_rank": null,
 		"above": "lil_nas_x_never_clear",
 		"below": "young_sheldon_x"
+	},
+	{
+		"date": 1775844572,
+		"action": "placed",
+		"name": "ducky_of_despair",
+		"to_rank": 175,
+		"from_rank": null,
+		"above": "mustaaaaardscapes",
+		"below": "scoobert_rebirth"
 	}
 ]
