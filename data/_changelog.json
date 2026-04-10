@@ -12166,5 +12166,14 @@
 		"from_rank": null,
 		"above": "The Brainrot Drink",
 		"below": "tuff_top_10_ez_brl"
+	},
+	{
+		"date": 1775841897,
+		"action": "placed",
+		"name": "the_last_kelp",
+		"to_rank": 408,
+		"from_rank": null,
+		"above": "island_escape",
+		"below": "drakemaxxing"
 	}
 ]
