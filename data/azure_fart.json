@@ -3,10 +3,20 @@
 	"name": "azure fart",
 	"description": "",
 	"author": "ChefLime",
-	"creators": ["ChefLime"],
+	"creators": [
+		"ChefLime"
+	],
 	"verifier": "ChefLime",
 	"verification": "https://youtu.be/5vaziDDXrds",
 	"percentToQualify": 100,
 	"password": "#469",
-	"records" : []
+	"records": [
+		{
+			"user": "shimeji",
+			"link": "https://youtu.be/XYZq01KDl4U?si=l9fSpPv4wwPizuVQ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
