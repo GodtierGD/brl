@@ -3,10 +3,19 @@
 	"name": "Sakupen Slop",
 	"description": "",
 	"author": "Voidnixx",
-	"creators": ["Voidnixx"],
+	"creators": [
+		"Voidnixx"
+	],
 	"verifier": "Voidnixx",
 	"verification": "https://youtu.be/Vm26VruT2XI",
 	"percentToQualify": 100,
 	"password": "#391",
-	"records" : []
+	"records": [
+		{
+			"user": "Greeno2525",
+			"link": "https://youtu.be/4Fkj9gyMZY0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
