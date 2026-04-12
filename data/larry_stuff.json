@@ -3,10 +3,19 @@
 	"name": "larry stuff",
 	"description": "a quick brl",
 	"author": "jaysaton",
-	"creators": ["jaysaton"],
+	"creators": [
+		"jaysaton"
+	],
 	"verifier": "shimeji",
 	"verification": "https://youtu.be/FE9B7Qw4KZI",
 	"percentToQualify": 100,
 	"password": "#467",
-	"records" : []
+	"records": [
+		{
+			"user": "Kman333",
+			"link": "https://www.youtube.com/watch?v=3Yociplxkuw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
