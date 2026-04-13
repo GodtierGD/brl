@@ -3,10 +3,19 @@
 	"name": "Denormal in Heck",
 	"description": "",
 	"author": "Probablyaccount",
-	"creators": ["Probablyaccount"],
+	"creators": [
+		"Probablyaccount"
+	],
 	"verifier": "ßßus",
 	"verification": "https://www.youtube.com/watch?v=vjjIzjKywSs",
 	"percentToQualify": 100,
 	"password": "#207",
-	"records" : []
+	"records": [
+		{
+			"user": "flick.",
+			"link": "https://youtu.be/Ndq7pGzMjXg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
