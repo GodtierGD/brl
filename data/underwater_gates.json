@@ -3,10 +3,19 @@
 	"name": "Underwater Gates",
 	"description": "",
 	"author": "Flick.",
-	"creators": ["AFive"],
+	"creators": [
+		"AFive"
+	],
 	"verifier": "Flick.",
 	"verification": "https://www.youtube.com/watch?v=ssbTY_lH1Ak",
 	"percentToQualify": 100,
 	"password": "#210",
-	"records" : []
+	"records": [
+		{
+			"user": "GobbleBlobber",
+			"link": "https://youtu.be/icyJnkV0KuM",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
