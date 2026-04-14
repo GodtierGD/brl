@@ -3,10 +3,21 @@
 	"name": "Unnerfed Tungwebs",
 	"description": "Unnerfed version of TUNGWEBS by AFive & Schitt",
 	"author": "Flick.",
-	"creators": ["AFive"," Schitt"," Flick."],
+	"creators": [
+		"AFive",
+		" Schitt",
+		" Flick."
+	],
 	"verifier": "Flick.",
 	"verification": "https://www.youtube.com/watch?v=T42dTwcK1DE",
 	"percentToQualify": 100,
 	"password": "#8",
-	"records" : []
+	"records": [
+		{
+			"user": "AFive",
+			"link": "https://www.youtube.com/watch?v=M3gik0zkKic",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
