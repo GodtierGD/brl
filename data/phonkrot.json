@@ -3,10 +3,19 @@
 	"name": "PhonkRot",
 	"description": "Ts is so funking cool (use jukebox for the song)",
 	"author": "jaysaton",
-	"creators": ["jaysaton"],
+	"creators": [
+		"jaysaton"
+	],
 	"verifier": "shimeji",
 	"verification": "https://youtu.be/k4GVBKKdZVw",
 	"percentToQualify": 100,
 	"password": "#360",
-	"records" : []
+	"records": [
+		{
+			"user": "Kendrick West",
+			"link": "https://www.youtube.com/watch?v=npCCL6UOZig",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
