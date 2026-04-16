@@ -12346,5 +12346,14 @@
 		"from_rank": null,
 		"above": "errorfunk_ii",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1776366782,
+		"action": "placed",
+		"name": "chinahouse",
+		"to_rank": 1,
+		"from_rank": null,
+		"above": "delusion_circles",
+		"below": null
 	}
 ]
