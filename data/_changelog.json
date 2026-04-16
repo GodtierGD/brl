@@ -12355,5 +12355,14 @@
 		"from_rank": null,
 		"above": "delusion_circles",
 		"below": null
+	},
+	{
+		"date": 1776366878,
+		"action": "placed",
+		"name": "gilbert_vortex",
+		"to_rank": 2,
+		"from_rank": null,
+		"above": "delusion_circles",
+		"below": "chinahouse"
 	}
 ]
