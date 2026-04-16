@@ -12364,5 +12364,14 @@
 		"from_rank": null,
 		"above": "delusion_circles",
 		"below": "chinahouse"
+	},
+	{
+		"date": 1776374131,
+		"action": "lowered",
+		"name": "chinahouse",
+		"to_rank": 5,
+		"from_rank": 1,
+		"above": "polska_circles",
+		"below": "kizzy_muncher_reborn"
 	}
 ]
