@@ -12373,5 +12373,14 @@
 		"from_rank": 1,
 		"above": "polska_circles",
 		"below": "kizzy_muncher_reborn"
+	},
+	{
+		"date": 1776533125,
+		"action": "placed",
+		"name": "chickn_burgir",
+		"to_rank": 472,
+		"from_rank": null,
+		"above": "touch_dic_ds",
+		"below": "The Brainrot Drink"
 	}
 ]
