@@ -12472,5 +12472,14 @@
 		"from_rank": null,
 		"above": "iloverainbowrobot",
 		"below": "brabrotenroten"
+	},
+	{
+		"date": 1776534026,
+		"action": "placed",
+		"name": "normal_ship_trials",
+		"to_rank": 23,
+		"from_rank": null,
+		"above": "you_cant_handle_it",
+		"below": "sakupan_crame"
 	}
 ]
