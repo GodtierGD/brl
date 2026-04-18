@@ -12418,5 +12418,14 @@
 		"from_rank": null,
 		"above": "can_i_get_a_mc_brain",
 		"below": "lobotomy_sandwhich"
+	},
+	{
+		"date": 1776533493,
+		"action": "placed",
+		"name": "water_gates_xirai",
+		"to_rank": 501,
+		"from_rank": null,
+		"above": "cheflime_is_soggy",
+		"below": "mango_blud"
 	}
 ]
