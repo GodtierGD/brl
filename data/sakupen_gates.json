@@ -8,5 +8,12 @@
 	"verification": "https://youtu.be/cwpBLkNfgf8",
 	"percentToQualify": 100,
 	"password": "#470",
-	"records" : []
+	"records": [
+		{
+			"user": "yyuke36",
+			"link": "https://youtu.be/y6AcnLDVaVc",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
