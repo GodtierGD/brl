@@ -12445,5 +12445,14 @@
 		"from_rank": null,
 		"above": "ohio_escape",
 		"below": "the_unemployed"
+	},
+	{
+		"date": 1776533745,
+		"action": "placed",
+		"name": "stero_mad",
+		"to_rank": 352,
+		"from_rank": null,
+		"above": "apple_vision_pro",
+		"below": "Grimace is shaking"
 	}
 ]
