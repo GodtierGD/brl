@@ -3,10 +3,19 @@
 	"name": "old drakes demise",
 	"description": "the ending is so fricking ahh",
 	"author": "Gdkgunner",
-	"creators": ["Gdkgunner"],
+	"creators": [
+		"Gdkgunner"
+	],
 	"verifier": "tmkis",
 	"verification": "https://youtu.be/P9MKx541704",
 	"percentToQualify": 100,
 	"password": "#324",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/fFVZ-Ema0rg",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
