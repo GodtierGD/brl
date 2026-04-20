@@ -3,10 +3,20 @@
 	"name": "stero mad",
 	"description": "brainrot levels list",
 	"author": "Pxslv2",
-	"creators": ["Pxsl"],
+	"creators": [
+		"Pxsl"
+	],
 	"verifier": "ßßus",
 	"verification": "https://youtu.be/XZBRrmkM_6k",
 	"percentToQualify": 100,
 	"password": "#352",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/gYSDXLCPyhg",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
