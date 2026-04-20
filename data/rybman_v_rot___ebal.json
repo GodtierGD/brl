@@ -3,10 +3,20 @@
 	"name": "rybman v rot   ebal",
 	"description": "",
 	"author": "rybqa",
-	"creators": ["rybqa"],
+	"creators": [
+		"rybqa"
+	],
 	"verifier": "shimeji",
 	"verification": "https://youtu.be/p2NxD_KGFrU",
 	"percentToQualify": 100,
 	"password": "#452",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/gYSDXLCPyhg",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

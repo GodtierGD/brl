@@ -3,10 +3,20 @@
 	"name": "The unemployed",
 	"description": "",
 	"author": "GaryGaryGaryGar",
-	"creators": ["GaryGaryGaryGar"],
+	"creators": [
+		"GaryGaryGaryGar"
+	],
 	"verifier": "GaryGayGayGar",
 	"verification": "https://youtu.be/RrwckfZoe3Y",
 	"percentToQualify": 100,
 	"password": "#370",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/gYSDXLCPyhg",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
