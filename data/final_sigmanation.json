@@ -17,6 +17,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "ImaorangeTwitch",
+			"link": "https://youtu.be/kOJKpzzF97M",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
