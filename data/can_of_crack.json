@@ -6,17 +6,11 @@
 	"creators": [
 		"tmkis"
 	],
-	"verifier": "MimoGD",
-	"verification": "https://www.youtube.com/watch?v=6vBgt4APzm8",
+	"verifier": "NojusGamingg",
+	"verification": "https://youtu.be/I9B_l1Xysak",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "NojusGamingg",
-			"link": "https://youtu.be/I9B_l1Xysak",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "tmkis",
 			"link": "https://youtu.be/eYlpE3RAq-Q",

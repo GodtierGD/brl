@@ -6,17 +6,11 @@
 	"creators": [
 		"tmkis"
 	],
-	"verifier": "MimoGD",
-	"verification": "https://youtu.be/vf8dayFRTik",
+	"verifier": "OneShot786",
+	"verification": "https://youtu.be/GiTngjYGvEU?si=gaIiH1Wvb_orcfra&t=35",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "OneShot786",
-			"link": "https://youtu.be/GiTngjYGvEU?si=gaIiH1Wvb_orcfra&t=35",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "tmkis",
 			"link": "https://youtu.be/eYlpE3RAq-Q",
