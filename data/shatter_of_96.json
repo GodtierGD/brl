@@ -7,17 +7,11 @@
 		"MimoGD",
 		" tmkis"
 	],
-	"verifier": "MimoGD",
-	"verification": "https://youtu.be/UmV6HqD9-M0",
+	"verifier": "zoonk",
+	"verification": "https://youtu.be/s62tSJ4pR3s",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "zoonk",
-			"link": "https://youtu.be/s62tSJ4pR3s",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "tmkis",
 			"link": "https://youtu.be/dJzgqS4Z0B8",
