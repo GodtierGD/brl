@@ -5,37 +5,51 @@ const scale = 2;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
+ * Uses exponential decay: 420 * e^(-0.009 * (rank - 1))
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    if (rank > 10000) {
+    // 1. Basic list boundaries
+    if (!rank || rank > 10000) {
         return 0;
     }
+    
+    // 2. Only allow progress points for the Top 75
     if (rank > 75 && percent < 100) {
         return 0;
     }
 
-    // Old formula
-    /*
-    let score = (240 / Math.sqrt((rank - 1) / 50 + 0.5) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
-    // New formula
-    let score = (-0.98*Math.pow(rank-1, 0.97) + 420) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    // 3. Prevent division by zero if minPercent is missing/invalid
+    const effectiveMin = (minPercent || 1) - 1;
+    const denominator = 100 - effectiveMin;
+    if (denominator <= 0) return 0;
 
-    score = Math.max(0, score);
+    // 4. The New Exponential Decay Formula
+    // Base 420 with a -0.009 decay rate
+    let basePoints = 420 * Math.exp(-0.009 * (rank - 1));
+    
+    // 5. Apply percentage scaling
+    let calculatedScore = basePoints * ((percent - effectiveMin) / denominator);
 
+    // 6. Safety check to ensure we never return NaN or negative
+    calculatedScore = Math.max(0, calculatedScore || 0);
+
+    // 7. Apply 33% penalty for non-100% completions
     if (percent != 100) {
-        return round(score - score / 3);
+        return round(calculatedScore * (2 / 3));
     }
 
-    return Math.max(round(score), 0);
+    return Math.max(round(calculatedScore), 0);
 }
 
+/**
+ * Rounds a number to the defined scale
+ * @param {Number} num 
+ * @returns {Number}
+ */
 export function round(num) {
     if (!('' + num).includes('e')) {
         return +(Math.round(num + 'e+' + scale) + 'e-' + scale);
