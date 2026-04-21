@@ -21,6 +21,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "treasure",
+			"link": "https://www.youtube.com/watch?v=DpPQIeR5-n0",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
