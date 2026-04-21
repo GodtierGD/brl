@@ -27,6 +27,19 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Kman333",
+			"link": "https://www.youtube.com/watch?v=et_gM8TtTBA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "shimeji",
+			"link": "https://youtu.be/6DN4hkYv01Q?si=AcjZ_LHZ7EQQLXSG",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
