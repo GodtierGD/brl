@@ -40,6 +40,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "mnob",
+			"link": "https://youtu.be/mijSc2mVtH8",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
