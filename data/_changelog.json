@@ -12517,5 +12517,14 @@
 		"from_rank": null,
 		"above": "KAIGREGATION CENAT",
 		"below": "freedumbohgyat"
+	},
+	{
+		"date": 1777012631,
+		"action": "placed",
+		"name": "axos_gog_simulator",
+		"to_rank": 405,
+		"from_rank": null,
+		"above": "the_sixnineth_varien",
+		"below": "ascension_to_lebron"
 	}
 ]
