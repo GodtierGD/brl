@@ -3,10 +3,20 @@
 	"name": "Axos Gog Simulator",
 	"description": "",
 	"author": "PieNuke",
-	"creators": ["PieNuke"],
+	"creators": [
+		"PieNuke"
+	],
 	"verifier": "PieNuke",
 	"verification": "https://youtu.be/MJUiHlU2Uy0?si=wP8BhUIhBQ10yxAY",
 	"percentToQualify": 100,
 	"password": "#405",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://m.youtube.com/watch?v=-TN6_7WIJVk&pp=0gcJCU8Co7VqN5tD",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
