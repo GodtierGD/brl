@@ -28,6 +28,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://www.youtube.com/watch?v=KuovqDt7NiA",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
