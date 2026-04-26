@@ -12553,5 +12553,14 @@
 		"from_rank": null,
 		"above": "kelp",
 		"below": "peterbot"
+	},
+	{
+		"date": 1777166122,
+		"action": "placed",
+		"name": "the_femboys_ii",
+		"to_rank": 380,
+		"from_rank": null,
+		"above": "phonkrot",
+		"below": "unnamed_tmkis_challenge"
 	}
 ]
