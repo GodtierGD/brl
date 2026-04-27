@@ -58,6 +58,13 @@
 			"link": "https://youtu.be/y4scrM6Tnds",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "heilx",
+			"link": "https://youtu.be/1DlgB-6-CYc",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
