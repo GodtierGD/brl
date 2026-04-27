@@ -2,10 +2,19 @@
 	"id": 116956977,
 	"name": "off the cartnite",
 	"author": "schitt",
-	"creators": ["schitt"],
+	"creators": [
+		"schitt"
+	],
 	"verifier": "schitt",
 	"verification": "https://youtu.be/zxdJRbyOYIA?si=PC7R48q2xU8NM3XH",
 	"percentToQualify": 100,
 	"password": "N/A",
-	"records" : []
+	"records": [
+		{
+			"user": "OneShot786",
+			"link": "https://www.youtube.com/watch?v=dCxYCt-Juz0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
