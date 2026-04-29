@@ -104,6 +104,13 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "gdplayer",
+			"link": "https://youtu.be/MOFzjzBuuaM?si=W-jD_cyC8RSwB7sS",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
