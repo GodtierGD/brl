@@ -346,6 +346,13 @@
 			"link": "https://youtu.be/WAY2rot1QEI",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "gdplayer",
+			"link": "https://youtu.be/wTzZfH0BaHI?si=awRS9A_j0pSCL7Uz",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
