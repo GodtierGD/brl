@@ -12143,7 +12143,7 @@
 	{
 		"date": 1775840594,
 		"action": "placed",
-		"name": "ChefLimeTheCowboy_is_soggy",
+		"name": "ChefLime_is_soggy",
 		"to_rank": 476,
 		"from_rank": null,
 		"above": "tung_tung_tidal_tonk",
@@ -12425,7 +12425,7 @@
 		"name": "water_gates_xirai",
 		"to_rank": 501,
 		"from_rank": null,
-		"above": "ChefLimeTheCowboy_is_soggy",
+		"above": "ChefLime_is_soggy",
 		"below": "mango_blud"
 	},
 	{
