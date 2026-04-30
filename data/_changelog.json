@@ -12652,5 +12652,14 @@
 		"from_rank": 309,
 		"above": "mentals_method_twb6767",
 		"below": "the_unemployed"
+	},
+	{
+		"date": 1777531035,
+		"action": "raised",
+		"name": "dawn_dish_soap",
+		"to_rank": 295,
+		"from_rank": 332,
+		"above": "lithium_battery_z",
+		"below": "rizzler_voyage"
 	}
 ]
