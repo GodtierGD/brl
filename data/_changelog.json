@@ -12670,5 +12670,14 @@
 		"from_rank": 321,
 		"above": "rainbow_rot",
 		"below": "free_robux"
+	},
+	{
+		"date": 1777593183,
+		"action": "raised",
+		"name": "ducky_of_despair",
+		"to_rank": 154,
+		"from_rank": 182,
+		"above": "miami_gyattline",
+		"below": "chips_ahoy_chewy"
 	}
 ]
