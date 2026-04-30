@@ -3,10 +3,20 @@
 	"name": "rainbowmanmanman",
 	"description": "rainbow yay",
 	"author": "yyuke36",
-	"creators": ["yyuke36"],
+	"creators": [
+		"yyuke36"
+	],
 	"verifier": "yyuke36",
 	"verification": "https://youtu.be/r8Oa4PgPNjM",
 	"percentToQualify": 100,
 	"password": "#504",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=9EbYNkxP-Ck",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
