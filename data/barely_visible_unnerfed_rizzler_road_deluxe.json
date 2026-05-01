@@ -10,5 +10,11 @@
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
+		{
+			"user": "OneShot786",
+			"link": "https://youtu.be/w0UbJWHKLMs?si=W2Ffp7xXTnFWf_BR",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
