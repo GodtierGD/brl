@@ -12760,5 +12760,14 @@
 		"from_rank": 439,
 		"above": "krisscapes",
 		"below": "2p_krisscapes"
+	},
+	{
+		"date": 1777702768,
+		"action": "lowered",
+		"name": "tung_after_tung",
+		"to_rank": 522,
+		"from_rank": 491,
+		"above": "brnouement",
+		"below": "anderdingus"
 	}
 ]
