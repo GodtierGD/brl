@@ -12733,5 +12733,14 @@
 		"from_rank": null,
 		"above": "everyone_stop_giving_birth_in_the_vc",
 		"below": "peterbot"
+	},
+	{
+		"date": 1777702515,
+		"action": "placed",
+		"name": "ballistic_pisstfully",
+		"to_rank": 294,
+		"from_rank": null,
+		"above": "russian_flickermunt",
+		"below": "rednaxs_traffic_cone"
 	}
 ]
