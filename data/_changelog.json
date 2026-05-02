@@ -12697,5 +12697,14 @@
 		"from_rank": null,
 		"above": "501_cigarettes",
 		"below": "based_sigmas"
+	},
+	{
+		"date": 1777700782,
+		"action": "placed",
+		"name": "dihbotomy_land",
+		"to_rank": 433,
+		"from_rank": null,
+		"above": "the_femboys",
+		"below": "easter_island"
 	}
 ]
