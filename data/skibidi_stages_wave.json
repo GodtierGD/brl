@@ -1,14 +1,12 @@
 {
 	"id": 114046532,
 	"name": "Skibidi Stages Wave",
+	"description": "Can u Pass my Most Best Skibidi Level Ever in 82922911 Attempts?",
 	"author": "BoykisserShadow",
-	"creators": [
-		"BoykisserShadow"
-	],
-	"verifier": "MacacoChucrut",
-	"verification": "https://www.youtube.com/watch?v=smcBaYMQ7zw",
+	"creators": ["BoykisserShadow"],
+	"verifier": "tmkis",
+	"verification": "https://www.youtube.com/watch?v=c_eWH0Gd0NM",
 	"percentToQualify": 100,
-	"password": "N/A",
-	"records": [
-	]
+	"password": "#377",
+	"records" : []
 }
