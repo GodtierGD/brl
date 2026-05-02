@@ -12778,5 +12778,14 @@
 		"from_rank": 466,
 		"above": "every_lime",
 		"below": "indonisea_circles"
+	},
+	{
+		"date": 1777702899,
+		"action": "lowered",
+		"name": "every_lime",
+		"to_rank": 466,
+		"from_rank": 456,
+		"above": "turkish_circles",
+		"below": "Jaxagarasu"
 	}
 ]
