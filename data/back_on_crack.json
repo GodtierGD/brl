@@ -29,6 +29,12 @@
 			"link": "https://www.youtube.com/watch?v=tRSFDuqshBo",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "beat",
+			"link": "https://youtu.be/xxVYv0uQT_w",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
