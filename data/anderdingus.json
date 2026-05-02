@@ -17,6 +17,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Flibbertwiggins",
+			"link": "https://youtu.be/3XrwO-MN8-A",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
