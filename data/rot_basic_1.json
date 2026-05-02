@@ -203,6 +203,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Watermelon GD",
+			"link": "https://www.youtube.com/watch?v=Tm2-JXfDj7M",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
