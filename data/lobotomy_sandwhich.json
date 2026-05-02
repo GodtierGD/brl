@@ -110,6 +110,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "feet",
+			"link": "https://youtu.be/3aBWHiumrjs?si=Z4Q9539EXDhGIjBf",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
