@@ -3,10 +3,20 @@
 	"name": "Diamond Sahur",
 	"description": "",
 	"author": "Nebu1agd",
-	"creators": ["Nebu1agd"],
+	"creators": [
+		"Nebu1agd"
+	],
 	"verifier": "Nebu1agd",
 	"verification": "https://www.youtube.com/watch?v=H9D6mJnbW6o&t=1s",
 	"percentToQualify": 100,
 	"password": "#251",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=-TN6_7WIJVk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
