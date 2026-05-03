@@ -191,6 +191,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "beat",
+			"link": "https://youtu.be/8p9v4kosb54",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
