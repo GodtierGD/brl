@@ -65,6 +65,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "jailcase",
+			"link": "https://www.youtube.com/watch?v=2nWL7zU8C4w&feature=youtu.be",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

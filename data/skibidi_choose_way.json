@@ -174,6 +174,12 @@
 			"link": "https://www.youtube.com/watch?v=nmqAFHhvHwE",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "beat",
+			"link": "https://youtu.be/4PlMTyuIf6A",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
