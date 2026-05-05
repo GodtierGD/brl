@@ -3,10 +3,19 @@
 	"name": "dihbotomy land",
 	"description": "I extended this to 35 seconds and fluked from 15%",
 	"author": "RobzoGD",
-	"creators": ["RobzoG"],
+	"creators": [
+		"RobzoG"
+	],
 	"verifier": "RobzoGD",
 	"verification": "https://youtu.be/nLzEBVViYP4",
 	"percentToQualify": 100,
 	"password": "#433",
-	"records" : []
+	"records": [
+		{
+			"user": "Kman333",
+			"link": "https://www.youtube.com/watch?v=73QFlHvON_8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
