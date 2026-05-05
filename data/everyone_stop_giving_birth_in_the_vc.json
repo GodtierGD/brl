@@ -77,6 +77,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Ika_io",
+			"link": "https://www.youtube.com/watch?v=bVQEHaUA0jA",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
