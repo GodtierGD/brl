@@ -3,10 +3,20 @@
 	"name": "ballistic pisstfully",
 	"description": "",
 	"author": "thebluestinky",
-	"creators": ["thebluestinky"],
+	"creators": [
+		"thebluestinky"
+	],
 	"verifier": "iLake",
 	"verification": "https://youtu.be/zzMmRurkYEY?si=76fPaYBHrBEH3WCU",
 	"percentToQualify": 100,
 	"password": "#294",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/xlUr5Gcr8RI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }

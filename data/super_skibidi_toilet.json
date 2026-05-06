@@ -3,10 +3,20 @@
 	"name": "Super Skibidi Toilet",
 	"description": "one of mentals levels i think probably",
 	"author": "m3nt411",
-	"creators": ["furobtop"],
+	"creators": [
+		"furobtop"
+	],
 	"verifier": "foop",
 	"verification": "https://youtu.be/uMHTOX251BY",
 	"percentToQualify": 100,
 	"password": "#285",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/xlUr5Gcr8RI",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
