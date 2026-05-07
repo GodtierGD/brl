@@ -113,6 +113,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "ARandomBall",
+			"link": "https://youtu.be/S-oVxKiZ0Qo?si=sWttjkL-ZK7yaiCQ",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
