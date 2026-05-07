@@ -161,6 +161,18 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Jarzst",
+			"link": "https://youtu.be/TcT4HVG4SVE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nugbit",
+			"link": "https://youtu.be/8V2hJt-fisE",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
