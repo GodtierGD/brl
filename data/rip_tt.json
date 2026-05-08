@@ -190,6 +190,18 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Gebyz",
+			"link": "https://youtu.be/lYWwwVysJ-Q",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Ika_io",
+			"link": "https://www.youtube.com/watch?v=hP5UJwkjcr0",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
