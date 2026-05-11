@@ -126,6 +126,12 @@
 			"link": "https://www.youtube.com/watch?v=uTqg3PYdBc4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "nugbit",
+			"link": "https://youtu.be/vMJHxxedMLw",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
