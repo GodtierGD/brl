@@ -12904,5 +12904,14 @@
 		"from_rank": null,
 		"above": "Jaxagarasu",
 		"below": "denormal"
+	},
+	{
+		"date": 1778556746,
+		"action": "raised",
+		"name": "brainrot_swing",
+		"to_rank": 478,
+		"from_rank": 479,
+		"above": "brabrotenroten",
+		"below": "kris tyson challenge"
 	}
 ]
