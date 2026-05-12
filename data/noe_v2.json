@@ -3,10 +3,19 @@
 	"name": "NOE V2",
 	"description": "",
 	"author": "jaysaton",
-	"creators": ["jaysaton"],
+	"creators": [
+		"jaysaton"
+	],
 	"verifier": "shimeji",
 	"verification": "https://youtu.be/NEPGG2W592c?si=zVfBUgToqbNkjue-",
 	"percentToQualify": 100,
 	"password": "#465",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/gs1UBcjHGCw",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

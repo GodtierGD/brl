@@ -3,10 +3,19 @@
 	"name": "25 max black hole",
 	"description": "",
 	"author": "beat",
-	"creators": ["beat"],
+	"creators": [
+		"beat"
+	],
 	"verifier": "beat",
 	"verification": "https://youtu.be/F2-0op3tQRI",
 	"percentToQualify": 100,
 	"password": "#517",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/vNHw2ZBh36g",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

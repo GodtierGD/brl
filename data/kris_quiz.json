@@ -3,10 +3,19 @@
 	"name": "kris quiz",
 	"description": "",
 	"author": "beat",
-	"creators": ["beat"],
+	"creators": [
+		"beat"
+	],
 	"verifier": "beat",
 	"verification": "https://youtu.be/XuqfNzbwMwg",
 	"percentToQualify": 100,
 	"password": "#509",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/Rfct77sIJ8w",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
