@@ -12814,5 +12814,14 @@
 		"from_rank": null,
 		"above": "Jaxagarasu",
 		"below": "jack_of_all_trades"
+	},
+	{
+		"date": 1778547405,
+		"action": "raised",
+		"name": "denormal",
+		"to_rank": 467,
+		"from_rank": 469,
+		"above": "every_lime",
+		"below": "Jaxagarasu"
 	}
 ]
