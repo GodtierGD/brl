@@ -12868,5 +12868,14 @@
 		"from_rank": 526,
 		"above": "unnamed_18",
 		"below": "xirai"
+	},
+	{
+		"date": 1778552636,
+		"action": "lowered",
+		"name": "kris_quiz",
+		"to_rank": 513,
+		"from_rank": 511,
+		"above": "i_may_have_dementia",
+		"below": "rainbowmanmanman"
 	}
 ]
