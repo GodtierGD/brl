@@ -1,11 +1,12 @@
 {
 	"id": 117023232,
 	"name": "Freaky Demoness",
-	"author": "MacacoChucrut",
+	"description": "",
+	"author": "mmacaca",
 	"creators": ["Ch4lkboard"],
-	"verifier": "MacacoChucrut",
-	"verification": "https://www.youtube.com/watch?v=mmW4l960rCs",
+	"verifier": "tmkis",
+	"verification": "https://youtu.be/TBb8z1SMXBs",
 	"percentToQualify": 100,
-	"password": "N/A",
+	"password": "#64",
 	"records" : []
 }
