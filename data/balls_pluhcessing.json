@@ -3,10 +3,19 @@
 	"name": "Balls Pluhcessing",
 	"description": "",
 	"author": "ChefLimeTheCowboy",
-	"creators": ["ChefLimeTheCowboy"],
+	"creators": [
+		"ChefLimeTheCowboy"
+	],
 	"verifier": "ChefLimeTheCowboy",
 	"verification": "https://youtu.be/87oiP3t_BCA",
 	"percentToQualify": 100,
 	"password": "#526",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/uaa1SX9xoow",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
