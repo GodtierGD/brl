@@ -12823,5 +12823,14 @@
 		"from_rank": 469,
 		"above": "every_lime",
 		"below": "Jaxagarasu"
+	},
+	{
+		"date": 1778547545,
+		"action": "raised",
+		"name": "denormal",
+		"to_rank": 466,
+		"from_rank": 467,
+		"above": "Jaxagarasu",
+		"below": "noe_v2"
 	}
 ]
