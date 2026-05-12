@@ -12877,5 +12877,14 @@
 		"from_rank": 511,
 		"above": "i_may_have_dementia",
 		"below": "rainbowmanmanman"
+	},
+	{
+		"date": 1778553373,
+		"action": "placed",
+		"name": "25_max_black_hole",
+		"to_rank": 517,
+		"from_rank": null,
+		"above": "peterbot",
+		"below": "brainrotfall"
 	}
 ]
