@@ -12913,5 +12913,14 @@
 		"from_rank": 479,
 		"above": "brabrotenroten",
 		"below": "kris tyson challenge"
+	},
+	{
+		"date": 1778590143,
+		"action": "raised",
+		"name": "i_may_have_dementia",
+		"to_rank": 477,
+		"from_rank": 515,
+		"above": "kris tyson challenge",
+		"below": "skibidi_choose_way_2"
 	}
 ]
