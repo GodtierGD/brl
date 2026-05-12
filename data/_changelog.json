@@ -12859,5 +12859,14 @@
 		"from_rank": null,
 		"above": "rizzler_road_circles",
 		"below": "3_levels_of_wave"
+	},
+	{
+		"date": 1778552184,
+		"action": "raised",
+		"name": "brnouement",
+		"to_rank": 522,
+		"from_rank": 526,
+		"above": "unnamed_18",
+		"below": "xirai"
 	}
 ]
