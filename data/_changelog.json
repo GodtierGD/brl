@@ -13021,5 +13021,14 @@
 		"from_rank": 505,
 		"above": "gyatstep",
 		"below": "tmkis_gaming"
+	},
+	{
+		"date": 1778643547,
+		"action": "raised",
+		"name": "skibidi_hell",
+		"to_rank": 492,
+		"from_rank": 493,
+		"above": "Kai Rizz",
+		"below": "brainrot_let_go"
 	}
 ]
