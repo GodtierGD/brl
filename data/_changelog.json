@@ -13039,5 +13039,14 @@
 		"from_rank": 489,
 		"above": "brainrot_let_go",
 		"below": "water_gates_xirai"
+	},
+	{
+		"date": 1778643946,
+		"action": "raised",
+		"name": "skibidi_hell",
+		"to_rank": 492,
+		"from_rank": 492,
+		"above": "Kai Rizz",
+		"below": "brainrot_let_go"
 	}
 ]
