@@ -12949,5 +12949,14 @@
 		"from_rank": null,
 		"above": "rybman_v_rot___ebal",
 		"below": "tuff_top_10_ez_brl"
+	},
+	{
+		"date": 1778639207,
+		"action": "raised",
+		"name": "only_double_clicks",
+		"to_rank": 478,
+		"from_rank": 512,
+		"above": "kris tyson challenge",
+		"below": "i_may_have_dementia"
 	}
 ]
