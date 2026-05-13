@@ -12958,5 +12958,14 @@
 		"from_rank": 512,
 		"above": "kris tyson challenge",
 		"below": "i_may_have_dementia"
+	},
+	{
+		"date": 1778639276,
+		"action": "raised",
+		"name": "only_double_clicks_x",
+		"to_rank": 477,
+		"from_rank": 512,
+		"above": "i_may_have_dementia",
+		"below": "skibidi_choose_way_2"
 	}
 ]
