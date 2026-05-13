@@ -12985,5 +12985,14 @@
 		"from_rank": 485,
 		"above": "brainrot_swing",
 		"below": "kris tyson challenge"
+	},
+	{
+		"date": 1778640760,
+		"action": "lowered",
+		"name": "The Brainrot Drink",
+		"to_rank": 527,
+		"from_rank": 501,
+		"above": "balls_pluhcessing",
+		"below": "my_amazing_map"
 	}
 ]
