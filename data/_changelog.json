@@ -13030,5 +13030,14 @@
 		"from_rank": 493,
 		"above": "Kai Rizz",
 		"below": "brainrot_let_go"
+	},
+	{
+		"date": 1778643797,
+		"action": "lowered",
+		"name": "sakupen_gates",
+		"to_rank": 490,
+		"from_rank": 489,
+		"above": "brainrot_let_go",
+		"below": "water_gates_xirai"
 	}
 ]
