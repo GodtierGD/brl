@@ -12976,5 +12976,14 @@
 		"from_rank": 477,
 		"above": "skibidi_choose_way_2",
 		"below": "can_i_get_a_mc_brain"
+	},
+	{
+		"date": 1778640322,
+		"action": "raised",
+		"name": "owo_beeare_wave_owo",
+		"to_rank": 481,
+		"from_rank": 485,
+		"above": "brainrot_swing",
+		"below": "kris tyson challenge"
 	}
 ]
