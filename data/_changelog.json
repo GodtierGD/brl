@@ -12967,5 +12967,14 @@
 		"from_rank": 512,
 		"above": "i_may_have_dementia",
 		"below": "skibidi_choose_way_2"
+	},
+	{
+		"date": 1778639703,
+		"action": "raised",
+		"name": "only_double_clicks_x",
+		"to_rank": 476,
+		"from_rank": 477,
+		"above": "skibidi_choose_way_2",
+		"below": "can_i_get_a_mc_brain"
 	}
 ]
