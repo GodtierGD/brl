@@ -3,10 +3,19 @@
 	"name": "Blue Doge",
 	"description": "",
 	"author": "beat",
-	"creators": ["beat"],
+	"creators": [
+		"beat"
+	],
 	"verifier": "beat",
 	"verification": "https://youtu.be/ohdS1--XYiQ",
 	"percentToQualify": 100,
 	"password": "#489",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/80gr_ce6fls",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
