@@ -13066,5 +13066,14 @@
 		"from_rank": null,
 		"above": "lil_nas_x_never_clear",
 		"below": "denormal_in_heck"
+	},
+	{
+		"date": 1778801697,
+		"action": "placed",
+		"name": "invisible_everyone_stop_giving_birth_in_the_vc",
+		"to_rank": 471,
+		"from_rank": null,
+		"above": "triple_t_calc",
+		"below": "denormal"
 	}
 ]
