@@ -3,10 +3,20 @@
 	"name": "NormalFaceButScary",
 	"description": "",
 	"author": "Nugbit",
-	"creators": ["Nugbit"],
+	"creators": [
+		"Nugbit"
+	],
 	"verifier": "Nugbit",
 	"verification": "https://youtu.be/mjtMuQcp8rw",
 	"percentToQualify": 100,
 	"password": "#219",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=SdyfUNe0kuU",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
