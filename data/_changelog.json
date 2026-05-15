@@ -13084,5 +13084,14 @@
 		"from_rank": null,
 		"above": "thanos_for_admin",
 		"below": "didyblud_clubstep"
+	},
+	{
+		"date": 1778804078,
+		"action": "placed",
+		"name": "da_worst_level_brl",
+		"to_rank": 539,
+		"from_rank": null,
+		"above": "mango_blud",
+		"below": "skibidi_prime_br"
 	}
 ]
