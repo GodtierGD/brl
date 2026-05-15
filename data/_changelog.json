@@ -13138,5 +13138,14 @@
 		"from_rank": null,
 		"above": "rotten_skibidi",
 		"below": "invisible_drakes_harddrive"
+	},
+	{
+		"date": 1778885482,
+		"action": "placed",
+		"name": "nugbit_fart_mode_2",
+		"to_rank": 345,
+		"from_rank": null,
+		"above": "old_drakes_demise",
+		"below": "dorabe_memore"
 	}
 ]
