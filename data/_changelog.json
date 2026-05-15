@@ -13093,5 +13093,14 @@
 		"from_rank": null,
 		"above": "mango_blud",
 		"below": "skibidi_prime_br"
+	},
+	{
+		"date": 1778817095,
+		"action": "placed",
+		"name": "hirework",
+		"to_rank": 486,
+		"from_rank": null,
+		"above": "brabrotenroten",
+		"below": "brainrot_swing"
 	}
 ]
