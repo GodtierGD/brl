@@ -8,5 +8,13 @@
 	"verification": "https://youtu.be/sGhC12BtiSI",
 	"percentToQualify": 100,
 	"password": "#486",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://youtu.be/haqPXR7fX2Q",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
