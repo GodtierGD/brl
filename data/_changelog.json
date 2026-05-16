@@ -13219,5 +13219,14 @@
 		"from_rank": 540,
 		"above": "tung_after_tung",
 		"below": "anderdingus"
+	},
+	{
+		"date": 1778925098,
+		"action": "placed",
+		"name": "evildtouchedme",
+		"to_rank": 367,
+		"from_rank": null,
+		"above": "escape_kris_tyson",
+		"below": "krypt_of_kyrgyz"
 	}
 ]
