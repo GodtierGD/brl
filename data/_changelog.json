@@ -13228,5 +13228,14 @@
 		"from_rank": null,
 		"above": "escape_kris_tyson",
 		"below": "krypt_of_kyrgyz"
+	},
+	{
+		"date": 1778932239,
+		"action": "lowered",
+		"name": "evildtouchedme",
+		"to_rank": 415,
+		"from_rank": 367,
+		"above": "axos_gog_simulator",
+		"below": "ascension_to_lebron"
 	}
 ]
