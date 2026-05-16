@@ -13183,5 +13183,14 @@
 		"from_rank": 368,
 		"above": "skibidi_house",
 		"below": "escape_kris_tyson"
+	},
+	{
+		"date": 1778914992,
+		"action": "raised",
+		"name": "OiOiOi",
+		"to_rank": 368,
+		"from_rank": 371,
+		"above": "solar_flare_gun_1999",
+		"below": "escape_kris_tyson"
 	}
 ]
