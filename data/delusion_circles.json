@@ -2,10 +2,23 @@
 	"id": 130507247,
 	"name": "Delusion Circles",
 	"author": "AFive",
-	"creators": ["AFive"," Illusion"," Schitt"," Godtier"," Thanosdude"],
+	"creators": [
+		"AFive",
+		" Illusion",
+		" Schitt",
+		" Godtier",
+		" Thanosdude"
+	],
 	"verifier": "AFive",
 	"verification": "https://www.youtube.com/watch?v=lao4KvfjMuM",
 	"percentToQualify": 58,
 	"password": "#2",
-	"records" : []
+	"records": [
+		{
+			"user": "schitt",
+			"link": "https://youtu.be/OsZcl6Yzqus",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
