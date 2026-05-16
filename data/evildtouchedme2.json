@@ -8,5 +8,12 @@
 	"verification": "https://youtu.be/z0whJFIbUCM?si=7IMohYBm5MLaz8Zv",
 	"percentToQualify": 100,
 	"password": "#367",
-	"records" : []
+	"records": [
+		{
+			"user": "Kman333",
+			"link": "https://www.youtube.com/watch?v=BDIAWmswMak",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
