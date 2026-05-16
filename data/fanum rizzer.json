@@ -10,5 +10,11 @@
 	"percentToQualify": "100",
 	"password": "None",
 	"records": [
+		{
+			"user": "zoonk",
+			"link": "https://youtu.be/GineEOoZAos",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
