@@ -13165,5 +13165,14 @@
 		"from_rank": null,
 		"above": "every_lime",
 		"below": "Jaxagarasu"
+	},
+	{
+		"date": 1778914803,
+		"action": "raised",
+		"name": "solar_flare_gun_1999",
+		"to_rank": 368,
+		"from_rank": 369,
+		"above": "skibidi_house",
+		"below": "escape_kris_tyson"
 	}
 ]
