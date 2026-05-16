@@ -13255,5 +13255,14 @@
 		"from_rank": 2,
 		"above": "gilbert_vortex",
 		"below": null
+	},
+	{
+		"date": 1778959866,
+		"action": "lowered",
+		"name": "delusion_circles",
+		"to_rank": 2,
+		"from_rank": 1,
+		"above": "mango_phonk_house",
+		"below": "gilbert_vortex"
 	}
 ]
