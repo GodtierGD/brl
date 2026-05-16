@@ -3,10 +3,20 @@
 	"name": "cuz we playing bendy",
 	"description": "",
 	"author": "beat",
-	"creators": ["beat"],
+	"creators": [
+		"beat"
+	],
 	"verifier": "beat",
 	"verification": "https://youtu.be/n3isrZWQCRg",
 	"percentToQualify": 100,
 	"password": "#513",
-	"records" : []
+	"records": [
+		{
+			"user": "tmkis",
+			"link": "https://www.youtube.com/watch?v=haqPXR7fX2Q",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
+	]
 }
