@@ -13273,5 +13273,14 @@
 		"from_rank": null,
 		"above": "jack_of_all_trades",
 		"below": "why_i_love_edging"
+	},
+	{
+		"date": 1778991999,
+		"action": "placed",
+		"name": "abyss_of_darkness_2",
+		"to_rank": 398,
+		"from_rank": null,
+		"above": "2p_krisscapes",
+		"below": "island_escape"
 	}
 ]
