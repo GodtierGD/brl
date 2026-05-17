@@ -3,10 +3,21 @@
 	"name": "Gilbert Vortex",
 	"description": "this was initially supposed to be easier than babushka",
 	"author": "XRatoGD",
-	"creators": ["XRatoGD"," Nordgeez"," GDBozo"],
+	"creators": [
+		"XRatoGD",
+		" Nordgeez",
+		" GDBozo"
+	],
 	"verifier": "Aronnater",
 	"verification": "https://youtu.be/aQsLlrygHao",
 	"percentToQualify": 51,
 	"password": "#2",
-	"records" : []
+	"records": [
+		{
+			"user": "AFive",
+			"link": "https://www.youtube.com/watch?v=B-k_5Pp5l3c",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
