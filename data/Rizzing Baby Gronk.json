@@ -5,17 +5,11 @@
 	"creators": [
 		"tTonk"
 	],
-	"verifier": "Tonk",
-	"verification": "https://youtu.be/XqSpyVdsR5o",
+	"verifier": "czila",
+	"verification": "https://www.youtube.com/watch?v=EpAzUNqPSMI",
 	"percentToQualify": "100",
 	"password": "None",
 	"records": [
-		{
-			"user": "czila",
-			"link": "https://www.youtube.com/watch?v=EpAzUNqPSMI",
-			"percent": 100,
-			"hz": 240
-		},
 		{
 			"user": "zGytixss",
 			"link": "https://youtu.be/imNhprEbbzo",
