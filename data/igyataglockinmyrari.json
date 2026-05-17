@@ -1,38 +1,12 @@
 {
 	"id": 112087362,
 	"name": "igyataglockinmyrari",
+	"description": "",
 	"author": "LiamLovesCatz",
-	"creators": [
-		"LiamLovesCatz"
-	],
+	"creators": ["LiamLovesCatz"],
 	"verifier": "LiamLovesCatz",
-	"verification": "https://www.youtube.com/watch?v=qro-TFXYilo",
+	"verification": "https://youtu.be/JJi-WWCXEiA",
 	"percentToQualify": 100,
-	"password": "N/A",
-	"records": [
-		{
-			"user": "shafikdabest",
-			"link": "https://youtu.be/mOq9rbNKae0",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Symm.",
-			"link": "https://www.youtube.com/watch?v=YKP6ZEwDyJ0",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "GobbleBlobber",
-			"link": "https://www.youtube.com/watch?v=vdS79VNXYeU",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "Kendrick West",
-			"link": "https://youtu.be/Y0xHI1Ld9Jw",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+	"password": "#441",
+	"records" : []
 }
