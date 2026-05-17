@@ -9,5 +9,11 @@
 	"percentToQualify": 100,
 	"password": "#367",
 	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/AnhYngYyKWk",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
