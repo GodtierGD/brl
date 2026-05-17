@@ -11,18 +11,11 @@
 		" qups",
 		" Emiheliou"
 	],
-	"verifier": "tmkis",
-	"verification": "https://youtu.be/A6oqQiwP3bk",
+	"verifier": "BoykisserShadow",
+	"verification": "https://youtu.be/TkDCqwnv4qA?si=jXTt3E2L8ZLO5XmV",
 	"percentToQualify": 100,
 	"password": "#500",
 	"records": [
-		{
-			"user": "BoykisserShadow",
-			"link": "https://youtu.be/TkDCqwnv4qA?si=jXTt3E2L8ZLO5XmV",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
 		{
 			"user": "beat",
 			"link": "https://youtu.be/RPTOt28Qo-Y",

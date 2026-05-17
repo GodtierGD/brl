@@ -9,17 +9,11 @@
 		" iRhedd",
 		" Legendshadow"
 	],
-	"verifier": "tmkis",
-	"verification": "https://www.youtube.com/watch?v=NspQXVyt7lo",
+	"verifier": "bunkyrunky",
+	"verification": "https://youtu.be/FtEZVOoCCFE?si=DOCWITpdrfRGU6zo",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "bunkyrunky",
-			"link": "https://youtu.be/FtEZVOoCCFE?si=DOCWITpdrfRGU6zo",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "afive",
 			"link": "https://www.youtube.com/watch?v=9wtI7D6YSv4",

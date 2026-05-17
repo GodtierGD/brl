@@ -6,16 +6,10 @@
 	"creators": [
 		"BoykisserShadow"
 	],
-	"verifier": "tmkis",
-	"verification": "https://www.youtube.com/watch?v=c_eWH0Gd0NM",
+	"verifier": "Nugbit",
+	"verification": "https://youtu.be/LN2B9EElaJ0",
 	"percentToQualify": 100,
 	"password": "#377",
 	"records": [
-		{
-			"user": "Nugbit",
-			"link": "https://youtu.be/LN2B9EElaJ0",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

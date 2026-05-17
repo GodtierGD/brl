@@ -6,16 +6,10 @@
 	"creators": [
 		"atomik58"
 	],
-	"verifier": "tmkis",
-	"verification": "https://youtu.be/9p0G7zJKywE",
+	"verifier": "shafikdabest",
+	"verification": "https://youtu.be/mOq9rbNKae0",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "shafikdabest",
-			"link": "https://youtu.be/mOq9rbNKae0",
-			"percent": 100,
-			"hz": 360
-		}
 	]
 }

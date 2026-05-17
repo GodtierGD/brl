@@ -6,17 +6,11 @@
 		"m3nt411",
 		" wavelog"
 	],
-	"verifier": "tmkis",
-	"verification": "https://www.youtube.com/watch?v=qB15epmkhEY",
+	"verifier": "shafikdabest",
+	"verification": "https://www.youtube.com/watch?v=grBx7LFblMg",
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
-		{
-			"user": "shafikdabest",
-			"link": "https://www.youtube.com/watch?v=grBx7LFblMg",
-			"percent": 100,
-			"hz": 360
-		},
 		{
 			"user": "lemonsliice",
 			"link": "https://youtu.be/Ne47DAr_rYM",
