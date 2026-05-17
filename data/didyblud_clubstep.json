@@ -12,13 +12,6 @@
 	"password": "#192",
 	"records": [
 		{
-			"user": "tmkis",
-			"link": "https://www.youtube.com/watch?v=-mqPn7KAk3s",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
-		{
 			"user": "afive",
 			"link": "https://www.youtube.com/watch?v=TZ4eiKoWhFc",
 			"percent": 100,

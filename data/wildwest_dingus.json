@@ -12,13 +12,6 @@
 	"password": "#310",
 	"records": [
 		{
-			"user": "tmkis",
-			"link": "https://www.youtube.com/watch?v=yg7FCKW1hV4",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
-		{
 			"user": "GobbleBlobber",
 			"link": "https://youtu.be/j5AOMwio-ko",
 			"percent": 100,

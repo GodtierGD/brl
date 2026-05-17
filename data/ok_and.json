@@ -11,13 +11,6 @@
 	"password": "N/A",
 	"records": [
 		{
-			"user": "tmkis",
-			"link": "https://www.youtube.com/watch?v=iQ7gBE19xh8",
-			"percent": 100,
-			"hz": 360,
-			"mobile": true
-		},
-		{
 			"user": "Kendrick West",
 			"link": "https://youtu.be/aa0_HvBq1Q4",
 			"percent": 100,
