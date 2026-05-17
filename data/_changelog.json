@@ -13282,5 +13282,14 @@
 		"from_rank": null,
 		"above": "2p_krisscapes",
 		"below": "island_escape"
+	},
+	{
+		"date": 1778992251,
+		"action": "placed",
+		"name": "solar_flare_gun_1999",
+		"to_rank": 385,
+		"from_rank": null,
+		"above": "Skibidi Circles",
+		"below": "sigmaest_level_ever"
 	}
 ]
