@@ -11,13 +11,8 @@
     },
     {
         "role": "admin",
-        "name": "Tonk",
-        "link": "https://www.youtube.com/@tonkorsmth"
-    },
-    {
-        "role": "admin",
-        "name": "Daevie",
-        "link": "https://www.youtube.com/channel/UC-HU_ImBPYQTYPyMcLx6aDA"
+        "name": "OneShot786",
+        "link": ""
     },
     {
         "role": "admin",
@@ -26,27 +21,27 @@
     },
     {
         "role": "admin",
-        "name": "Bean",
-        "link": "https://www.youtube.com/channel/UCljH92yWvLaIdZJLuLJXE7A"
+        "name": "shafikdabest",
+        "link": ""
     },
     {
         "role": "admin",
-        "name": "Wushady",
-        "link": "https://www.youtube.com/channel/UCtvkqj6Vo6-zzc2VIGa-nVg"
+        "name": "shotriver",
+        "link": ""
     },
     {
-        "role": "helper",
-        "name": "Nameless1s",
-        "link": "https://www.youtube.com/@nameless1s-gd"
+        "role": "admin",
+        "name": "zqwlt",
+        "link": ""
     },
     {
-        "role": "helper",
-        "name": "Furious",
+        "role": "admin",
+        "name": "kman333",
         "link": ""
     },
     {
         "role": "helper",
-        "name": "Wavelog",
+        "name": "Furious",
         "link": ""
     },
     {
@@ -61,11 +56,6 @@
     },
     {
         "role": "helper",
-        "name": "oneshot",
-        "link": ""
-    },
-    {
-        "role": "helper",
         "name": "zoonk",
         "link": ""
     },
@@ -74,7 +64,6 @@
         "name": "pokemon",
         "link": ""
     },
-    
     {
         "role": "helper",
         "name": "soggysamurai",
