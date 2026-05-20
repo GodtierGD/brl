@@ -110,11 +110,6 @@
     flex-direction: column;
     gap: 2rem;
 }
-.page-list .meta > * {
-    background: var(--color-background);
-    border-radius: 0.75rem;
-    padding: 1rem;
-}
 .page-list .meta .errors {
     display: flex;
     flex-direction: column;
