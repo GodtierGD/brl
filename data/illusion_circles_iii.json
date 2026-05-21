@@ -2,10 +2,19 @@
 	"id": 120799667,
 	"name": "Illusion Circles III",
 	"author": "Afives",
-	"creators": ["Afive"],
+	"creators": [
+		"Afive"
+	],
 	"verifier": "Afive",
 	"verification": "https://youtu.be/H9yegp8pV5c?si=fwfSe_fCYow-YVhR",
 	"percentToQualify": 100,
 	"password": "N/A",
-	"records" : []
+	"records": [
+		{
+			"user": "Godtier",
+			"link": "https://www.youtube.com/watch?v=wbSyZVBKFiA",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
