@@ -8,5 +8,12 @@
 	"verification": "https://youtu.be/7vYcyTFOTJ0",
 	"percentToQualify": 100,
 	"password": "#472",
-	"records" : []
+	"records": [
+		{
+			"user": "LiamLovesCatz",
+			"link": "https://youtu.be/b9dgWPBU0Ls",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
