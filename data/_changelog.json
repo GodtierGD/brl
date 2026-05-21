@@ -13327,5 +13327,14 @@
 		"from_rank": null,
 		"above": "sonic_wave_but_tuff",
 		"below": "water_gates_fixed"
+	},
+	{
+		"date": 1779321953,
+		"action": "placed",
+		"name": "tidal_beat",
+		"to_rank": 472,
+		"from_rank": null,
+		"above": "whats_a_tt",
+		"below": "rip_tt"
 	}
 ]
