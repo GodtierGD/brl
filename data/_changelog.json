@@ -13372,5 +13372,14 @@
 		"from_rank": 462,
 		"above": "tung_after_tung",
 		"below": "hirework"
+	},
+	{
+		"date": 1779475433,
+		"action": "raised",
+		"name": "hirework",
+		"to_rank": 459,
+		"from_rank": 460,
+		"above": "anderdingus",
+		"below": "The Brainrot Drink"
 	}
 ]
