@@ -13390,5 +13390,14 @@
 		"from_rank": 320,
 		"above": "skibidi_house",
 		"below": "escape_kris_tyson"
+	},
+	{
+		"date": 1779477121,
+		"action": "raised",
+		"name": "Skibidi Cenat",
+		"to_rank": 316,
+		"from_rank": 318,
+		"above": "evildtouchedme2",
+		"below": "krypt_of_kyrgyz"
 	}
 ]
