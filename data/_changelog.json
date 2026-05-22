@@ -13381,5 +13381,14 @@
 		"from_rank": 460,
 		"above": "anderdingus",
 		"below": "The Brainrot Drink"
+	},
+	{
+		"date": 1779475775,
+		"action": "raised",
+		"name": "Skibidi Cenat",
+		"to_rank": 318,
+		"from_rank": 320,
+		"above": "skibidi_house",
+		"below": "escape_kris_tyson"
 	}
 ]
