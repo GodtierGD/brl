@@ -140,6 +140,13 @@
 			"link": "https://youtu.be/6EmSTKRMJoQ?si=Y82KfSU1tU7EOIXs",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "bojett23",
+			"link": "https://youtu.be/9UN-fTJ6rOs?si=S_lCPF4afuutdFAD",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
