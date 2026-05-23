@@ -16,6 +16,13 @@
 			"link": "https://vimeo.com/1194989425?share=copy&fl=sv&fe=ci",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "shimeji",
+			"link": "https://youtu.be/oBm-ghTskTE?si=70YJIRAYs7Z0Svxa",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
