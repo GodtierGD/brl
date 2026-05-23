@@ -3,10 +3,19 @@
 	"name": "YYYYYYYYYYYYTTTTTTTT",
 	"description": "greatness",
 	"author": "tTonk",
-	"creators": ["Tonk"],
+	"creators": [
+		"Tonk"
+	],
 	"verifier": "Tonk",
 	"verification": "https://youtu.be/qBDuZpdSlZI",
 	"percentToQualify": 100,
 	"password": "#479",
-	"records" : []
+	"records": [
+		{
+			"user": "blackyoshi",
+			"link": "https://vimeo.com/1194989425?share=copy&fl=sv&fe=ci",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
