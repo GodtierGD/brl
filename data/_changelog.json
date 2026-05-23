@@ -13435,5 +13435,14 @@
 		"from_rank": 262,
 		"above": "KAIGREGATION CENAT",
 		"below": "freedumbohgyat"
+	},
+	{
+		"date": 1779561479,
+		"action": "raised",
+		"name": "jax_circles",
+		"to_rank": 263,
+		"from_rank": 265,
+		"above": "congregation 34 real",
+		"below": "freedumbohgyat"
 	}
 ]
