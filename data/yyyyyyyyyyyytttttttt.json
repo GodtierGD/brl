@@ -23,6 +23,18 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Vinkii",
+			"link": "https://youtu.be/DzFDT7zjF8Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nugbit",
+			"link": "https://youtu.be/8PX4_FDlYMk",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
