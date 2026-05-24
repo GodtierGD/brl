@@ -13534,5 +13534,14 @@
 		"from_rank": 266,
 		"above": "67_jumps_of_hell",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1779642850,
+		"action": "placed",
+		"name": "super_labotomyhouse",
+		"to_rank": 451,
+		"from_rank": null,
+		"above": "kris_quiz",
+		"below": "rainbowmanmanman"
 	}
 ]
