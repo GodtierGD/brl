@@ -13525,5 +13525,14 @@
 		"from_rank": 443,
 		"above": "marcpest",
 		"below": "cuz_we_playing_bendy"
+	},
+	{
+		"date": 1779642699,
+		"action": "raised",
+		"name": "unnerfed_tungwebs",
+		"to_rank": 10,
+		"from_rank": 266,
+		"above": "67_jumps_of_hell",
+		"below": "babushka_vortex"
 	}
 ]
