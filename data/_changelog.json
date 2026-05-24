@@ -13489,5 +13489,14 @@
 		"from_rank": null,
 		"above": "KAIGREGATION CENAT",
 		"below": "congregation 34 real"
+	},
+	{
+		"date": 1779639743,
+		"action": "lowered",
+		"name": "unnerfed_tungwebs",
+		"to_rank": 266,
+		"from_rank": 11,
+		"above": "congregation 34 real",
+		"below": "jax_circles"
 	}
 ]
