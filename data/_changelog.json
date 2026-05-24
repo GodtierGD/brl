@@ -13471,5 +13471,14 @@
 		"from_rank": null,
 		"above": "unnerfed_tungwebs",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1779632160,
+		"action": "placed",
+		"name": "67_jumps_of_hell",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "67_jumps_of_hell",
+		"below": "babushka_vortex"
 	}
 ]
