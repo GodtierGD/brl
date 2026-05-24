@@ -13462,5 +13462,14 @@
 		"from_rank": null,
 		"above": "sakupen_creamy",
 		"below": "vonhouse"
+	},
+	{
+		"date": 1779632058,
+		"action": "placed",
+		"name": "67_jumps_of_hell",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "unnerfed_tungwebs",
+		"below": "babushka_vortex"
 	}
 ]
