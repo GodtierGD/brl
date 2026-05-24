@@ -13480,5 +13480,14 @@
 		"from_rank": null,
 		"above": "67_jumps_of_hell",
 		"below": "babushka_vortex"
+	},
+	{
+		"date": 1779632341,
+		"action": "placed",
+		"name": "nerfed_tungwebs",
+		"to_rank": 269,
+		"from_rank": null,
+		"above": "KAIGREGATION CENAT",
+		"below": "congregation 34 real"
 	}
 ]
