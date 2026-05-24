@@ -13498,5 +13498,14 @@
 		"from_rank": 11,
 		"above": "congregation 34 real",
 		"below": "jax_circles"
+	},
+	{
+		"date": 1779641905,
+		"action": "lowered",
+		"name": "The Brainrot Drink",
+		"to_rank": 461,
+		"from_rank": 460,
+		"above": "anderdingus",
+		"below": "hirework"
 	}
 ]
