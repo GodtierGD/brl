@@ -13444,5 +13444,14 @@
 		"from_rank": 265,
 		"above": "congregation 34 real",
 		"below": "freedumbohgyat"
+	},
+	{
+		"date": 1779612452,
+		"action": "placed",
+		"name": "crystallic_brainrot",
+		"to_rank": 110,
+		"from_rank": null,
+		"above": "rizzler_road_deluxe",
+		"below": "kanyescapes"
 	}
 ]
