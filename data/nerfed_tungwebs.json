@@ -7,8 +7,8 @@
 		"AFive",
 		" Schitt"
 	],
-	"verifier": "AFive",
-	"verification": "https://www.youtube.com/watch?v=vSPj1yOP-MI",
+	"verifier": "GobbleBlobber",
+	"verification": "https://youtu.be/vSPj1yOP-MI",
 	"percentToQualify": 100,
 	"password": "#269",
 	"records": [
@@ -33,12 +33,6 @@
 		{
 			"user": "mythicalpeaner",
 			"link": "https://youtu.be/po-p0HseImQ",
-			"percent": 100,
-			"hz": 360
-		},
-		{
-			"user": "GobbleBlobber",
-			"link": "https://youtu.be/vSPj1yOP-MI",
 			"percent": 100,
 			"hz": 360
 		}
