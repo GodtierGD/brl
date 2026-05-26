@@ -128,6 +128,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "OzzyBazooka",
+			"link": "https://www.youtube.com/watch?v=8CULBPEe7dI",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
