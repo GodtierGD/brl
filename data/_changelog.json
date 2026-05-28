@@ -13543,5 +13543,14 @@
 		"from_rank": null,
 		"above": "kris_quiz",
 		"below": "rainbowmanmanman"
+	},
+	{
+		"date": 1779981718,
+		"action": "placed",
+		"name": "last_sahur",
+		"to_rank": 37,
+		"from_rank": null,
+		"above": "luminous_wavs",
+		"below": "eatdatskibidi445"
 	}
 ]
