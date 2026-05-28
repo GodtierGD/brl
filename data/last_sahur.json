@@ -3,10 +3,19 @@
 	"name": "LAST SAHUR",
 	"description": "",
 	"author": "AFive",
-	"creators": ["AFive"],
+	"creators": [
+		"AFive"
+	],
 	"verifier": "AFive",
 	"verification": "https://www.youtube.com/watch?v=CY3Vzueb2b4",
 	"percentToQualify": 100,
 	"password": "#37",
-	"records" : []
+	"records": [
+		{
+			"user": "ßßus",
+			"link": "https://www.youtube.com/watch?v=HijLSKCRqBI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
