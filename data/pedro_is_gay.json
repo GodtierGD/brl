@@ -59,6 +59,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "scrubmustard",
+			"link": "https://www.youtube.com/watch?v=Dtt-1eCYi-8",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
