@@ -13597,5 +13597,14 @@
 		"from_rank": 459,
 		"above": "larry_stuff",
 		"below": "kelp"
+	},
+	{
+		"date": 1780170680,
+		"action": "raised",
+		"name": "xirai",
+		"to_rank": 461,
+		"from_rank": 462,
+		"above": "larry_stuff",
+		"below": "everyone_stop_giving_birth_in_the_vc"
 	}
 ]
