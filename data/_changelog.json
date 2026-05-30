@@ -13579,5 +13579,14 @@
 		"from_rank": 470,
 		"above": "tung_after_tung",
 		"below": "br"
+	},
+	{
+		"date": 1780170520,
+		"action": "lowered",
+		"name": "unnamed_18",
+		"to_rank": 464,
+		"from_rank": 463,
+		"above": "The Brainrot Drink",
+		"below": "hirework"
 	}
 ]
