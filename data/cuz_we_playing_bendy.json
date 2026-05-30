@@ -40,6 +40,13 @@
 			"link": "https://youtu.be/B43V0r3mGVI?si=antkA7_Kwx7sF5og",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "shimeji",
+			"link": "https://youtu.be/jstEapMtoes?si=92Y_O3RqOhAhArP1",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
