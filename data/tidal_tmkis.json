@@ -101,6 +101,13 @@
 			"link": "https://youtu.be/HzphLfU_y1k?si=YUDCekInv6wcKqKh",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "dintnadoo",
+			"link": "https://youtu.be/TV6ST06wl7U?si=geWooxU7lWuO11ra",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
