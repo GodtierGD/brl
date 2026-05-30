@@ -13588,5 +13588,14 @@
 		"from_rank": 463,
 		"above": "The Brainrot Drink",
 		"below": "hirework"
+	},
+	{
+		"date": 1780170615,
+		"action": "lowered",
+		"name": "everyone_stop_giving_birth_in_the_vc",
+		"to_rank": 460,
+		"from_rank": 459,
+		"above": "larry_stuff",
+		"below": "kelp"
 	}
 ]
