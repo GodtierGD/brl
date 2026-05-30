@@ -13570,5 +13570,14 @@
 		"from_rank": null,
 		"above": "vropirateshavezaza_2",
 		"below": "low_taper_fade"
+	},
+	{
+		"date": 1780170276,
+		"action": "raised",
+		"name": "drakescapes",
+		"to_rank": 469,
+		"from_rank": 470,
+		"above": "tung_after_tung",
+		"below": "br"
 	}
 ]
