@@ -13615,5 +13615,14 @@
 		"from_rank": null,
 		"above": "tung_after_tung",
 		"below": "drakescapes"
+	},
+	{
+		"date": 1780352815,
+		"action": "placed",
+		"name": "joe_always_cleans",
+		"to_rank": 460,
+		"from_rank": null,
+		"above": "everyone_stop_giving_birth_in_the_vc",
+		"below": "kelp"
 	}
 ]
