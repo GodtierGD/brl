@@ -13642,5 +13642,14 @@
 		"from_rank": null,
 		"above": "barinroot_peak",
 		"below": "idksterling_cahll"
+	},
+	{
+		"date": 1780353172,
+		"action": "placed",
+		"name": "ultimate_brl_mix_ii",
+		"to_rank": 65,
+		"from_rank": null,
+		"above": "sigma_wave_trials_v2",
+		"below": "unnerfed_rizzler_road_deluxe"
 	}
 ]
