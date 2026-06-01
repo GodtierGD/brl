@@ -13651,5 +13651,14 @@
 		"from_rank": null,
 		"above": "sigma_wave_trials_v2",
 		"below": "unnerfed_rizzler_road_deluxe"
+	},
+	{
+		"date": 1780353251,
+		"action": "lowered",
+		"name": "tidal_tonk",
+		"to_rank": 488,
+		"from_rank": 487,
+		"above": null,
+		"below": "low_cortisol_stage"
 	}
 ]
