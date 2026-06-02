@@ -13705,5 +13705,14 @@
 		"from_rank": 18,
 		"above": "le_fart_of_le_blade",
 		"below": "man_circles"
+	},
+	{
+		"date": 1780417935,
+		"action": "placed",
+		"name": "aura_monster",
+		"to_rank": 271,
+		"from_rank": null,
+		"above": "congregation 34 real",
+		"below": "jax_circles"
 	}
 ]
