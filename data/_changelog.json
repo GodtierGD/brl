@@ -13678,5 +13678,14 @@
 		"from_rank": 487,
 		"above": "rot_basic_2",
 		"below": "cheflime_is_soggy"
+	},
+	{
+		"date": 1780415271,
+		"action": "placed",
+		"name": "rot_basic_3",
+		"to_rank": 489,
+		"from_rank": null,
+		"above": null,
+		"below": "low_cortisol_stage"
 	}
 ]
