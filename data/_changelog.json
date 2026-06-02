@@ -13669,5 +13669,14 @@
 		"from_rank": 487,
 		"above": null,
 		"below": "tidal_tonk"
+	},
+	{
+		"date": 1780415117,
+		"action": "raised",
+		"name": "tidal_tonk",
+		"to_rank": 480,
+		"from_rank": 487,
+		"above": "rot_basic_2",
+		"below": "cheflime_is_soggy"
 	}
 ]
