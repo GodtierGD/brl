@@ -13660,5 +13660,14 @@
 		"from_rank": 487,
 		"above": null,
 		"below": "low_cortisol_stage"
+	},
+	{
+		"date": 1780382877,
+		"action": "lowered",
+		"name": "low_cortisol_stage",
+		"to_rank": 488,
+		"from_rank": 487,
+		"above": null,
+		"below": "tidal_tonk"
 	}
 ]
