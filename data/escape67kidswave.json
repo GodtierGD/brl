@@ -3,10 +3,19 @@
 	"name": "ESCAPE67KIDSWAVE",
 	"description": "",
 	"author": "probablyaccount",
-	"creators": ["probablyaccount"],
+	"creators": [
+		"probablyaccount"
+	],
 	"verifier": "ßßus",
 	"verification": "https://www.youtube.com/watch?v=RsGH22hyzAg",
 	"percentToQualify": 100,
 	"password": "#257",
-	"records" : []
+	"records": [
+		{
+			"user": "GobbleBlobber",
+			"link": "https://youtu.be/fEYMEbaUTsI",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
