@@ -13741,5 +13741,14 @@
 		"from_rank": null,
 		"above": "message_to_godtier",
 		"below": "2p_krisscapes"
+	},
+	{
+		"date": 1780419270,
+		"action": "placed",
+		"name": "escape67kidswave",
+		"to_rank": 257,
+		"from_rank": null,
+		"above": "dawn_dish_soap",
+		"below": "rizzler_voyage"
 	}
 ]
