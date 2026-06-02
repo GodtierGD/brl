@@ -13696,5 +13696,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "rot_basic_3"
+	},
+	{
+		"date": 1780416612,
+		"action": "raised",
+		"name": "oneshot_circles",
+		"to_rank": 16,
+		"from_rank": 18,
+		"above": "le_fart_of_le_blade",
+		"below": "man_circles"
 	}
 ]
