@@ -13759,5 +13759,14 @@
 		"from_rank": null,
 		"above": "carson_never_clear",
 		"below": "dude_circles"
+	},
+	{
+		"date": 1780433832,
+		"action": "placed",
+		"name": "chitlinland",
+		"to_rank": 109,
+		"from_rank": null,
+		"above": "grimace_circles",
+		"below": "tmkocx"
 	}
 ]
