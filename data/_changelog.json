@@ -13804,5 +13804,14 @@
 		"from_rank": 196,
 		"above": "the_femboy_hideout",
 		"below": "wildwest_dingus"
+	},
+	{
+		"date": 1780514296,
+		"action": "raised",
+		"name": "the_femboy_hideout",
+		"to_rank": 195,
+		"from_rank": 254,
+		"above": "skibidi_crackhead",
+		"below": "esektin_bogu"
 	}
 ]
