@@ -8,5 +8,18 @@
 	"verification": "https://youtu.be/Chur7XmLqlo?si=eHuSq7-FusC6Es63",
 	"percentToQualify": 100,
 	"password": "#489",
-	"records" : []
+	"records": [
+		{
+			"user": "ChefLimeTheCowboy",
+			"link": "https://youtu.be/_7vTmauHZmY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Pyderius",
+			"link": "https://www.youtube.com/watch?v=m_gE2V0KKBk",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

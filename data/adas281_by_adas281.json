@@ -8,5 +8,30 @@
 	"verification": "https://youtu.be/yC0s01MlX-Y",
 	"percentToQualify": 100,
 	"password": "#490",
-	"records" : []
+	"records": [
+		{
+			"user": "JonasSkuduras",
+			"link": "https://www.youtube.com/watch?v=ECR8QkB_qUM",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Pyderius",
+			"link": "https://www.youtube.com/watch?v=ZcSNawvMb2M",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "potatoman994",
+			"link": "https://youtu.be/1X273xgM2xw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Nebu1agd",
+			"link": "https://youtu.be/xxEWTDxk39I",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

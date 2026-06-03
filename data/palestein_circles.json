@@ -3,10 +3,20 @@
 	"name": "palestein circles",
 	"description": "",
 	"author": "Kman333",
-	"creators": ["Boykissershadow"," Kman333"],
+	"creators": [
+		"Boykissershadow",
+		" Kman333"
+	],
 	"verifier": "Kman333",
 	"verification": "https://www.youtube.com/watch?v=kMTxTIuiwM4",
 	"percentToQualify": 100,
 	"password": "#310",
-	"records" : []
+	"records": [
+		{
+			"user": "shafikdabest",
+			"link": "https://youtu.be/fNF_LpAC__k",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

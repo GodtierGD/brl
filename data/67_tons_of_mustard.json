@@ -8,5 +8,12 @@
 	"verification": "https://youtu.be/9a89o-U49CU",
 	"percentToQualify": 100,
 	"password": "#390",
-	"records" : []
+	"records": [
+		{
+			"user": "JonasSkuduras",
+			"link": "https://www.youtube.com/watch?v=hMP6nn7zEnE",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
