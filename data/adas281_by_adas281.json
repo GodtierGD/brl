@@ -39,6 +39,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "ChefLimeTheCowboy",
+			"link": "https://youtu.be/oAAJzBXKDgs",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
