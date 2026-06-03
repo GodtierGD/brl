@@ -13786,5 +13786,14 @@
 		"from_rank": null,
 		"above": "landon_never_clear",
 		"below": "bong"
+	},
+	{
+		"date": 1780514259,
+		"action": "lowered",
+		"name": "tungwebs",
+		"to_rank": 34,
+		"from_rank": 26,
+		"above": "pov you jelq too hard",
+		"below": "illusion_circles"
 	}
 ]
