@@ -91,6 +91,13 @@
 			"link": "https://youtu.be/dm7Rj9cWXh0",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "9024chill4",
+			"link": "https://youtu.be/5yyNNPbReGU?si=aQqB52qvFIBQbD-S",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
