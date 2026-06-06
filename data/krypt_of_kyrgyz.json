@@ -11,5 +11,11 @@
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
+		{
+			"user": "wushady",
+			"link": "https://youtu.be/FuFDkrgx_24?si=odISH-3TpwwMWZTr",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
