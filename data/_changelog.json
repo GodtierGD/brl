@@ -13813,5 +13813,14 @@
 		"from_rank": 254,
 		"above": "skibidi_crackhead",
 		"below": "esektin_bogu"
+	},
+	{
+		"date": 1780785822,
+		"action": "raised",
+		"name": "normal_ship_trials",
+		"to_rank": 22,
+		"from_rank": 24,
+		"above": "m_u_s_t_a_r_d",
+		"below": "illusion_circles_iii"
 	}
 ]
