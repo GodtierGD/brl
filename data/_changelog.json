@@ -13822,5 +13822,14 @@
 		"from_rank": 24,
 		"above": "m_u_s_t_a_r_d",
 		"below": "illusion_circles_iii"
+	},
+	{
+		"date": 1780785844,
+		"action": "raised",
+		"name": "yuvin_marasini",
+		"to_rank": 6,
+		"from_rank": 7,
+		"above": "polska_circles",
+		"below": "chinahouse"
 	}
 ]
