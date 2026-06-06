@@ -13831,5 +13831,14 @@
 		"from_rank": 7,
 		"above": "polska_circles",
 		"below": "chinahouse"
+	},
+	{
+		"date": 1780785891,
+		"action": "raised",
+		"name": "67_jumps_of_hell",
+		"to_rank": 9,
+		"from_rank": 11,
+		"above": "babushka_vortex",
+		"below": "creamy_lights"
 	}
 ]
