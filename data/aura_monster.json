@@ -8,5 +8,12 @@
 	"verification": "https://www.youtube.com/watch?v=GSSiw8Ax1f8",
 	"percentToQualify": 100,
 	"password": "#271",
-	"records" : []
+	"records": [
+		{
+			"user": "GobbleBlobber",
+			"link": "https://youtu.be/SJ5Yv7TA8B0",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

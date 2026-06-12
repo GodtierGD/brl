@@ -189,6 +189,13 @@
 			"link": "https://youtu.be/K5IHggHd3c8",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "kellopolis",
+			"link": "https://youtu.be/BJRfegIQZOo?si=T9MhjQRGbk25xzTw",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
