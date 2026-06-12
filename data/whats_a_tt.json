@@ -227,6 +227,13 @@
 			"link": "https://youtu.be/K5IHggHd3c8",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "9024chill4",
+			"link": "https://youtu.be/u7KSnAd2jWQ?si=Z0Cw3cj3UQ5H48VJ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
