@@ -9,5 +9,11 @@
 	"percentToQualify": 100,
 	"password": "#453",
 	"records": [
+		{
+			"user": "Unolish",
+			"link": "https://youtu.be/8WqOAB54SQA",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
