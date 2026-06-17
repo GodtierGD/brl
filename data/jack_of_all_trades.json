@@ -68,6 +68,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Nifinite",
+			"link": "https://www.youtube.com/watch?v=4sDjkA9VFmY",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

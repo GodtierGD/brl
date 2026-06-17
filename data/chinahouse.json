@@ -3,10 +3,25 @@
 	"name": "Chinahouse",
 	"description": "",
 	"author": "TmMainlandChina",
-	"creators": ["TheeNegativee"," hd"," sylviru"," Sephii"," Otherperson2"," Tusol"," Horizon"],
+	"creators": [
+		"TheeNegativee",
+		" hd",
+		" sylviru",
+		" Sephii",
+		" Otherperson2",
+		" Tusol",
+		" Horizon"
+	],
 	"verifier": "majin",
 	"verification": "https://www.youtube.com/watch?v=DwgQf4-EQHA",
 	"percentToQualify": 63,
 	"password": "#1",
-	"records" : []
+	"records": [
+		{
+			"user": "owch",
+			"link": "https://www.youtube.com/watch?v=wsvLqiJb6ew",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

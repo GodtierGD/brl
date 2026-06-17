@@ -11,5 +11,11 @@
 	"percentToQualify": 100,
 	"password": "#438",
 	"records": [
+		{
+			"user": "Nifinite",
+			"link": "https://www.youtube.com/watch?v=OoyI6IRDxZM",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
