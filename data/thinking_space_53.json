@@ -8,5 +8,12 @@
 	"verification": "https://youtu.be/2o3eMKjldEI",
 	"percentToQualify": 100,
 	"password": "#367",
-	"records" : []
+	"records": [
+		{
+			"user": "ARandomBall",
+			"link": "https://youtu.be/iQfqwgJcHQ8",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
