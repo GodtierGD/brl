@@ -14,6 +14,13 @@
 			"link": "https://youtu.be/iQfqwgJcHQ8",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "BoykisserShadow",
+			"link": "https://youtu.be/3nko9clU12Q?si=mQcuZObLeJGKejWm",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
