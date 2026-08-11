@@ -11,5 +11,11 @@
 	"percentToQualify": 100,
 	"password": "#220",
 	"records": [
+		{
+			"user": "danielnothere",
+			"link": "https://youtu.be/Rmelmq30pwU?is=H1Ha8nDGCcF9NH15",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }

@@ -12,5 +12,11 @@
 	"percentToQualify": 100,
 	"password": "#380",
 	"records": [
+		{
+			"user": "Krax",
+			"link": "https://youtu.be/9HrE2cgiqJk",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
