@@ -89,6 +89,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "topbreab",
+			"link": "https://www.youtube.com/watch?v=UUA5n0bPkzk",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
