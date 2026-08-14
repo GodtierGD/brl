@@ -33,6 +33,13 @@
 			"link": "https://youtu.be/8Ov1WvZCiJk",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "JorgeDash14",
+			"link": "https://m.youtube.com/watch?v=2Kai8lDjPH8",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

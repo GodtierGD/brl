@@ -65,6 +65,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "kripan",
+			"link": "https://youtu.be/79KdoaK6fAQ",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
