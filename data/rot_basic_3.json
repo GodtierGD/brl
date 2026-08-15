@@ -94,6 +94,13 @@
 			"link": "https://youtu.be/C8Li4m9djHg?",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "JorgeDash14",
+			"link": "https://m.youtube.com/watch?v=7nQfwQAN6zE",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
