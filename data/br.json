@@ -311,6 +311,19 @@
 			"link": "https://youtu.be/2D3d-nzSKSs",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "JorgeDash14",
+			"link": "https://m.youtube.com/watch?v=vRFq7y1KIs4&t=72s",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "bean1e",
+			"link": "https://youtu.be/2L8rbgmiJNI",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

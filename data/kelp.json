@@ -222,6 +222,19 @@
 			"link": "https://youtu.be/xB9OMD2whfM",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "DamidoGD",
+			"link": "https://youtu.be/iuI0XpFpk70",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JorgeDash14",
+			"link": "https://m.youtube.com/watch?v=Aho5_6j_lfw",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
