@@ -132,6 +132,13 @@
 			"link": "https://youtu.be/C7V6epx9UYw",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "w_w",
+			"link": "https://youtu.be/Uw3dcvUWiMc?si=XQLidfhhKaAqbtQk",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
