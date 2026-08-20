@@ -10,5 +10,12 @@
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
+		{
+			"user": "JorgeDash14",
+			"link": "https://m.youtube.com/watch?v=4P6ujqELyFU",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		}
 	]
 }
