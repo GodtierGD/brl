@@ -10,5 +10,11 @@
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
+		{
+			"user": "Vfluent",
+			"link": "https://youtu.be/rSllxkHp9Uk?is=xlGnMnEplhsgPipK",
+			"percent": 100,
+			"hz": 360
+		}
 	]
 }
