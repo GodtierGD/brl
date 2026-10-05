@@ -133,6 +133,13 @@
 			"link": "https://youtu.be/l2PBRR3Re0Q",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "ZZenver",
+			"link": "https://youtu.be/TqIzgVHlkB8?is=DMj2TO8yhok4Ye3G",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

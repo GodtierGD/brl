@@ -145,6 +145,13 @@
 			"link": "https://youtu.be/NDlbXv7C7hs?si=zS8eAgF5QVfOIoKu",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "ZZenver",
+			"link": "https://youtu.be/TdaLYN6fbIQ?is=zhkpWfromVm0-pC3",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
