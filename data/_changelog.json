@@ -13885,5 +13885,14 @@
 		"from_rank": 98,
 		"above": "ronaldo_circles",
 		"below": null
+	},
+	{
+		"date": 1792181076,
+		"action": "raised",
+		"name": "kid_named_finger",
+		"to_rank": 2,
+		"from_rank": 42,
+		"above": "ronaldo_circles",
+		"below": "free_list_points"
 	}
 ]
