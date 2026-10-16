@@ -14,11 +14,5 @@
 	"percentToQualify": 58,
 	"password": "#2",
 	"records": [
-		{
-			"user": "schitt",
-			"link": "https://www.youtube.com/watch?v=4mcitARnu24",
-			"percent": 82,
-			"hz": 360
-		}
 	]
 }
