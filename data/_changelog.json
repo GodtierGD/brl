@@ -13894,5 +13894,14 @@
 		"from_rank": 42,
 		"above": "ronaldo_circles",
 		"below": "free_list_points"
+	},
+	{
+		"date": 1792181397,
+		"action": "lowered",
+		"name": "kid_named_finger",
+		"to_rank": 42,
+		"from_rank": 2,
+		"above": "femboyrotted",
+		"below": "luminous_wavs"
 	}
 ]
