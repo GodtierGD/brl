@@ -13903,5 +13903,14 @@
 		"from_rank": 2,
 		"above": "femboyrotted",
 		"below": "luminous_wavs"
+	},
+	{
+		"date": 1792244857,
+		"action": "lowered",
+		"name": "free_list_points",
+		"to_rank": 98,
+		"from_rank": 1,
+		"above": "olive_delights",
+		"below": "rizzler_road_redux"
 	}
 ]
