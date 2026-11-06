@@ -13930,5 +13930,14 @@
 		"from_rank": null,
 		"above": "low_cortisol_stage",
 		"below": "rot_basic_1"
+	},
+	{
+		"date": 1794008683,
+		"action": "placed",
+		"name": "brl_is_dead",
+		"to_rank": 404,
+		"from_rank": null,
+		"above": "the_e_island",
+		"below": "rainbow_rot"
 	}
 ]
