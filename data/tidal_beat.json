@@ -157,6 +157,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "a6mm",
+			"link": "https://www.youtube.com/watch?v=_YdM5uLmN5M",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
