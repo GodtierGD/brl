@@ -17,6 +17,19 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "DamidoGD",
+			"link": "https://www.youtube.com/watch?v=Q6Zkiz0U1mA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JorgeDash14",
+			"link": "https://m.youtube.com/watch?v=7N5p-HJvXXQ",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }

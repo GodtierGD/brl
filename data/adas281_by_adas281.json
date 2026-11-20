@@ -152,6 +152,24 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "LiamLoveaCatz",
+			"link": "https://www.youtube.com/watch?v=qUeji_lv2Dw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "a6mm",
+			"link": "https://www.youtube.com/watch?v=0_kihzZOHW8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "philipppe",
+			"link": "https://youtu.be/v1N3ZDlViB8",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

@@ -64,6 +64,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "DamidoGD",
+			"link": "https://youtu.be/OOJyFuuTDKA",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }

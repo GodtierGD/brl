@@ -171,6 +171,20 @@
 			"link": "https://youtu.be/VnqheHx_XUY",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "wPoop67",
+			"link": "https://youtu.be/CVVnLpoSjng",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
+		},
+		{
+			"user": "JorgeDash14",
+			"link": "https://m.youtube.com/watch?v=p2bIbcV4x3Q&pp=0gcJCccHAYcqIYzv",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
