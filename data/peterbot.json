@@ -140,6 +140,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "bean1e",
+			"link": "https://youtu.be/I85LYaRj1n4",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
