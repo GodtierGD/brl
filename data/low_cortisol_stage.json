@@ -245,6 +245,18 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "Sf429",
+			"link": "https://www.youtube.com/watch?v=Ylxo1Bi345Y",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Berity77",
+			"link": "https://youtu.be/BY4ekS4YlC4",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
