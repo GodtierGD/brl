@@ -48,6 +48,13 @@
 			"link": "https://www.youtube.com/watch?v=JDUolEJ-Hlw",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "wPoop67",
+			"link": "https://youtu.be/IQ2VnMDyuk8",
+			"percent": 100,
+			"hz": 360,
+			"mobile": true
 		}
 	]
 }
