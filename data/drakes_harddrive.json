@@ -270,6 +270,12 @@
 			"percent": 100,
 			"hz": 360,
 			"mobile": true
+		},
+		{
+			"user": "alex 148",
+			"link": "https://youtu.be/hIp2jCG8DFA?si=7e1WAPBWIInAyHcz",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
